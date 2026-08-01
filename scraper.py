@@ -22,6 +22,13 @@ REPO_RAW = os.environ.get("REPO_RAW", "")
 FILTER_KEYWORDS = ["chuối chiên", "chuoi chien", "chuối chiên tv"]
 
 CATE_MAP = {
+    "Soccer": "football", "Football": "football", "Basketball": "basketball", 
+    "Tennis": "tennis", "Volleyball": "bongchuyen", "Badminton": "caulong", 
+    "Motorsport": "duaxe", "Esports": "esport", "Rugby": "football", 
+    "Baseball": "bongchay", "Ice Hockey": "other", "American Football": "other"
+}
+
+CATE_DISPLAY = {
     "football": "⚽ Bóng Đá", "basketball": "🏀 Bóng Rổ", "tennis": "🎾 Tennis",
     "bongchuyen": "🏐 Bóng Chuyền", "esport": "🎮 Esport", "caulong": "🏸 Cầu Lông",
     "vothuat": "🥊 Võ Thuật", "bongchay": "⚾ Bóng Chày", "duaxe": "🏎️ Đua Xe", 
@@ -29,18 +36,7 @@ CATE_MAP = {
 }
 CATE_ORDER = ["football", "basketball", "tennis", "bongchuyen", "esport", "caulong", "vothuat", "bongchay", "duaxe", "Billiards", "other"]
 
-SOFASCORE_SPORT_MAP = {
-    "Football": "football", "Basketball": "basketball", "Tennis": "tennis",
-    "Volleyball": "bongchuyen", "Badminton": "caulong", "Cricket": "caulong",
-    "Motorsport": "duaxe", "Esports": "esport", "Table Tennis": "tennis",
-    "Rugby": "football", "Handball": "bongchuyen", "Baseball": "bongchay",
-    "Ice Hockey": "other", "American Football": "other"
-}
-
-HEADERS_SOFASCORE = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-    "Referer": "https://www.sofascore.com/"
-}
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
 TEAM_CACHE = {}
 
@@ -51,203 +47,108 @@ def make_id(text, prefix):
     return f"{prefix}-{hashlib.md5(text.encode('utf-8')).hexdigest()[:10]}"
 
 # ─────────────────────────────────────────────────────────────────────────────
-# CLEAN TEAM NAME (LOẠI BỎ BLV, QUALITY, ETC.)
+# CLEAN TEAM NAME
 # ─────────────────────────────────────────────────────────────────────────────
 
 def clean_team_name(raw_name):
-    """
-    Làm sạch tên đội trước khi gửi SofaScore
-    Ví dụ: "Poland (Camry) [FHD1]" → "Poland"
-    """
-    if not raw_name:
-        return ""
-    
+    if not raw_name: return ""
     name = raw_name.strip()
-    
-    # 1. Loại bỏ (BLV name) - phần trong ngoặc đơn
-    name = re.sub(r'\s*\([^)]*\)', '', name)
-    
-    # 2. Loại bỏ [Quality] - phần trong ngoặc vuông
-    name = re.sub(r'\s*\[[^\]]*\]', '', name)
-    
-    # 3. Loại bỏ các ký tự đặc biệt thừa
+    name = re.sub(r'\s*\([^)]*\)', '', name) # Bỏ (BLV)
+    name = re.sub(r'\s*\[[^\]]*\]', '', name) # Bỏ [FHD]
     name = re.sub(r'\s+', ' ', name).strip()
-    
-    # 4. Viết hoa chữ cái đầu mỗi từ
-    name = name.title()
-    
-    return name
+    return name.title()
 
 # ─────────────────────────────────────────────────────────────────────────────
-# PARSE MATCH INFO (FIXED)
+# PARSE MATCH INFO
 # ─────────────────────────────────────────────────────────────────────────────
 
 def parse_match_info(channel_name):
-    """
-    Parse: "HH:MM DD/MM TeamA vs TeamB (BLV) [Quality]"
-    Returns: (time, date, team_a_clean, team_b_clean, blv_info)
-    """
-    if not channel_name:
-        return None, None, "Unknown", "", "Stream"
-    
-    # Extract time và date
+    if not channel_name: return None, None, "Unknown", "", "Stream"
     time_match = re.match(r'(\d{1,2}:\d{2})\s+(\d{1,2}/\d{1,2})\s+(.*)', channel_name)
-    if not time_match:
-        return None, None, channel_name, "", "Stream"
+    if not time_match: return None, None, channel_name, "", "Stream"
     
-    time_str = time_match.group(1)
-    date_str = time_match.group(2)
-    rest = time_match.group(3).strip()
-    
-    # Split by " vs "
+    time_str, date_str, rest = time_match.group(1), time_match.group(2), time_match.group(3).strip()
     vs_match = re.split(r'\s+vs\s+', rest, flags=re.IGNORECASE, maxsplit=1)
     
     if len(vs_match) == 2:
-        team_a_raw = vs_match[0].strip()
-        team_b_raw = vs_match[1].strip()
-        
-        # Extract BLV info từ team_b_raw TRƯỚC KHI CLEAN
+        team_a_raw, team_b_raw = vs_match[0].strip(), vs_match[1].strip()
         blv_match = re.search(r'\(([^)]+)\)', team_b_raw)
         blv_info = blv_match.group(1).strip() if blv_match else "Stream"
-        
-        # CLEAN tên đội (loại bỏ BLV, quality)
-        team_a_clean = clean_team_name(team_a_raw)
-        team_b_clean = clean_team_name(team_b_raw)
-        
-        print(f"   Parse: '{channel_name}'")
-        print(f"   → Raw: '{team_a_raw}' vs '{team_b_raw}'")
-        print(f"   → Clean: '{team_a_clean}' vs '{team_b_clean}' (BLV: {blv_info})")
-        
-        return time_str, date_str, team_a_clean, team_b_clean, blv_info
+        return time_str, date_str, clean_team_name(team_a_raw), clean_team_name(team_b_raw), blv_info
     
     return time_str, date_str, clean_team_name(rest), "", "Stream"
 
-# ─────────────────────────────────────────────────────────────────────────────
-# SOFASCORE API (FIXED - Fetch logo đúng cách)
+# ────────────────────────────────────────────────────────────────────────────
+# THESPORTSDB API (THAY THẾ SOFASCORE)
 # ─────────────────────────────────────────────────────────────────────────────
 
-def get_team_info_from_sofascore(team_name):
+def get_team_info_from_sportsdb(team_name):
     """
-    Returns: (cate_type, logo_url)
+    Lấy Category và Logo từ TheSportsDB.
+    API này KHÔNG CHẶN bot từ GitHub Actions.
     """
-    if not team_name or len(team_name) < 2:
+    if not team_name or len(team_name) < 3:
         return "football", None
         
     if team_name in TEAM_CACHE:
-        print(f"  ♻️ Cache: {team_name}")
         return TEAM_CACHE[team_name]
 
     try:
-        url = f"https://api.sofascore.com/api/v1/search/multi?query={requests.utils.quote(team_name)}"
-        print(f"  🔍 SofaScore API: {team_name}")
+        # Endpoint miễn phí, không cần API key cho 100 req/ngày
+        url = f"https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t={requests.utils.quote(team_name)}"
+        print(f"  🔍 TheSportsDB: {team_name}")
         
-        res = requests.get(url, headers=HEADERS_SOFASCORE, timeout=10)
-        
-        if res.status_code != 200:
-            print(f"  ⚠️ API error {res.status_code}")
-            TEAM_CACHE[team_name] = ("football", None)
-            return "football", None
-            
+        res = requests.get(url, headers=HEADERS, timeout=10)
         data = res.json()
         
-        # Tìm team khớp tốt nhất
-        best_match = None
-        best_score = 0
-        
-        for item in data.get('results', []):
-            if item.get('type') != 'team':
-                continue
-                
-            entity = item.get('entity', {})
-            entity_name = entity.get('name', '').lower()
-            search_name = team_name.lower()
+        teams = data.get('teams', [])
+        if teams:
+            # Lấy kết quả đầu tiên (thường là chính xác nhất)
+            best_match = teams[0]
             
-            # Tính điểm match
-            score = 0
-            if entity_name == search_name:
-                score = 100  # Exact match
-            elif search_name in entity_name:
-                score = 80   # Contains
-            elif entity_name in search_name:
-                score = 70   # Is contained
-            else:
-                # Fuzzy match - kiểm tra từng từ
-                entity_words = set(entity_name.split())
-                search_words = set(search_name.split())
-                common = entity_words & search_words
-                if common:
-                    score = len(common) / len(search_words) * 60
+            # Map category
+            sport_name = best_match.get('strSport', 'Soccer')
+            cate_type = CATE_MAP.get(sport_name, "football")
             
-            if score > best_score:
-                best_score = score
-                best_match = entity
-        
-        if best_match and best_score >= 50:
-            sport_name = best_match.get('sport', {}).get('name', 'Football')
-            team_id = best_match.get('id')
+            # Lấy logo
+            logo_url = best_match.get('strBadge')
             
-            cate_type = SOFASCORE_SPORT_MAP.get(sport_name, "football")
-            
-            # Logo URL từ CDN
-            logo_url = f"https://img.sofascore.com/api/v1/team/{team_id}/image" if team_id else None
-            
-            print(f"  ✅ Match: {team_name} → {sport_name} (score: {best_score})")
-            print(f"     Logo: {logo_url}")
-            
+            print(f"  ✅ Match: {team_name} → {sport_name} | Logo: {logo_url}")
             TEAM_CACHE[team_name] = (cate_type, logo_url)
             return cate_type, logo_url
         else:
-            print(f"  ⚠️ No match for '{team_name}' (best score: {best_score})")
+            print(f"  ⚠️ Không tìm thấy: {team_name}")
             
     except Exception as e:
-        print(f"  ❌ Error: {e}")
+        print(f"  ❌ Lỗi API: {e}")
         
     TEAM_CACHE[team_name] = ("football", None)
     return "football", None
 
 def download_logo(logo_url, save_path):
-    """Download logo và lưu vào file"""
-    if not logo_url:
-        return False
-    
+    if not logo_url: return False
     try:
-        print(f"  📥 Downloading logo: {logo_url}")
-        res = requests.get(logo_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
-        
+        res = requests.get(logo_url, headers=HEADERS, timeout=10)
         if res.status_code == 200 and len(res.content) > 1000:
-            with open(save_path, 'wb') as f:
-                f.write(res.content)
-            print(f"  ✅ Logo saved: {save_path}")
+            with open(save_path, 'wb') as f: f.write(res.content)
             return True
-        else:
-            print(f"  ⚠️ Logo download failed: {res.status_code} ({len(res.content)} bytes)")
-            return False
-    except Exception as e:
-        print(f"  ❌ Logo download error: {e}")
-        return False
+    except: pass
+    return False
 
 def fetch_image(url_or_path):
-    """Load ảnh từ URL hoặc file local"""
-    if not url_or_path:
-        return None
-    
+    if not url_or_path: return None
     try:
         if url_or_path.startswith('http'):
-            res = requests.get(url_or_path, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
-            if res.status_code == 200:
-                img = Image.open(BytesIO(res.content)).convert("RGBA")
-                return img
+            res = requests.get(url_or_path, headers=HEADERS, timeout=10)
+            if res.status_code == 200: return Image.open(BytesIO(res.content)).convert("RGBA")
         else:
-            if os.path.exists(url_or_path):
-                return Image.open(url_or_path).convert("RGBA")
-    except Exception as e:
-        print(f"  ⚠️ Fetch image error: {e}")
-    
+            if os.path.exists(url_or_path): return Image.open(url_or_path).convert("RGBA")
+    except: pass
     return None
 
-# ────────────────────────────────────────────────────────────────────────────
-# PROCESS M3U DATA
 # ─────────────────────────────────────────────────────────────────────────────
+# PROCESS M3U DATA
+# ────────────────────────────────────────────────────────────────────────────
 
 def process_m3u_data(lines):
     print("▶ Đang lọc và nhóm các trận đấu...")
@@ -259,19 +160,16 @@ def process_m3u_data(lines):
     for line in lines:
         line = line.strip()
         if not line: continue
-            
         if line.startswith('#EXTINF'):
             current_extinf = line
         elif current_extinf and not line.startswith('#'):
             if any(kw in current_extinf.lower() for kw in FILTER_KEYWORDS):
                 name_match = re.search(r',(.*?)$', current_extinf)
                 channel_name = name_match.group(1).strip() if name_match else "Unknown"
-                
                 group_match = re.search(r'group-title="([^"]*)"', current_extinf)
                 group_title = group_match.group(1).strip() if group_match else "Kênh"
                 
                 time_str, date_str, team_a, team_b, blv_info = parse_match_info(channel_name)
-                
                 match_key = f"{time_str}_{date_str}_{team_a.lower()}_{team_b.lower()}"
                 
                 if match_key not in matches_dict:
@@ -282,83 +180,62 @@ def process_m3u_data(lines):
                         "group": group_title, "streams": [],
                         "logo_a_local": None, "logo_b_local": None
                     }
-                
                 matches_dict[match_key]["streams"].append({"url": line, "blv": blv_info})
             current_extinf = None
 
     if not matches_dict:
-        print("⚠️ Không tìm thấy trận nào!")
-        return []
+        print("⚠️ Không tìm thấy trận nào!"); return []
 
-    # Gọi SofaScore API và download logos
-    print(f"\n▶ Đang tra cứu {len(matches_dict)} trận từ SofaScore...")
+    print(f"\n▶ Đang tra cứu {len(matches_dict)} trận từ TheSportsDB...")
     final_matches = []
     
     for key, match in matches_dict.items():
         print(f"\n  🔍 {match['team_a']} vs {match['team_b']}")
+        cate_a, logo_a_url = get_team_info_from_sportsdb(match["team_a"])
+        cate_b, logo_b_url = get_team_info_from_sportsdb(match["team_b"])
         
-        cate_a, logo_a_url = get_team_info_from_sofascore(match["team_a"])
-        cate_b, logo_b_url = get_team_info_from_sofascore(match["team_b"])
-        
-        # Download logos về local
         if logo_a_url:
-            logo_a_path = f"{THUMBS_DIR}/logo_a_{match['team_a'].replace(' ', '_')}.png"
-            if download_logo(logo_a_url, logo_a_path):
-                match["logo_a_local"] = logo_a_path
-        
+            path = f"{THUMBS_DIR}/logo_a_{match['team_a'].replace(' ', '_')}.png"
+            if download_logo(logo_a_url, path): match["logo_a_local"] = path
         if logo_b_url:
-            logo_b_path = f"{THUMBS_DIR}/logo_b_{match['team_b'].replace(' ', '_')}.png"
-            if download_logo(logo_b_url, logo_b_path):
-                match["logo_b_local"] = logo_b_path
+            path = f"{THUMBS_DIR}/logo_b_{match['team_b'].replace(' ', '_')}.png"
+            if download_logo(logo_b_url, path): match["logo_b_local"] = path
         
-        # Xác định category
-        final_cate = cate_a if cate_a == cate_b else "football"
-        match["cate_type"] = final_cate
-        
-        # Lưu logo URLs để dùng trong thumbnail
+        match["cate_type"] = cate_a if cate_a == cate_b else "football"
         match["logo_a"] = match["logo_a_local"] or logo_a_url
         match["logo_b"] = match["logo_b_local"] or logo_b_url
-        
         final_matches.append(match)
-        time.sleep(0.5)  # Tránh rate limit
+        time.sleep(0.2)
     
     return final_matches
 
-# ─────────────────────────────────────────────────────────────────────────────
-# THUMBNAIL GENERATOR (FIXED - Paste logo đúng)
+# ────────────────────────────────────────────────────────────────────────────
+# THUMBNAIL GENERATOR
 # ─────────────────────────────────────────────────────────────────────────────
 
 def make_thumbnail(match, match_id_safe):
-    cache_key = (match.get("team_a") or "") + (match.get("team_b") or "") + "v5"
+    cache_key = (match.get("team_a") or "") + (match.get("team_b") or "") + "v6"
     logo_hash = hashlib.md5(cache_key.encode()).hexdigest()[:8]
     date_str = now_vn().strftime("%Y%m%d")
-    
     out_path = f"{THUMBS_DIR}/{match_id_safe}_{logo_hash}_{date_str}.png"
-    if os.path.exists(out_path):
-        print(f"  ♻️ Cache thumbnail: {out_path}")
-        return out_path
+    if os.path.exists(out_path): return out_path
 
     W, H = 1600, 1200
     HEADER_H, FOOTER_H = 180, 160
-
     bg = Image.new("RGB", (W, H), (245, 245, 248))
     draw = ImageDraw.Draw(bg)
 
-    # Gradient background
     for y in range(HEADER_H, H - FOOTER_H):
         ratio = (y - HEADER_H) / (H - FOOTER_H - HEADER_H)
         gray = int(248 - ratio * 18)
         draw.line([(0, y), (W, y)], fill=(gray, gray, gray + 4))
 
-    # Header & Footer
     draw.rectangle([(0, 0), (W, HEADER_H)], fill=(13, 20, 40))
     draw.rectangle([(0, H - FOOTER_H), (W, H)], fill=(13, 20, 40))
-
     ACCENT = (220, 30, 40)
     draw.rectangle([(0, HEADER_H), (W, HEADER_H + 5)], fill=ACCENT)
     draw.rectangle([(0, H - FOOTER_H - 5), (W, H - FOOTER_H)], fill=ACCENT)
 
-    # Font
     FONT_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
     try:
         font_vs = ImageFont.truetype(FONT_BOLD, 160)
@@ -371,7 +248,6 @@ def make_thumbnail(match, match_id_safe):
     logo_size = 360
     name_h, time_h = 120, 110
     gap_logo_name, gap_name_time = 40, 60
-
     total_block_h = logo_size + gap_logo_name + name_h + gap_name_time + time_h
     block_top = content_top + (content_bot - content_top - total_block_h) // 2
 
@@ -392,50 +268,29 @@ def make_thumbnail(match, match_id_safe):
             font_size -= 3
         draw.text((cx, name_center), text, fill=(20, 20, 20), font=f, anchor="mm")
 
-    # Draw Logos - PRIORITY: local file > URL
-    print(f"   Drawing logos...")
-    for logo_src, x_pos in [
-        (match.get("logo_a"), W // 4 - logo_size // 2),
-        (match.get("logo_b"), W * 3 // 4 - logo_size // 2)
-    ]:
+    for logo_src, x_pos in [(match.get("logo_a"), W // 4 - logo_size // 2), (match.get("logo_b"), W * 3 // 4 - logo_size // 2)]:
         if logo_src:
             img = fetch_image(logo_src)
             if img:
                 try:
                     img_resized = img.resize((logo_size, logo_size), Image.LANCZOS)
-                    # Paste với alpha mask
-                    if img_resized.mode == 'RGBA':
-                        bg.paste(img_resized, (x_pos, logo_y), img_resized)
-                    else:
-                        bg.paste(img_resized, (x_pos, logo_y))
-                    print(f"  ✅ Logo pasted at ({x_pos}, {logo_y})")
-                except Exception as e:
-                    print(f"  ❌ Paste error: {e}")
-            else:
-                print(f"  ⚠️ Cannot load logo: {logo_src}")
+                    bg.paste(img_resized, (x_pos, logo_y), img_resized if img_resized.mode == 'RGBA' else None)
+                except: pass
 
-    # VS text
     draw.text((W // 2, logo_y + logo_size // 2), "VS", fill=ACCENT, font=font_vs, anchor="mm")
-    
-    # Team names
     draw_team_name(match["team_a"], W // 4)
     draw_team_name(match["team_b"], W * 3 // 4)
 
-    # Time
     time_display = f"{match['time']} {match['date']}" if match['time'] else "LIVE"
     draw.text((W // 2 + 4, time_y + 4), time_display, fill=ACCENT, font=font_time, anchor="mm")
     draw.text((W // 2, time_y), time_display, fill=(15, 15, 15), font=font_time, anchor="mm")
-
-    # Border
     draw.rectangle([(0, 0), (W - 1, H - 1)], outline=(180, 180, 180), width=3)
     bg.save(out_path, "PNG", optimize=True)
-    print(f"  💾 Saved: {out_path}")
     return out_path
 
 def cleanup_old_thumbs(days: int = 3):
     if not os.path.exists(THUMBS_DIR): return
     cutoff = now_vn() - timedelta(days=days)
-    deleted = 0
     for fname in os.listdir(THUMBS_DIR):
         if fname.endswith(".png"):
             m = re.search(r'_(\d{8})\.png$', fname)
@@ -443,9 +298,7 @@ def cleanup_old_thumbs(days: int = 3):
                 try:
                     if datetime.strptime(m.group(1), "%Y%m%d").replace(tzinfo=VN_TZ) < cutoff:
                         os.remove(os.path.join(THUMBS_DIR, fname))
-                        deleted += 1
                 except: pass
-    if deleted: print(f"🗑️ Deleted {deleted} old thumbnails")
 
 # ─────────────────────────────────────────────────────────────────────────────
 # BUILD JSON
@@ -467,26 +320,20 @@ def build_channel(match, match_id_safe, thumb_url):
         })
 
     display_name = f"{match['team_a']} vs {match['team_b']} | {match['time']} {match['date']}"
-    stream_count = len(stream_links)
-    
     return {
         "id": make_id(match_id_safe, "ch"),
         "name": display_name,
         "type": "single",
         "display": "thumbnail-only",
         "enable_detail": False,
-        "labels": [{"text": f"● LIVE ({stream_count})", "position": "top-left", "color": "#00000080", "text_color": "#ff4444"}],
+        "labels": [{"text": f"● LIVE ({len(stream_links)})", "position": "top-left", "color": "#00000080", "text_color": "#ff4444"}],
         "sources": [{
             "id": make_id(match_id_safe, "src"),
             "name": match["group"],
             "contents": [{
                 "id": make_id(match_id_safe, "ct"),
                 "name": f"{match['team_a']} vs {match['team_b']}",
-                "streams": [{
-                    "id": make_id(match_id_safe, "st"),
-                    "name": "Streams",
-                    "stream_links": stream_links
-                }]
+                "streams": [{"id": make_id(match_id_safe, "st"), "name": "Streams", "stream_links": stream_links}]
             }]
         }],
         "org_metadata": {
@@ -494,7 +341,7 @@ def build_channel(match, match_id_safe, thumb_url):
             "logo_a": match.get("logo_a", ""), "logo_b": match.get("logo_b", ""),
             "time": match["time"], "date": match["date"],
             "blv": ", ".join([s["blv"] for s in match["streams"]]),
-            "is_live": True, "cate_type": match["cate_type"], "stream_count": stream_count
+            "is_live": True, "cate_type": match["cate_type"]
         },
         "image": {
             "padding": 1, "background_color": "#ffffff", "display": "contain",
@@ -510,38 +357,28 @@ def main():
     print(f"⏰ Thời gian VN: {now_vn().strftime('%H:%M %d/%m/%Y')}")
     cleanup_old_thumbs(days=3)
     
-    # 1. Tải M3U
     print(f"\n▶ BƯỚC 1: Tải M3U từ {M3U_URL}")
     try:
-        res = requests.get(M3U_URL, headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
+        res = requests.get(M3U_URL, headers=HEADERS, timeout=15)
         res.raise_for_status()
         with open(RAW_FILE, "w", encoding="utf-8") as f: f.write(res.text)
         lines = res.text.split('\n')
-        print(f"✅ Đã tải {len(lines)} dòng")
     except Exception as e:
         print(f"❌ Lỗi tải M3U: {e}"); return
 
-    # 2. Parse, SofaScore & Download Logos
     matches = process_m3u_data(lines)
     if not matches: return
 
-    # 3. Tạo thumbnail & build JSON
     print(f"\n▶ BƯỚC 3: Tạo thumbnail và build JSON...")
     channels = []
-    
     for i, match in enumerate(matches):
         match_id_safe = match["match_id"].replace(":", "-")
-        print(f"\n[{i+1}/{len(matches)}] {match['team_a']} vs {match['team_b']}")
-        
         thumb_path = make_thumbnail(match, match_id_safe)
-        
         logo_hash = hashlib.md5((match.get("team_a") or "").encode()).hexdigest()[:8]
         thumb_url = f"{REPO_RAW}/{thumb_path}?v={logo_hash}" if REPO_RAW else f"file://{os.path.abspath(thumb_path)}"
-        
         channels.append(build_channel(match, match_id_safe, thumb_url))
         time.sleep(0.1)
 
-    # 4. Gom nhóm theo Category
     grouped_channels = {cate: [] for cate in CATE_ORDER}
     for ch in channels:
         cate = ch["org_metadata"]["cate_type"]
@@ -553,8 +390,7 @@ def main():
         ch_list = grouped_channels.get(cate, [])
         if not ch_list: continue
         live_cnt = sum(1 for ch in ch_list if ch["org_metadata"].get("is_live"))
-        cate_name = f"{CATE_MAP.get(cate, '🏅 Thể Thao')} ({live_cnt} LIVE)" if live_cnt > 0 else CATE_MAP.get(cate, '🏅 Thể Thao')
-        
+        cate_name = f"{CATE_DISPLAY.get(cate, '🏅 Thể Thao')} ({live_cnt} LIVE)" if live_cnt > 0 else CATE_DISPLAY.get(cate, '🏅 Thể Thao')
         output_groups.append({
             "id": f"cate_{cate}", "name": cate_name, "display": "vertical",
             "grid_number": 2, "enable_detail": False, "channels": ch_list
@@ -569,7 +405,6 @@ def main():
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    
     print(f"\n🎉 HOÀN TẤT! {len(channels)} trận → {OUTPUT_FILE}")
 
 if __name__ == "__main__":
