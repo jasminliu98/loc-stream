@@ -1,1 +1,1277 @@
-
+{
+  "id": "tinhlagi_filtered",
+  "url": "https://tinhlagi.pro",
+  "name": "Chuối Chiên TV",
+  "color": "#e63946",
+  "grid_number": 3,
+  "groups": [
+    {
+      "id": "grp_filtered",
+      "name": "🍌 🔴 CHUỐI CHIÊN TV (14 trận)",
+      "display": "vertical",
+      "grid_number": 2,
+      "channels": [
+        {
+          "id": "ch-64af16fee8",
+          "name": "Estrela vs A | 00:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-64af16fee8",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-64af16fee8",
+                  "name": "Estrela vs A",
+                  "streams": [
+                    {
+                      "id": "st-64af16fee8",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-01aaaaefba",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-7bafb7ebe1",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "Estrela",
+            "team_b": "A",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125620_800242ab.png",
+            "time": "00:00",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-144dad1a53_c367572b_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-26164fa490",
+          "name": "Girona vs A | 01:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-26164fa490",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-26164fa490",
+                  "name": "Girona vs A",
+                  "streams": [
+                    {
+                      "id": "st-26164fa490",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f95db3fce2",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0f5d544a39",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "Girona",
+            "team_b": "A",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125626_056b593c.png",
+            "time": "01:00",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2a18517b24_40293d3c_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ff545d6400",
+          "name": "Inter Miami vs C | 06:30 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ff545d6400",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-ff545d6400",
+                  "name": "Inter Miami vs C",
+                  "streams": [
+                    {
+                      "id": "st-ff545d6400",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0c0bb271f",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-88ba289dd1",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "Inter Miami",
+            "team_b": "C",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png",
+            "time": "06:30",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-446a872bf7_f5a6649d_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ad59b7da9c",
+          "name": "Philippines W vs I | 16:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ad59b7da9c",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-ad59b7da9c",
+                  "name": "Philippines W vs I",
+                  "streams": [
+                    {
+                      "id": "st-ad59b7da9c",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8bd26ff327",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-439dbc1bde",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "Philippines W",
+            "team_b": "I",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142851_8f44d2ed.png",
+            "time": "16:00",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cb1beb54e4_0748a1e8_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f28581aeef",
+          "name": "Vietnam W vs T | 19:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f28581aeef",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-f28581aeef",
+                  "name": "Vietnam W vs T",
+                  "streams": [
+                    {
+                      "id": "st-f28581aeef",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8bd26ff327",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-439dbc1bde",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "Vietnam W",
+            "team_b": "T",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/20250826_164900_cfcedb98.png",
+            "time": "19:00",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-41460c627f_407148bb_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c5facedbe1",
+          "name": "FC Porto vs T | 02:15 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c5facedbe1",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-c5facedbe1",
+                  "name": "FC Porto vs T",
+                  "streams": [
+                    {
+                      "id": "st-c5facedbe1",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2f22aadd9f",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-71a3676baa",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "FC Porto",
+            "team_b": "T",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125615_3ace82b6.png",
+            "time": "02:15",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d76208166e_a4f42202_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-690aee39ed",
+          "name": "Belgrano Cordoba vs A | 04:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-690aee39ed",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-690aee39ed",
+                  "name": "Belgrano Cordoba vs A",
+                  "streams": [
+                    {
+                      "id": "st-690aee39ed",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f95db3fce2",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0f5d544a39",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "Belgrano Cordoba",
+            "team_b": "A",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132719_cb10e107.png",
+            "time": "04:00",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-08e67b1341_0249bfe4_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-dc279489e6",
+          "name": "South Melbourne vs S | 12:30 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dc279489e6",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-dc279489e6",
+                  "name": "South Melbourne vs S",
+                  "streams": [
+                    {
+                      "id": "st-dc279489e6",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-01aaaaefba",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-7bafb7ebe1",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "South Melbourne",
+            "team_b": "S",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_141355_3745ec34.png",
+            "time": "12:30",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3099acec93_51626646_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-5bed256f3f",
+          "name": "Japan vs S | 14:40 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5bed256f3f",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-5bed256f3f",
+                  "name": "Japan vs S",
+                  "streams": [
+                    {
+                      "id": "st-5bed256f3f",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5469599148",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e83d2ee378",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "Japan",
+            "team_b": "S",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png",
+            "time": "14:40",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1328ebabe4_0c309fd0_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b668286e2f",
+          "name": "Qingdao Youth Island vs Q | 17:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b668286e2f",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-b668286e2f",
+                  "name": "Qingdao Youth Island vs Q",
+                  "streams": [
+                    {
+                      "id": "st-b668286e2f",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3a4472f2c",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-99b34a5d2f",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "Qingdao Youth Island",
+            "team_b": "Q",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133509_7baf717e.png",
+            "time": "17:00",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8885133da4_089f0693_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-964d0d5edc",
+          "name": "Jeju United FC vs I | 17:30 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-964d0d5edc",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-964d0d5edc",
+                  "name": "Jeju United FC vs I",
+                  "streams": [
+                    {
+                      "id": "st-964d0d5edc",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-694cfaa40e",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-373bd859d5",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "Jeju United FC",
+            "team_b": "I",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133955_dbd7e40e.png",
+            "time": "17:30",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-64875f9e5d_4fad0d9d_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-44458ecc3f",
+          "name": "USA vs P | 18:30 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-44458ecc3f",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-44458ecc3f",
+                  "name": "USA vs P",
+                  "streams": [
+                    {
+                      "id": "st-44458ecc3f",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5469599148",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e83d2ee378",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "USA",
+            "team_b": "P",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png",
+            "time": "18:30",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7043f3f7e6_f14bea85_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d42cf2443b",
+          "name": "Sichuan Jiuniu vs C | 19:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d42cf2443b",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-d42cf2443b",
+                  "name": "Sichuan Jiuniu vs C",
+                  "streams": [
+                    {
+                      "id": "st-d42cf2443b",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0c0bb271f",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-88ba289dd1",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "Sichuan Jiuniu",
+            "team_b": "C",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133508_b232aaeb.png",
+            "time": "19:00",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cae9146451_1c2028b5_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-07991cb8bb",
+          "name": "Brondby vs V | 21:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2 links)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-07991cb8bb",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-07991cb8bb",
+                  "name": "Brondby vs V",
+                  "streams": [
+                    {
+                      "id": "st-07991cb8bb",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2f22aadd9f",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-71a3676baa",
+                          "name": "Unknown",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "Brondby",
+            "team_b": "V",
+            "logo_a": "https://tinhlagi.pro/logo.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130613_420746d6.png",
+            "time": "21:00",
+            "date": "02/08",
+            "blv": "Unknown, Unknown",
+            "is_live": true,
+            "cate_type": "football",
+            "stream_count": 2
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ed8a17aa1e_a13f6b2f_20260802.png?v=2d05029c",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    }
+  ]
+}
