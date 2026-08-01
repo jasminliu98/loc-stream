@@ -433,7 +433,7 @@ def main():
     output = {
         "id": "tinhlagi_filtered",
         "url": "https://tinhlagi.pro",
-        "name": "TinhLagi Filtered",
+        "name": "Chuối Chiên TV",
         "color": "#e63946",
         "grid_number": 3,
         "groups": [{
