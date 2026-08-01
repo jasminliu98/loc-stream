@@ -17,96 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c9bde7bd32",
-          "name": "Fc Porto vs Torreense | 02:15 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c9bde7bd32",
-              "name": "🔴 CHUỐI CHIÊN TV",
-              "contents": [
-                {
-                  "id": "ct-c9bde7bd32",
-                  "name": "Fc Porto vs Torreense",
-                  "streams": [
-                    {
-                      "id": "st-c9bde7bd32",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2f22aadd9f",
-                          "name": "Chuối Tiêu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-71a3676baa",
-                          "name": "Chuối Tiêu",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
-            "team_a": "Fc Porto",
-            "team_b": "Torreense",
-            "logo_a": null,
-            "logo_b": null,
-            "time": "02:15",
-            "date": "02/08",
-            "blv": "Chuối Tiêu, Chuối Tiêu",
-            "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c3274439ab_685e0c98_20260802.png?v=7e1afd3e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-ecd015e04b",
           "name": "Estrela vs Al-Nassr | 00:00 02/08",
           "type": "single",
@@ -178,20 +88,19 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Estrela",
             "team_b": "Al-Nassr",
-            "logo_a": null,
+            "logo_a": "thumbs/logo_a_Estrela.png",
             "logo_b": null,
             "time": "00:00",
             "date": "02/08",
             "blv": "Trốc Tru, Trốc Tru",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bb4ea37819_06044bd6_20260802.png?v=4e103eae",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bb4ea37819_28e07ab9_20260802.png?v=4e103eae",
             "width": 1600,
             "height": 1200
           }
@@ -268,20 +177,108 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Girona",
             "team_b": "Arsenal",
-            "logo_a": null,
-            "logo_b": null,
+            "logo_a": "thumbs/logo_a_Girona.png",
+            "logo_b": "thumbs/logo_b_Arsenal.png",
             "time": "01:00",
             "date": "02/08",
             "blv": "A Ngao, A Ngao",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-996aeebbcf_e3e25480_20260802.png?v=51ea86e0",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-996aeebbcf_ade4375e_20260802.png?v=51ea86e0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c9bde7bd32",
+          "name": "Fc Porto vs Torreense | 02:15 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c9bde7bd32",
+              "name": "🔴 CHUỐI CHIÊN TV",
+              "contents": [
+                {
+                  "id": "ct-c9bde7bd32",
+                  "name": "Fc Porto vs Torreense",
+                  "streams": [
+                    {
+                      "id": "st-c9bde7bd32",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2f22aadd9f",
+                          "name": "Chuối Tiêu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-71a3676baa",
+                          "name": "Chuối Tiêu",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "🔴 CHUỐI CHIÊN TV",
+            "team_a": "Fc Porto",
+            "team_b": "Torreense",
+            "logo_a": "thumbs/logo_a_Fc_Porto.png",
+            "logo_b": "thumbs/logo_b_Torreense.png",
+            "time": "02:15",
+            "date": "02/08",
+            "blv": "Chuối Tiêu, Chuối Tiêu",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c3274439ab_28489fd2_20260802.png?v=7e1afd3e",
             "width": 1600,
             "height": 1200
           }
@@ -358,20 +355,19 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Belgrano Cordoba",
             "team_b": "Argentinos Jrs",
-            "logo_a": null,
-            "logo_b": null,
+            "logo_a": "thumbs/logo_a_Belgrano_Cordoba.png",
+            "logo_b": "thumbs/logo_b_Argentinos_Jrs.png",
             "time": "04:00",
             "date": "02/08",
             "blv": "A Ngao, A Ngao",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-405027f3dc_1c4ee2a7_20260802.png?v=772870d7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-405027f3dc_d7fdc963_20260802.png?v=772870d7",
             "width": 1600,
             "height": 1200
           }
@@ -448,20 +444,19 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Inter Miami",
             "team_b": "Columbus Crew",
-            "logo_a": null,
-            "logo_b": null,
+            "logo_a": "thumbs/logo_a_Inter_Miami.png",
+            "logo_b": "thumbs/logo_b_Columbus_Crew.png",
             "time": "06:30",
             "date": "02/08",
             "blv": "Chuối To, Chuối To",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6a954db13e_98d0d72e_20260802.png?v=6c10fc1c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6a954db13e_a05467d9_20260802.png?v=6c10fc1c",
             "width": 1600,
             "height": 1200
           }
@@ -538,20 +533,19 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Philippines W",
             "team_b": "Indonesia W",
-            "logo_a": null,
-            "logo_b": null,
+            "logo_a": "thumbs/logo_a_Philippines_W.png",
+            "logo_b": "thumbs/logo_b_Indonesia_W.png",
             "time": "16:00",
             "date": "02/08",
             "blv": "Chuối Tây, Chuối Tây",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a14a3fe937_0f06b20e_20260802.png?v=eb2d94b3",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a14a3fe937_ccf38999_20260802.png?v=eb2d94b3",
             "width": 1600,
             "height": 1200
           }
@@ -628,20 +622,19 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Vietnam W",
             "team_b": "Thailand W",
-            "logo_a": null,
-            "logo_b": null,
+            "logo_a": "thumbs/logo_a_Vietnam_W.png",
+            "logo_b": "thumbs/logo_b_Thailand_W.png",
             "time": "19:00",
             "date": "02/08",
             "blv": "Chuối Tây, Chuối Tây",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ac6824622e_0f13da60_20260802.png?v=40235bda",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ac6824622e_4fef1454_20260802.png?v=40235bda",
             "width": 1600,
             "height": 1200
           }
@@ -718,20 +711,19 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "South Melbourne",
             "team_b": "St. Albans Saints",
-            "logo_a": null,
-            "logo_b": null,
+            "logo_a": "thumbs/logo_a_South_Melbourne.png",
+            "logo_b": "thumbs/logo_b_St._Albans_Saints.png",
             "time": "12:30",
             "date": "02/08",
             "blv": "Trốc Tru, Trốc Tru",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-73721ed995_b617bc3c_20260802.png?v=f0b8290f",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-73721ed995_ed292392_20260802.png?v=f0b8290f",
             "width": 1600,
             "height": 1200
           }
@@ -808,20 +800,19 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Japan",
             "team_b": "Slovakia",
-            "logo_a": null,
-            "logo_b": null,
+            "logo_a": "thumbs/logo_a_Japan.png",
+            "logo_b": "thumbs/logo_b_Slovakia.png",
             "time": "14:40",
             "date": "02/08",
             "blv": "Camry, Camry",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5d79ee8f0d_cc7acf9e_20260802.png?v=53a577bb",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5d79ee8f0d_7ab06267_20260802.png?v=53a577bb",
             "width": 1600,
             "height": 1200
           }
@@ -898,20 +889,19 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Qingdao Youth Island",
             "team_b": "Qingdao Jonoon",
-            "logo_a": null,
+            "logo_a": "thumbs/logo_a_Qingdao_Youth_Island.png",
             "logo_b": null,
             "time": "17:00",
             "date": "02/08",
             "blv": "Chuối Chao, Chuối Chao",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8685221412_024ba7b6_20260802.png?v=4598be21",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8685221412_267eb238_20260802.png?v=4598be21",
             "width": 1600,
             "height": 1200
           }
@@ -988,20 +978,19 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Jeju United Fc",
             "team_b": "Incheon United",
-            "logo_a": null,
-            "logo_b": null,
+            "logo_a": "thumbs/logo_a_Jeju_United_Fc.png",
+            "logo_b": "thumbs/logo_b_Incheon_United.png",
             "time": "17:30",
             "date": "02/08",
             "blv": "Chuối Đá, Chuối Đá",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-16a0d2f295_a3da15a1_20260802.png?v=c4832e21",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-16a0d2f295_0cadc276_20260802.png?v=c4832e21",
             "width": 1600,
             "height": 1200
           }
@@ -1078,20 +1067,19 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Usa",
             "team_b": "Poland",
-            "logo_a": null,
-            "logo_b": null,
+            "logo_a": "thumbs/logo_a_Usa.png",
+            "logo_b": "thumbs/logo_b_Poland.png",
             "time": "18:30",
             "date": "02/08",
             "blv": "Camry, Camry",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a33a8af7e_6f8c53dd_20260802.png?v=867f8282",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a33a8af7e_1a5a4859_20260802.png?v=867f8282",
             "width": 1600,
             "height": 1200
           }
@@ -1169,19 +1157,18 @@
             "team_a": "Sichuan Jiuniu",
             "team_b": "Chongqing Tongliang Long",
             "logo_a": null,
-            "logo_b": null,
+            "logo_b": "thumbs/logo_b_Chongqing_Tongliang_Long.png",
             "time": "19:00",
             "date": "02/08",
             "blv": "Chuối To, Chuối To",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cc4a8d9ead_d472c26a_20260802.png?v=f2547f7a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cc4a8d9ead_7dfd54ff_20260802.png?v=f2547f7a",
             "width": 1600,
             "height": 1200
           }
@@ -1258,20 +1245,19 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Brondby",
             "team_b": "Viborg",
-            "logo_a": null,
-            "logo_b": null,
+            "logo_a": "thumbs/logo_a_Brondby.png",
+            "logo_b": "thumbs/logo_b_Viborg.png",
             "time": "21:00",
             "date": "02/08",
             "blv": "Chuối Tiêu, Chuối Tiêu",
             "is_live": true,
-            "cate_type": "football",
-            "stream_count": 2
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bde29c1ab3_04266e16_20260802.png?v=9c25ad18",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bde29c1ab3_b9a4d5ec_20260802.png?v=9c25ad18",
             "width": 1600,
             "height": 1200
           }
