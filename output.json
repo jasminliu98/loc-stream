@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (14 LIVE)",
+      "name": "⚽ Bóng Đá (13 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-ecd015e04b",
-          "name": "Estrela vs Al-Nassr | 00:00 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ecd015e04b",
-              "name": "🔴 CHUỐI CHIÊN TV",
-              "contents": [
-                {
-                  "id": "ct-ecd015e04b",
-                  "name": "Estrela vs Al-Nassr",
-                  "streams": [
-                    {
-                      "id": "st-ecd015e04b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-01aaaaefba",
-                          "name": "Trốc Tru",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7bafb7ebe1",
-                          "name": "Trốc Tru",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
-            "team_a": "Estrela",
-            "team_b": "Al-Nassr",
-            "logo_a": "thumbs/logo_a_Estrela.png",
-            "logo_b": null,
-            "time": "00:00",
-            "date": "02/08",
-            "blv": "Trốc Tru, Trốc Tru",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bb4ea37819_28e07ab9_20260802.png?v=4e103eae",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-30a795284b",
           "name": "Girona vs Arsenal | 01:00 02/08",
