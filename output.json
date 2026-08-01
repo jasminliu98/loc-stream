@@ -10,8 +10,278 @@
   },
   "groups": [
     {
-      "id": "cate_football",
-      "name": "⚽ Bóng Đá (13 LIVE)",
+      "id": "cate_volleyball",
+      "name": "🏐 Bóng Chuyền (3 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "ch-43b6f23247",
+          "name": "Vietnam W vs Thailand W | 19:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-43b6f23247",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-43b6f23247",
+                  "name": "Vietnam W vs Thailand W",
+                  "streams": [
+                    {
+                      "id": "st-43b6f23247",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8bd26ff327",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-439dbc1bde",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VNL / Giải Đấu",
+            "team_a": "Vietnam W",
+            "team_b": "Thailand W",
+            "time": "19:00",
+            "date": "02/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ac6824622e_c7f5bf58_20260802.png?v=40235bda",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-4123e51a4a",
+          "name": "Japan vs Slovakia | 14:40 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4123e51a4a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4123e51a4a",
+                  "name": "Japan vs Slovakia",
+                  "streams": [
+                    {
+                      "id": "st-4123e51a4a",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5469599148",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e83d2ee378",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VNL / Giải Đấu",
+            "team_a": "Japan",
+            "team_b": "Slovakia",
+            "time": "14:40",
+            "date": "02/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5d79ee8f0d_b8821ffe_20260802.png?v=53a577bb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b2ccbced46",
+          "name": "Usa vs Poland | 18:30 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b2ccbced46",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b2ccbced46",
+                  "name": "Usa vs Poland",
+                  "streams": [
+                    {
+                      "id": "st-b2ccbced46",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5469599148",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e83d2ee378",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VNL / Giải Đấu",
+            "team_a": "Usa",
+            "team_b": "Poland",
+            "time": "18:30",
+            "date": "02/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a33a8af7e_5d24640c_20260802.png?v=867f8282",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_other",
+      "name": "🏅 Thể Thao Khác (10 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -33,7 +303,7 @@
           "sources": [
             {
               "id": "src-30a795284b",
-              "name": "🔴 CHUỐI CHIÊN TV",
+              "name": "Chuối Chiên TV",
               "contents": [
                 {
                   "id": "ct-30a795284b",
@@ -45,7 +315,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-f95db3fce2",
-                          "name": "A Ngao",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
@@ -62,7 +332,7 @@
                         },
                         {
                           "id": "lnk-0f5d544a39",
-                          "name": "A Ngao",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
@@ -85,22 +355,20 @@
             }
           ],
           "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
+            "league": "VNL / Giải Đấu",
             "team_a": "Girona",
             "team_b": "Arsenal",
-            "logo_a": "thumbs/logo_a_Girona.png",
-            "logo_b": "thumbs/logo_b_Arsenal.png",
             "time": "01:00",
             "date": "02/08",
-            "blv": "A Ngao, A Ngao",
+            "blv": "Stream, Stream",
             "is_live": true,
-            "cate_type": "football"
+            "cate_type": "other"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-996aeebbcf_ade4375e_20260802.png?v=51ea86e0",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-996aeebbcf_fca6373d_20260802.png?v=51ea86e0",
             "width": 1600,
             "height": 1200
           }
@@ -122,7 +390,7 @@
           "sources": [
             {
               "id": "src-c9bde7bd32",
-              "name": "🔴 CHUỐI CHIÊN TV",
+              "name": "Chuối Chiên TV",
               "contents": [
                 {
                   "id": "ct-c9bde7bd32",
@@ -134,7 +402,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-2f22aadd9f",
-                          "name": "Chuối Tiêu",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
@@ -151,7 +419,7 @@
                         },
                         {
                           "id": "lnk-71a3676baa",
-                          "name": "Chuối Tiêu",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
@@ -174,22 +442,20 @@
             }
           ],
           "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
+            "league": "VNL / Giải Đấu",
             "team_a": "Fc Porto",
             "team_b": "Torreense",
-            "logo_a": "thumbs/logo_a_Fc_Porto.png",
-            "logo_b": "thumbs/logo_b_Torreense.png",
             "time": "02:15",
             "date": "02/08",
-            "blv": "Chuối Tiêu, Chuối Tiêu",
+            "blv": "Stream, Stream",
             "is_live": true,
-            "cate_type": "football"
+            "cate_type": "other"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c3274439ab_28489fd2_20260802.png?v=7e1afd3e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c3274439ab_b5064512_20260802.png?v=7e1afd3e",
             "width": 1600,
             "height": 1200
           }
@@ -211,7 +477,7 @@
           "sources": [
             {
               "id": "src-5b2cbdc67e",
-              "name": "🔴 CHUỐI CHIÊN TV",
+              "name": "Chuối Chiên TV",
               "contents": [
                 {
                   "id": "ct-5b2cbdc67e",
@@ -223,7 +489,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-f95db3fce2",
-                          "name": "A Ngao",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
@@ -240,7 +506,7 @@
                         },
                         {
                           "id": "lnk-0f5d544a39",
-                          "name": "A Ngao",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
@@ -263,22 +529,20 @@
             }
           ],
           "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
+            "league": "VNL / Giải Đấu",
             "team_a": "Belgrano Cordoba",
             "team_b": "Argentinos Jrs",
-            "logo_a": "thumbs/logo_a_Belgrano_Cordoba.png",
-            "logo_b": "thumbs/logo_b_Argentinos_Jrs.png",
             "time": "04:00",
             "date": "02/08",
-            "blv": "A Ngao, A Ngao",
+            "blv": "Stream, Stream",
             "is_live": true,
-            "cate_type": "football"
+            "cate_type": "other"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-405027f3dc_d7fdc963_20260802.png?v=772870d7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-405027f3dc_bb8f5a7e_20260802.png?v=772870d7",
             "width": 1600,
             "height": 1200
           }
@@ -300,7 +564,7 @@
           "sources": [
             {
               "id": "src-0fac1ee5b8",
-              "name": "🔴 CHUỐI CHIÊN TV",
+              "name": "Chuối Chiên TV",
               "contents": [
                 {
                   "id": "ct-0fac1ee5b8",
@@ -312,7 +576,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-c0c0bb271f",
-                          "name": "Chuối To",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
@@ -329,7 +593,7 @@
                         },
                         {
                           "id": "lnk-88ba289dd1",
-                          "name": "Chuối To",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
@@ -352,22 +616,20 @@
             }
           ],
           "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
+            "league": "VNL / Giải Đấu",
             "team_a": "Inter Miami",
             "team_b": "Columbus Crew",
-            "logo_a": "thumbs/logo_a_Inter_Miami.png",
-            "logo_b": "thumbs/logo_b_Columbus_Crew.png",
             "time": "06:30",
             "date": "02/08",
-            "blv": "Chuối To, Chuối To",
+            "blv": "Stream, Stream",
             "is_live": true,
-            "cate_type": "football"
+            "cate_type": "other"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6a954db13e_a05467d9_20260802.png?v=6c10fc1c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6a954db13e_1de587ea_20260802.png?v=6c10fc1c",
             "width": 1600,
             "height": 1200
           }
@@ -389,7 +651,7 @@
           "sources": [
             {
               "id": "src-f9e6250420",
-              "name": "🔴 CHUỐI CHIÊN TV",
+              "name": "Chuối Chiên TV",
               "contents": [
                 {
                   "id": "ct-f9e6250420",
@@ -401,7 +663,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-8bd26ff327",
-                          "name": "Chuối Tây",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
@@ -418,7 +680,7 @@
                         },
                         {
                           "id": "lnk-439dbc1bde",
-                          "name": "Chuối Tây",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
@@ -441,111 +703,20 @@
             }
           ],
           "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
+            "league": "VNL / Giải Đấu",
             "team_a": "Philippines W",
             "team_b": "Indonesia W",
-            "logo_a": "thumbs/logo_a_Philippines_W.png",
-            "logo_b": "thumbs/logo_b_Indonesia_W.png",
             "time": "16:00",
             "date": "02/08",
-            "blv": "Chuối Tây, Chuối Tây",
+            "blv": "Stream, Stream",
             "is_live": true,
-            "cate_type": "football"
+            "cate_type": "other"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a14a3fe937_ccf38999_20260802.png?v=eb2d94b3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-43b6f23247",
-          "name": "Vietnam W vs Thailand W | 19:00 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-43b6f23247",
-              "name": "🔴 CHUỐI CHIÊN TV",
-              "contents": [
-                {
-                  "id": "ct-43b6f23247",
-                  "name": "Vietnam W vs Thailand W",
-                  "streams": [
-                    {
-                      "id": "st-43b6f23247",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8bd26ff327",
-                          "name": "Chuối Tây",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-439dbc1bde",
-                          "name": "Chuối Tây",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
-            "team_a": "Vietnam W",
-            "team_b": "Thailand W",
-            "logo_a": "thumbs/logo_a_Vietnam_W.png",
-            "logo_b": "thumbs/logo_b_Thailand_W.png",
-            "time": "19:00",
-            "date": "02/08",
-            "blv": "Chuối Tây, Chuối Tây",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ac6824622e_4fef1454_20260802.png?v=40235bda",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a14a3fe937_e41b8320_20260802.png?v=eb2d94b3",
             "width": 1600,
             "height": 1200
           }
@@ -567,7 +738,7 @@
           "sources": [
             {
               "id": "src-d2f0f2916e",
-              "name": "🔴 CHUỐI CHIÊN TV",
+              "name": "Chuối Chiên TV",
               "contents": [
                 {
                   "id": "ct-d2f0f2916e",
@@ -579,7 +750,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-01aaaaefba",
-                          "name": "Trốc Tru",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
@@ -596,7 +767,7 @@
                         },
                         {
                           "id": "lnk-7bafb7ebe1",
-                          "name": "Trốc Tru",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
@@ -619,111 +790,20 @@
             }
           ],
           "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
+            "league": "VNL / Giải Đấu",
             "team_a": "South Melbourne",
             "team_b": "St. Albans Saints",
-            "logo_a": "thumbs/logo_a_South_Melbourne.png",
-            "logo_b": "thumbs/logo_b_St._Albans_Saints.png",
             "time": "12:30",
             "date": "02/08",
-            "blv": "Trốc Tru, Trốc Tru",
+            "blv": "Stream, Stream",
             "is_live": true,
-            "cate_type": "football"
+            "cate_type": "other"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-73721ed995_ed292392_20260802.png?v=f0b8290f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-4123e51a4a",
-          "name": "Japan vs Slovakia | 14:40 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4123e51a4a",
-              "name": "🔴 CHUỐI CHIÊN TV",
-              "contents": [
-                {
-                  "id": "ct-4123e51a4a",
-                  "name": "Japan vs Slovakia",
-                  "streams": [
-                    {
-                      "id": "st-4123e51a4a",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5469599148",
-                          "name": "Camry",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e83d2ee378",
-                          "name": "Camry",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
-            "team_a": "Japan",
-            "team_b": "Slovakia",
-            "logo_a": "thumbs/logo_a_Japan.png",
-            "logo_b": "thumbs/logo_b_Slovakia.png",
-            "time": "14:40",
-            "date": "02/08",
-            "blv": "Camry, Camry",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5d79ee8f0d_7ab06267_20260802.png?v=53a577bb",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-73721ed995_2f8c9438_20260802.png?v=f0b8290f",
             "width": 1600,
             "height": 1200
           }
@@ -745,7 +825,7 @@
           "sources": [
             {
               "id": "src-6c5647378e",
-              "name": "🔴 CHUỐI CHIÊN TV",
+              "name": "Chuối Chiên TV",
               "contents": [
                 {
                   "id": "ct-6c5647378e",
@@ -757,7 +837,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-e3a4472f2c",
-                          "name": "Chuối Chao",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
@@ -774,7 +854,7 @@
                         },
                         {
                           "id": "lnk-99b34a5d2f",
-                          "name": "Chuối Chao",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
@@ -797,22 +877,20 @@
             }
           ],
           "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
+            "league": "VNL / Giải Đấu",
             "team_a": "Qingdao Youth Island",
             "team_b": "Qingdao Jonoon",
-            "logo_a": "thumbs/logo_a_Qingdao_Youth_Island.png",
-            "logo_b": null,
             "time": "17:00",
             "date": "02/08",
-            "blv": "Chuối Chao, Chuối Chao",
+            "blv": "Stream, Stream",
             "is_live": true,
-            "cate_type": "football"
+            "cate_type": "other"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8685221412_267eb238_20260802.png?v=4598be21",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8685221412_5eff82f8_20260802.png?v=4598be21",
             "width": 1600,
             "height": 1200
           }
@@ -834,7 +912,7 @@
           "sources": [
             {
               "id": "src-fd864f7a45",
-              "name": "🔴 CHUỐI CHIÊN TV",
+              "name": "Chuối Chiên TV",
               "contents": [
                 {
                   "id": "ct-fd864f7a45",
@@ -846,7 +924,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-694cfaa40e",
-                          "name": "Chuối Đá",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
@@ -863,7 +941,7 @@
                         },
                         {
                           "id": "lnk-373bd859d5",
-                          "name": "Chuối Đá",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
@@ -886,111 +964,20 @@
             }
           ],
           "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
+            "league": "VNL / Giải Đấu",
             "team_a": "Jeju United Fc",
             "team_b": "Incheon United",
-            "logo_a": "thumbs/logo_a_Jeju_United_Fc.png",
-            "logo_b": "thumbs/logo_b_Incheon_United.png",
             "time": "17:30",
             "date": "02/08",
-            "blv": "Chuối Đá, Chuối Đá",
+            "blv": "Stream, Stream",
             "is_live": true,
-            "cate_type": "football"
+            "cate_type": "other"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-16a0d2f295_0cadc276_20260802.png?v=c4832e21",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-b2ccbced46",
-          "name": "Usa vs Poland | 18:30 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b2ccbced46",
-              "name": "🔴 CHUỐI CHIÊN TV",
-              "contents": [
-                {
-                  "id": "ct-b2ccbced46",
-                  "name": "Usa vs Poland",
-                  "streams": [
-                    {
-                      "id": "st-b2ccbced46",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5469599148",
-                          "name": "Camry",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e83d2ee378",
-                          "name": "Camry",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
-            "team_a": "Usa",
-            "team_b": "Poland",
-            "logo_a": "thumbs/logo_a_Usa.png",
-            "logo_b": "thumbs/logo_b_Poland.png",
-            "time": "18:30",
-            "date": "02/08",
-            "blv": "Camry, Camry",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a33a8af7e_1a5a4859_20260802.png?v=867f8282",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-16a0d2f295_18e52f1b_20260802.png?v=c4832e21",
             "width": 1600,
             "height": 1200
           }
@@ -1012,7 +999,7 @@
           "sources": [
             {
               "id": "src-f75b8d504f",
-              "name": "🔴 CHUỐI CHIÊN TV",
+              "name": "Chuối Chiên TV",
               "contents": [
                 {
                   "id": "ct-f75b8d504f",
@@ -1024,7 +1011,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-c0c0bb271f",
-                          "name": "Chuối To",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
@@ -1041,7 +1028,7 @@
                         },
                         {
                           "id": "lnk-88ba289dd1",
-                          "name": "Chuối To",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
@@ -1064,22 +1051,20 @@
             }
           ],
           "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
+            "league": "VNL / Giải Đấu",
             "team_a": "Sichuan Jiuniu",
             "team_b": "Chongqing Tongliang Long",
-            "logo_a": null,
-            "logo_b": "thumbs/logo_b_Chongqing_Tongliang_Long.png",
             "time": "19:00",
             "date": "02/08",
-            "blv": "Chuối To, Chuối To",
+            "blv": "Stream, Stream",
             "is_live": true,
-            "cate_type": "football"
+            "cate_type": "other"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cc4a8d9ead_7dfd54ff_20260802.png?v=f2547f7a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cc4a8d9ead_087cb0dc_20260802.png?v=f2547f7a",
             "width": 1600,
             "height": 1200
           }
@@ -1101,7 +1086,7 @@
           "sources": [
             {
               "id": "src-e9991a35fa",
-              "name": "🔴 CHUỐI CHIÊN TV",
+              "name": "Chuối Chiên TV",
               "contents": [
                 {
                   "id": "ct-e9991a35fa",
@@ -1113,7 +1098,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-2f22aadd9f",
-                          "name": "Chuối Tiêu",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
@@ -1130,7 +1115,7 @@
                         },
                         {
                           "id": "lnk-71a3676baa",
-                          "name": "Chuối Tiêu",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
@@ -1153,22 +1138,20 @@
             }
           ],
           "org_metadata": {
-            "league": "🔴 CHUỐI CHIÊN TV",
+            "league": "VNL / Giải Đấu",
             "team_a": "Brondby",
             "team_b": "Viborg",
-            "logo_a": "thumbs/logo_a_Brondby.png",
-            "logo_b": "thumbs/logo_b_Viborg.png",
             "time": "21:00",
             "date": "02/08",
-            "blv": "Chuối Tiêu, Chuối Tiêu",
+            "blv": "Stream, Stream",
             "is_live": true,
-            "cate_type": "football"
+            "cate_type": "other"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bde29c1ab3_b9a4d5ec_20260802.png?v=9c25ad18",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bde29c1ab3_7b4763f8_20260802.png?v=9c25ad18",
             "width": 1600,
             "height": 1200
           }
