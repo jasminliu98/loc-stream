@@ -23,7 +23,7 @@ FILTER_KEYWORDS = ["chuối chiên", "chuoi chien", "chuối chiên tv"]
 
 CATE_DISPLAY = {
     "football": "⚽ Bóng Đá", 
-    "volleyball": " Bóng Chuyền"
+    "volleyball": "🏐 Bóng Chuyền"
 }
 
 VNL_COUNTRIES = {
@@ -42,7 +42,7 @@ COUNTRY_TO_FLAG = {
     "indonesia": "id", "south korea": "kr", "croatia": "hr", "mexico": "mx"
 }
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 
 def now_vn():
     return datetime.now(tz=VN_TZ)
@@ -50,9 +50,52 @@ def now_vn():
 def make_id(text, prefix):
     return f"{prefix}-{hashlib.md5(text.encode('utf-8')).hexdigest()[:10]}"
 
-# ────────────────────────────────────────────────────────────────────────────
-# LOGIC THỜI GIAN & PHÂN LOẠI
 # ─────────────────────────────────────────────────────────────────────────────
+# DUCKDUCKGO LOGO SEARCH
+# ─────────────────────────────────────────────────────────────────────────────
+
+def search_logo_duckduckgo(team_name, sport="football"):
+    """
+    Tìm logo chính thức của đội bóng qua DuckDuckGo Image Search
+    """
+    if not team_name:
+        return None
+    
+    # Query tìm logo
+    query = f"{team_name} {sport} logo official"
+    url = f"https://html.duckduckgo.com/html/?q={urllib.parse.quote(query)}"
+    
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=10)
+        if res.status_code == 200:
+            # Tìm các link ảnh trong kết quả
+            # DuckDuckGo HTML trả về các thẻ <img> với src chứa link ảnh
+            img_pattern = r'src="(https?://[^"]+\.(png|jpg|jpeg|svg))"'
+            matches = re.findall(img_pattern, res.text)
+            
+            # Lọc các link có vẻ là logo (chứa team name hoặc logo)
+            for img_url, _ in matches:
+                img_lower = img_url.lower()
+                if any(kw in img_lower for kw in ["logo", "badge", "crest", "emblem"]):
+                    # Tránh các link tracking hoặc quá nhỏ
+                    if "duckduckgo" not in img_lower and len(img_url) > 20:
+                        print(f"  🔍 DDG Logo: {team_name} -> {img_url}")
+                        return img_url
+            
+            # Nếu không tìm thấy logo cụ thể, lấy ảnh đầu tiên
+            if matches:
+                img_url = matches[0][0]
+                print(f"  🔍 DDG Fallback: {team_name} -> {img_url}")
+                return img_url
+                
+    except Exception as e:
+        print(f"  ⚠️ DDG search failed for {team_name}: {e}")
+    
+    return None
+
+# ─────────────────────────────────────────────────────────────────────────────
+# LOGIC THỜI GIAN & PHÂN LOẠI
+# ────────────────────────────────────────────────────────────────────────────
 
 def clean_team_name(raw_name):
     if not raw_name: return ""
@@ -61,12 +104,6 @@ def clean_team_name(raw_name):
     return re.sub(r'\s+', ' ', name).strip().title()
 
 def check_match_status(time_str, date_str):
-    """
-    Trả về:
-    - "live": trận đang diễn ra hoặc sắp bắt đầu <= 15 phút
-    - "upcoming": trận chưa đến giờ (> 15 phút nữa)
-    - "finished": trận đã kết thúc (> 150 phút trước)
-    """
     if not time_str or not date_str:
         return "upcoming"
     
@@ -111,20 +148,6 @@ def determine_sport_smart(team_a, team_b, channel_name):
         
     return "football"
 
-def parse_logos_from_m3u(extinf_line):
-    logo_match = re.search(r'tvg-logo="([^"]*)"', extinf_line)
-    if not logo_match: return None, None
-    logo_url = logo_match.group(1)
-    if "merge_logos.php" in logo_url:
-        try:
-            parsed = urllib.parse.urlparse(logo_url)
-            params = urllib.parse.parse_qs(parsed.query)
-            home = urllib.parse.unquote(params.get('home', [None])[0])
-            away = urllib.parse.unquote(params.get('away', [None])[0])
-            return home, away
-        except: pass
-    return logo_url, None
-
 def get_fallback_logo(team_name):
     team_lower = team_name.lower()
     for country, code in COUNTRY_TO_FLAG.items():
@@ -153,7 +176,7 @@ def fetch_image(url_or_path):
     except: pass
     return None
 
-# ────────────────────────────────────────────────────────────────────────────
+# ─────────────────────────────────────────────────────────────────────────────
 # MAIN PROCESS
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -185,8 +208,6 @@ def process_m3u():
                 time_match = re.match(r'(\d{1,2}:\d{2})\s+(\d{1,2}/\d{1,2})\s+(.*)', channel_name)
                 if time_match:
                     time_str, date_str, rest = time_match.group(1), time_match.group(2), time_match.group(3).strip()
-                    
-                    # KHÔNG LỌC BỎ TRẬN - Giữ lại tất cả
                     vs_match = re.split(r'\s+vs\s+', rest, flags=re.IGNORECASE, maxsplit=1)
                     if len(vs_match) == 2:
                         team_a = clean_team_name(vs_match[0])
@@ -197,13 +218,7 @@ def process_m3u():
                     time_str, date_str, team_a, team_b = "", "", channel_name, ""
 
                 cate = determine_sport_smart(team_a, team_b, channel_name)
-                
-                # Kiểm tra trạng thái trận đấu
                 match_status = check_match_status(time_str, date_str)
-                
-                logo_a_url, logo_b_url = parse_logos_from_m3u(current_extinf)
-                if not logo_a_url: logo_a_url = get_fallback_logo(team_a)
-                if not logo_b_url: logo_b_url = get_fallback_logo(team_b)
 
                 match_key = f"{time_str}_{date_str}_{team_a.lower()}_{team_b.lower()}"
                 
@@ -213,31 +228,45 @@ def process_m3u():
                         "time": time_str, "date": date_str,
                         "team_a": team_a, "team_b": team_b,
                         "cate": cate,
-                        "status": match_status,  # live / upcoming / finished
+                        "status": match_status,
                         "streams": [], 
-                        "logo_a": logo_a_url, "logo_b": logo_b_url,
+                        "logo_a": None, "logo_b": None,
                         "logo_a_local": None, "logo_b_local": None
                     }
-                # Chỉ thêm stream nếu trận đang live hoặc sắp live
                 if match_status in ["live", "upcoming"]:
                     matches_dict[match_key]["streams"].append({"url": line, "blv": "Stream"})
             current_extinf = None
 
-    print(f"▶ Đang tải logo cho {len(matches_dict)} trận...")
+    # Tìm logo qua DuckDuckGo cho từng đội
+    print(f"▶ Đang tìm logo chính thức qua DuckDuckGo cho {len(matches_dict)} trận...")
     final_matches = []
     for match in matches_dict.values():
-        if match["logo_a"]:
+        print(f"\n  🔍 {match['team_a']} vs {match['team_b']}")
+        
+        # Tìm logo team A
+        sport_a = "volleyball" if match["cate"] == "volleyball" else "football"
+        logo_a = search_logo_duckduckgo(match["team_a"], sport_a)
+        if not logo_a:
+            logo_a = get_fallback_logo(match["team_a"])
+        
+        # Tìm logo team B
+        logo_b = search_logo_duckduckgo(match["team_b"], sport_a)
+        if not logo_b:
+            logo_b = get_fallback_logo(match["team_b"])
+        
+        # Download logo
+        if logo_a:
             path = f"{THUMBS_DIR}/la_{make_id(match['team_a'], 't')}.png"
-            if download_logo(match["logo_a"], path): match["logo_a_local"] = path
+            if download_logo(logo_a, path): match["logo_a_local"] = path
             
-        if match["logo_b"]:
+        if logo_b:
             path = f"{THUMBS_DIR}/lb_{make_id(match['team_b'], 't')}.png"
-            if download_logo(match["logo_b"], path): match["logo_b_local"] = path
+            if download_logo(logo_b, path): match["logo_b_local"] = path
             
-        match["final_logo_a"] = match["logo_a_local"] or match["logo_a"]
-        match["final_logo_b"] = match["logo_b_local"] or match["logo_b"]
+        match["final_logo_a"] = match["logo_a_local"] or logo_a
+        match["final_logo_b"] = match["logo_b_local"] or logo_b
         final_matches.append(match)
-        time.sleep(0.1)
+        time.sleep(0.3) # Tránh rate limit DuckDuckGo
         
     return final_matches
 
@@ -246,7 +275,7 @@ def process_m3u():
 # ─────────────────────────────────────────────────────────────────────────────
 
 def make_thumbnail(match, match_id_safe):
-    cache_key = (match.get("team_a") or "") + (match.get("team_b") or "") + "v14"
+    cache_key = (match.get("team_a") or "") + (match.get("team_b") or "") + "v15"
     logo_hash = hashlib.md5(cache_key.encode()).hexdigest()[:8]
     date_str = now_vn().strftime("%Y%m%d")
     out_path = f"{THUMBS_DIR}/{match_id_safe}_{logo_hash}_{date_str}.png"
@@ -333,7 +362,6 @@ def cleanup_old_thumbs(days: int = 3):
                 except: pass
 
 def build_channel(match, match_id_safe, thumb_url):
-    # Chỉ thêm stream_links nếu trận đang live hoặc sắp live (<= 15 phút)
     stream_links = []
     if match["status"] == "live":
         for idx, stream in enumerate(match["streams"]):
@@ -346,7 +374,6 @@ def build_channel(match, match_id_safe, thumb_url):
                 "request_headers": [{"key": "User-Agent", "value": "Mozilla/5.0"}, {"key": "Referer", "value": "https://live.chuoichien.tv/"}]
             })
 
-    # Label khác nhau tùy trạng thái
     is_live = match["status"] == "live"
     label_text = f"● LIVE ({len(stream_links)})" if is_live else "🕐 Sắp"
     label_color = "#ff4444" if is_live else "#aaaaaa"
@@ -383,7 +410,7 @@ def build_channel(match, match_id_safe, thumb_url):
     }
 
 def main():
-    print(f"⏰ Thời gian VN: {now_vn().strftime('%H:%M %d/%m/%Y')}")
+    print(f" Thời gian VN: {now_vn().strftime('%H:%M %d/%m/%Y')}")
     cleanup_old_thumbs(days=3)
 
     matches = process_m3u()
@@ -414,8 +441,8 @@ def main():
         ch_list = grouped[cate]
         if not ch_list: continue
         live_cnt = sum(1 for ch in ch_list if ch["org_metadata"].get("is_live"))
-        upcoming_cnt = sum(1 for ch in ch_list if not ch["org_metadata"].get("is_live"))
-        cate_name = f"{CATE_DISPLAY.get(cate)} ({live_cnt} LIVE, {upcoming_cnt} Sắp)"
+        # Chỉ hiển thị số LIVE như format giovang
+        cate_name = f"{CATE_DISPLAY.get(cate)} ({live_cnt} LIVE)" if live_cnt > 0 else CATE_DISPLAY.get(cate)
         output_groups.append({
             "id": f"cate_{cate}", "name": cate_name, "display": "vertical",
             "grid_number": 2, "enable_detail": False, "channels": ch_list
