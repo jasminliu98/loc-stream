@@ -1,7 +1,8 @@
-name: Scraper
+name: Update M3U Scraper - Chuối Chiên TV
 
 on:
-  workflow_dispatch:
+  schedule:
+  workflow_dispatch: # Cho phép chạy thủ công
 
 permissions:
   contents: write
@@ -11,12 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
+          cache: 'pip' # Cache pip để tăng tốc
 
       - name: Install dependencies
         run: |
@@ -35,12 +37,28 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Add cả file raw, thư mục thumbs và file output
-          git add raw_playlist.m3u thumbs/ output.json
+          # Dùng -A để tự động track cả file mới, sửa và XÓA (do cleanup_old_thumbs)
+          git add -A
           
           if git diff --staged --quiet; then
-            echo "Không có thay đổi mới."
+            echo "✅ Không có thay đổi mới, bỏ qua commit."
           else
-            git commit -m "chore: update raw m3u, thumbnails and output.json [skip ci]"
+            git commit -m "chore: update m3u, thumbs & output.json [skip ci]"
             git push
+            echo "✅ Đã commit và push thành công!"
+          fi
+
+      - name: Show summary
+        if: always()
+        run: |
+          echo "## 📊 Kết quả chạy" >> $GITHUB_STEP_SUMMARY
+          echo "- Thời gian: $(date '+%H:%M %d/%m/%Y')" >> $GITHUB_STEP_SUMMARY
+          echo "- Repository: ${{ github.repository }}" >> $GITHUB_STEP_SUMMARY
+          if [ -f output.json ]; then
+            echo "- Output: ✅ Đã tạo" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- Output: ❌ Không có" >> $GITHUB_STEP_SUMMARY
+          fi
+          if [ -d thumbs ]; then
+            echo "- Thumbnails: $(ls thumbs/*.png 2>/dev/null | wc -l) files" >> $GITHUB_STEP_SUMMARY
           fi
