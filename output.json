@@ -1,15 +1,20 @@
 {
   "id": "tinhlagi_filtered",
   "url": "https://tinhlagi.pro",
-  "name": "Chuối Chiên TV",
+  "name": "TinhLagi Filtered",
   "color": "#e63946",
   "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://tinhlagi.pro/favicon.ico"
+  },
   "groups": [
     {
-      "id": "grp_filtered",
-      "name": "🍌 🔴 CHUỐI CHIÊN TV (14 trận)",
+      "id": "cate_football",
+      "name": " Bóng Đá (14 LIVE)",
       "display": "vertical",
       "grid_number": 2,
+      "enable_detail": false,
       "channels": [
         {
           "id": "ch-64af16fee8",
@@ -19,7 +24,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -40,7 +45,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-01aaaaefba",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
@@ -57,7 +62,7 @@
                         },
                         {
                           "id": "lnk-7bafb7ebe1",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
@@ -83,11 +88,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Estrela",
             "team_b": "A",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125620_800242ab.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "00:00",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -96,7 +101,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-144dad1a53_c367572b_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-144dad1a53_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -109,7 +114,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -130,7 +135,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-f95db3fce2",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
@@ -147,7 +152,7 @@
                         },
                         {
                           "id": "lnk-0f5d544a39",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
@@ -173,11 +178,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Girona",
             "team_b": "A",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125626_056b593c.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "01:00",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -186,7 +191,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2a18517b24_40293d3c_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2a18517b24_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -199,7 +204,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -220,7 +225,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-c0c0bb271f",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
@@ -237,7 +242,7 @@
                         },
                         {
                           "id": "lnk-88ba289dd1",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
@@ -263,11 +268,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Inter Miami",
             "team_b": "C",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "06:30",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -276,7 +281,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-446a872bf7_f5a6649d_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-446a872bf7_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -289,7 +294,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -310,7 +315,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-8bd26ff327",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
@@ -327,7 +332,7 @@
                         },
                         {
                           "id": "lnk-439dbc1bde",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
@@ -353,11 +358,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Philippines W",
             "team_b": "I",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142851_8f44d2ed.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "16:00",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -366,7 +371,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cb1beb54e4_0748a1e8_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cb1beb54e4_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -379,7 +384,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -400,7 +405,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-8bd26ff327",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
@@ -417,7 +422,7 @@
                         },
                         {
                           "id": "lnk-439dbc1bde",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
@@ -443,11 +448,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Vietnam W",
             "team_b": "T",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/20250826_164900_cfcedb98.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "19:00",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -456,7 +461,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-41460c627f_407148bb_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-41460c627f_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -469,7 +474,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -490,7 +495,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-2f22aadd9f",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
@@ -507,7 +512,7 @@
                         },
                         {
                           "id": "lnk-71a3676baa",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
@@ -533,11 +538,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "FC Porto",
             "team_b": "T",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125615_3ace82b6.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "02:15",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -546,7 +551,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d76208166e_a4f42202_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d76208166e_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -559,7 +564,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -580,7 +585,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-f95db3fce2",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
@@ -597,7 +602,7 @@
                         },
                         {
                           "id": "lnk-0f5d544a39",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
@@ -623,11 +628,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Belgrano Cordoba",
             "team_b": "A",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132719_cb10e107.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "04:00",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -636,7 +641,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-08e67b1341_0249bfe4_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-08e67b1341_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -649,7 +654,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -670,7 +675,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-01aaaaefba",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
@@ -687,7 +692,7 @@
                         },
                         {
                           "id": "lnk-7bafb7ebe1",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
@@ -713,11 +718,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "South Melbourne",
             "team_b": "S",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_141355_3745ec34.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "12:30",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -726,7 +731,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3099acec93_51626646_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3099acec93_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -739,7 +744,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -760,7 +765,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-5469599148",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8",
@@ -777,7 +782,7 @@
                         },
                         {
                           "id": "lnk-e83d2ee378",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/camryhd.flv",
@@ -803,11 +808,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Japan",
             "team_b": "S",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "14:40",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -816,7 +821,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1328ebabe4_0c309fd0_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1328ebabe4_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -829,7 +834,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -850,7 +855,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-e3a4472f2c",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
@@ -867,7 +872,7 @@
                         },
                         {
                           "id": "lnk-99b34a5d2f",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
@@ -893,11 +898,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Qingdao Youth Island",
             "team_b": "Q",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133509_7baf717e.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "17:00",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -906,7 +911,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8885133da4_089f0693_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8885133da4_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -919,7 +924,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -940,7 +945,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-694cfaa40e",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
@@ -957,7 +962,7 @@
                         },
                         {
                           "id": "lnk-373bd859d5",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
@@ -983,11 +988,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Jeju United FC",
             "team_b": "I",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133955_dbd7e40e.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "17:30",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -996,7 +1001,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-64875f9e5d_4fad0d9d_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-64875f9e5d_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -1009,7 +1014,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -1030,7 +1035,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-5469599148",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8",
@@ -1047,7 +1052,7 @@
                         },
                         {
                           "id": "lnk-e83d2ee378",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/camryhd.flv",
@@ -1073,11 +1078,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "USA",
             "team_b": "P",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "18:30",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -1086,7 +1091,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7043f3f7e6_f14bea85_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7043f3f7e6_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -1099,7 +1104,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -1120,7 +1125,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-c0c0bb271f",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
@@ -1137,7 +1142,7 @@
                         },
                         {
                           "id": "lnk-88ba289dd1",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
@@ -1163,11 +1168,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Sichuan Jiuniu",
             "team_b": "C",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133508_b232aaeb.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "19:00",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -1176,7 +1181,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cae9146451_1c2028b5_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cae9146451_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
@@ -1189,7 +1194,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2 links)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -1210,7 +1215,7 @@
                       "stream_links": [
                         {
                           "id": "lnk-2f22aadd9f",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
@@ -1227,7 +1232,7 @@
                         },
                         {
                           "id": "lnk-71a3676baa",
-                          "name": "Unknown",
+                          "name": "Stream",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
@@ -1253,11 +1258,11 @@
             "league": "🔴 CHUỐI CHIÊN TV",
             "team_a": "Brondby",
             "team_b": "V",
-            "logo_a": "https://tinhlagi.pro/logo.jpg",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130613_420746d6.png",
+            "logo_a": null,
+            "logo_b": null,
             "time": "21:00",
             "date": "02/08",
-            "blv": "Unknown, Unknown",
+            "blv": "Stream, Stream",
             "is_live": true,
             "cate_type": "football",
             "stream_count": 2
@@ -1266,7 +1271,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ed8a17aa1e_a13f6b2f_20260802.png?v=2d05029c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ed8a17aa1e_43a03299_20260802.png?v=d41d8cd9",
             "width": 1600,
             "height": 1200
           }
