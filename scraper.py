@@ -23,10 +23,9 @@ FILTER_KEYWORDS = ["chuối chiên", "chuoi chien", "chuối chiên tv"]
 
 CATE_DISPLAY = {
     "football": "⚽ Bóng Đá", 
-    "volleyball": "🏐 Bóng Chuyền"
+    "volleyball": " Bóng Chuyền"
 }
 
-# Danh sách các quốc gia VNL / Bóng chuyền
 VNL_COUNTRIES = {
     "vietnam", "japan", "slovakia", "poland", "usa", "brazil", "italy", 
     "serbia", "turkey", "thailand", "china", "dominican republic", "canada", 
@@ -43,7 +42,7 @@ COUNTRY_TO_FLAG = {
     "indonesia": "id", "south korea": "kr", "croatia": "hr", "mexico": "mx"
 }
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
 def now_vn():
     return datetime.now(tz=VN_TZ)
@@ -51,64 +50,54 @@ def now_vn():
 def make_id(text, prefix):
     return f"{prefix}-{hashlib.md5(text.encode('utf-8')).hexdigest()[:10]}"
 
-# ─────────────────────────────────────────────────────────────────────────────
-# LOGIC TRA CỨU WEB (DUCKDUCKGO FALLBACK)
+# ────────────────────────────────────────────────────────────────────────────
+# LOGIC THỜI GIAN & PHÂN LOẠI
 # ─────────────────────────────────────────────────────────────────────────────
 
-def check_sport_via_web(team_a, team_b):
+def clean_team_name(raw_name):
+    if not raw_name: return ""
+    name = re.sub(r'\s*\([^)]*\)', '', raw_name)
+    name = re.sub(r'\s*\[[^\]]*\]', '', name)
+    return re.sub(r'\s+', ' ', name).strip().title()
+
+def check_match_status(time_str, date_str):
     """
-    Tra cứu nhanh trên DuckDuckGo HTML để xác định môn thể thao.
-    Không bị chặn, không cần API key.
+    Trả về:
+    - "live": trận đang diễn ra hoặc sắp bắt đầu <= 15 phút
+    - "upcoming": trận chưa đến giờ (> 15 phút nữa)
+    - "finished": trận đã kết thúc (> 150 phút trước)
     """
-    query = f"{team_a} vs {team_b} bóng chuyền OR volleyball OR bóng đá OR football match"
-    url = f"https://html.duckduckgo.com/html?q={urllib.parse.quote(query)}"
+    if not time_str or not date_str:
+        return "upcoming"
     
+    now = now_vn()
     try:
-        res = requests.get(url, headers=HEADERS, timeout=10)
-        if res.status_code == 200:
-            text = res.text.lower()
-            
-            # Tìm vị trí xuất hiện của các từ khóa
-            pos_vb = min(
-                text.find("volleyball") if "volleyball" in text else 9999,
-                text.find("bóng chuyền") if "bóng chuyền" in text else 9999,
-                text.find("vnl") if "vnl" in text else 9999
-            )
-            pos_fb = min(
-                text.find("football") if "football" in text else 9999,
-                text.find("bóng đá") if "bóng đá" in text else 9999,
-                text.find("soccer") if "soccer" in text else 9999
-            )
-            
-            # Nếu từ khóa bóng chuyền xuất hiện TRƯỚC bóng đá, hoặc bóng đá không tồn tại
-            if pos_vb < pos_fb and pos_vb != 9999:
-                print(f"  🌐 Web Check: {team_a} vs {team_b} -> Volleyball")
-                return "volleyball"
-            elif pos_fb != 9999:
-                print(f"  🌐 Web Check: {team_a} vs {team_b} -> Football")
-                return "football"
-    except Exception as e:
-        print(f"  ⚠️ Web check failed: {e}")
+        day, month = map(int, date_str.split('/'))
+        hour, minute = map(int, time_str.split(':'))
+        match_dt = datetime(now.year, month, day, hour, minute, tzinfo=VN_TZ)
         
-    return "football" # Fallback an toàn
+        if match_dt < now and (now - match_dt).days > 20:
+            match_dt = match_dt.replace(year=now.year + 1)
+            
+        diff_minutes = (match_dt - now).total_seconds() / 60
+        
+        if diff_minutes < -150:
+            return "finished"
+        elif diff_minutes <= 15:
+            return "live"
+        else:
+            return "upcoming"
+    except:
+        return "upcoming"
 
-def determine_sport_smart(team_a, team_b, channel_name, group_title):
-    """
-    Logic phân loại 3 lớp:
-    1. Từ khóa rõ ràng trong M3U.
-    2. Kiểm tra danh sách quốc gia VNL.
-    3. Nếu vẫn nghi ngờ, hỏi DuckDuckGo.
-    """
-    text = f"{channel_name} {group_title}".lower()
-    
-    # Lớp 1: Từ khóa cứng
+def determine_sport_smart(team_a, team_b, channel_name):
+    text = channel_name.lower()
     if any(kw in text for kw in ["vnl", "fivb", "bóng chuyền", "bong chuyen", "volleyball"]):
         return "volleyball"
     
     team_a_lower = team_a.lower()
     team_b_lower = team_b.lower()
     
-    # Lớp 2: Kiểm tra quốc gia VNL
     is_a_vnl = team_a_lower in VNL_COUNTRIES or any(c in team_a_lower for c in VNL_COUNTRIES)
     is_b_vnl = team_b_lower in VNL_COUNTRIES or any(c in team_b_lower for c in VNL_COUNTRIES)
     
@@ -120,36 +109,7 @@ def determine_sport_smart(team_a, team_b, channel_name, group_title):
     if (" w " in team_b_lower or team_b_lower.endswith(" w")) and is_b_vnl:
         return "volleyball"
         
-    # Lớp 3: Nếu là 2 tên ngắn (có thể là quốc gia) nhưng không nằm trong list, hỏi Web
-    if len(team_a.split()) <= 2 and len(team_b.split()) <= 2:
-        return check_sport_via_web(team_a, team_b)
-        
-    # Mặc định: CLB = Bóng đá
     return "football"
-
-# ─────────────────────────────────────────────────────────────────────────────
-# CÁC HÀM XỬ LÝ M3U & LOGO (Giữ nguyên như bản trước)
-# ─────────────────────────────────────────────────────────────────────────────
-
-def clean_team_name(raw_name):
-    if not raw_name: return ""
-    name = re.sub(r'\s*\([^)]*\)', '', raw_name)
-    name = re.sub(r'\s*\[[^\]]*\]', '', name)
-    return re.sub(r'\s+', ' ', name).strip().title()
-
-def is_match_relevant(time_str, date_str):
-    if not time_str or not date_str: return True
-    now = now_vn()
-    try:
-        day, month = map(int, date_str.split('/'))
-        hour, minute = map(int, time_str.split(':'))
-        match_dt = datetime(now.year, month, day, hour, minute, tzinfo=VN_TZ)
-        if match_dt < now and (now - match_dt).days > 20:
-            match_dt = match_dt.replace(year=now.year + 1)
-        diff_minutes = (match_dt - now).total_seconds() / 60
-        return -150 <= diff_minutes <= 15 
-    except:
-        return True
 
 def parse_logos_from_m3u(extinf_line):
     logo_match = re.search(r'tvg-logo="([^"]*)"', extinf_line)
@@ -193,7 +153,7 @@ def fetch_image(url_or_path):
     except: pass
     return None
 
-# ─────────────────────────────────────────────────────────────────────────────
+# ────────────────────────────────────────────────────────────────────────────
 # MAIN PROCESS
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -226,10 +186,7 @@ def process_m3u():
                 if time_match:
                     time_str, date_str, rest = time_match.group(1), time_match.group(2), time_match.group(3).strip()
                     
-                    if not is_match_relevant(time_str, date_str):
-                        current_extinf = None
-                        continue 
-                        
+                    # KHÔNG LỌC BỎ TRẬN - Giữ lại tất cả
                     vs_match = re.split(r'\s+vs\s+', rest, flags=re.IGNORECASE, maxsplit=1)
                     if len(vs_match) == 2:
                         team_a = clean_team_name(vs_match[0])
@@ -239,8 +196,10 @@ def process_m3u():
                 else:
                     time_str, date_str, team_a, team_b = "", "", channel_name, ""
 
-                # Phân loại thông minh có hỏi Web nếu cần
-                cate = determine_sport_smart(team_a, team_b, channel_name, "")
+                cate = determine_sport_smart(team_a, team_b, channel_name)
+                
+                # Kiểm tra trạng thái trận đấu
+                match_status = check_match_status(time_str, date_str)
                 
                 logo_a_url, logo_b_url = parse_logos_from_m3u(current_extinf)
                 if not logo_a_url: logo_a_url = get_fallback_logo(team_a)
@@ -254,11 +213,14 @@ def process_m3u():
                         "time": time_str, "date": date_str,
                         "team_a": team_a, "team_b": team_b,
                         "cate": cate,
+                        "status": match_status,  # live / upcoming / finished
                         "streams": [], 
                         "logo_a": logo_a_url, "logo_b": logo_b_url,
                         "logo_a_local": None, "logo_b_local": None
                     }
-                matches_dict[match_key]["streams"].append({"url": line, "blv": "Stream"})
+                # Chỉ thêm stream nếu trận đang live hoặc sắp live
+                if match_status in ["live", "upcoming"]:
+                    matches_dict[match_key]["streams"].append({"url": line, "blv": "Stream"})
             current_extinf = None
 
     print(f"▶ Đang tải logo cho {len(matches_dict)} trận...")
@@ -280,12 +242,11 @@ def process_m3u():
     return final_matches
 
 # ─────────────────────────────────────────────────────────────────────────────
-# THUMBNAIL & JSON BUILD (Giữ nguyên chuẩn format)
+# THUMBNAIL & JSON BUILD
 # ─────────────────────────────────────────────────────────────────────────────
-# (Đoạn code make_thumbnail, cleanup_old_thumbs, build_channel giữ nguyên như các bản trước)
 
 def make_thumbnail(match, match_id_safe):
-    cache_key = (match.get("team_a") or "") + (match.get("team_b") or "") + "v13"
+    cache_key = (match.get("team_a") or "") + (match.get("team_b") or "") + "v14"
     logo_hash = hashlib.md5(cache_key.encode()).hexdigest()[:8]
     date_str = now_vn().strftime("%Y%m%d")
     out_path = f"{THUMBS_DIR}/{match_id_safe}_{logo_hash}_{date_str}.png"
@@ -372,16 +333,23 @@ def cleanup_old_thumbs(days: int = 3):
                 except: pass
 
 def build_channel(match, match_id_safe, thumb_url):
+    # Chỉ thêm stream_links nếu trận đang live hoặc sắp live (<= 15 phút)
     stream_links = []
-    for idx, stream in enumerate(match["streams"]):
-        stream_links.append({
-            "id": make_id(stream["url"] + str(idx), "lnk"),
-            "name": stream["blv"],
-            "type": "hls",
-            "default": idx == 0,
-            "url": stream["url"],
-            "request_headers": [{"key": "User-Agent", "value": "Mozilla/5.0"}, {"key": "Referer", "value": "https://live.chuoichien.tv/"}]
-        })
+    if match["status"] == "live":
+        for idx, stream in enumerate(match["streams"]):
+            stream_links.append({
+                "id": make_id(stream["url"] + str(idx), "lnk"),
+                "name": stream["blv"],
+                "type": "hls",
+                "default": idx == 0,
+                "url": stream["url"],
+                "request_headers": [{"key": "User-Agent", "value": "Mozilla/5.0"}, {"key": "Referer", "value": "https://live.chuoichien.tv/"}]
+            })
+
+    # Label khác nhau tùy trạng thái
+    is_live = match["status"] == "live"
+    label_text = f"● LIVE ({len(stream_links)})" if is_live else "🕐 Sắp"
+    label_color = "#ff4444" if is_live else "#aaaaaa"
 
     display_name = f"{match['team_a']} vs {match['team_b']} | {match['time']} {match['date']}"
     return {
@@ -390,7 +358,7 @@ def build_channel(match, match_id_safe, thumb_url):
         "type": "single",
         "display": "thumbnail-only",
         "enable_detail": False,
-        "labels": [{"text": f"● LIVE ({len(stream_links)})", "position": "top-left", "color": "#00000080", "text_color": "#ff4444"}],
+        "labels": [{"text": label_text, "position": "top-left", "color": "#00000080", "text_color": label_color}],
         "sources": [{
             "id": make_id(match_id_safe, "src"),
             "name": "Chuối Chiên TV",
@@ -403,8 +371,10 @@ def build_channel(match, match_id_safe, thumb_url):
         "org_metadata": {
             "league": "Trực Tiếp", "team_a": match["team_a"], "team_b": match["team_b"],
             "time": match["time"], "date": match["date"],
-            "blv": ", ".join([s["blv"] for s in match["streams"]]),
-            "is_live": True, "cate_type": match["cate"]
+            "blv": ", ".join([s["blv"] for s in match["streams"]]) if stream_links else "Chưa có link",
+            "is_live": is_live,
+            "status": match["status"],
+            "cate_type": match["cate"]
         },
         "image": {
             "padding": 1, "background_color": "#ffffff", "display": "contain",
@@ -418,7 +388,7 @@ def main():
 
     matches = process_m3u()
     if not matches:
-        print("⚠️ Không tìm thấy trận nào trong khung giờ hợp lệ!")
+        print("⚠️ Không tìm thấy trận nào!")
         return
     
     print(f"\n▶ Đang tạo thumbnail và build JSON...")
@@ -444,7 +414,8 @@ def main():
         ch_list = grouped[cate]
         if not ch_list: continue
         live_cnt = sum(1 for ch in ch_list if ch["org_metadata"].get("is_live"))
-        cate_name = f"{CATE_DISPLAY.get(cate)} ({live_cnt} LIVE)" if live_cnt > 0 else CATE_DISPLAY.get(cate)
+        upcoming_cnt = sum(1 for ch in ch_list if not ch["org_metadata"].get("is_live"))
+        cate_name = f"{CATE_DISPLAY.get(cate)} ({live_cnt} LIVE, {upcoming_cnt} Sắp)"
         output_groups.append({
             "id": f"cate_{cate}", "name": cate_name, "display": "vertical",
             "grid_number": 2, "enable_detail": False, "channels": ch_list
