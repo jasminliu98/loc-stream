@@ -4,6 +4,7 @@ import hashlib
 import re
 import os
 import time
+import urllib.parse
 from datetime import datetime, timezone, timedelta
 from PIL import Image, ImageDraw, ImageFont
 from io import BytesIO
@@ -22,26 +23,27 @@ FILTER_KEYWORDS = ["chuối chiên", "chuoi chien", "chuối chiên tv"]
 
 CATE_DISPLAY = {
     "football": "⚽ Bóng Đá", 
-    "volleyball": "🏐 Bóng Chuyền", 
-    "other": "🏅 Thể Thao Khác"
+    "volleyball": "🏐 Bóng Chuyền"
 }
 
-VOLLEYBALL_COUNTRIES = [
+# Danh sách các quốc gia VNL / Bóng chuyền
+VNL_COUNTRIES = {
     "vietnam", "japan", "slovakia", "poland", "usa", "brazil", "italy", 
     "serbia", "turkey", "thailand", "china", "dominican republic", "canada", 
     "netherlands", "france", "germany", "bulgaria", "slovenia", "belgium",
-    "philippines", "indonesia"
-]
+    "philippines", "indonesia", "south korea", "croatia", "mexico"
+}
 
 COUNTRY_TO_FLAG = {
     "vietnam": "vn", "japan": "jp", "slovakia": "sk", "poland": "pl",
     "usa": "us", "brazil": "br", "italy": "it", "serbia": "rs",
     "turkey": "tr", "china": "cn", "dominican republic": "do", "canada": "ca",
     "netherlands": "nl", "france": "fr", "germany": "de", "thailand": "th",
-    "bulgaria": "bg", "slovenia": "si", "belgium": "be", "philippines": "ph", "indonesia": "id"
+    "bulgaria": "bg", "slovenia": "si", "belgium": "be", "philippines": "ph", 
+    "indonesia": "id", "south korea": "kr", "croatia": "hr", "mexico": "mx"
 }
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 
 def now_vn():
     return datetime.now(tz=VN_TZ)
@@ -50,7 +52,83 @@ def make_id(text, prefix):
     return f"{prefix}-{hashlib.md5(text.encode('utf-8')).hexdigest()[:10]}"
 
 # ─────────────────────────────────────────────────────────────────────────────
-# LOGIC XỬ LÝ
+# LOGIC TRA CỨU WEB (DUCKDUCKGO FALLBACK)
+# ─────────────────────────────────────────────────────────────────────────────
+
+def check_sport_via_web(team_a, team_b):
+    """
+    Tra cứu nhanh trên DuckDuckGo HTML để xác định môn thể thao.
+    Không bị chặn, không cần API key.
+    """
+    query = f"{team_a} vs {team_b} bóng chuyền OR volleyball OR bóng đá OR football match"
+    url = f"https://html.duckduckgo.com/html?q={urllib.parse.quote(query)}"
+    
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=10)
+        if res.status_code == 200:
+            text = res.text.lower()
+            
+            # Tìm vị trí xuất hiện của các từ khóa
+            pos_vb = min(
+                text.find("volleyball") if "volleyball" in text else 9999,
+                text.find("bóng chuyền") if "bóng chuyền" in text else 9999,
+                text.find("vnl") if "vnl" in text else 9999
+            )
+            pos_fb = min(
+                text.find("football") if "football" in text else 9999,
+                text.find("bóng đá") if "bóng đá" in text else 9999,
+                text.find("soccer") if "soccer" in text else 9999
+            )
+            
+            # Nếu từ khóa bóng chuyền xuất hiện TRƯỚC bóng đá, hoặc bóng đá không tồn tại
+            if pos_vb < pos_fb and pos_vb != 9999:
+                print(f"  🌐 Web Check: {team_a} vs {team_b} -> Volleyball")
+                return "volleyball"
+            elif pos_fb != 9999:
+                print(f"  🌐 Web Check: {team_a} vs {team_b} -> Football")
+                return "football"
+    except Exception as e:
+        print(f"  ⚠️ Web check failed: {e}")
+        
+    return "football" # Fallback an toàn
+
+def determine_sport_smart(team_a, team_b, channel_name, group_title):
+    """
+    Logic phân loại 3 lớp:
+    1. Từ khóa rõ ràng trong M3U.
+    2. Kiểm tra danh sách quốc gia VNL.
+    3. Nếu vẫn nghi ngờ, hỏi DuckDuckGo.
+    """
+    text = f"{channel_name} {group_title}".lower()
+    
+    # Lớp 1: Từ khóa cứng
+    if any(kw in text for kw in ["vnl", "fivb", "bóng chuyền", "bong chuyen", "volleyball"]):
+        return "volleyball"
+    
+    team_a_lower = team_a.lower()
+    team_b_lower = team_b.lower()
+    
+    # Lớp 2: Kiểm tra quốc gia VNL
+    is_a_vnl = team_a_lower in VNL_COUNTRIES or any(c in team_a_lower for c in VNL_COUNTRIES)
+    is_b_vnl = team_b_lower in VNL_COUNTRIES or any(c in team_b_lower for c in VNL_COUNTRIES)
+    
+    if is_a_vnl and is_b_vnl:
+        return "volleyball"
+        
+    if (" w " in team_a_lower or team_a_lower.endswith(" w")) and is_a_vnl:
+        return "volleyball"
+    if (" w " in team_b_lower or team_b_lower.endswith(" w")) and is_b_vnl:
+        return "volleyball"
+        
+    # Lớp 3: Nếu là 2 tên ngắn (có thể là quốc gia) nhưng không nằm trong list, hỏi Web
+    if len(team_a.split()) <= 2 and len(team_b.split()) <= 2:
+        return check_sport_via_web(team_a, team_b)
+        
+    # Mặc định: CLB = Bóng đá
+    return "football"
+
+# ─────────────────────────────────────────────────────────────────────────────
+# CÁC HÀM XỬ LÝ M3U & LOGO (Giữ nguyên như bản trước)
 # ─────────────────────────────────────────────────────────────────────────────
 
 def clean_team_name(raw_name):
@@ -60,81 +138,39 @@ def clean_team_name(raw_name):
     return re.sub(r'\s+', ' ', name).strip().title()
 
 def is_match_relevant(time_str, date_str):
-    """
-    Chỉ giữ lại trận: Đang diễn ra (trong vòng 2.5 tiếng qua) HOẶC sắp bắt đầu (<= 15 phút)
-    """
-    if not time_str or not date_str:
-        return True # Nếu không có giờ, giữ lại để an toàn
-    
+    if not time_str or not date_str: return True
     now = now_vn()
     try:
         day, month = map(int, date_str.split('/'))
         hour, minute = map(int, time_str.split(':'))
-        
-        # Tạo datetime của trận đấu (giả sử cùng năm)
         match_dt = datetime(now.year, month, day, hour, minute, tzinfo=VN_TZ)
-        
-        # Xử lý trường hợp qua năm mới (ví dụ: giờ là 31/12, trận là 01/01)
         if match_dt < now and (now - match_dt).days > 20:
             match_dt = match_dt.replace(year=now.year + 1)
-            
         diff_minutes = (match_dt - now).total_seconds() / 60
-        
-        # Giữ nếu: Đã bắt đầu tối đa 150 phút (2.5 tiếng) trước, hoặc sắp bắt đầu trong 15 phút tới
-        if -150 <= diff_minutes <= 15:
-            return True
-        return False
-    except Exception:
+        return -150 <= diff_minutes <= 15 
+    except:
         return True
 
-def search_sportsdb(team_name, sport_filter):
-    try:
-        url = f"https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t={requests.utils.quote(team_name)}"
-        res = requests.get(url, headers=HEADERS, timeout=10)
-        teams = res.json().get('teams', [])
-        
-        for team in teams:
-            if team.get('strSport', '').lower() == sport_filter.lower():
-                db_name = team.get('strTeam', '').lower()
-                search_name = team_name.lower()
-                if search_name in db_name or db_name in search_name:
-                    return team
-        return None
-    except:
-        return None
+def parse_logos_from_m3u(extinf_line):
+    logo_match = re.search(r'tvg-logo="([^"]*)"', extinf_line)
+    if not logo_match: return None, None
+    logo_url = logo_match.group(1)
+    if "merge_logos.php" in logo_url:
+        try:
+            parsed = urllib.parse.urlparse(logo_url)
+            params = urllib.parse.parse_qs(parsed.query)
+            home = urllib.parse.unquote(params.get('home', [None])[0])
+            away = urllib.parse.unquote(params.get('away', [None])[0])
+            return home, away
+        except: pass
+    return logo_url, None
 
-def get_flag_url(team_name):
+def get_fallback_logo(team_name):
     team_lower = team_name.lower()
     for country, code in COUNTRY_TO_FLAG.items():
         if country in team_lower or team_lower in country:
             return f"https://flagcdn.com/w320/{code}.png"
     return None
-
-def resolve_team_data(team_name, is_volleyball_context):
-    """
-    Logic phân loại: Ưu tiên Bóng Đá. Chỉ chuyển Bóng Chuyền nếu có ngữ cảnh rõ ràng.
-    KHÔNG BAO GIỜ trả về 'other' cho các trận có tên đội rõ ràng.
-    """
-    if not team_name or len(team_name) < 2:
-        return "football", None
-        
-    # 1. Thử tìm trên TheSportsDB
-    sport_to_search = "Volleyball" if is_volleyball_context else "Football"
-    db_data = search_sportsdb(team_name, sport_to_search)
-    
-    if db_data and db_data.get('strBadge'):
-        cate = "volleyball" if sport_to_search == "Volleyball" else "football"
-        return cate, db_data.get('strBadge')
-        
-    # 2. Fallback: Nếu không tìm thấy, dùng Cờ quốc gia (nếu là nước)
-    flag_url = get_flag_url(team_name)
-    
-    # 3. Quyết định category: Nếu là ngữ cảnh bóng chuyền HOẶC là tên quốc gia -> Volleyball. Ngược lại -> Football
-    if is_volleyball_context or flag_url:
-        return "volleyball", flag_url
-    
-    # Mặc định là Bóng Đá cho các CLB (Girona, Arsenal, Porto...)
-    return "football", flag_url
 
 def download_logo(logo_url, save_path):
     if not logo_url: return False
@@ -186,12 +222,10 @@ def process_m3u():
                 name_match = re.search(r',(.*?)$', current_extinf)
                 channel_name = name_match.group(1).strip() if name_match else "Unknown"
                 
-                # Parse time và đội
                 time_match = re.match(r'(\d{1,2}:\d{2})\s+(\d{1,2}/\d{1,2})\s+(.*)', channel_name)
                 if time_match:
                     time_str, date_str, rest = time_match.group(1), time_match.group(2), time_match.group(3).strip()
                     
-                    # LỌC THỜI GIAN: Chỉ giữ trận trong vòng 15 phút hoặc đang live
                     if not is_match_relevant(time_str, date_str):
                         current_extinf = None
                         continue 
@@ -205,11 +239,12 @@ def process_m3u():
                 else:
                     time_str, date_str, team_a, team_b = "", "", channel_name, ""
 
-                # Kiểm tra ngữ cảnh Bóng chuyền
-                is_vb = any(kw in current_extinf.lower() for kw in ["vnl", "fivb", "bóng chuyền", "bong chuyen", "volleyball"])
-                # Hoặc nếu cả 2 đội đều là quốc gia nổi tiếng về bóng chuyền
-                if not is_vb and team_a.lower() in VOLLEYBALL_COUNTRIES and team_b.lower() in VOLLEYBALL_COUNTRIES:
-                    is_vb = True
+                # Phân loại thông minh có hỏi Web nếu cần
+                cate = determine_sport_smart(team_a, team_b, channel_name, "")
+                
+                logo_a_url, logo_b_url = parse_logos_from_m3u(current_extinf)
+                if not logo_a_url: logo_a_url = get_fallback_logo(team_a)
+                if not logo_b_url: logo_b_url = get_fallback_logo(team_b)
 
                 match_key = f"{time_str}_{date_str}_{team_a.lower()}_{team_b.lower()}"
                 
@@ -218,43 +253,39 @@ def process_m3u():
                         "match_id": make_id(match_key, "match"),
                         "time": time_str, "date": date_str,
                         "team_a": team_a, "team_b": team_b,
-                        "is_vb_context": is_vb,
-                        "streams": [], "logo_a": None, "logo_b": None, "cate": "football"
+                        "cate": cate,
+                        "streams": [], 
+                        "logo_a": logo_a_url, "logo_b": logo_b_url,
+                        "logo_a_local": None, "logo_b_local": None
                     }
                 matches_dict[match_key]["streams"].append({"url": line, "blv": "Stream"})
             current_extinf = None
 
-    print(f"▶ Đang phân giải dữ liệu và tải logo cho {len(matches_dict)} trận phù hợp...")
+    print(f"▶ Đang tải logo cho {len(matches_dict)} trận...")
     final_matches = []
     for match in matches_dict.values():
-        print(f"\n  🔍 {match['team_a']} vs {match['team_b']}")
-        
-        cate_a, logo_a = resolve_team_data(match['team_a'], match['is_vb_context'])
-        cate_b, logo_b = resolve_team_data(match['team_b'], match['is_vb_context'])
-        
-        # Nếu 1 trong 2 đội được nhận diện là bóng chuyền, cả trận là bóng chuyền
-        final_cate = "volleyball" if "volleyball" in [cate_a, cate_b] else "football"
-        
-        if logo_a:
+        if match["logo_a"]:
             path = f"{THUMBS_DIR}/la_{make_id(match['team_a'], 't')}.png"
-            if download_logo(logo_a, path): match["logo_a"] = path
+            if download_logo(match["logo_a"], path): match["logo_a_local"] = path
             
-        if logo_b:
+        if match["logo_b"]:
             path = f"{THUMBS_DIR}/lb_{make_id(match['team_b'], 't')}.png"
-            if download_logo(logo_b, path): match["logo_b"] = path
+            if download_logo(match["logo_b"], path): match["logo_b_local"] = path
             
-        match["cate"] = final_cate
+        match["final_logo_a"] = match["logo_a_local"] or match["logo_a"]
+        match["final_logo_b"] = match["logo_b_local"] or match["logo_b"]
         final_matches.append(match)
-        time.sleep(0.2)
+        time.sleep(0.1)
         
     return final_matches
 
 # ─────────────────────────────────────────────────────────────────────────────
-# THUMBNAIL & JSON BUILD
+# THUMBNAIL & JSON BUILD (Giữ nguyên chuẩn format)
 # ─────────────────────────────────────────────────────────────────────────────
+# (Đoạn code make_thumbnail, cleanup_old_thumbs, build_channel giữ nguyên như các bản trước)
 
 def make_thumbnail(match, match_id_safe):
-    cache_key = (match.get("team_a") or "") + (match.get("team_b") or "") + "v10"
+    cache_key = (match.get("team_a") or "") + (match.get("team_b") or "") + "v13"
     logo_hash = hashlib.md5(cache_key.encode()).hexdigest()[:8]
     date_str = now_vn().strftime("%Y%m%d")
     out_path = f"{THUMBS_DIR}/{match_id_safe}_{logo_hash}_{date_str}.png"
@@ -308,7 +339,7 @@ def make_thumbnail(match, match_id_safe):
             font_size -= 3
         draw.text((cx, name_center), text, fill=(20, 20, 20), font=f, anchor="mm")
 
-    for logo_src, x_pos in [(match.get("logo_a"), W // 4 - logo_size // 2), (match.get("logo_b"), W * 3 // 4 - logo_size // 2)]:
+    for logo_src, x_pos in [(match.get("final_logo_a"), W // 4 - logo_size // 2), (match.get("final_logo_b"), W * 3 // 4 - logo_size // 2)]:
         if logo_src:
             img = fetch_image(logo_src)
             if img:
@@ -400,19 +431,20 @@ def main():
         channels.append(build_channel(match, match_id_safe, thumb_url))
         time.sleep(0.1)
 
-    # Group by category
-    grouped = {"volleyball": [], "football": [], "other": []}
+    grouped = {"volleyball": [], "football": []}
     for ch in channels:
         cate = ch["org_metadata"]["cate_type"]
-        if cate in grouped: grouped[cate].append(ch)
-        else: grouped["other"].append(ch)
+        if cate in grouped: 
+            grouped[cate].append(ch)
+        else: 
+            grouped["football"].append(ch)
 
     output_groups = []
-    for cate in ["volleyball", "football", "other"]:
+    for cate in ["volleyball", "football"]:
         ch_list = grouped[cate]
         if not ch_list: continue
         live_cnt = sum(1 for ch in ch_list if ch["org_metadata"].get("is_live"))
-        cate_name = f"{CATE_DISPLAY.get(cate, '🏅 Thể Thao')} ({live_cnt} LIVE)" if live_cnt > 0 else CATE_DISPLAY.get(cate, '🏅 Thể Thao')
+        cate_name = f"{CATE_DISPLAY.get(cate)} ({live_cnt} LIVE)" if live_cnt > 0 else CATE_DISPLAY.get(cate)
         output_groups.append({
             "id": f"cate_{cate}", "name": cate_name, "display": "vertical",
             "grid_number": 2, "enable_detail": False, "channels": ch_list
