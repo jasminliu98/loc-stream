@@ -1,31 +1,46 @@
-name: Run Scraper
+name: Scraper
+
 on:
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+          python-version: '3.10'
+
       - name: Install dependencies
-        run: pip install requests Pillow
-      - name: Run scraper
-        run: python scraper.py
-        env:
-          REPO_RAW: https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/main
-      - name: Commit output
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output.json thumbs/
-          git diff --cached --quiet || git commit -m "Update output [skip ci]"
-          git push
+          python -m pip install --upgrade pip
+          pip install requests Pillow
+
+      - name: Set REPO_RAW environment variable
+        run: |
+          echo "REPO_RAW=https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}" >> $GITHUB_ENV
+
+      - name: Run Scraper Script
+        run: python scraper.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add cả file raw, thư mục thumbs và file output
+          git add raw_playlist.m3u thumbs/ output.json
+          
+          if git diff --staged --quiet; then
+            echo "Không có thay đổi mới."
+          else
+            git commit -m "chore: update raw m3u, thumbnails and output.json [skip ci]"
+            git push
+          fi
