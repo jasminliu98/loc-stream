@@ -232,99 +232,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-5b2cbdc67e",
-          "name": "Belgrano Cordoba vs Argentinos Jrs | 04:00 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5b2cbdc67e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-5b2cbdc67e",
-                  "name": "Belgrano Cordoba vs Argentinos Jrs",
-                  "streams": [
-                    {
-                      "id": "st-5b2cbdc67e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f95db3fce2",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0f5d544a39",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Belgrano Cordoba",
-            "team_b": "Argentinos Jrs",
-            "time": "04:00",
-            "date": "02/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-405027f3dc_463c364c_20260802.png?v=772870d7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-0fac1ee5b8",
           "name": "Inter Miami vs Columbus Crew | 06:30 02/08",
