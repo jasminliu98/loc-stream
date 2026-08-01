@@ -281,98 +281,11 @@
     },
     {
       "id": "cate_other",
-      "name": "🏅 Thể Thao Khác (10 LIVE)",
+      "name": "🏅 Thể Thao Khác (9 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-30a795284b",
-          "name": "Girona vs Arsenal | 01:00 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-30a795284b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-30a795284b",
-                  "name": "Girona vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "st-30a795284b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f95db3fce2",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0f5d544a39",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VNL / Giải Đấu",
-            "team_a": "Girona",
-            "team_b": "Arsenal",
-            "time": "01:00",
-            "date": "02/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "cate_type": "other"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-996aeebbcf_fca6373d_20260802.png?v=51ea86e0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-c9bde7bd32",
           "name": "Fc Porto vs Torreense | 02:15 02/08",
