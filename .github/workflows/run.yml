@@ -1,7 +1,6 @@
 name: Update M3U Scraper - Chuối Chiên TV
 
 on:
-  schedule:
   workflow_dispatch: # Cho phép chạy thủ công
 
 permissions:
