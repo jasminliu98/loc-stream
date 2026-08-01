@@ -23,7 +23,7 @@ FILTER_KEYWORDS = ["chuối chiên", "chuoi chien", "chuối chiên tv"]
 
 CATE_DISPLAY = {
     "football": "⚽ Bóng Đá", 
-    "volleyball": "🏐 Bóng Chuyền"
+    "volleyball": " Bóng Chuyền"
 }
 
 VNL_COUNTRIES = {
@@ -42,7 +42,7 @@ COUNTRY_TO_FLAG = {
     "indonesia": "id", "south korea": "kr", "croatia": "hr", "mexico": "mx"
 }
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
 def now_vn():
     return datetime.now(tz=VN_TZ)
@@ -51,51 +51,69 @@ def make_id(text, prefix):
     return f"{prefix}-{hashlib.md5(text.encode('utf-8')).hexdigest()[:10]}"
 
 # ─────────────────────────────────────────────────────────────────────────────
-# DUCKDUCKGO LOGO SEARCH
+# WIKIPEDIA LOGO SEARCH (THAY THẾ DUCKDUCKGO)
 # ─────────────────────────────────────────────────────────────────────────────
 
-def search_logo_duckduckgo(team_name, sport="football"):
+def search_logo_wikipedia(team_name, sport="football"):
     """
-    Tìm logo chính thức của đội bóng qua DuckDuckGo Image Search
+    Tìm logo đội bóng qua Wikipedia API
+    Wikipedia có logo chính thức của hầu hết các CLB và đội tuyển
     """
     if not team_name:
         return None
     
-    # Query tìm logo
-    query = f"{team_name} {sport} logo official"
-    url = f"https://html.duckduckgo.com/html/?q={urllib.parse.quote(query)}"
+    # Thêm từ khóa để tìm đúng trang
+    search_terms = [
+        f"{team_name} {sport}",
+        f"{team_name} football club",
+        f"{team_name} volleyball",
+        team_name
+    ]
     
-    try:
-        res = requests.get(url, headers=HEADERS, timeout=10)
-        if res.status_code == 200:
-            # Tìm các link ảnh trong kết quả
-            # DuckDuckGo HTML trả về các thẻ <img> với src chứa link ảnh
-            img_pattern = r'src="(https?://[^"]+\.(png|jpg|jpeg|svg))"'
-            matches = re.findall(img_pattern, res.text)
+    for term in search_terms:
+        try:
+            # Search Wikipedia
+            search_url = f"https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch={urllib.parse.quote(term)}&format=json&srprop=snippet&srwhat=text&srnamespace=0&srlimit=3"
+            res = requests.get(search_url, headers=HEADERS, timeout=10)
             
-            # Lọc các link có vẻ là logo (chứa team name hoặc logo)
-            for img_url, _ in matches:
-                img_lower = img_url.lower()
-                if any(kw in img_lower for kw in ["logo", "badge", "crest", "emblem"]):
-                    # Tránh các link tracking hoặc quá nhỏ
-                    if "duckduckgo" not in img_lower and len(img_url) > 20:
-                        print(f"  🔍 DDG Logo: {team_name} -> {img_url}")
-                        return img_url
-            
-            # Nếu không tìm thấy logo cụ thể, lấy ảnh đầu tiên
-            if matches:
-                img_url = matches[0][0]
-                print(f"  🔍 DDG Fallback: {team_name} -> {img_url}")
-                return img_url
+            if res.status_code == 200:
+                data = res.json()
+                results = data.get('query', {}).get('search', [])
                 
-    except Exception as e:
-        print(f"  ⚠️ DDG search failed for {team_name}: {e}")
+                for result in results:
+                    title = result.get('title', '')
+                    
+                    # Get page info with images
+                    page_url = f"https://en.wikipedia.org/w/api.php?action=query&prop=pageimages|extracts&titles={urllib.parse.quote(title)}&pithumbsize=400&piprop=original&format=json"
+                    page_res = requests.get(page_url, headers=HEADERS, timeout=10)
+                    
+                    if page_res.status_code == 200:
+                        page_data = page_res.json()
+                        pages = page_data.get('query', {}).get('pages', {})
+                        
+                        for page_id, page_info in pages.items():
+                            if page_id != "-1":  # -1 means page not found
+                                # Check for thumbnail
+                                thumbnail = page_info.get('thumbnail', {}).get('source')
+                                if thumbnail:
+                                    print(f"  📚 Wiki Logo: {team_name} -> {thumbnail}")
+                                    return thumbnail
+                                
+                                # Check for original image
+                                original = page_info.get('original', {}).get('source')
+                                if original:
+                                    print(f"  📚 Wiki Original: {team_name} -> {original}")
+                                    return original
+                                    
+        except Exception as e:
+            print(f"  ⚠️ Wiki search failed for {team_name}: {e}")
+            continue
     
     return None
 
 # ─────────────────────────────────────────────────────────────────────────────
 # LOGIC THỜI GIAN & PHÂN LOẠI
-# ────────────────────────────────────────────────────────────────────────────
+# ─────────────────────────────────────────────────────────────────────────────
 
 def clean_team_name(raw_name):
     if not raw_name: return ""
@@ -237,22 +255,27 @@ def process_m3u():
                     matches_dict[match_key]["streams"].append({"url": line, "blv": "Stream"})
             current_extinf = None
 
-    # Tìm logo qua DuckDuckGo cho từng đội
-    print(f"▶ Đang tìm logo chính thức qua DuckDuckGo cho {len(matches_dict)} trận...")
+    # Tìm logo qua Wikipedia cho từng đội
+    print(f"▶ Đang tìm logo chính thức qua Wikipedia cho {len(matches_dict)} trận...")
     final_matches = []
     for match in matches_dict.values():
         print(f"\n  🔍 {match['team_a']} vs {match['team_b']}")
         
-        # Tìm logo team A
-        sport_a = "volleyball" if match["cate"] == "volleyball" else "football"
-        logo_a = search_logo_duckduckgo(match["team_a"], sport_a)
+        sport = "volleyball" if match["cate"] == "volleyball" else "football"
+        
+        # Tìm logo team A - Ưu tiên: Wikipedia > Flag > None
+        logo_a = search_logo_wikipedia(match["team_a"], sport)
         if not logo_a:
             logo_a = get_fallback_logo(match["team_a"])
+            if logo_a:
+                print(f"  🏳️ Fallback Flag: {match['team_a']}")
         
         # Tìm logo team B
-        logo_b = search_logo_duckduckgo(match["team_b"], sport_a)
+        logo_b = search_logo_wikipedia(match["team_b"], sport)
         if not logo_b:
             logo_b = get_fallback_logo(match["team_b"])
+            if logo_b:
+                print(f"  ️ Fallback Flag: {match['team_b']}")
         
         # Download logo
         if logo_a:
@@ -266,7 +289,7 @@ def process_m3u():
         match["final_logo_a"] = match["logo_a_local"] or logo_a
         match["final_logo_b"] = match["logo_b_local"] or logo_b
         final_matches.append(match)
-        time.sleep(0.3) # Tránh rate limit DuckDuckGo
+        time.sleep(0.5) # Tránh rate limit Wikipedia
         
     return final_matches
 
@@ -275,7 +298,7 @@ def process_m3u():
 # ─────────────────────────────────────────────────────────────────────────────
 
 def make_thumbnail(match, match_id_safe):
-    cache_key = (match.get("team_a") or "") + (match.get("team_b") or "") + "v15"
+    cache_key = (match.get("team_a") or "") + (match.get("team_b") or "") + "v16"
     logo_hash = hashlib.md5(cache_key.encode()).hexdigest()[:8]
     date_str = now_vn().strftime("%Y%m%d")
     out_path = f"{THUMBS_DIR}/{match_id_safe}_{logo_hash}_{date_str}.png"
@@ -375,7 +398,7 @@ def build_channel(match, match_id_safe, thumb_url):
             })
 
     is_live = match["status"] == "live"
-    label_text = f"● LIVE ({len(stream_links)})" if is_live else "🕐 Sắp"
+    label_text = f"● LIVE ({len(stream_links)})" if is_live else " Sắp"
     label_color = "#ff4444" if is_live else "#aaaaaa"
 
     display_name = f"{match['team_a']} vs {match['team_b']} | {match['time']} {match['date']}"
@@ -410,7 +433,7 @@ def build_channel(match, match_id_safe, thumb_url):
     }
 
 def main():
-    print(f" Thời gian VN: {now_vn().strftime('%H:%M %d/%m/%Y')}")
+    print(f"⏰ Thời gian VN: {now_vn().strftime('%H:%M %d/%m/%Y')}")
     cleanup_old_thumbs(days=3)
 
     matches = process_m3u()
@@ -441,7 +464,6 @@ def main():
         ch_list = grouped[cate]
         if not ch_list: continue
         live_cnt = sum(1 for ch in ch_list if ch["org_metadata"].get("is_live"))
-        # Chỉ hiển thị số LIVE như format giovang
         cate_name = f"{CATE_DISPLAY.get(cate)} ({live_cnt} LIVE)" if live_cnt > 0 else CATE_DISPLAY.get(cate)
         output_groups.append({
             "id": f"cate_{cate}", "name": cate_name, "display": "vertical",
