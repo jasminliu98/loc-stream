@@ -1,7 +1,7 @@
 name: Update M3U Scraper - Chuối Chiên TV
 
 on:
-  workflow_dispatch: # Cho phép chạy thủ công
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,7 +17,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip' # Cache pip để tăng tốc
+          # ĐÃ XÓA DÒNG cache: 'pip' Ở ĐÂY ĐỂ TRÁNH LỖI THIẾU requirements.txt
 
       - name: Install dependencies
         run: |
@@ -36,7 +36,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Dùng -A để tự động track cả file mới, sửa và XÓA (do cleanup_old_thumbs)
           git add -A
           
           if git diff --staged --quiet; then
@@ -52,7 +51,6 @@ jobs:
         run: |
           echo "## 📊 Kết quả chạy" >> $GITHUB_STEP_SUMMARY
           echo "- Thời gian: $(date '+%H:%M %d/%m/%Y')" >> $GITHUB_STEP_SUMMARY
-          echo "- Repository: ${{ github.repository }}" >> $GITHUB_STEP_SUMMARY
           if [ -f output.json ]; then
             echo "- Output: ✅ Đã tạo" >> $GITHUB_STEP_SUMMARY
           else
