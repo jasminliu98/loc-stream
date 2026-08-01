@@ -10,8 +10,229 @@
   },
   "groups": [
     {
+      "id": "cate_volleyball",
+      "name": " Bóng Chuyền (0 LIVE, 4 Sắp)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "ch-f9e6250420",
+          "name": "Philippines W vs Indonesia W | 16:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f9e6250420",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f9e6250420",
+                  "name": "Philippines W vs Indonesia W",
+                  "streams": [
+                    {
+                      "id": "st-f9e6250420",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Philippines W",
+            "team_b": "Indonesia W",
+            "time": "16:00",
+            "date": "02/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a14a3fe937_da191eea_20260802.png?v=eb2d94b3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-43b6f23247",
+          "name": "Vietnam W vs Thailand W | 19:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-43b6f23247",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-43b6f23247",
+                  "name": "Vietnam W vs Thailand W",
+                  "streams": [
+                    {
+                      "id": "st-43b6f23247",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Vietnam W",
+            "team_b": "Thailand W",
+            "time": "19:00",
+            "date": "02/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ac6824622e_b57fbf75_20260802.png?v=40235bda",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-4123e51a4a",
+          "name": "Japan vs Slovakia | 14:40 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4123e51a4a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4123e51a4a",
+                  "name": "Japan vs Slovakia",
+                  "streams": [
+                    {
+                      "id": "st-4123e51a4a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Japan",
+            "team_b": "Slovakia",
+            "time": "14:40",
+            "date": "02/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5d79ee8f0d_d58332fe_20260802.png?v=53a577bb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b2ccbced46",
+          "name": "Usa vs Poland | 18:30 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b2ccbced46",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b2ccbced46",
+                  "name": "Usa vs Poland",
+                  "streams": [
+                    {
+                      "id": "st-b2ccbced46",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Usa",
+            "team_b": "Poland",
+            "time": "18:30",
+            "date": "02/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a33a8af7e_05b3980a_20260802.png?v=867f8282",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE, 6 Sắp)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -92,13 +313,14 @@
             "date": "02/08",
             "blv": "Stream, Stream",
             "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-405027f3dc_e0aee455_20260802.png?v=772870d7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-405027f3dc_c94f4f3c_20260802.png?v=772870d7",
             "width": 1600,
             "height": 1200
           }
@@ -179,13 +401,332 @@
             "date": "02/08",
             "blv": "Stream, Stream",
             "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c3274439ab_cac42ba8_20260802.png?v=7e1afd3e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c3274439ab_1a2cfe12_20260802.png?v=7e1afd3e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-0fac1ee5b8",
+          "name": "Inter Miami vs Columbus Crew | 06:30 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0fac1ee5b8",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-0fac1ee5b8",
+                  "name": "Inter Miami vs Columbus Crew",
+                  "streams": [
+                    {
+                      "id": "st-0fac1ee5b8",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Inter Miami",
+            "team_b": "Columbus Crew",
+            "time": "06:30",
+            "date": "02/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6a954db13e_0cfa46c7_20260802.png?v=6c10fc1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d2f0f2916e",
+          "name": "South Melbourne vs St. Albans Saints | 12:30 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d2f0f2916e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d2f0f2916e",
+                  "name": "South Melbourne vs St. Albans Saints",
+                  "streams": [
+                    {
+                      "id": "st-d2f0f2916e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "South Melbourne",
+            "team_b": "St. Albans Saints",
+            "time": "12:30",
+            "date": "02/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-73721ed995_24197b1c_20260802.png?v=f0b8290f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6c5647378e",
+          "name": "Qingdao Youth Island vs Qingdao Jonoon | 17:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6c5647378e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6c5647378e",
+                  "name": "Qingdao Youth Island vs Qingdao Jonoon",
+                  "streams": [
+                    {
+                      "id": "st-6c5647378e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Qingdao Youth Island",
+            "team_b": "Qingdao Jonoon",
+            "time": "17:00",
+            "date": "02/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8685221412_3254be88_20260802.png?v=4598be21",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-fd864f7a45",
+          "name": "Jeju United Fc vs Incheon United | 17:30 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fd864f7a45",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-fd864f7a45",
+                  "name": "Jeju United Fc vs Incheon United",
+                  "streams": [
+                    {
+                      "id": "st-fd864f7a45",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Jeju United Fc",
+            "team_b": "Incheon United",
+            "time": "17:30",
+            "date": "02/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-16a0d2f295_c62fcce0_20260802.png?v=c4832e21",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f75b8d504f",
+          "name": "Sichuan Jiuniu vs Chongqing Tongliang Long | 19:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f75b8d504f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f75b8d504f",
+                  "name": "Sichuan Jiuniu vs Chongqing Tongliang Long",
+                  "streams": [
+                    {
+                      "id": "st-f75b8d504f",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sichuan Jiuniu",
+            "team_b": "Chongqing Tongliang Long",
+            "time": "19:00",
+            "date": "02/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cc4a8d9ead_d6b2f959_20260802.png?v=f2547f7a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e9991a35fa",
+          "name": "Brondby vs Viborg | 21:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e9991a35fa",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e9991a35fa",
+                  "name": "Brondby vs Viborg",
+                  "streams": [
+                    {
+                      "id": "st-e9991a35fa",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Brondby",
+            "team_b": "Viborg",
+            "time": "21:00",
+            "date": "02/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bde29c1ab3_62019170_20260802.png?v=9c25ad18",
             "width": 1600,
             "height": 1200
           }
