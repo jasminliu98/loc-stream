@@ -326,6 +326,59 @@
           }
         },
         {
+          "id": "ch-25c2e31d7b",
+          "name": "Nguyễn Thùy Linh vs Tanvi Sharma | 11:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-25c2e31d7b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-25c2e31d7b",
+                  "name": "Nguyễn Thùy Linh vs Tanvi Sharma",
+                  "streams": [
+                    {
+                      "id": "st-25c2e31d7b",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Nguyễn Thùy Linh",
+            "team_b": "Tanvi Sharma",
+            "time": "11:00",
+            "date": "02/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-381a709ab8_7885e838_20260802.png?v=f66ccb48",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-d2f0f2916e",
           "name": "South Melbourne vs St. Albans Saints | 12:30 02/08",
           "type": "single",
