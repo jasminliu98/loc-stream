@@ -695,6 +695,59 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-8f6e787a3c",
+          "name": "Akhmat vs Spartak Moscow | 00:30 03/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8f6e787a3c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8f6e787a3c",
+                  "name": "Akhmat vs Spartak Moscow",
+                  "streams": [
+                    {
+                      "id": "st-8f6e787a3c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Akhmat",
+            "team_b": "Spartak Moscow",
+            "time": "00:30",
+            "date": "03/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c7b8467bbd_523d2c4b_20260802.png?v=d6cca5df",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
