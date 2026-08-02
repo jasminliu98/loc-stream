@@ -23,7 +23,7 @@ FILTER_KEYWORDS = ["chuối chiên", "chuoi chien", "chuối chiên tv"]
 
 CATE_DISPLAY = {
     "football": "⚽ Bóng Đá", 
-    "volleyball": " Bóng Chuyền"
+    "volleyball": "🏐 Bóng Chuyền"
 }
 
 VNL_COUNTRIES = {
