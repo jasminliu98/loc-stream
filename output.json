@@ -238,59 +238,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-0fac1ee5b8",
-          "name": "Inter Miami vs Columbus Crew | 06:30 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0fac1ee5b8",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-0fac1ee5b8",
-                  "name": "Inter Miami vs Columbus Crew",
-                  "streams": [
-                    {
-                      "id": "st-0fac1ee5b8",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Inter Miami",
-            "team_b": "Columbus Crew",
-            "time": "06:30",
-            "date": "02/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6a954db13e_058f3ef6_20260802.png?v=6c10fc1c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-25c2e31d7b",
           "name": "Nguyễn Thùy Linh vs Tanvi Sharma | 11:00 02/08",
           "type": "single",
