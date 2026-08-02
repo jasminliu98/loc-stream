@@ -642,6 +642,59 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-50bbb83e91",
+          "name": "Wrexham vs Sunderland | 23:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-50bbb83e91",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-50bbb83e91",
+                  "name": "Wrexham vs Sunderland",
+                  "streams": [
+                    {
+                      "id": "st-50bbb83e91",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Wrexham",
+            "team_b": "Sunderland",
+            "time": "23:00",
+            "date": "02/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2339109079_f6871f0f_20260802.png?v=85f8ffa7",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
