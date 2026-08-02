@@ -273,94 +273,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-6c5647378e",
-          "name": "Qingdao Youth Island vs Qingdao Jonoon | 17:00 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6c5647378e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-6c5647378e",
-                  "name": "Qingdao Youth Island vs Qingdao Jonoon",
-                  "streams": [
-                    {
-                      "id": "st-6c5647378e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a4472f2c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99b34a5d2f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Qingdao Youth Island",
-            "team_b": "Qingdao Jonoon",
-            "time": "17:00",
-            "date": "02/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8685221412_084eb2ae_20260802.png?v=4598be21",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-fd864f7a45",
           "name": "Jeju United Fc vs Incheon United | 17:30 02/08",
           "type": "single",
@@ -444,6 +356,94 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-16a0d2f295_940413f1_20260802.png?v=c4832e21",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6c5647378e",
+          "name": "Qingdao Youth Island vs Qingdao Jonoon | 17:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6c5647378e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6c5647378e",
+                  "name": "Qingdao Youth Island vs Qingdao Jonoon",
+                  "streams": [
+                    {
+                      "id": "st-6c5647378e",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3a4472f2c",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-99b34a5d2f",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Qingdao Youth Island",
+            "team_b": "Qingdao Jonoon",
+            "time": "17:00",
+            "date": "02/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8685221412_084eb2ae_20260802.png?v=4598be21",
             "width": 1600,
             "height": 1200
           }
@@ -868,6 +868,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1a1e0d18ea_f66afcc4_20260802.png?v=da79c60f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-580dc42b3e",
+          "name": "Club America vs Santos Laguna | 06:00 03/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-580dc42b3e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-580dc42b3e",
+                  "name": "Club America vs Santos Laguna",
+                  "streams": [
+                    {
+                      "id": "st-580dc42b3e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Club America",
+            "team_b": "Santos Laguna",
+            "time": "06:00",
+            "date": "03/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-131ddcd710_a1e9cf80_20260802.png?v=b3a6c59d",
             "width": 1600,
             "height": 1200
           }
