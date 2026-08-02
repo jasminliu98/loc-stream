@@ -22,8 +22,15 @@ REPO_RAW = os.environ.get("REPO_RAW", "")
 FILTER_KEYWORDS = ["chuối chiên", "chuoi chien", "chuối chiên tv"]
 
 CATE_DISPLAY = {
-    "football": "⚽ Bóng Đá", 
-    "volleyball": "🏐 Bóng Chuyền"
+    "football":    "⚽ Bóng Đá",
+    "bong-ro":     "🏀 Bóng Rổ",
+    "tennis":      "🎾 Tennis",
+    "bong-chuyen": "🏐 Bóng Chuyền",
+    "esports":     "🎮 Esport",
+    "cau-long":    "🏸 Cầu Lông",
+    "boxing":      "🥊 Võ Thuật",
+    "billiards":   "🎱 Billiards",
+    "bong-ban":    "🏓 Bóng Bàn",
 }
 
 VNL_COUNTRIES = {
