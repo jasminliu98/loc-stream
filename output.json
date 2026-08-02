@@ -267,99 +267,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-d2f0f2916e",
-          "name": "South Melbourne vs St. Albans Saints | 12:30 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d2f0f2916e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d2f0f2916e",
-                  "name": "South Melbourne vs St. Albans Saints",
-                  "streams": [
-                    {
-                      "id": "st-d2f0f2916e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-01aaaaefba",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7bafb7ebe1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "South Melbourne",
-            "team_b": "St. Albans Saints",
-            "time": "12:30",
-            "date": "02/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-73721ed995_03e3c077_20260802.png?v=f0b8290f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-6c5647378e",
           "name": "Qingdao Youth Island vs Qingdao Jonoon | 17:00 02/08",
