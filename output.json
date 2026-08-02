@@ -10,68 +10,6 @@
   },
   "groups": [
     {
-      "id": "cate_volleyball",
-      "name": " Bóng Chuyền",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "ch-b2ccbced46",
-          "name": "Usa vs Poland | 18:30 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b2ccbced46",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b2ccbced46",
-                  "name": "Usa vs Poland",
-                  "streams": [
-                    {
-                      "id": "st-b2ccbced46",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Usa",
-            "team_b": "Poland",
-            "time": "18:30",
-            "date": "02/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a33a8af7e_5767df38_20260802.png?v=867f8282",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
       "id": "cate_football",
       "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
