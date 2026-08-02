@@ -232,99 +232,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-25c2e31d7b",
-          "name": "Nguyễn Thùy Linh vs Tanvi Sharma | 11:00 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-25c2e31d7b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-25c2e31d7b",
-                  "name": "Nguyễn Thùy Linh vs Tanvi Sharma",
-                  "streams": [
-                    {
-                      "id": "st-25c2e31d7b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5469599148",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e83d2ee378",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Nguyễn Thùy Linh",
-            "team_b": "Tanvi Sharma",
-            "time": "11:00",
-            "date": "02/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-381a709ab8_7885e838_20260802.png?v=f66ccb48",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-d2f0f2916e",
           "name": "South Melbourne vs St. Albans Saints | 12:30 02/08",
@@ -745,6 +657,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c7b8467bbd_523d2c4b_20260802.png?v=d6cca5df",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-7618e82c16",
+          "name": "Galatasaray vs Rennes | 01:00 03/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7618e82c16",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-7618e82c16",
+                  "name": "Galatasaray vs Rennes",
+                  "streams": [
+                    {
+                      "id": "st-7618e82c16",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Galatasaray",
+            "team_b": "Rennes",
+            "time": "01:00",
+            "date": "03/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-80bf8a3d3f_487e27bb_20260802.png?v=bd35d091",
             "width": 1600,
             "height": 1200
           }
