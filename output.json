@@ -801,6 +801,59 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-c975344bbb",
+          "name": "River Plate vs Rosario Central | 05:15 03/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c975344bbb",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c975344bbb",
+                  "name": "River Plate vs Rosario Central",
+                  "streams": [
+                    {
+                      "id": "st-c975344bbb",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "River Plate",
+            "team_b": "Rosario Central",
+            "time": "05:15",
+            "date": "03/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1a1e0d18ea_f66afcc4_20260802.png?v=da79c60f",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
