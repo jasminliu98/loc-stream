@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-83b6b52e3b",
-          "name": "Japan vs Slovenia | 14:40 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-83b6b52e3b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-83b6b52e3b",
-                  "name": "Japan vs Slovenia",
-                  "streams": [
-                    {
-                      "id": "st-83b6b52e3b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Japan",
-            "team_b": "Slovenia",
-            "time": "14:40",
-            "date": "02/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ddbafa7a0a_30aa59be_20260802.png?v=53a577bb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-f9e6250420",
           "name": "Philippines W vs Indonesia W | 16:00 02/08",
           "type": "single",
