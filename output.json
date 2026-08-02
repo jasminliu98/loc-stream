@@ -17,94 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-b2ccbced46",
-          "name": "Usa vs Poland | 18:30 02/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b2ccbced46",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b2ccbced46",
-                  "name": "Usa vs Poland",
-                  "streams": [
-                    {
-                      "id": "st-b2ccbced46",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5469599148",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e83d2ee378",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Usa",
-            "team_b": "Poland",
-            "time": "18:30",
-            "date": "02/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a33a8af7e_5767df38_20260802.png?v=867f8282",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-43b6f23247",
           "name": "Vietnam W vs Thailand W | 19:00 02/08",
           "type": "single",
@@ -191,19 +103,10 @@
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "ch-fd864f7a45",
-          "name": "Jeju United Fc vs Incheon United | 17:30 02/08",
+          "id": "ch-b2ccbced46",
+          "name": "Usa vs Poland | 18:30 02/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -217,23 +120,23 @@
           ],
           "sources": [
             {
-              "id": "src-fd864f7a45",
+              "id": "src-b2ccbced46",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-fd864f7a45",
-                  "name": "Jeju United Fc vs Incheon United",
+                  "id": "ct-b2ccbced46",
+                  "name": "Usa vs Poland",
                   "streams": [
                     {
-                      "id": "st-fd864f7a45",
+                      "id": "st-b2ccbced46",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-694cfaa40e",
+                          "id": "lnk-5469599148",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -246,11 +149,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-373bd859d5",
+                          "id": "lnk-e83d2ee378",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/camryhd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -271,9 +174,106 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Jeju United Fc",
-            "team_b": "Incheon United",
-            "time": "17:30",
+            "team_a": "Usa",
+            "team_b": "Poland",
+            "time": "18:30",
+            "date": "02/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a33a8af7e_5767df38_20260802.png?v=867f8282",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_football",
+      "name": "⚽ Bóng Đá (3 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "ch-f75b8d504f",
+          "name": "Sichuan Jiuniu vs Chongqing Tongliang Long | 19:00 02/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f75b8d504f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f75b8d504f",
+                  "name": "Sichuan Jiuniu vs Chongqing Tongliang Long",
+                  "streams": [
+                    {
+                      "id": "st-f75b8d504f",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0c0bb271f",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-88ba289dd1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sichuan Jiuniu",
+            "team_b": "Chongqing Tongliang Long",
+            "time": "19:00",
             "date": "02/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -284,7 +284,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-16a0d2f295_940413f1_20260802.png?v=c4832e21",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cc4a8d9ead_ba4feca0_20260802.png?v=f2547f7a",
             "width": 1600,
             "height": 1200
           }
@@ -378,8 +378,8 @@
           }
         },
         {
-          "id": "ch-f75b8d504f",
-          "name": "Sichuan Jiuniu vs Chongqing Tongliang Long | 19:00 02/08",
+          "id": "ch-fd864f7a45",
+          "name": "Jeju United Fc vs Incheon United | 17:30 02/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -393,23 +393,23 @@
           ],
           "sources": [
             {
-              "id": "src-f75b8d504f",
+              "id": "src-fd864f7a45",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-f75b8d504f",
-                  "name": "Sichuan Jiuniu vs Chongqing Tongliang Long",
+                  "id": "ct-fd864f7a45",
+                  "name": "Jeju United Fc vs Incheon United",
                   "streams": [
                     {
-                      "id": "st-f75b8d504f",
+                      "id": "st-fd864f7a45",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-c0c0bb271f",
+                          "id": "lnk-694cfaa40e",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -422,11 +422,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-88ba289dd1",
+                          "id": "lnk-373bd859d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -447,9 +447,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Sichuan Jiuniu",
-            "team_b": "Chongqing Tongliang Long",
-            "time": "19:00",
+            "team_a": "Jeju United Fc",
+            "team_b": "Incheon United",
+            "time": "17:30",
             "date": "02/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -460,7 +460,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cc4a8d9ead_ba4feca0_20260802.png?v=f2547f7a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-16a0d2f295_940413f1_20260802.png?v=c4832e21",
             "width": 1600,
             "height": 1200
           }
@@ -885,6 +885,112 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-131ddcd710_a1e9cf80_20260802.png?v=b3a6c59d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-5d6060e36e",
+          "name": "Lanus vs Instituto Cordoba | 07:30 03/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5d6060e36e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-5d6060e36e",
+                  "name": "Lanus vs Instituto Cordoba",
+                  "streams": [
+                    {
+                      "id": "st-5d6060e36e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Lanus",
+            "team_b": "Instituto Cordoba",
+            "time": "07:30",
+            "date": "03/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-52ee98d206_4aae3c4a_20260802.png?v=634e038f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-09b555a114",
+          "name": "Toluca vs Necaxa | 08:00 03/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-09b555a114",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-09b555a114",
+                  "name": "Toluca vs Necaxa",
+                  "streams": [
+                    {
+                      "id": "st-09b555a114",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Toluca",
+            "team_b": "Necaxa",
+            "time": "08:00",
+            "date": "03/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6a402ca203_569fc0bc_20260802.png?v=4fc15b2a",
             "width": 1600,
             "height": 1200
           }
