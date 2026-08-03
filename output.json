@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-9594a66be2",
-          "name": "Sjk vs Hjk Helsinki | 23:00 03/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9594a66be2",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-9594a66be2",
-                  "name": "Sjk vs Hjk Helsinki",
-                  "streams": [
-                    {
-                      "id": "st-9594a66be2",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sjk",
-            "team_b": "Hjk Helsinki",
-            "time": "23:00",
-            "date": "03/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-48ac18693e_e6c55993_20260804.png?v=b465f676",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-bc9e5f06c6",
           "name": "Veles vs Rotor Volgograd | 23:30 03/08",
           "type": "single",
