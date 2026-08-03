@@ -79,6 +79,94 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-f800f33fee",
+          "name": "Atletico Paranaense vs Vitoria | 07:00 04/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f800f33fee",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f800f33fee",
+                  "name": "Atletico Paranaense vs Vitoria",
+                  "streams": [
+                    {
+                      "id": "st-f800f33fee",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3a4472f2c",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-99b34a5d2f",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Atletico Paranaense",
+            "team_b": "Vitoria",
+            "time": "07:00",
+            "date": "04/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4f8e1bc814_4f9856e1_20260804.png?v=51468755",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-6a62d287ca",
           "name": "Platense vs Talleres Cordoba | 05:00 04/08",
           "type": "single",
@@ -255,94 +343,6 @@
           }
         },
         {
-          "id": "ch-f800f33fee",
-          "name": "Atletico Paranaense vs Vitoria | 07:00 04/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f800f33fee",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f800f33fee",
-                  "name": "Atletico Paranaense vs Vitoria",
-                  "streams": [
-                    {
-                      "id": "st-f800f33fee",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a4472f2c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99b34a5d2f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Atletico Paranaense",
-            "team_b": "Vitoria",
-            "time": "07:00",
-            "date": "04/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4f8e1bc814_4f9856e1_20260804.png?v=51468755",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-ab3cf02c99",
           "name": "Santos Laguna W vs América W | 08:06 04/08",
           "type": "single",
@@ -391,6 +391,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-25ac738094_87880164_20260804.png?v=d225fbf6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3fc6474168",
+          "name": "Persib Bandung vs Persija | 15:30 04/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3fc6474168",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3fc6474168",
+                  "name": "Persib Bandung vs Persija",
+                  "streams": [
+                    {
+                      "id": "st-3fc6474168",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Persib Bandung",
+            "team_b": "Persija",
+            "time": "15:30",
+            "date": "04/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2629f9b4a6_96284acb_20260804.png?v=679b49c8",
             "width": 1600,
             "height": 1200
           }
@@ -497,59 +550,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-78c7e1be27_eda9c071_20260804.png?v=c4832e21",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-b2bf2396bf",
-          "name": "Persib Bandung vs Persija | 19:00 04/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b2bf2396bf",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b2bf2396bf",
-                  "name": "Persib Bandung vs Persija",
-                  "streams": [
-                    {
-                      "id": "st-b2bf2396bf",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Persib Bandung",
-            "team_b": "Persija",
-            "time": "19:00",
-            "date": "04/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ade4bd78d5_96284acb_20260804.png?v=679b49c8",
             "width": 1600,
             "height": 1200
           }
