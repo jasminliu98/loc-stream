@@ -17,94 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-e92209fea5",
-          "name": "Cambodia vs Timor-Leste | 17:30 03/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e92209fea5",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-e92209fea5",
-                  "name": "Cambodia vs Timor-Leste",
-                  "streams": [
-                    {
-                      "id": "st-e92209fea5",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-694cfaa40e",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-373bd859d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Cambodia",
-            "team_b": "Timor-Leste",
-            "time": "17:30",
-            "date": "03/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7fdee9fb6d_6feb462b_20260803.png?v=06c7a3c3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-1c82f38146",
           "name": "Hồ Chí Minh City W vs Hà Nội Nữ | 16:00 03/08",
           "type": "single",
@@ -188,6 +100,94 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ae2a94b875_8b421341_20260803.png?v=a8052d12",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e92209fea5",
+          "name": "Cambodia vs Timor-Leste | 17:30 03/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e92209fea5",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e92209fea5",
+                  "name": "Cambodia vs Timor-Leste",
+                  "streams": [
+                    {
+                      "id": "st-e92209fea5",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-694cfaa40e",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-373bd859d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Cambodia",
+            "team_b": "Timor-Leste",
+            "time": "17:30",
+            "date": "03/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7fdee9fb6d_6feb462b_20260803.png?v=06c7a3c3",
             "width": 1600,
             "height": 1200
           }
