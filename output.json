@@ -17,6 +17,94 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-bc9e5f06c6",
+          "name": "Veles vs Rotor Volgograd | 23:30 03/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bc9e5f06c6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-bc9e5f06c6",
+                  "name": "Veles vs Rotor Volgograd",
+                  "streams": [
+                    {
+                      "id": "st-bc9e5f06c6",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2f22aadd9f",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-71a3676baa",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Veles",
+            "team_b": "Rotor Volgograd",
+            "time": "23:30",
+            "date": "03/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e87b2465b7_2e01990e_20260803.png?v=5b8dc18d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-6f12f648b5",
           "name": "Al-Hilal Saudi Fc vs Al Ahli Doha | 22:00 03/08",
           "type": "single",
@@ -193,96 +281,8 @@
           }
         },
         {
-          "id": "ch-bc9e5f06c6",
-          "name": "Veles vs Rotor Volgograd | 23:30 03/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bc9e5f06c6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-bc9e5f06c6",
-                  "name": "Veles vs Rotor Volgograd",
-                  "streams": [
-                    {
-                      "id": "st-bc9e5f06c6",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2f22aadd9f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-71a3676baa",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Veles",
-            "team_b": "Rotor Volgograd",
-            "time": "23:30",
-            "date": "03/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e87b2465b7_2e01990e_20260803.png?v=5b8dc18d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-1c0aa5df7d",
-          "name": "Ranheim vs Haugesund | 00:00 04/08",
+          "id": "ch-782c98614e",
+          "name": "Odense vs Sonderjyske | 00:00 04/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -296,15 +296,15 @@
           ],
           "sources": [
             {
-              "id": "src-1c0aa5df7d",
+              "id": "src-782c98614e",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-1c0aa5df7d",
-                  "name": "Ranheim vs Haugesund",
+                  "id": "ct-782c98614e",
+                  "name": "Odense vs Sonderjyske",
                   "streams": [
                     {
-                      "id": "st-1c0aa5df7d",
+                      "id": "st-782c98614e",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -315,8 +315,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Ranheim",
-            "team_b": "Haugesund",
+            "team_a": "Odense",
+            "team_b": "Sonderjyske",
             "time": "00:00",
             "date": "04/08",
             "blv": "Chưa có link",
@@ -328,60 +328,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-820adfc201_235c1ff5_20260803.png?v=6780c5da",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-a966387163",
-          "name": "York vs Crawley Town | 01:30 04/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a966387163",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a966387163",
-                  "name": "York vs Crawley Town",
-                  "streams": [
-                    {
-                      "id": "st-a966387163",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "York",
-            "team_b": "Crawley Town",
-            "time": "01:30",
-            "date": "04/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-609efe6ffb_103326c9_20260803.png?v=d6f148df",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e523d2e2da_b5f68e3e_20260803.png?v=08bc18be",
             "width": 1600,
             "height": 1200
           }
