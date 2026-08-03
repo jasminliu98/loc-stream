@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-3b0b14193d",
-          "name": "Atlante W vs Necaxa W | 04:45 04/08",
+          "id": "ch-6a62d287ca",
+          "name": "Platense vs Talleres Cordoba | 05:00 04/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,15 +32,15 @@
           ],
           "sources": [
             {
-              "id": "src-3b0b14193d",
+              "id": "src-6a62d287ca",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-3b0b14193d",
-                  "name": "Atlante W vs Necaxa W",
+                  "id": "ct-6a62d287ca",
+                  "name": "Platense vs Talleres Cordoba",
                   "streams": [
                     {
-                      "id": "st-3b0b14193d",
+                      "id": "st-6a62d287ca",
                       "name": "Streams",
                       "stream_links": [
                         {
@@ -86,9 +86,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Atlante W",
-            "team_b": "Necaxa W",
-            "time": "04:45",
+            "team_a": "Platense",
+            "team_b": "Talleres Cordoba",
+            "time": "05:00",
             "date": "04/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -99,95 +99,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-09f2618afa_7025fd68_20260804.png?v=3d46f53c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-a6e866e076",
-          "name": "Sarmiento Junin vs Independ. Rivadavia | 02:45 04/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a6e866e076",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a6e866e076",
-                  "name": "Sarmiento Junin vs Independ. Rivadavia",
-                  "streams": [
-                    {
-                      "id": "st-a6e866e076",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f95db3fce2",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0f5d544a39",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sarmiento Junin",
-            "team_b": "Independ. Rivadavia",
-            "time": "02:45",
-            "date": "04/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b7e8d48f14_8705fdf9_20260804.png?v=ff010102",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6be38b6efb_7ba6b83e_20260804.png?v=408ef341",
             "width": 1600,
             "height": 1200
           }
