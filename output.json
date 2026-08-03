@@ -158,59 +158,6 @@
           }
         },
         {
-          "id": "ch-6e334d149e",
-          "name": "Indonesia vs Việt Nam | 20:30 03/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6e334d149e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-6e334d149e",
-                  "name": "Indonesia vs Việt Nam",
-                  "streams": [
-                    {
-                      "id": "st-6e334d149e",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Indonesia",
-            "team_b": "Việt Nam",
-            "time": "20:30",
-            "date": "03/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2ee163ae6c_95a29b0e_20260803.png?v=4647d00c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-2af30f8c18",
           "name": "Bukovyna vs Lnz Cherkasy | 19:30 03/08",
           "type": "single",
@@ -259,6 +206,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fc85ea947a_4f13b87e_20260803.png?v=08607c22",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6e334d149e",
+          "name": "Indonesia vs Việt Nam | 20:30 03/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6e334d149e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6e334d149e",
+                  "name": "Indonesia vs Việt Nam",
+                  "streams": [
+                    {
+                      "id": "st-6e334d149e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Indonesia",
+            "team_b": "Việt Nam",
+            "time": "20:30",
+            "date": "03/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2ee163ae6c_95a29b0e_20260803.png?v=4647d00c",
             "width": 1600,
             "height": 1200
           }
