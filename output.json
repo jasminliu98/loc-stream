@@ -73,14 +73,14 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-3fc6474168",
-          "name": "Persib Bandung vs Persija | 15:30 04/08",
+          "id": "ch-7ef6c527a1",
+          "name": "Jeju United Fc vs Bayern München | 18:00 04/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -94,23 +94,23 @@
           ],
           "sources": [
             {
-              "id": "src-3fc6474168",
+              "id": "src-7ef6c527a1",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-3fc6474168",
-                  "name": "Persib Bandung vs Persija",
+                  "id": "ct-7ef6c527a1",
+                  "name": "Jeju United Fc vs Bayern München",
                   "streams": [
                     {
-                      "id": "st-3fc6474168",
+                      "id": "st-7ef6c527a1",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-2f22aadd9f",
+                          "id": "lnk-694cfaa40e",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -123,11 +123,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-71a3676baa",
+                          "id": "lnk-373bd859d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -148,9 +148,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Persib Bandung",
-            "team_b": "Persija",
-            "time": "15:30",
+            "team_a": "Jeju United Fc",
+            "team_b": "Bayern München",
+            "time": "18:00",
             "date": "04/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -161,7 +161,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2629f9b4a6_96284acb_20260804.png?v=679b49c8",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-78c7e1be27_eda9c071_20260804.png?v=c4832e21",
             "width": 1600,
             "height": 1200
           }
@@ -250,94 +250,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fe33d6b701_cd617a34_20260804.png?v=217fa54c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-7ef6c527a1",
-          "name": "Jeju United Fc vs Bayern München | 18:00 04/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7ef6c527a1",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-7ef6c527a1",
-                  "name": "Jeju United Fc vs Bayern München",
-                  "streams": [
-                    {
-                      "id": "st-7ef6c527a1",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-694cfaa40e",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-373bd859d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Jeju United Fc",
-            "team_b": "Bayern München",
-            "time": "18:00",
-            "date": "04/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-78c7e1be27_eda9c071_20260804.png?v=c4832e21",
             "width": 1600,
             "height": 1200
           }
