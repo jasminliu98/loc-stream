@@ -17,6 +17,94 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-b1c06487d3",
+          "name": "Union St. Gilloise vs Bodo/Glimt | 01:00 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b1c06487d3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b1c06487d3",
+                  "name": "Union St. Gilloise vs Bodo/Glimt",
+                  "streams": [
+                    {
+                      "id": "st-b1c06487d3",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f95db3fce2",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0f5d544a39",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Union St. Gilloise",
+            "team_b": "Bodo/Glimt",
+            "time": "01:00",
+            "date": "05/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bc4b2a370b_38b5f22f_20260805.png?v=b795a4b8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-d3a8dd9c13",
           "name": "Auda vs Dinamo Tirana | 23:00 04/08",
           "type": "single",
@@ -188,94 +276,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-454a0ed4bb_bb1158f6_20260805.png?v=8eb32032",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-b1c06487d3",
-          "name": "Union St. Gilloise vs Bodo/Glimt | 01:00 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b1c06487d3",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b1c06487d3",
-                  "name": "Union St. Gilloise vs Bodo/Glimt",
-                  "streams": [
-                    {
-                      "id": "st-b1c06487d3",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f95db3fce2",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0f5d544a39",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Union St. Gilloise",
-            "team_b": "Bodo/Glimt",
-            "time": "01:00",
-            "date": "05/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bc4b2a370b_38b5f22f_20260805.png?v=b795a4b8",
             "width": 1600,
             "height": 1200
           }
