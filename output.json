@@ -17,112 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-d49fe163d6",
-          "name": "Pathum United vs Aston Villa | 19:30 04/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d49fe163d6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d49fe163d6",
-                  "name": "Pathum United vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "st-d49fe163d6",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Pathum United",
-            "team_b": "Aston Villa",
-            "time": "19:30",
-            "date": "04/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2c4a87a0ed_fa701f05_20260804.png?v=d75926f8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-3b1c07c084",
-          "name": "Persebaya Surabaya vs Arema Fc | 19:30 04/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3b1c07c084",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-3b1c07c084",
-                  "name": "Persebaya Surabaya vs Arema Fc",
-                  "streams": [
-                    {
-                      "id": "st-3b1c07c084",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Persebaya Surabaya",
-            "team_b": "Arema Fc",
-            "time": "19:30",
-            "date": "04/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a78cad4540_71ee3099_20260804.png?v=491bc53b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-3411e02f24",
           "name": "Rodina Moskva vs Rubin | 22:30 04/08",
           "type": "single",
@@ -206,6 +100,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a574f8e802_e64e9ccf_20260804.png?v=920ebc28",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d49fe163d6",
+          "name": "Pathum United vs Aston Villa | 19:30 04/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d49fe163d6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d49fe163d6",
+                  "name": "Pathum United vs Aston Villa",
+                  "streams": [
+                    {
+                      "id": "st-d49fe163d6",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Pathum United",
+            "team_b": "Aston Villa",
+            "time": "19:30",
+            "date": "04/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "finished",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2c4a87a0ed_fa701f05_20260804.png?v=d75926f8",
             "width": 1600,
             "height": 1200
           }
