@@ -73,99 +73,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-8b4d5b1be7",
-          "name": "Persebaya Surabaya vs Arema Fc | 19:00 04/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8b4d5b1be7",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8b4d5b1be7",
-                  "name": "Persebaya Surabaya vs Arema Fc",
-                  "streams": [
-                    {
-                      "id": "st-8b4d5b1be7",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8bd26ff327",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-439dbc1bde",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Persebaya Surabaya",
-            "team_b": "Arema Fc",
-            "time": "19:00",
-            "date": "04/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f7b21b6dcb_71ee3099_20260804.png?v=491bc53b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-3223da6858",
           "name": "Myanmar vs Laos | 17:00 04/08",
@@ -391,6 +303,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2c4a87a0ed_fa701f05_20260804.png?v=d75926f8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3b1c07c084",
+          "name": "Persebaya Surabaya vs Arema Fc | 19:30 04/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3b1c07c084",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3b1c07c084",
+                  "name": "Persebaya Surabaya vs Arema Fc",
+                  "streams": [
+                    {
+                      "id": "st-3b1c07c084",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Persebaya Surabaya",
+            "team_b": "Arema Fc",
+            "time": "19:30",
+            "date": "04/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a78cad4540_71ee3099_20260804.png?v=491bc53b",
             "width": 1600,
             "height": 1200
           }
