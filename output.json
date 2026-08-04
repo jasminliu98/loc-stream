@@ -105,59 +105,6 @@
           }
         },
         {
-          "id": "ch-d49fe163d6",
-          "name": "Pathum United vs Aston Villa | 19:30 04/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d49fe163d6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d49fe163d6",
-                  "name": "Pathum United vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "st-d49fe163d6",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Pathum United",
-            "team_b": "Aston Villa",
-            "time": "19:30",
-            "date": "04/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2c4a87a0ed_fa701f05_20260804.png?v=d75926f8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-babc404c02",
           "name": "Ararat-Armenia vs Celje | 23:00 04/08",
           "type": "single",
