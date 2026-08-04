@@ -11,187 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-f2b238736c",
-          "name": "Hapoel Beer Sheva vs Fk Crvena Zvezda | 00:30 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f2b238736c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f2b238736c",
-                  "name": "Hapoel Beer Sheva vs Fk Crvena Zvezda",
-                  "streams": [
-                    {
-                      "id": "st-f2b238736c",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a4472f2c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99b34a5d2f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Hapoel Beer Sheva",
-            "team_b": "Fk Crvena Zvezda",
-            "time": "00:30",
-            "date": "05/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-454a0ed4bb_bb1158f6_20260805.png?v=8eb32032",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-3411e02f24",
-          "name": "Rodina Moskva vs Rubin | 22:30 04/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3411e02f24",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-3411e02f24",
-                  "name": "Rodina Moskva vs Rubin",
-                  "streams": [
-                    {
-                      "id": "st-3411e02f24",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4c0437badd",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8338c9ffd4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Rodina Moskva",
-            "team_b": "Rubin",
-            "time": "22:30",
-            "date": "04/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a574f8e802_e64e9ccf_20260805.png?v=920ebc28",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-d3a8dd9c13",
           "name": "Auda vs Dinamo Tirana | 23:00 04/08",
@@ -276,6 +100,94 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-efbd707230_10149d26_20260805.png?v=1de836d5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f2b238736c",
+          "name": "Hapoel Beer Sheva vs Fk Crvena Zvezda | 00:30 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f2b238736c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f2b238736c",
+                  "name": "Hapoel Beer Sheva vs Fk Crvena Zvezda",
+                  "streams": [
+                    {
+                      "id": "st-f2b238736c",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3a4472f2c",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-99b34a5d2f",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Hapoel Beer Sheva",
+            "team_b": "Fk Crvena Zvezda",
+            "time": "00:30",
+            "date": "05/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-454a0ed4bb_bb1158f6_20260805.png?v=8eb32032",
             "width": 1600,
             "height": 1200
           }
@@ -382,165 +294,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d8ac439253_f1540e2c_20260805.png?v=10722017",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c8e60b9f90",
-          "name": "Juventude vs Atletico-Mg | 05:30 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c8e60b9f90",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c8e60b9f90",
-                  "name": "Juventude vs Atletico-Mg",
-                  "streams": [
-                    {
-                      "id": "st-c8e60b9f90",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Juventude",
-            "team_b": "Atletico-Mg",
-            "time": "05:30",
-            "date": "05/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6bdf53a1a7_d60a0253_20260805.png?v=b0906bb8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-994899ff2b",
-          "name": "Remo vs Santos | 07:30 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-994899ff2b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-994899ff2b",
-                  "name": "Remo vs Santos",
-                  "streams": [
-                    {
-                      "id": "st-994899ff2b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Remo",
-            "team_b": "Santos",
-            "time": "07:30",
-            "date": "05/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2af19ca465_c1f58cdc_20260805.png?v=820b618e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-8f3ba92998",
-          "name": "Tigres Uanl vs Real Salt Lake | 09:00 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8f3ba92998",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8f3ba92998",
-                  "name": "Tigres Uanl vs Real Salt Lake",
-                  "streams": [
-                    {
-                      "id": "st-8f3ba92998",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Tigres Uanl",
-            "team_b": "Real Salt Lake",
-            "time": "09:00",
-            "date": "05/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9768ed1bb9_bb61fcbd_20260805.png?v=dea33256",
             "width": 1600,
             "height": 1200
           }
