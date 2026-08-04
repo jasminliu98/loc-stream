@@ -73,7 +73,7 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -262,10 +262,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": " Sắp",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -280,7 +280,42 @@
                     {
                       "id": "st-d49fe163d6",
                       "name": "Streams",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3a4472f2c",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-99b34a5d2f",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -293,9 +328,9 @@
             "team_b": "Aston Villa",
             "time": "19:30",
             "date": "04/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
@@ -315,10 +350,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": " Sắp",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -333,7 +368,42 @@
                     {
                       "id": "st-3b1c07c084",
                       "name": "Streams",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-8bd26ff327",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-439dbc1bde",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -346,9 +416,9 @@
             "team_b": "Arema Fc",
             "time": "19:30",
             "date": "04/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
