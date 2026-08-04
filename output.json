@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -100,182 +100,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a574f8e802_e64e9ccf_20260804.png?v=920ebc28",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-babc404c02",
-          "name": "Ararat-Armenia vs Celje | 23:00 04/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-babc404c02",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-babc404c02",
-                  "name": "Ararat-Armenia vs Celje",
-                  "streams": [
-                    {
-                      "id": "st-babc404c02",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f95db3fce2",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0f5d544a39",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Ararat-Armenia",
-            "team_b": "Celje",
-            "time": "23:00",
-            "date": "04/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7d8fb6f45e_b5c03e84_20260804.png?v=e4a1b1a7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-7306b9811d",
-          "name": "Mjallby vs Slovan Bratislava | 23:00 04/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7306b9811d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-7306b9811d",
-                  "name": "Mjallby vs Slovan Bratislava",
-                  "streams": [
-                    {
-                      "id": "st-7306b9811d",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0c0bb271f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-88ba289dd1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Mjallby",
-            "team_b": "Slovan Bratislava",
-            "time": "23:00",
-            "date": "04/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6150f59483_638c9056_20260804.png?v=8a0ae727",
             "width": 1600,
             "height": 1200
           }
@@ -422,59 +246,6 @@
           }
         },
         {
-          "id": "ch-c1fda0a7e9",
-          "name": "Levski Sofia vs Kairat Almaty | 00:30 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c1fda0a7e9",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c1fda0a7e9",
-                  "name": "Levski Sofia vs Kairat Almaty",
-                  "streams": [
-                    {
-                      "id": "st-c1fda0a7e9",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Levski Sofia",
-            "team_b": "Kairat Almaty",
-            "time": "00:30",
-            "date": "05/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-36caadc8f0_259b68a0_20260804.png?v=36696055",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-b1c06487d3",
           "name": "Union St. Gilloise vs Bodo/Glimt | 01:00 05/08",
           "type": "single",
@@ -523,6 +294,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bc4b2a370b_38b5f22f_20260804.png?v=b795a4b8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-20a5c47a05",
+          "name": "Larne vs Saburtalo | 02:00 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-20a5c47a05",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-20a5c47a05",
+                  "name": "Larne vs Saburtalo",
+                  "streams": [
+                    {
+                      "id": "st-20a5c47a05",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Larne",
+            "team_b": "Saburtalo",
+            "time": "02:00",
+            "date": "05/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d8ac439253_f1540e2c_20260804.png?v=10722017",
             "width": 1600,
             "height": 1200
           }
@@ -682,112 +506,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9768ed1bb9_bb61fcbd_20260804.png?v=dea33256",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-cc6fe119a0",
-          "name": "Sparta Praha vs Lyon | 01:00 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cc6fe119a0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-cc6fe119a0",
-                  "name": "Sparta Praha vs Lyon",
-                  "streams": [
-                    {
-                      "id": "st-cc6fe119a0",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sparta Praha",
-            "team_b": "Lyon",
-            "time": "01:00",
-            "date": "05/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-97582ddf46_d0e39861_20260804.png?v=23d983ed",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-20a5c47a05",
-          "name": "Larne vs Saburtalo | 02:00 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-20a5c47a05",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-20a5c47a05",
-                  "name": "Larne vs Saburtalo",
-                  "streams": [
-                    {
-                      "id": "st-20a5c47a05",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Larne",
-            "team_b": "Saburtalo",
-            "time": "02:00",
-            "date": "05/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d8ac439253_f1540e2c_20260804.png?v=10722017",
             "width": 1600,
             "height": 1200
           }
