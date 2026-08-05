@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-25ca7ad82f",
-          "name": "Fenerbahce vs Sturm Graz | 01:00 06/08",
+          "id": "ch-3ad915f5bf",
+          "name": "Ferencvarosi Tc vs Gornik Zabrze | 01:15 06/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-25ca7ad82f",
+              "id": "src-3ad915f5bf",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-25ca7ad82f",
-                  "name": "Fenerbahce vs Sturm Graz",
+                  "id": "ct-3ad915f5bf",
+                  "name": "Ferencvarosi Tc vs Gornik Zabrze",
                   "streams": [
                     {
-                      "id": "st-25ca7ad82f",
+                      "id": "st-3ad915f5bf",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-e3a4472f2c",
+                          "id": "lnk-c0c0bb271f",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -61,11 +61,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-99b34a5d2f",
+                          "id": "lnk-88ba289dd1",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -86,9 +86,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Fenerbahce",
-            "team_b": "Sturm Graz",
-            "time": "01:00",
+            "team_a": "Ferencvarosi Tc",
+            "team_b": "Gornik Zabrze",
+            "time": "01:15",
             "date": "06/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -99,7 +99,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-11a0b0f602_bd966bdc_20260806.png?v=f7f7d85c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b3e1bf1855_4caf8e32_20260806.png?v=36fc3fb9",
             "width": 1600,
             "height": 1200
           }
@@ -369,8 +369,8 @@
           }
         },
         {
-          "id": "ch-3ad915f5bf",
-          "name": "Ferencvarosi Tc vs Gornik Zabrze | 01:15 06/08",
+          "id": "ch-25ca7ad82f",
+          "name": "Fenerbahce vs Sturm Graz | 01:00 06/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -384,23 +384,23 @@
           ],
           "sources": [
             {
-              "id": "src-3ad915f5bf",
+              "id": "src-25ca7ad82f",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-3ad915f5bf",
-                  "name": "Ferencvarosi Tc vs Gornik Zabrze",
+                  "id": "ct-25ca7ad82f",
+                  "name": "Fenerbahce vs Sturm Graz",
                   "streams": [
                     {
-                      "id": "st-3ad915f5bf",
+                      "id": "st-25ca7ad82f",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-c0c0bb271f",
+                          "id": "lnk-e3a4472f2c",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -413,11 +413,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-88ba289dd1",
+                          "id": "lnk-99b34a5d2f",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -438,9 +438,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Ferencvarosi Tc",
-            "team_b": "Gornik Zabrze",
-            "time": "01:15",
+            "team_a": "Fenerbahce",
+            "team_b": "Sturm Graz",
+            "time": "01:00",
             "date": "06/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -451,7 +451,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b3e1bf1855_4caf8e32_20260806.png?v=36fc3fb9",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-11a0b0f602_bd966bdc_20260806.png?v=f7f7d85c",
             "width": 1600,
             "height": 1200
           }
