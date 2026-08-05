@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -105,67 +105,32 @@
           }
         },
         {
-          "id": "ch-a8f288dbd3",
-          "name": "Ac Milan vs Inter | 17:00 05/08",
+          "id": "ch-d75b9df969",
+          "name": "Ac Milan vs Inter | 18:00 05/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-a8f288dbd3",
+              "id": "src-d75b9df969",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-a8f288dbd3",
+                  "id": "ct-d75b9df969",
                   "name": "Ac Milan vs Inter",
                   "streams": [
                     {
-                      "id": "st-a8f288dbd3",
+                      "id": "st-d75b9df969",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a4472f2c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99b34a5d2f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -176,18 +141,18 @@
             "league": "Trực Tiếp",
             "team_a": "Ac Milan",
             "team_b": "Inter",
-            "time": "17:00",
+            "time": "18:00",
             "date": "05/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4ba66364f8_be3688a5_20260805.png?v=35af9872",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1c6b8c0e66_be3688a5_20260805.png?v=35af9872",
             "width": 1600,
             "height": 1200
           }
