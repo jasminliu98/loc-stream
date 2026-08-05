@@ -17,94 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-a236de22c3",
-          "name": "Inter Miami vs Atletico San Luis | 06:30 06/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a236de22c3",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a236de22c3",
-                  "name": "Inter Miami vs Atletico San Luis",
-                  "streams": [
-                    {
-                      "id": "st-a236de22c3",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a4472f2c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99b34a5d2f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Inter Miami",
-            "team_b": "Atletico San Luis",
-            "time": "06:30",
-            "date": "06/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2fd1dc2be4_7a3593e1_20260806.png?v=6c10fc1c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-e8246871fe",
           "name": "Boca Juniors vs Estudiantes L.P. | 05:00 06/08",
           "type": "single",
@@ -188,6 +100,94 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b8c43d0673_84b107db_20260806.png?v=77a45f95",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a236de22c3",
+          "name": "Inter Miami vs Atletico San Luis | 06:30 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a236de22c3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a236de22c3",
+                  "name": "Inter Miami vs Atletico San Luis",
+                  "streams": [
+                    {
+                      "id": "st-a236de22c3",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3a4472f2c",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-99b34a5d2f",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Inter Miami",
+            "team_b": "Atletico San Luis",
+            "time": "06:30",
+            "date": "06/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2fd1dc2be4_7a3593e1_20260806.png?v=6c10fc1c",
             "width": 1600,
             "height": 1200
           }
