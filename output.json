@@ -174,6 +174,695 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-1f09851324",
+          "name": "Chelsea vs Juventus | 18:30 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1f09851324",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-1f09851324",
+                  "name": "Chelsea vs Juventus",
+                  "streams": [
+                    {
+                      "id": "st-1f09851324",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Chelsea",
+            "team_b": "Juventus",
+            "time": "18:30",
+            "date": "05/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-265b1fcc21_0f67dbd0_20260805.png?v=8056df08",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b09c7982e8",
+          "name": "Deportivo La Coruña Ii vs Real Madrid Ii | 19:00 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b09c7982e8",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b09c7982e8",
+                  "name": "Deportivo La Coruña Ii vs Real Madrid Ii",
+                  "streams": [
+                    {
+                      "id": "st-b09c7982e8",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Deportivo La Coruña Ii",
+            "team_b": "Real Madrid Ii",
+            "time": "19:00",
+            "date": "05/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ccda7c6b3d_fd846c82_20260805.png?v=3765b04b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e7e7b6f01c",
+          "name": "Górnik Łęczna vs Kalisz | 23:00 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e7e7b6f01c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e7e7b6f01c",
+                  "name": "Górnik Łęczna vs Kalisz",
+                  "streams": [
+                    {
+                      "id": "st-e7e7b6f01c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Górnik Łęczna",
+            "team_b": "Kalisz",
+            "time": "23:00",
+            "date": "05/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2f7dea9987_2ed12849_20260805.png?v=cf00b0af",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-0786210ca0",
+          "name": "Lazio vs Ostia Mare | 23:00 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0786210ca0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-0786210ca0",
+                  "name": "Lazio vs Ostia Mare",
+                  "streams": [
+                    {
+                      "id": "st-0786210ca0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Lazio",
+            "team_b": "Ostia Mare",
+            "time": "23:00",
+            "date": "05/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8447d33b09_a1c30388_20260805.png?v=84d0447b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-304cf3dff6",
+          "name": "Napoli vs Osasuna | 23:30 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-304cf3dff6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-304cf3dff6",
+                  "name": "Napoli vs Osasuna",
+                  "streams": [
+                    {
+                      "id": "st-304cf3dff6",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Napoli",
+            "team_b": "Osasuna",
+            "time": "23:30",
+            "date": "05/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d8917c64b4_84661427_20260805.png?v=c600c031",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-25ca7ad82f",
+          "name": "Fenerbahce vs Sturm Graz | 01:00 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-25ca7ad82f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-25ca7ad82f",
+                  "name": "Fenerbahce vs Sturm Graz",
+                  "streams": [
+                    {
+                      "id": "st-25ca7ad82f",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fenerbahce",
+            "team_b": "Sturm Graz",
+            "time": "01:00",
+            "date": "06/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-11a0b0f602_bd966bdc_20260805.png?v=f7f7d85c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3ad915f5bf",
+          "name": "Ferencvarosi Tc vs Gornik Zabrze | 01:15 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3ad915f5bf",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3ad915f5bf",
+                  "name": "Ferencvarosi Tc vs Gornik Zabrze",
+                  "streams": [
+                    {
+                      "id": "st-3ad915f5bf",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Ferencvarosi Tc",
+            "team_b": "Gornik Zabrze",
+            "time": "01:15",
+            "date": "06/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b3e1bf1855_4caf8e32_20260805.png?v=36fc3fb9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f624e4468a",
+          "name": "Arsenal vs Real Betis | 01:30 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f624e4468a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f624e4468a",
+                  "name": "Arsenal vs Real Betis",
+                  "streams": [
+                    {
+                      "id": "st-f624e4468a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Arsenal",
+            "team_b": "Real Betis",
+            "time": "01:30",
+            "date": "06/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7e6ca965f9_bfeb5139_20260805.png?v=4fc9baf2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b8dc0c03fd",
+          "name": "Juventus W vs Torreense W | 02:00 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b8dc0c03fd",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b8dc0c03fd",
+                  "name": "Juventus W vs Torreense W",
+                  "streams": [
+                    {
+                      "id": "st-b8dc0c03fd",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Juventus W",
+            "team_b": "Torreense W",
+            "time": "02:00",
+            "date": "06/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9b0b46b1b9_abcd2845_20260805.png?v=b91b2047",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-105f4519ef",
+          "name": "Mallorca vs Paris Saint Germain | 02:00 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-105f4519ef",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-105f4519ef",
+                  "name": "Mallorca vs Paris Saint Germain",
+                  "streams": [
+                    {
+                      "id": "st-105f4519ef",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Mallorca",
+            "team_b": "Paris Saint Germain",
+            "time": "02:00",
+            "date": "06/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0ae59aebf6_6600c3f5_20260805.png?v=0e077100",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e8246871fe",
+          "name": "Boca Juniors vs Estudiantes L.P. | 05:00 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e8246871fe",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e8246871fe",
+                  "name": "Boca Juniors vs Estudiantes L.P.",
+                  "streams": [
+                    {
+                      "id": "st-e8246871fe",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Boca Juniors",
+            "team_b": "Estudiantes L.P.",
+            "time": "05:00",
+            "date": "06/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b8c43d0673_84b107db_20260805.png?v=77a45f95",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a236de22c3",
+          "name": "Inter Miami vs Atletico San Luis | 06:30 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a236de22c3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a236de22c3",
+                  "name": "Inter Miami vs Atletico San Luis",
+                  "streams": [
+                    {
+                      "id": "st-a236de22c3",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Inter Miami",
+            "team_b": "Atletico San Luis",
+            "time": "06:30",
+            "date": "06/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2fd1dc2be4_7a3593e1_20260805.png?v=6c10fc1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3a0b4fba57",
+          "name": "Tigre vs Belgrano Cordoba | 07:15 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3a0b4fba57",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3a0b4fba57",
+                  "name": "Tigre vs Belgrano Cordoba",
+                  "streams": [
+                    {
+                      "id": "st-3a0b4fba57",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Tigre",
+            "team_b": "Belgrano Cordoba",
+            "time": "07:15",
+            "date": "06/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-84b5c34c7a_4eb99a81_20260805.png?v=c03e3572",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
