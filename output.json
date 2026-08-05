@@ -17,6 +17,94 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-1f09851324",
+          "name": "Chelsea vs Juventus | 18:30 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1f09851324",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-1f09851324",
+                  "name": "Chelsea vs Juventus",
+                  "streams": [
+                    {
+                      "id": "st-1f09851324",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4c0437badd",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8338c9ffd4",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Chelsea",
+            "team_b": "Juventus",
+            "time": "18:30",
+            "date": "05/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-265b1fcc21_0f67dbd0_20260805.png?v=8056df08",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-d75b9df969",
           "name": "Ac Milan vs Inter | 18:00 05/08",
           "type": "single",
@@ -276,94 +364,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-df7c5ec3bc_e5a50555_20260805.png?v=a0a23fe9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-1f09851324",
-          "name": "Chelsea vs Juventus | 18:30 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1f09851324",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-1f09851324",
-                  "name": "Chelsea vs Juventus",
-                  "streams": [
-                    {
-                      "id": "st-1f09851324",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4c0437badd",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8338c9ffd4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Chelsea",
-            "team_b": "Juventus",
-            "time": "18:30",
-            "date": "05/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-265b1fcc21_0f67dbd0_20260805.png?v=8056df08",
             "width": 1600,
             "height": 1200
           }
