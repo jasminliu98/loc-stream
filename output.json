@@ -317,112 +317,6 @@
           }
         },
         {
-          "id": "ch-41130b5699",
-          "name": "Podbeskidzie vs Hutnik Kraków | 21:00 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-41130b5699",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-41130b5699",
-                  "name": "Podbeskidzie vs Hutnik Kraków",
-                  "streams": [
-                    {
-                      "id": "st-41130b5699",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Podbeskidzie",
-            "team_b": "Hutnik Kraków",
-            "time": "21:00",
-            "date": "05/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b02a8fdede_7ad4ff12_20260805.png?v=16f3566e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-e7e7b6f01c",
-          "name": "Górnik Łęczna vs Kalisz | 23:00 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e7e7b6f01c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-e7e7b6f01c",
-                  "name": "Górnik Łęczna vs Kalisz",
-                  "streams": [
-                    {
-                      "id": "st-e7e7b6f01c",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Górnik Łęczna",
-            "team_b": "Kalisz",
-            "time": "23:00",
-            "date": "05/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2f7dea9987_2ed12849_20260805.png?v=cf00b0af",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-0786210ca0",
           "name": "Lazio vs Ostia Mare | 23:00 05/08",
           "type": "single",
@@ -529,6 +423,218 @@
           }
         },
         {
+          "id": "ch-f624e4468a",
+          "name": "Arsenal vs Real Betis | 01:30 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f624e4468a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f624e4468a",
+                  "name": "Arsenal vs Real Betis",
+                  "streams": [
+                    {
+                      "id": "st-f624e4468a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Arsenal",
+            "team_b": "Real Betis",
+            "time": "01:30",
+            "date": "06/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7e6ca965f9_bfeb5139_20260805.png?v=4fc9baf2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a236de22c3",
+          "name": "Inter Miami vs Atletico San Luis | 06:30 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a236de22c3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a236de22c3",
+                  "name": "Inter Miami vs Atletico San Luis",
+                  "streams": [
+                    {
+                      "id": "st-a236de22c3",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Inter Miami",
+            "team_b": "Atletico San Luis",
+            "time": "06:30",
+            "date": "06/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2fd1dc2be4_7a3593e1_20260805.png?v=6c10fc1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-41130b5699",
+          "name": "Podbeskidzie vs Hutnik Kraków | 21:00 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-41130b5699",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-41130b5699",
+                  "name": "Podbeskidzie vs Hutnik Kraków",
+                  "streams": [
+                    {
+                      "id": "st-41130b5699",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Podbeskidzie",
+            "team_b": "Hutnik Kraków",
+            "time": "21:00",
+            "date": "05/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b02a8fdede_7ad4ff12_20260805.png?v=16f3566e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e7e7b6f01c",
+          "name": "Górnik Łęczna vs Kalisz | 23:00 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e7e7b6f01c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e7e7b6f01c",
+                  "name": "Górnik Łęczna vs Kalisz",
+                  "streams": [
+                    {
+                      "id": "st-e7e7b6f01c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Górnik Łęczna",
+            "team_b": "Kalisz",
+            "time": "23:00",
+            "date": "05/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2f7dea9987_2ed12849_20260805.png?v=cf00b0af",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-25ca7ad82f",
           "name": "Fenerbahce vs Sturm Graz | 01:00 06/08",
           "type": "single",
@@ -630,59 +736,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b3e1bf1855_4caf8e32_20260805.png?v=36fc3fb9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-f624e4468a",
-          "name": "Arsenal vs Real Betis | 01:30 06/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f624e4468a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f624e4468a",
-                  "name": "Arsenal vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "st-f624e4468a",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Arsenal",
-            "team_b": "Real Betis",
-            "time": "01:30",
-            "date": "06/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7e6ca965f9_bfeb5139_20260805.png?v=4fc9baf2",
             "width": 1600,
             "height": 1200
           }
@@ -842,59 +895,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b8c43d0673_84b107db_20260805.png?v=77a45f95",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-a236de22c3",
-          "name": "Inter Miami vs Atletico San Luis | 06:30 06/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a236de22c3",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a236de22c3",
-                  "name": "Inter Miami vs Atletico San Luis",
-                  "streams": [
-                    {
-                      "id": "st-a236de22c3",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Inter Miami",
-            "team_b": "Atletico San Luis",
-            "time": "06:30",
-            "date": "06/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2fd1dc2be4_7a3593e1_20260805.png?v=6c10fc1c",
             "width": 1600,
             "height": 1200
           }
