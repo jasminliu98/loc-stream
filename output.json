@@ -11,99 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-2a020204e9",
-          "name": "Lochin vs Yaypan | 19:30 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2a020204e9",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-2a020204e9",
-                  "name": "Lochin vs Yaypan",
-                  "streams": [
-                    {
-                      "id": "st-2a020204e9",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-01aaaaefba",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7bafb7ebe1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Lochin",
-            "team_b": "Yaypan",
-            "time": "19:30",
-            "date": "05/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bf80fe3104_14c0a361_20260805.png?v=db08093d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-96fa16731a",
           "name": "Buxdu vs Shortan | 21:00 05/08",
@@ -405,8 +317,8 @@
           }
         },
         {
-          "id": "ch-e7e7b6f01c",
-          "name": "Górnik Łęczna vs Kalisz | 23:00 05/08",
+          "id": "ch-59f94afd0f",
+          "name": "Dinamo Minsk Ii vs Lida | 23:00 05/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -420,15 +332,15 @@
           ],
           "sources": [
             {
-              "id": "src-e7e7b6f01c",
+              "id": "src-59f94afd0f",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-e7e7b6f01c",
-                  "name": "Górnik Łęczna vs Kalisz",
+                  "id": "ct-59f94afd0f",
+                  "name": "Dinamo Minsk Ii vs Lida",
                   "streams": [
                     {
-                      "id": "st-e7e7b6f01c",
+                      "id": "st-59f94afd0f",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -439,8 +351,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Górnik Łęczna",
-            "team_b": "Kalisz",
+            "team_a": "Dinamo Minsk Ii",
+            "team_b": "Lida",
             "time": "23:00",
             "date": "05/08",
             "blv": "Chưa có link",
@@ -452,7 +364,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2f7dea9987_2ed12849_20260805.png?v=cf00b0af",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-232b479e19_915b6a8a_20260805.png?v=321037a3",
             "width": 1600,
             "height": 1200
           }
