@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-d3a8dd9c13",
-          "name": "Auda vs Dinamo Tirana | 23:00 04/08",
+          "id": "ch-d7735940c6",
+          "name": "Queanbeyan City vs Tuggeranong United | 16:30 05/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,15 +32,15 @@
           ],
           "sources": [
             {
-              "id": "src-d3a8dd9c13",
+              "id": "src-d7735940c6",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-d3a8dd9c13",
-                  "name": "Auda vs Dinamo Tirana",
+                  "id": "ct-d7735940c6",
+                  "name": "Queanbeyan City vs Tuggeranong United",
                   "streams": [
                     {
-                      "id": "st-d3a8dd9c13",
+                      "id": "st-d7735940c6",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -51,20 +51,126 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Auda",
-            "team_b": "Dinamo Tirana",
-            "time": "23:00",
-            "date": "04/08",
+            "team_a": "Queanbeyan City",
+            "team_b": "Tuggeranong United",
+            "time": "16:30",
+            "date": "05/08",
             "blv": "Chưa có link",
             "is_live": false,
-            "status": "finished",
+            "status": "upcoming",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-efbd707230_10149d26_20260805.png?v=1de836d5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-df7c5ec3bc_e5a50555_20260805.png?v=a0a23fe9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a8f288dbd3",
+          "name": "Ac Milan vs Inter | 17:00 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a8f288dbd3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a8f288dbd3",
+                  "name": "Ac Milan vs Inter",
+                  "streams": [
+                    {
+                      "id": "st-a8f288dbd3",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Ac Milan",
+            "team_b": "Inter",
+            "time": "17:00",
+            "date": "05/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4ba66364f8_be3688a5_20260805.png?v=35af9872",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a3da9bf5a7",
+          "name": "K-League Stars vs Manchester City | 18:00 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a3da9bf5a7",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a3da9bf5a7",
+                  "name": "K-League Stars vs Manchester City",
+                  "streams": [
+                    {
+                      "id": "st-a3da9bf5a7",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "K-League Stars",
+            "team_b": "Manchester City",
+            "time": "18:00",
+            "date": "05/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1bcdcafe7e_2e2f5667_20260805.png?v=528048b0",
             "width": 1600,
             "height": 1200
           }
