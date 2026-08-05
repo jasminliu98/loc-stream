@@ -17,6 +17,94 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-96fa16731a",
+          "name": "Buxdu vs Shortan | 21:00 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-96fa16731a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-96fa16731a",
+                  "name": "Buxdu vs Shortan",
+                  "streams": [
+                    {
+                      "id": "st-96fa16731a",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0c0bb271f",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-88ba289dd1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Buxdu",
+            "team_b": "Shortan",
+            "time": "21:00",
+            "date": "05/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-086abcae3b_d96a0611_20260805.png?v=d15f6ff5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-2a020204e9",
           "name": "Lochin vs Yaypan | 19:30 05/08",
           "type": "single",
@@ -312,94 +400,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2fd1dc2be4_7a3593e1_20260805.png?v=6c10fc1c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-96fa16731a",
-          "name": "Buxdu vs Shortan | 21:00 05/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-96fa16731a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-96fa16731a",
-                  "name": "Buxdu vs Shortan",
-                  "streams": [
-                    {
-                      "id": "st-96fa16731a",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0c0bb271f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-88ba289dd1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Buxdu",
-            "team_b": "Shortan",
-            "time": "21:00",
-            "date": "05/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-086abcae3b_d96a0611_20260805.png?v=d15f6ff5",
             "width": 1600,
             "height": 1200
           }
