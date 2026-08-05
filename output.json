@@ -17,182 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-b8dc0c03fd",
-          "name": "Juventus W vs Torreense W | 02:00 06/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b8dc0c03fd",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b8dc0c03fd",
-                  "name": "Juventus W vs Torreense W",
-                  "streams": [
-                    {
-                      "id": "st-b8dc0c03fd",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4c0437badd",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8338c9ffd4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Juventus W",
-            "team_b": "Torreense W",
-            "time": "02:00",
-            "date": "06/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9b0b46b1b9_abcd2845_20260806.png?v=b91b2047",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-105f4519ef",
-          "name": "Mallorca vs Paris Saint Germain | 02:00 06/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-105f4519ef",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-105f4519ef",
-                  "name": "Mallorca vs Paris Saint Germain",
-                  "streams": [
-                    {
-                      "id": "st-105f4519ef",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f95db3fce2",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0f5d544a39",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Mallorca",
-            "team_b": "Paris Saint Germain",
-            "time": "02:00",
-            "date": "06/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0ae59aebf6_6600c3f5_20260806.png?v=0e077100",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-0786210ca0",
           "name": "Lazio vs Ostia Mare | 23:00 05/08",
           "type": "single",
@@ -611,6 +435,182 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7e6ca965f9_bfeb5139_20260806.png?v=4fc9baf2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b8dc0c03fd",
+          "name": "Juventus W vs Torreense W | 02:00 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b8dc0c03fd",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b8dc0c03fd",
+                  "name": "Juventus W vs Torreense W",
+                  "streams": [
+                    {
+                      "id": "st-b8dc0c03fd",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4c0437badd",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8338c9ffd4",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Juventus W",
+            "team_b": "Torreense W",
+            "time": "02:00",
+            "date": "06/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9b0b46b1b9_abcd2845_20260806.png?v=b91b2047",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-105f4519ef",
+          "name": "Mallorca vs Paris Saint Germain | 02:00 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-105f4519ef",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-105f4519ef",
+                  "name": "Mallorca vs Paris Saint Germain",
+                  "streams": [
+                    {
+                      "id": "st-105f4519ef",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f95db3fce2",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0f5d544a39",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Mallorca",
+            "team_b": "Paris Saint Germain",
+            "time": "02:00",
+            "date": "06/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0ae59aebf6_6600c3f5_20260806.png?v=0e077100",
             "width": 1600,
             "height": 1200
           }
