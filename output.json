@@ -17,94 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-f624e4468a",
-          "name": "Arsenal vs Real Betis | 01:30 06/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f624e4468a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f624e4468a",
-                  "name": "Arsenal vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "st-f624e4468a",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-01aaaaefba",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7bafb7ebe1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Arsenal",
-            "team_b": "Real Betis",
-            "time": "01:30",
-            "date": "06/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7e6ca965f9_bfeb5139_20260806.png?v=4fc9baf2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-0786210ca0",
           "name": "Lazio vs Ostia Mare | 23:00 05/08",
           "type": "single",
@@ -470,6 +382,94 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b3e1bf1855_4caf8e32_20260806.png?v=36fc3fb9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f624e4468a",
+          "name": "Arsenal vs Real Betis | 01:30 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f624e4468a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f624e4468a",
+                  "name": "Arsenal vs Real Betis",
+                  "streams": [
+                    {
+                      "id": "st-f624e4468a",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-01aaaaefba",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-7bafb7ebe1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Arsenal",
+            "team_b": "Real Betis",
+            "time": "01:30",
+            "date": "06/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7e6ca965f9_bfeb5139_20260806.png?v=4fc9baf2",
             "width": 1600,
             "height": 1200
           }
