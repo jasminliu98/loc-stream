@@ -282,6 +282,59 @@
           }
         },
         {
+          "id": "ch-41130b5699",
+          "name": "Podbeskidzie vs Hutnik Kraków | 21:00 05/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-41130b5699",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-41130b5699",
+                  "name": "Podbeskidzie vs Hutnik Kraków",
+                  "streams": [
+                    {
+                      "id": "st-41130b5699",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Podbeskidzie",
+            "team_b": "Hutnik Kraków",
+            "time": "21:00",
+            "date": "05/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b02a8fdede_7ad4ff12_20260805.png?v=16f3566e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-e7e7b6f01c",
           "name": "Górnik Łęczna vs Kalisz | 23:00 05/08",
           "type": "single",
