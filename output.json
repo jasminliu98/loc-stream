@@ -68,6 +68,59 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-649f62afe4",
+          "name": "Philippines W vs Thailand W | 16:30 07/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-649f62afe4",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-649f62afe4",
+                  "name": "Philippines W vs Thailand W",
+                  "streams": [
+                    {
+                      "id": "st-649f62afe4",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Philippines W",
+            "team_b": "Thailand W",
+            "time": "16:30",
+            "date": "07/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6ad77cd9ef_b861af28_20260807.png?v=eb2d94b3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -273,6 +326,324 @@
           }
         },
         {
+          "id": "ch-6ad8ba5bc9",
+          "name": "Singapore vs Indonesia | 20:00 07/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6ad8ba5bc9",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6ad8ba5bc9",
+                  "name": "Singapore vs Indonesia",
+                  "streams": [
+                    {
+                      "id": "st-6ad8ba5bc9",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Singapore",
+            "team_b": "Indonesia",
+            "time": "20:00",
+            "date": "07/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c39f301fc3_af335780_20260807.png?v=458e4cbc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-86200c698a",
+          "name": "Việt Nam vs Cambodia | 20:00 07/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-86200c698a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-86200c698a",
+                  "name": "Việt Nam vs Cambodia",
+                  "streams": [
+                    {
+                      "id": "st-86200c698a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Việt Nam",
+            "team_b": "Cambodia",
+            "time": "20:00",
+            "date": "07/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-15f5e74929_3eb567bb_20260807.png?v=f6ce1ae8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-534015b66d",
+          "name": "Polonia Bytom vs Pogoń Siedlce | 23:00 07/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-534015b66d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-534015b66d",
+                  "name": "Polonia Bytom vs Pogoń Siedlce",
+                  "streams": [
+                    {
+                      "id": "st-534015b66d",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Polonia Bytom",
+            "team_b": "Pogoń Siedlce",
+            "time": "23:00",
+            "date": "07/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8db2520c1f_99dd48ab_20260807.png?v=ede7be00",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d3a06fc2c0",
+          "name": "Vfl Bochum vs Hertha Bsc | 01:30 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d3a06fc2c0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d3a06fc2c0",
+                  "name": "Vfl Bochum vs Hertha Bsc",
+                  "streams": [
+                    {
+                      "id": "st-d3a06fc2c0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Vfl Bochum",
+            "team_b": "Hertha Bsc",
+            "time": "01:30",
+            "date": "08/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c62b41c252_7324e421_20260807.png?v=ca634abe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3ba7649896",
+          "name": "Wolves vs Port Vale | 01:45 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3ba7649896",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3ba7649896",
+                  "name": "Wolves vs Port Vale",
+                  "streams": [
+                    {
+                      "id": "st-3ba7649896",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Wolves",
+            "team_b": "Port Vale",
+            "time": "01:45",
+            "date": "08/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bdf6b06012_65d35176_20260807.png?v=31f3ecbc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-bfce0ceba1",
+          "name": "Middlesbrough vs Wrexham | 02:00 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bfce0ceba1",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-bfce0ceba1",
+                  "name": "Middlesbrough vs Wrexham",
+                  "streams": [
+                    {
+                      "id": "st-bfce0ceba1",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Middlesbrough",
+            "team_b": "Wrexham",
+            "time": "02:00",
+            "date": "08/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3ddbe5403c_8b012e70_20260807.png?v=b4cb58c3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-cfb930b6d7",
           "name": "Cd Motagua vs Fas | 10:00 07/08",
           "type": "single",
@@ -321,6 +692,430 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-46515122be_502199a3_20260807.png?v=d0bbf46c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-971323eb3f",
+          "name": "Lions vs Brisbane Roar Ii | 15:30 07/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-971323eb3f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-971323eb3f",
+                  "name": "Lions vs Brisbane Roar Ii",
+                  "streams": [
+                    {
+                      "id": "st-971323eb3f",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Lions",
+            "team_b": "Brisbane Roar Ii",
+            "time": "15:30",
+            "date": "07/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c3fbc90031_f2b80848_20260807.png?v=c1820fe7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a09d853575",
+          "name": "Yokohama F. Marinos vs Kashima | 17:25 07/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a09d853575",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a09d853575",
+                  "name": "Yokohama F. Marinos vs Kashima",
+                  "streams": [
+                    {
+                      "id": "st-a09d853575",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Yokohama F. Marinos",
+            "team_b": "Kashima",
+            "time": "17:25",
+            "date": "07/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-624d727e74_e4418dfa_20260807.png?v=9be7a69f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-23021f0fa0",
+          "name": "Beijing Guoan vs Sichuan Jiuniu | 18:35 07/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-23021f0fa0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-23021f0fa0",
+                  "name": "Beijing Guoan vs Sichuan Jiuniu",
+                  "streams": [
+                    {
+                      "id": "st-23021f0fa0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Beijing Guoan",
+            "team_b": "Sichuan Jiuniu",
+            "time": "18:35",
+            "date": "07/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f4970b8eac_b6763af3_20260807.png?v=e4efa141",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-74eb6a3092",
+          "name": "Bayern München vs Aston Villa | 19:00 07/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-74eb6a3092",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-74eb6a3092",
+                  "name": "Bayern München vs Aston Villa",
+                  "streams": [
+                    {
+                      "id": "st-74eb6a3092",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Bayern München",
+            "team_b": "Aston Villa",
+            "time": "19:00",
+            "date": "07/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8000540171_f67ff152_20260807.png?v=d150a650",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-16d1d484f5",
+          "name": "Xorazm vs Mash'Al | 22:00 07/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-16d1d484f5",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-16d1d484f5",
+                  "name": "Xorazm vs Mash'Al",
+                  "streams": [
+                    {
+                      "id": "st-16d1d484f5",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Xorazm",
+            "team_b": "Mash'Al",
+            "time": "22:00",
+            "date": "07/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2f4efc3d14_f4eb3757_20260807.png?v=f23c9fd2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-87c58c4ff3",
+          "name": "Fulham vs Crystal Palace | 00:00 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-87c58c4ff3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-87c58c4ff3",
+                  "name": "Fulham vs Crystal Palace",
+                  "streams": [
+                    {
+                      "id": "st-87c58c4ff3",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fulham",
+            "team_b": "Crystal Palace",
+            "time": "00:00",
+            "date": "08/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5825841b35_b23da805_20260807.png?v=8cd5e946",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-11f13e0b74",
+          "name": "Charlotte vs Atlas | 06:30 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-11f13e0b74",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-11f13e0b74",
+                  "name": "Charlotte vs Atlas",
+                  "streams": [
+                    {
+                      "id": "st-11f13e0b74",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Charlotte",
+            "team_b": "Atlas",
+            "time": "06:30",
+            "date": "08/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d8338bebfe_307a1c1c_20260807.png?v=7647b2d8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ebf520cee4",
+          "name": "Columbus Crew vs Pachuca | 06:30 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ebf520cee4",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ebf520cee4",
+                  "name": "Columbus Crew vs Pachuca",
+                  "streams": [
+                    {
+                      "id": "st-ebf520cee4",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Columbus Crew",
+            "team_b": "Pachuca",
+            "time": "06:30",
+            "date": "08/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-14a2871c88_b2494a68_20260807.png?v=7f923dbe",
             "width": 1600,
             "height": 1200
           }
