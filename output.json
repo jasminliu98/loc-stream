@@ -126,99 +126,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-74ec260e8b",
-          "name": "New York City Fc vs Santos Laguna | 06:30 07/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-74ec260e8b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-74ec260e8b",
-                  "name": "New York City Fc vs Santos Laguna",
-                  "streams": [
-                    {
-                      "id": "st-74ec260e8b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a4472f2c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99b34a5d2f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "New York City Fc",
-            "team_b": "Santos Laguna",
-            "time": "06:30",
-            "date": "07/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0bb78b7c2e_25cb595c_20260807.png?v=93e54f7b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-664fdb9690",
           "name": "Union Santa Fe vs Lanus | 05:00 07/08",
