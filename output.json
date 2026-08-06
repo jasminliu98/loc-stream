@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -42,42 +42,7 @@
                     {
                       "id": "st-c402efb0c7",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a4472f2c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99b34a5d2f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -90,16 +55,16 @@
             "team_b": "Andijan",
             "time": "21:00",
             "date": "06/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "finished",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-31e67b7e9c_9f6b8b5e_20260806.png?v=f18482ca",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-31e67b7e9c_9f6b8b5e_20260807.png?v=f18482ca",
             "width": 1600,
             "height": 1200
           }
@@ -187,7 +152,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4ec804374d_a754cb49_20260806.png?v=eec097a1",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4ec804374d_a754cb49_20260807.png?v=eec097a1",
             "width": 1600,
             "height": 1200
           }
@@ -275,7 +240,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-20a5960a0e_9c601915_20260806.png?v=32466bd1",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-20a5960a0e_9c601915_20260807.png?v=32466bd1",
             "width": 1600,
             "height": 1200
           }
@@ -288,10 +253,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": " Sắp",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -306,7 +271,42 @@
                     {
                       "id": "st-b6d2eff30c",
                       "name": "Streams",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f95db3fce2",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0f5d544a39",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -319,16 +319,16 @@
             "team_b": "Rangers",
             "time": "23:00",
             "date": "06/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa6b7a1741_ffe2abe7_20260806.png?v=ad7ec1f0",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa6b7a1741_ffe2abe7_20260807.png?v=ad7ec1f0",
             "width": 1600,
             "height": 1200
           }
@@ -381,7 +381,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e3c4300f07_5f585fd9_20260806.png?v=65e5ce2e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e3c4300f07_5f585fd9_20260807.png?v=65e5ce2e",
             "width": 1600,
             "height": 1200
           }
@@ -434,7 +434,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-11ffcced17_2ad7057b_20260806.png?v=b69f5235",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-11ffcced17_2ad7057b_20260807.png?v=b69f5235",
             "width": 1600,
             "height": 1200
           }
@@ -487,7 +487,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f2d70efe41_4b247846_20260806.png?v=e4bbc3be",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f2d70efe41_4b247846_20260807.png?v=e4bbc3be",
             "width": 1600,
             "height": 1200
           }
@@ -540,7 +540,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-126502ab2f_332154a4_20260806.png?v=19c00804",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-126502ab2f_332154a4_20260807.png?v=19c00804",
             "width": 1600,
             "height": 1200
           }
@@ -593,7 +593,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-38983edfb5_d15ea2a6_20260806.png?v=b68d3da5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-38983edfb5_d15ea2a6_20260807.png?v=b68d3da5",
             "width": 1600,
             "height": 1200
           }
@@ -646,7 +646,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0bb78b7c2e_25cb595c_20260806.png?v=93e54f7b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0bb78b7c2e_25cb595c_20260807.png?v=93e54f7b",
             "width": 1600,
             "height": 1200
           }
@@ -699,7 +699,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bb46ed460d_a570ff7d_20260806.png?v=54c3265d",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bb46ed460d_a570ff7d_20260807.png?v=54c3265d",
             "width": 1600,
             "height": 1200
           }
@@ -712,10 +712,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": " Sắp",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -730,7 +730,42 @@
                     {
                       "id": "st-2519fd0068",
                       "name": "Streams",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0c0bb271f",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-88ba289dd1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -743,16 +778,16 @@
             "team_b": "Besiktas",
             "time": "00:00",
             "date": "07/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-304a072596_ef3d1fb6_20260806.png?v=7a213f10",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-304a072596_ef3d1fb6_20260807.png?v=7a213f10",
             "width": 1600,
             "height": 1200
           }
@@ -805,7 +840,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-46515122be_502199a3_20260806.png?v=d0bbf46c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-46515122be_502199a3_20260807.png?v=d0bbf46c",
             "width": 1600,
             "height": 1200
           }
