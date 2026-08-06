@@ -10,15 +10,15 @@
   },
   "groups": [
     {
-      "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "id": "cate_volleyball",
+      "name": null,
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c402efb0c7",
-          "name": "Sogdiana vs Andijan | 21:00 06/08",
+          "id": "ch-cb709835ab",
+          "name": "Indonesia W vs Vietnam W | 13:00 07/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,15 +32,15 @@
           ],
           "sources": [
             {
-              "id": "src-c402efb0c7",
+              "id": "src-cb709835ab",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-c402efb0c7",
-                  "name": "Sogdiana vs Andijan",
+                  "id": "ct-cb709835ab",
+                  "name": "Indonesia W vs Vietnam W",
                   "streams": [
                     {
-                      "id": "st-c402efb0c7",
+                      "id": "st-cb709835ab",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -51,412 +51,33 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Sogdiana",
-            "team_b": "Andijan",
-            "time": "21:00",
-            "date": "06/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-31e67b7e9c_9f6b8b5e_20260807.png?v=f18482ca",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-89ef41b7cd",
-          "name": "Kups vs Universitatea Craiova | 22:00 06/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-89ef41b7cd",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-89ef41b7cd",
-                  "name": "Kups vs Universitatea Craiova",
-                  "streams": [
-                    {
-                      "id": "st-89ef41b7cd",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Kups",
-            "team_b": "Universitatea Craiova",
-            "time": "22:00",
-            "date": "06/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4ec804374d_a754cb49_20260807.png?v=eec097a1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-21bf792e6b",
-          "name": "Inter Turku vs Fc Vaduz | 22:00 06/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-21bf792e6b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-21bf792e6b",
-                  "name": "Inter Turku vs Fc Vaduz",
-                  "streams": [
-                    {
-                      "id": "st-21bf792e6b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Inter Turku",
-            "team_b": "Fc Vaduz",
-            "time": "22:00",
-            "date": "06/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-20a5960a0e_9c601915_20260807.png?v=32466bd1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-b6d2eff30c",
-          "name": "Jagiellonia vs Rangers | 23:00 06/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b6d2eff30c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b6d2eff30c",
-                  "name": "Jagiellonia vs Rangers",
-                  "streams": [
-                    {
-                      "id": "st-b6d2eff30c",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Jagiellonia",
-            "team_b": "Rangers",
-            "time": "23:00",
-            "date": "06/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa6b7a1741_ffe2abe7_20260807.png?v=ad7ec1f0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-675218522b",
-          "name": "Paok vs Anderlecht | 00:45 07/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-675218522b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-675218522b",
-                  "name": "Paok vs Anderlecht",
-                  "streams": [
-                    {
-                      "id": "st-675218522b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Paok",
-            "team_b": "Anderlecht",
-            "time": "00:45",
+            "team_a": "Indonesia W",
+            "team_b": "Vietnam W",
+            "time": "13:00",
             "date": "07/08",
             "blv": "Chưa có link",
             "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
+            "status": "upcoming",
+            "cate_type": "volleyball"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e3c4300f07_5f585fd9_20260807.png?v=65e5ce2e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-872efb8d57_c0c2fbd1_20260807.png?v=83105d69",
             "width": 1600,
             "height": 1200
           }
-        },
-        {
-          "id": "ch-b475116cbb",
-          "name": "Bristol City vs Walsall | 01:45 07/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b475116cbb",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b475116cbb",
-                  "name": "Bristol City vs Walsall",
-                  "streams": [
-                    {
-                      "id": "st-b475116cbb",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4c0437badd",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8338c9ffd4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Bristol City",
-            "team_b": "Walsall",
-            "time": "01:45",
-            "date": "07/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-11ffcced17_2ad7057b_20260807.png?v=b69f5235",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-0e550532bd",
-          "name": "Benfica vs Heart Of Midlothian | 02:00 07/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0e550532bd",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-0e550532bd",
-                  "name": "Benfica vs Heart Of Midlothian",
-                  "streams": [
-                    {
-                      "id": "st-0e550532bd",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a4472f2c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99b34a5d2f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Benfica",
-            "team_b": "Heart Of Midlothian",
-            "time": "02:00",
-            "date": "07/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f2d70efe41_4b247846_20260807.png?v=e4bbc3be",
-            "width": 1600,
-            "height": 1200
-          }
-        },
+        }
+      ]
+    },
+    {
+      "id": "cate_football",
+      "name": "⚽ Bóng Đá (1 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "ch-664fdb9690",
           "name": "Union Santa Fe vs Lanus | 05:00 07/08",
@@ -465,10 +86,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": " Sắp",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -483,7 +104,42 @@
                     {
                       "id": "st-664fdb9690",
                       "name": "Streams",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-f95db3fce2",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0f5d544a39",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -496,9 +152,9 @@
             "team_b": "Lanus",
             "time": "05:00",
             "date": "07/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
@@ -506,59 +162,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-126502ab2f_332154a4_20260807.png?v=19c00804",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-f089740f28",
-          "name": "Corinthians vs Internacional | 06:00 07/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f089740f28",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f089740f28",
-                  "name": "Corinthians vs Internacional",
-                  "streams": [
-                    {
-                      "id": "st-f089740f28",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Corinthians",
-            "team_b": "Internacional",
-            "time": "06:00",
-            "date": "07/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-38983edfb5_d15ea2a6_20260807.png?v=b68d3da5",
             "width": 1600,
             "height": 1200
           }
@@ -665,59 +268,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bb46ed460d_a570ff7d_20260807.png?v=54c3265d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-2519fd0068",
-          "name": "Hradec Králové vs Besiktas | 00:00 07/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2519fd0068",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-2519fd0068",
-                  "name": "Hradec Králové vs Besiktas",
-                  "streams": [
-                    {
-                      "id": "st-2519fd0068",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Hradec Králové",
-            "team_b": "Besiktas",
-            "time": "00:00",
-            "date": "07/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-304a072596_ef3d1fb6_20260807.png?v=7a213f10",
             "width": 1600,
             "height": 1200
           }
