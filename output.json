@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-e8246871fe",
-          "name": "Boca Juniors vs Estudiantes L.P. | 05:00 06/08",
+          "id": "ch-3a0b4fba57",
+          "name": "Tigre vs Belgrano Cordoba | 07:15 06/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-e8246871fe",
+              "id": "src-3a0b4fba57",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-e8246871fe",
-                  "name": "Boca Juniors vs Estudiantes L.P.",
+                  "id": "ct-3a0b4fba57",
+                  "name": "Tigre vs Belgrano Cordoba",
                   "streams": [
                     {
-                      "id": "st-e8246871fe",
+                      "id": "st-3a0b4fba57",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-694cfaa40e",
+                          "id": "lnk-c0c0bb271f",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -61,11 +61,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-373bd859d5",
+                          "id": "lnk-88ba289dd1",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -86,9 +86,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Boca Juniors",
-            "team_b": "Estudiantes L.P.",
-            "time": "05:00",
+            "team_a": "Tigre",
+            "team_b": "Belgrano Cordoba",
+            "time": "07:15",
             "date": "06/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -99,7 +99,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b8c43d0673_84b107db_20260806.png?v=77a45f95",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-84b5c34c7a_4eb99a81_20260806.png?v=c03e3572",
             "width": 1600,
             "height": 1200
           }
@@ -188,94 +188,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2fd1dc2be4_7a3593e1_20260806.png?v=6c10fc1c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-3a0b4fba57",
-          "name": "Tigre vs Belgrano Cordoba | 07:15 06/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3a0b4fba57",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-3a0b4fba57",
-                  "name": "Tigre vs Belgrano Cordoba",
-                  "streams": [
-                    {
-                      "id": "st-3a0b4fba57",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0c0bb271f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-88ba289dd1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Tigre",
-            "team_b": "Belgrano Cordoba",
-            "time": "07:15",
-            "date": "06/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-84b5c34c7a_4eb99a81_20260806.png?v=c03e3572",
             "width": 1600,
             "height": 1200
           }
