@@ -423,59 +423,6 @@
           }
         },
         {
-          "id": "ch-2519fd0068",
-          "name": "Hradec Králové vs Besiktas | 00:00 07/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2519fd0068",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-2519fd0068",
-                  "name": "Hradec Králové vs Besiktas",
-                  "streams": [
-                    {
-                      "id": "st-2519fd0068",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Hradec Králové",
-            "team_b": "Besiktas",
-            "time": "00:00",
-            "date": "07/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-304a072596_ef3d1fb6_20260806.png?v=7a213f10",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-0e550532bd",
           "name": "Benfica vs Heart Of Midlothian | 02:00 07/08",
           "type": "single",
@@ -736,6 +683,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bb46ed460d_a570ff7d_20260806.png?v=54c3265d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2519fd0068",
+          "name": "Hradec Králové vs Besiktas | 00:00 07/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2519fd0068",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2519fd0068",
+                  "name": "Hradec Králové vs Besiktas",
+                  "streams": [
+                    {
+                      "id": "st-2519fd0068",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Hradec Králové",
+            "team_b": "Besiktas",
+            "time": "00:00",
+            "date": "07/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-304a072596_ef3d1fb6_20260806.png?v=7a213f10",
             "width": 1600,
             "height": 1200
           }
