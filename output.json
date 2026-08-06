@@ -191,6 +191,59 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-166f0181eb",
+          "name": "Aktobe Jas vs Ekibastuz | 20:00 06/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-166f0181eb",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-166f0181eb",
+                  "name": "Aktobe Jas vs Ekibastuz",
+                  "streams": [
+                    {
+                      "id": "st-166f0181eb",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Aktobe Jas",
+            "team_b": "Ekibastuz",
+            "time": "20:00",
+            "date": "06/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-03826ef539_ffabe8b8_20260806.png?v=273c0016",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
