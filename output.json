@@ -79,6 +79,94 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-87c58c4ff3",
+          "name": "Fulham vs Crystal Palace | 00:00 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-87c58c4ff3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-87c58c4ff3",
+                  "name": "Fulham vs Crystal Palace",
+                  "streams": [
+                    {
+                      "id": "st-87c58c4ff3",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0c0bb271f",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-88ba289dd1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fulham",
+            "team_b": "Crystal Palace",
+            "time": "00:00",
+            "date": "08/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5825841b35_b23da805_20260807.png?v=8cd5e946",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-16d1d484f5",
           "name": "Xorazm vs Mash'Al | 22:00 07/08",
           "type": "single",
@@ -250,94 +338,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1c5063404f_804e8faf_20260807.png?v=b465f676",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-87c58c4ff3",
-          "name": "Fulham vs Crystal Palace | 00:00 08/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-87c58c4ff3",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-87c58c4ff3",
-                  "name": "Fulham vs Crystal Palace",
-                  "streams": [
-                    {
-                      "id": "st-87c58c4ff3",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0c0bb271f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-88ba289dd1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fulham",
-            "team_b": "Crystal Palace",
-            "time": "00:00",
-            "date": "08/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5825841b35_b23da805_20260807.png?v=8cd5e946",
             "width": 1600,
             "height": 1200
           }
