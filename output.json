@@ -79,59 +79,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-ede37f1221",
-          "name": "Leganes vs Merida Ad | 00:00 08/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ede37f1221",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ede37f1221",
-                  "name": "Leganes vs Merida Ad",
-                  "streams": [
-                    {
-                      "id": "st-ede37f1221",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Leganes",
-            "team_b": "Merida Ad",
-            "time": "00:00",
-            "date": "08/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-833687b57b_d15f49ca_20260808.png?v=02ddccdf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-11f13e0b74",
           "name": "Charlotte vs Atlas | 06:30 08/08",
           "type": "single",
@@ -180,6 +127,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d8338bebfe_307a1c1c_20260808.png?v=7647b2d8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ede37f1221",
+          "name": "Leganes vs Merida Ad | 00:00 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ede37f1221",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ede37f1221",
+                  "name": "Leganes vs Merida Ad",
+                  "streams": [
+                    {
+                      "id": "st-ede37f1221",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Leganes",
+            "team_b": "Merida Ad",
+            "time": "00:00",
+            "date": "08/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "finished",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-833687b57b_d15f49ca_20260808.png?v=02ddccdf",
             "width": 1600,
             "height": 1200
           }
