@@ -79,8 +79,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-3ba7649896",
-          "name": "Wolves vs Port Vale | 01:45 08/08",
+          "id": "ch-bfce0ceba1",
+          "name": "Middlesbrough vs Wrexham | 02:00 08/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -94,23 +94,23 @@
           ],
           "sources": [
             {
-              "id": "src-3ba7649896",
+              "id": "src-bfce0ceba1",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-3ba7649896",
-                  "name": "Wolves vs Port Vale",
+                  "id": "ct-bfce0ceba1",
+                  "name": "Middlesbrough vs Wrexham",
                   "streams": [
                     {
-                      "id": "st-3ba7649896",
+                      "id": "st-bfce0ceba1",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-694cfaa40e",
+                          "id": "lnk-e3a4472f2c",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -123,11 +123,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-373bd859d5",
+                          "id": "lnk-99b34a5d2f",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -148,9 +148,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Wolves",
-            "team_b": "Port Vale",
-            "time": "01:45",
+            "team_a": "Middlesbrough",
+            "team_b": "Wrexham",
+            "time": "02:00",
             "date": "08/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -161,60 +161,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bdf6b06012_65d35176_20260808.png?v=31f3ecbc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-cb39bb0c51",
-          "name": "Sjk vs Gnistan | 23:00 07/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cb39bb0c51",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-cb39bb0c51",
-                  "name": "Sjk vs Gnistan",
-                  "streams": [
-                    {
-                      "id": "st-cb39bb0c51",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sjk",
-            "team_b": "Gnistan",
-            "time": "23:00",
-            "date": "07/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1c5063404f_804e8faf_20260808.png?v=b465f676",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3ddbe5403c_8b012e70_20260808.png?v=b4cb58c3",
             "width": 1600,
             "height": 1200
           }
@@ -396,8 +343,8 @@
           }
         },
         {
-          "id": "ch-bfce0ceba1",
-          "name": "Middlesbrough vs Wrexham | 02:00 08/08",
+          "id": "ch-3ba7649896",
+          "name": "Wolves vs Port Vale | 01:45 08/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -411,23 +358,23 @@
           ],
           "sources": [
             {
-              "id": "src-bfce0ceba1",
+              "id": "src-3ba7649896",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-bfce0ceba1",
-                  "name": "Middlesbrough vs Wrexham",
+                  "id": "ct-3ba7649896",
+                  "name": "Wolves vs Port Vale",
                   "streams": [
                     {
-                      "id": "st-bfce0ceba1",
+                      "id": "st-3ba7649896",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-e3a4472f2c",
+                          "id": "lnk-694cfaa40e",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -440,11 +387,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-99b34a5d2f",
+                          "id": "lnk-373bd859d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -465,9 +412,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Middlesbrough",
-            "team_b": "Wrexham",
-            "time": "02:00",
+            "team_a": "Wolves",
+            "team_b": "Port Vale",
+            "time": "01:45",
             "date": "08/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -478,7 +425,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3ddbe5403c_8b012e70_20260808.png?v=b4cb58c3",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bdf6b06012_65d35176_20260808.png?v=31f3ecbc",
             "width": 1600,
             "height": 1200
           }
