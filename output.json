@@ -79,94 +79,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-bfce0ceba1",
-          "name": "Middlesbrough vs Wrexham | 02:00 08/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bfce0ceba1",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-bfce0ceba1",
-                  "name": "Middlesbrough vs Wrexham",
-                  "streams": [
-                    {
-                      "id": "st-bfce0ceba1",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a4472f2c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99b34a5d2f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Middlesbrough",
-            "team_b": "Wrexham",
-            "time": "02:00",
-            "date": "08/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3ddbe5403c_8b012e70_20260808.png?v=b4cb58c3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-ede37f1221",
           "name": "Leganes vs Merida Ad | 00:00 08/08",
           "type": "single",
@@ -431,6 +343,200 @@
           }
         },
         {
+          "id": "ch-bfce0ceba1",
+          "name": "Middlesbrough vs Wrexham | 02:00 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bfce0ceba1",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-bfce0ceba1",
+                  "name": "Middlesbrough vs Wrexham",
+                  "streams": [
+                    {
+                      "id": "st-bfce0ceba1",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3a4472f2c",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-99b34a5d2f",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Middlesbrough",
+            "team_b": "Wrexham",
+            "time": "02:00",
+            "date": "08/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3ddbe5403c_8b012e70_20260808.png?v=b4cb58c3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-11f13e0b74",
+          "name": "Charlotte vs Atlas | 06:30 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-11f13e0b74",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-11f13e0b74",
+                  "name": "Charlotte vs Atlas",
+                  "streams": [
+                    {
+                      "id": "st-11f13e0b74",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Charlotte",
+            "team_b": "Atlas",
+            "time": "06:30",
+            "date": "08/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d8338bebfe_307a1c1c_20260808.png?v=7647b2d8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3763d2479a",
+          "name": "Tigres Uanl vs Minnesota United Fc | 08:00 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3763d2479a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3763d2479a",
+                  "name": "Tigres Uanl vs Minnesota United Fc",
+                  "streams": [
+                    {
+                      "id": "st-3763d2479a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Tigres Uanl",
+            "team_b": "Minnesota United Fc",
+            "time": "08:00",
+            "date": "08/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-29dd9570a9_8fe88396_20260808.png?v=dea33256",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-7b50c65cb7",
           "name": "Malaysia vs Philippines | 20:00 08/08",
           "type": "single",
@@ -585,165 +691,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-daccaa8d95_621adb93_20260808.png?v=9ff48521",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-11f13e0b74",
-          "name": "Charlotte vs Atlas | 06:30 08/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-11f13e0b74",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-11f13e0b74",
-                  "name": "Charlotte vs Atlas",
-                  "streams": [
-                    {
-                      "id": "st-11f13e0b74",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Charlotte",
-            "team_b": "Atlas",
-            "time": "06:30",
-            "date": "08/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d8338bebfe_307a1c1c_20260808.png?v=7647b2d8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-ebf520cee4",
-          "name": "Columbus Crew vs Pachuca | 06:30 08/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ebf520cee4",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ebf520cee4",
-                  "name": "Columbus Crew vs Pachuca",
-                  "streams": [
-                    {
-                      "id": "st-ebf520cee4",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Columbus Crew",
-            "team_b": "Pachuca",
-            "time": "06:30",
-            "date": "08/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-14a2871c88_b2494a68_20260808.png?v=7f923dbe",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-3763d2479a",
-          "name": "Tigres Uanl vs Minnesota United Fc | 08:00 08/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3763d2479a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-3763d2479a",
-                  "name": "Tigres Uanl vs Minnesota United Fc",
-                  "streams": [
-                    {
-                      "id": "st-3763d2479a",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Tigres Uanl",
-            "team_b": "Minnesota United Fc",
-            "time": "08:00",
-            "date": "08/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-29dd9570a9_8fe88396_20260808.png?v=dea33256",
             "width": 1600,
             "height": 1200
           }
