@@ -108,99 +108,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-971323eb3f",
-          "name": "Lions vs Brisbane Roar Ii | 15:30 07/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-971323eb3f",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-971323eb3f",
-                  "name": "Lions vs Brisbane Roar Ii",
-                  "streams": [
-                    {
-                      "id": "st-971323eb3f",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a4472f2c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99b34a5d2f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Lions",
-            "team_b": "Brisbane Roar Ii",
-            "time": "15:30",
-            "date": "07/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c3fbc90031_f2b80848_20260807.png?v=c1820fe7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-a09d853575",
           "name": "Yokohama F. Marinos vs Kashima | 17:25 07/08",
@@ -285,6 +197,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-624d727e74_e4418dfa_20260807.png?v=9be7a69f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-74eb6a3092",
+          "name": "Bayern München vs Aston Villa | 19:00 07/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-74eb6a3092",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-74eb6a3092",
+                  "name": "Bayern München vs Aston Villa",
+                  "streams": [
+                    {
+                      "id": "st-74eb6a3092",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Bayern München",
+            "team_b": "Aston Villa",
+            "time": "19:00",
+            "date": "07/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8000540171_f67ff152_20260807.png?v=d150a650",
             "width": 1600,
             "height": 1200
           }
@@ -656,59 +621,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f4970b8eac_b6763af3_20260807.png?v=e4efa141",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-74eb6a3092",
-          "name": "Bayern München vs Aston Villa | 19:00 07/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-74eb6a3092",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-74eb6a3092",
-                  "name": "Bayern München vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "st-74eb6a3092",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Bayern München",
-            "team_b": "Aston Villa",
-            "time": "19:00",
-            "date": "07/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8000540171_f67ff152_20260807.png?v=d150a650",
             "width": 1600,
             "height": 1200
           }
