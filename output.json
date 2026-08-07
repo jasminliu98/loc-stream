@@ -79,8 +79,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-d3a06fc2c0",
-          "name": "Vfl Bochum vs Hertha Bsc | 01:30 08/08",
+          "id": "ch-3ba7649896",
+          "name": "Wolves vs Port Vale | 01:45 08/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -94,23 +94,23 @@
           ],
           "sources": [
             {
-              "id": "src-d3a06fc2c0",
+              "id": "src-3ba7649896",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-d3a06fc2c0",
-                  "name": "Vfl Bochum vs Hertha Bsc",
+                  "id": "ct-3ba7649896",
+                  "name": "Wolves vs Port Vale",
                   "streams": [
                     {
-                      "id": "st-d3a06fc2c0",
+                      "id": "st-3ba7649896",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-f95db3fce2",
+                          "id": "lnk-694cfaa40e",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -123,11 +123,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-0f5d544a39",
+                          "id": "lnk-373bd859d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -148,9 +148,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Vfl Bochum",
-            "team_b": "Hertha Bsc",
-            "time": "01:30",
+            "team_a": "Wolves",
+            "team_b": "Port Vale",
+            "time": "01:45",
             "date": "08/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -161,7 +161,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c62b41c252_7324e421_20260808.png?v=ca634abe",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bdf6b06012_65d35176_20260808.png?v=31f3ecbc",
             "width": 1600,
             "height": 1200
           }
@@ -308,8 +308,8 @@
           }
         },
         {
-          "id": "ch-3ba7649896",
-          "name": "Wolves vs Port Vale | 01:45 08/08",
+          "id": "ch-d3a06fc2c0",
+          "name": "Vfl Bochum vs Hertha Bsc | 01:30 08/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -323,23 +323,23 @@
           ],
           "sources": [
             {
-              "id": "src-3ba7649896",
+              "id": "src-d3a06fc2c0",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-3ba7649896",
-                  "name": "Wolves vs Port Vale",
+                  "id": "ct-d3a06fc2c0",
+                  "name": "Vfl Bochum vs Hertha Bsc",
                   "streams": [
                     {
-                      "id": "st-3ba7649896",
+                      "id": "st-d3a06fc2c0",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-694cfaa40e",
+                          "id": "lnk-f95db3fce2",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -352,11 +352,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-373bd859d5",
+                          "id": "lnk-0f5d544a39",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -377,9 +377,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Wolves",
-            "team_b": "Port Vale",
-            "time": "01:45",
+            "team_a": "Vfl Bochum",
+            "team_b": "Hertha Bsc",
+            "time": "01:30",
             "date": "08/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -390,7 +390,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bdf6b06012_65d35176_20260808.png?v=31f3ecbc",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c62b41c252_7324e421_20260808.png?v=ca634abe",
             "width": 1600,
             "height": 1200
           }
