@@ -200,7 +200,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (6)",
+              "text": "● LIVE (4)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -271,41 +271,7 @@
                           ]
                         },
                         {
-                          "id": "lnk-ca9d268fe8",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-4ce5cf711d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-b196f4b1bc",
+                          "id": "lnk-4f57f6aebc",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
@@ -334,7 +300,7 @@
             "team_b": "Cambodia",
             "time": "20:00",
             "date": "07/08",
-            "blv": "Stream, Stream, Stream, Stream, Stream, Stream",
+            "blv": "Stream, Stream, Stream, Stream",
             "is_live": true,
             "status": "live",
             "cate_type": "football"
