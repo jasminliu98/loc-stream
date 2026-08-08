@@ -10,68 +10,6 @@
   },
   "groups": [
     {
-      "id": "cate_volleyball",
-      "name": null,
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "ch-3b5c68e9d7",
-          "name": "Thailand W vs Indonesia W | 16:30 08/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3b5c68e9d7",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-3b5c68e9d7",
-                  "name": "Thailand W vs Indonesia W",
-                  "streams": [
-                    {
-                      "id": "st-3b5c68e9d7",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Thailand W",
-            "team_b": "Indonesia W",
-            "time": "16:30",
-            "date": "08/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-183fa415b1_7041cb91_20260808.png?v=18c5b535",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
       "id": "cate_football",
       "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
