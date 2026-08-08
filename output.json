@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-44f187e277",
-          "name": "Vietnam W vs Philippines W | 13:00 08/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-44f187e277",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-44f187e277",
-                  "name": "Vietnam W vs Philippines W",
-                  "streams": [
-                    {
-                      "id": "st-44f187e277",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Vietnam W",
-            "team_b": "Philippines W",
-            "time": "13:00",
-            "date": "08/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9227f21ae1_22ba024a_20260808.png?v=40235bda",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-3b5c68e9d7",
           "name": "Thailand W vs Indonesia W | 16:30 08/08",
           "type": "single",
