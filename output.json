@@ -17,6 +17,94 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-1f7df876f8",
+          "name": "Guimaraes vs Arouca | 00:00 09/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1f7df876f8",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-1f7df876f8",
+                  "name": "Guimaraes vs Arouca",
+                  "streams": [
+                    {
+                      "id": "st-1f7df876f8",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-694cfaa40e",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-373bd859d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Guimaraes",
+            "team_b": "Arouca",
+            "time": "00:00",
+            "date": "09/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1179d1dce3_3674a670_20260808.png?v=62736709",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-f3e3ba5394",
           "name": "Manchester United vs Paris Saint Germain | 22:00 08/08",
           "type": "single",
@@ -310,94 +398,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9c9ce06b91_80121c88_20260808.png?v=a604e702",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-1f7df876f8",
-          "name": "Guimaraes vs Arouca | 00:00 09/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1f7df876f8",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-1f7df876f8",
-                  "name": "Guimaraes vs Arouca",
-                  "streams": [
-                    {
-                      "id": "st-1f7df876f8",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-694cfaa40e",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-373bd859d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Guimaraes",
-            "team_b": "Arouca",
-            "time": "00:00",
-            "date": "09/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1179d1dce3_3674a670_20260808.png?v=62736709",
             "width": 1600,
             "height": 1200
           }
