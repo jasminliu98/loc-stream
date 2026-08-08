@@ -141,11 +141,11 @@
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-4c0437badd",
+                          "id": "lnk-e3a4472f2c",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -158,11 +158,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-8338c9ffd4",
+                          "id": "lnk-99b34a5d2f",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
