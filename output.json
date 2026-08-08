@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-d79c1fd84b",
-          "name": "West Ham vs Portsmouth | 21:00 08/08",
+          "id": "ch-d4a963143c",
+          "name": "Cheltenham vs Charlton | 23:30 08/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-d79c1fd84b",
+              "id": "src-d4a963143c",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-d79c1fd84b",
-                  "name": "West Ham vs Portsmouth",
+                  "id": "ct-d4a963143c",
+                  "name": "Cheltenham vs Charlton",
                   "streams": [
                     {
-                      "id": "st-d79c1fd84b",
+                      "id": "st-d4a963143c",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-694cfaa40e",
+                          "id": "lnk-c0c0bb271f",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -61,11 +61,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-373bd859d5",
+                          "id": "lnk-88ba289dd1",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -86,9 +86,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "West Ham",
-            "team_b": "Portsmouth",
-            "time": "21:00",
+            "team_a": "Cheltenham",
+            "team_b": "Charlton",
+            "time": "23:30",
             "date": "08/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -99,7 +99,95 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aa0a81389f_3b37b131_20260808.png?v=2cc8b45b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ff043378a5_0ca148c7_20260808.png?v=c7aab921",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-fa946ee7c6",
+          "name": "Colchester vs Southampton | 23:30 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fa946ee7c6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-fa946ee7c6",
+                  "name": "Colchester vs Southampton",
+                  "streams": [
+                    {
+                      "id": "st-fa946ee7c6",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4c0437badd",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8338c9ffd4",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Colchester",
+            "team_b": "Southampton",
+            "time": "23:30",
+            "date": "08/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9c9ce06b91_80121c88_20260808.png?v=a604e702",
             "width": 1600,
             "height": 1200
           }
@@ -222,94 +310,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-daccaa8d95_621adb93_20260808.png?v=9ff48521",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-d4a963143c",
-          "name": "Cheltenham vs Charlton | 23:30 08/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d4a963143c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d4a963143c",
-                  "name": "Cheltenham vs Charlton",
-                  "streams": [
-                    {
-                      "id": "st-d4a963143c",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0c0bb271f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-88ba289dd1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Cheltenham",
-            "team_b": "Charlton",
-            "time": "23:30",
-            "date": "08/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ff043378a5_0ca148c7_20260808.png?v=c7aab921",
             "width": 1600,
             "height": 1200
           }
@@ -469,6 +469,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e6ba8288cd_b6a88b93_20260808.png?v=8a3dacda",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ff017c9100",
+          "name": "Estrela vs Sporting Cp | 02:30 09/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ff017c9100",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ff017c9100",
+                  "name": "Estrela vs Sporting Cp",
+                  "streams": [
+                    {
+                      "id": "st-ff017c9100",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Estrela",
+            "team_b": "Sporting Cp",
+            "time": "02:30",
+            "date": "09/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e037a9c45e_15649e43_20260808.png?v=4e103eae",
             "width": 1600,
             "height": 1200
           }
@@ -681,94 +734,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bd29ae68fc_e0aac62c_20260808.png?v=4fc15b2a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-fa946ee7c6",
-          "name": "Colchester vs Southampton | 23:30 08/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fa946ee7c6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-fa946ee7c6",
-                  "name": "Colchester vs Southampton",
-                  "streams": [
-                    {
-                      "id": "st-fa946ee7c6",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4c0437badd",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8338c9ffd4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Colchester",
-            "team_b": "Southampton",
-            "time": "23:30",
-            "date": "08/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9c9ce06b91_80121c88_20260808.png?v=a604e702",
             "width": 1600,
             "height": 1200
           }
