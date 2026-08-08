@@ -538,8 +538,8 @@
           }
         },
         {
-          "id": "ch-b5b3233ff0",
-          "name": "Tottenham vs Getafe | 21:00 08/08",
+          "id": "ch-d79c1fd84b",
+          "name": "West Ham vs Portsmouth | 21:00 08/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -553,15 +553,15 @@
           ],
           "sources": [
             {
-              "id": "src-b5b3233ff0",
+              "id": "src-d79c1fd84b",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-b5b3233ff0",
-                  "name": "Tottenham vs Getafe",
+                  "id": "ct-d79c1fd84b",
+                  "name": "West Ham vs Portsmouth",
                   "streams": [
                     {
-                      "id": "st-b5b3233ff0",
+                      "id": "st-d79c1fd84b",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -572,8 +572,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Tottenham",
-            "team_b": "Getafe",
+            "team_a": "West Ham",
+            "team_b": "Portsmouth",
             "time": "21:00",
             "date": "08/08",
             "blv": "Chưa có link",
@@ -585,7 +585,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a5992c68e_0f64a16d_20260808.png?v=6edafb11",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aa0a81389f_3b37b131_20260808.png?v=2cc8b45b",
             "width": 1600,
             "height": 1200
           }
