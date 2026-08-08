@@ -202,6 +202,94 @@
           }
         },
         {
+          "id": "ch-acd8442995",
+          "name": "Juventus vs Inter | 18:00 08/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-acd8442995",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-acd8442995",
+                  "name": "Juventus vs Inter",
+                  "streams": [
+                    {
+                      "id": "st-acd8442995",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-694cfaa40e",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-373bd859d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Juventus",
+            "team_b": "Inter",
+            "time": "18:00",
+            "date": "08/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-78b5aa7114_fb652cbf_20260808.png?v=fdb4b66d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-be5f98cc08",
           "name": "Western Sydney Wanderers vs Melbourne Victory | 16:30 08/08",
           "type": "single",
@@ -444,94 +532,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-daccaa8d95_621adb93_20260808.png?v=9ff48521",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-acd8442995",
-          "name": "Juventus vs Inter | 18:00 08/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-acd8442995",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-acd8442995",
-                  "name": "Juventus vs Inter",
-                  "streams": [
-                    {
-                      "id": "st-acd8442995",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-694cfaa40e",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-373bd859d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Juventus",
-            "team_b": "Inter",
-            "time": "18:00",
-            "date": "08/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-78b5aa7114_fb652cbf_20260808.png?v=fdb4b66d",
             "width": 1600,
             "height": 1200
           }
