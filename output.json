@@ -281,8 +281,8 @@
           }
         },
         {
-          "id": "ch-6162fa43f2",
-          "name": "Galatasaray vs Villarreal | 01:00 09/08",
+          "id": "ch-8d9cc06d20",
+          "name": "Udinese vs Nottingham Forest | 01:00 09/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -296,15 +296,15 @@
           ],
           "sources": [
             {
-              "id": "src-6162fa43f2",
+              "id": "src-8d9cc06d20",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-6162fa43f2",
-                  "name": "Galatasaray vs Villarreal",
+                  "id": "ct-8d9cc06d20",
+                  "name": "Udinese vs Nottingham Forest",
                   "streams": [
                     {
-                      "id": "st-6162fa43f2",
+                      "id": "st-8d9cc06d20",
                       "name": "Streams",
                       "stream_links": [
                         {
@@ -350,8 +350,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Galatasaray",
-            "team_b": "Villarreal",
+            "team_a": "Udinese",
+            "team_b": "Nottingham Forest",
             "time": "01:00",
             "date": "09/08",
             "blv": "Stream, Stream",
@@ -363,7 +363,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f07ec60852_089f1279_20260809.png?v=bd35d091",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c4a70bd4a8_577c3f96_20260809.png?v=8daf8539",
             "width": 1600,
             "height": 1200
           }
