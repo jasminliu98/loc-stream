@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-b5dbda8169",
-          "name": "Philippines W vs Thailand W | 13:00 09/08",
+          "id": "ch-20240f711f",
+          "name": "Philippines W vs Indonesia W | 13:00 09/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,15 +32,15 @@
           ],
           "sources": [
             {
-              "id": "src-b5dbda8169",
+              "id": "src-20240f711f",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-b5dbda8169",
-                  "name": "Philippines W vs Thailand W",
+                  "id": "ct-20240f711f",
+                  "name": "Philippines W vs Indonesia W",
                   "streams": [
                     {
-                      "id": "st-b5dbda8169",
+                      "id": "st-20240f711f",
                       "name": "Streams",
                       "stream_links": [
                         {
@@ -87,7 +87,7 @@
           "org_metadata": {
             "league": "Trực Tiếp",
             "team_a": "Philippines W",
-            "team_b": "Thailand W",
+            "team_b": "Indonesia W",
             "time": "13:00",
             "date": "09/08",
             "blv": "Stream, Stream",
@@ -99,14 +99,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-787a157c3c_b861af28_20260809.png?v=eb2d94b3",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-99062b1854_57a9bf9b_20260809.png?v=eb2d94b3",
             "width": 1600,
             "height": 1200
           }
         },
         {
-          "id": "ch-47e9e89719",
-          "name": "Vietnam W vs Indonesia W | 16:30 09/08",
+          "id": "ch-2d4c1f7bc7",
+          "name": "Việt Nam vs Thailand W | 16:30 09/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -120,15 +120,15 @@
           ],
           "sources": [
             {
-              "id": "src-47e9e89719",
+              "id": "src-2d4c1f7bc7",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-47e9e89719",
-                  "name": "Vietnam W vs Indonesia W",
+                  "id": "ct-2d4c1f7bc7",
+                  "name": "Việt Nam vs Thailand W",
                   "streams": [
                     {
-                      "id": "st-47e9e89719",
+                      "id": "st-2d4c1f7bc7",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -139,8 +139,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Vietnam W",
-            "team_b": "Indonesia W",
+            "team_a": "Việt Nam",
+            "team_b": "Thailand W",
             "time": "16:30",
             "date": "09/08",
             "blv": "Chưa có link",
@@ -152,7 +152,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f01f4889f1_7a276059_20260809.png?v=40235bda",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-44b1afdcf6_4113e43f_20260809.png?v=f6ce1ae8",
             "width": 1600,
             "height": 1200
           }
