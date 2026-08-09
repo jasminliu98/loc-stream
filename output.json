@@ -378,59 +378,6 @@
           }
         },
         {
-          "id": "ch-8ac2729950",
-          "name": "Chongqing Tongliang Long vs Shanghai Sipg | 18:35 09/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8ac2729950",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8ac2729950",
-                  "name": "Chongqing Tongliang Long vs Shanghai Sipg",
-                  "streams": [
-                    {
-                      "id": "st-8ac2729950",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Chongqing Tongliang Long",
-            "team_b": "Shanghai Sipg",
-            "time": "18:35",
-            "date": "09/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d6dd58c46f_619a63e3_20260809.png?v=288f8284",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-eb28e9d3db",
           "name": "Johor Darul Takzim Fc vs Chelsea | 19:00 09/08",
           "type": "single",
