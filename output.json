@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-62da6d7ee3",
-          "name": "Frosinone vs Lazio | 01:45 10/08",
+          "id": "ch-92ba52c8e9",
+          "name": "Palmeiras vs Internacional | 02:00 10/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-62da6d7ee3",
+              "id": "src-92ba52c8e9",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-62da6d7ee3",
-                  "name": "Frosinone vs Lazio",
+                  "id": "ct-92ba52c8e9",
+                  "name": "Palmeiras vs Internacional",
                   "streams": [
                     {
-                      "id": "st-62da6d7ee3",
+                      "id": "st-92ba52c8e9",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-e3a4472f2c",
+                          "id": "lnk-694cfaa40e",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -61,11 +61,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-99b34a5d2f",
+                          "id": "lnk-373bd859d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -86,9 +86,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Frosinone",
-            "team_b": "Lazio",
-            "time": "01:45",
+            "team_a": "Palmeiras",
+            "team_b": "Internacional",
+            "time": "02:00",
             "date": "10/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -99,7 +99,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b285064f12_71a91be7_20260810.png?v=3434a033",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-40f9bef97d_349a9d3a_20260810.png?v=6f0c9937",
             "width": 1600,
             "height": 1200
           }
@@ -281,8 +281,8 @@
           }
         },
         {
-          "id": "ch-92ba52c8e9",
-          "name": "Palmeiras vs Internacional | 02:00 10/08",
+          "id": "ch-62da6d7ee3",
+          "name": "Frosinone vs Lazio | 01:45 10/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -296,23 +296,23 @@
           ],
           "sources": [
             {
-              "id": "src-92ba52c8e9",
+              "id": "src-62da6d7ee3",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-92ba52c8e9",
-                  "name": "Palmeiras vs Internacional",
+                  "id": "ct-62da6d7ee3",
+                  "name": "Frosinone vs Lazio",
                   "streams": [
                     {
-                      "id": "st-92ba52c8e9",
+                      "id": "st-62da6d7ee3",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-694cfaa40e",
+                          "id": "lnk-e3a4472f2c",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -325,11 +325,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-373bd859d5",
+                          "id": "lnk-99b34a5d2f",
                           "name": "Stream",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -350,9 +350,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Palmeiras",
-            "team_b": "Internacional",
-            "time": "02:00",
+            "team_a": "Frosinone",
+            "team_b": "Lazio",
+            "time": "01:45",
             "date": "10/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -363,7 +363,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-40f9bef97d_349a9d3a_20260810.png?v=6f0c9937",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b285064f12_71a91be7_20260810.png?v=3434a033",
             "width": 1600,
             "height": 1200
           }
