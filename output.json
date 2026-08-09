@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-20240f711f",
-          "name": "Philippines W vs Indonesia W | 13:00 09/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-20240f711f",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-20240f711f",
-                  "name": "Philippines W vs Indonesia W",
-                  "streams": [
-                    {
-                      "id": "st-20240f711f",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Philippines W",
-            "team_b": "Indonesia W",
-            "time": "13:00",
-            "date": "09/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-99062b1854_57a9bf9b_20260809.png?v=eb2d94b3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-2d4c1f7bc7",
           "name": "Việt Nam vs Thailand W | 16:30 09/08",
           "type": "single",
@@ -166,6 +113,112 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "ch-4280655ef9",
+          "name": "South Melbourne vs Fremantle City | 16:40 09/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4280655ef9",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4280655ef9",
+                  "name": "South Melbourne vs Fremantle City",
+                  "streams": [
+                    {
+                      "id": "st-4280655ef9",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "South Melbourne",
+            "team_b": "Fremantle City",
+            "time": "16:40",
+            "date": "09/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1f98589fa4_2aab7f4b_20260809.png?v=f0b8290f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8b903faf5b",
+          "name": "V-Varen Nagasaki vs Kyoto Sanga | 17:00 09/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8b903faf5b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8b903faf5b",
+                  "name": "V-Varen Nagasaki vs Kyoto Sanga",
+                  "streams": [
+                    {
+                      "id": "st-8b903faf5b",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "V-Varen Nagasaki",
+            "team_b": "Kyoto Sanga",
+            "time": "17:00",
+            "date": "09/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a26b04d1e_182ed1f1_20260809.png?v=67c59271",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "ch-31587ca3c2",
           "name": "Manchester City vs Atletico Madrid | 18:00 09/08",
@@ -374,112 +427,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b345e35fc3_90fe443b_20260809.png?v=afce84ff",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-4280655ef9",
-          "name": "South Melbourne vs Fremantle City | 16:40 09/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4280655ef9",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-4280655ef9",
-                  "name": "South Melbourne vs Fremantle City",
-                  "streams": [
-                    {
-                      "id": "st-4280655ef9",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "South Melbourne",
-            "team_b": "Fremantle City",
-            "time": "16:40",
-            "date": "09/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1f98589fa4_2aab7f4b_20260809.png?v=f0b8290f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-8b903faf5b",
-          "name": "V-Varen Nagasaki vs Kyoto Sanga | 17:00 09/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8b903faf5b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8b903faf5b",
-                  "name": "V-Varen Nagasaki vs Kyoto Sanga",
-                  "streams": [
-                    {
-                      "id": "st-8b903faf5b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "V-Varen Nagasaki",
-            "team_b": "Kyoto Sanga",
-            "time": "17:00",
-            "date": "09/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a26b04d1e_182ed1f1_20260809.png?v=67c59271",
             "width": 1600,
             "height": 1200
           }
