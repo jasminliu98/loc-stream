@@ -209,6 +209,271 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-2e42f147f3",
+          "name": "Polessya vs Metalist 1925 Kharkiv | 19:30 10/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2e42f147f3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2e42f147f3",
+                  "name": "Polessya vs Metalist 1925 Kharkiv",
+                  "streams": [
+                    {
+                      "id": "st-2e42f147f3",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Polessya",
+            "team_b": "Metalist 1925 Kharkiv",
+            "time": "19:30",
+            "date": "10/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d0efffe69b_edbffa2b_20260810.png?v=07ecb0a4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-0d152aa436",
+          "name": "Karpaty vs Lnz Cherkasy | 22:00 10/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0d152aa436",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-0d152aa436",
+                  "name": "Karpaty vs Lnz Cherkasy",
+                  "streams": [
+                    {
+                      "id": "st-0d152aa436",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Karpaty",
+            "team_b": "Lnz Cherkasy",
+            "time": "22:00",
+            "date": "10/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c2ba2858e2_b2505f79_20260810.png?v=3051a9f3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ae003d95c7",
+          "name": "Fc Botosani vs Corvinul Hunedoara | 22:30 10/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ae003d95c7",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ae003d95c7",
+                  "name": "Fc Botosani vs Corvinul Hunedoara",
+                  "streams": [
+                    {
+                      "id": "st-ae003d95c7",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fc Botosani",
+            "team_b": "Corvinul Hunedoara",
+            "time": "22:30",
+            "date": "10/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f3ca8d0373_f822bee9_20260810.png?v=ec3233e8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ff4ee193ae",
+          "name": "Fakel vs Akhmat | 23:30 10/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ff4ee193ae",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ff4ee193ae",
+                  "name": "Fakel vs Akhmat",
+                  "streams": [
+                    {
+                      "id": "st-ff4ee193ae",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fakel",
+            "team_b": "Akhmat",
+            "time": "23:30",
+            "date": "10/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b702261746_691f2c3d_20260810.png?v=452c1d61",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f2561f3f46",
+          "name": "Silkeborg vs Odense | 00:00 11/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f2561f3f46",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f2561f3f46",
+                  "name": "Silkeborg vs Odense",
+                  "streams": [
+                    {
+                      "id": "st-f2561f3f46",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Silkeborg",
+            "team_b": "Odense",
+            "time": "00:00",
+            "date": "11/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-37653929d1_c97f2ffa_20260810.png?v=16f62704",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
