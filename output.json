@@ -126,99 +126,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-dace910c15",
-          "name": "Toluca vs Los Angeles Fc | 10:10 09/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dace910c15",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-dace910c15",
-                  "name": "Toluca vs Los Angeles Fc",
-                  "streams": [
-                    {
-                      "id": "st-dace910c15",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0c0bb271f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-88ba289dd1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Toluca",
-            "team_b": "Los Angeles Fc",
-            "time": "10:10",
-            "date": "09/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bd29ae68fc_e0aac62c_20260809.png?v=4fc15b2a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-31587ca3c2",
           "name": "Manchester City vs Atletico Madrid | 18:00 09/08",
