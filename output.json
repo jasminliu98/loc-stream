@@ -17,94 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-91d0de468b",
-          "name": "Benfica vs Academico Viseu | 02:30 10/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-91d0de468b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-91d0de468b",
-                  "name": "Benfica vs Academico Viseu",
-                  "streams": [
-                    {
-                      "id": "st-91d0de468b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a4472f2c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99b34a5d2f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Benfica",
-            "team_b": "Academico Viseu",
-            "time": "02:30",
-            "date": "10/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5feff2eb21_c501be6d_20260810.png?v=e4bbc3be",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-ac5f51a14f",
           "name": "Bb Bodrumspor vs Bursaspor | 01:30 10/08",
           "type": "single",
@@ -276,6 +188,94 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-40f9bef97d_349a9d3a_20260810.png?v=6f0c9937",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-91d0de468b",
+          "name": "Benfica vs Academico Viseu | 02:30 10/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-91d0de468b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-91d0de468b",
+                  "name": "Benfica vs Academico Viseu",
+                  "streams": [
+                    {
+                      "id": "st-91d0de468b",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3a4472f2c",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-99b34a5d2f",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Benfica",
+            "team_b": "Academico Viseu",
+            "time": "02:30",
+            "date": "10/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5feff2eb21_c501be6d_20260810.png?v=e4bbc3be",
             "width": 1600,
             "height": 1200
           }
