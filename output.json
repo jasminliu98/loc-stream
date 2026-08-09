@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-91d0de468b",
-          "name": "Benfica vs Academico Viseu | 02:30 10/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-91d0de468b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-91d0de468b",
-                  "name": "Benfica vs Academico Viseu",
-                  "streams": [
-                    {
-                      "id": "st-91d0de468b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Benfica",
-            "team_b": "Academico Viseu",
-            "time": "02:30",
-            "date": "10/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5feff2eb21_c501be6d_20260810.png?v=e4bbc3be",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-0da00a7a74",
           "name": "Santos vs Atletico Paranaense | 04:30 10/08",
           "type": "single",
