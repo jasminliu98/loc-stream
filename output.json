@@ -10,68 +10,6 @@
   },
   "groups": [
     {
-      "id": "cate_volleyball",
-      "name": null,
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "ch-2d4c1f7bc7",
-          "name": "Việt Nam vs Thailand W | 16:30 09/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2d4c1f7bc7",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-2d4c1f7bc7",
-                  "name": "Việt Nam vs Thailand W",
-                  "streams": [
-                    {
-                      "id": "st-2d4c1f7bc7",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Việt Nam",
-            "team_b": "Thailand W",
-            "time": "16:30",
-            "date": "09/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-44b1afdcf6_4113e43f_20260809.png?v=f6ce1ae8",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
       "id": "cate_football",
       "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
