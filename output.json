@@ -273,165 +273,6 @@
           }
         },
         {
-          "id": "ch-b9c64cdf37",
-          "name": "Brisbane Roar vs Sydney | 14:00 09/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b9c64cdf37",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b9c64cdf37",
-                  "name": "Brisbane Roar vs Sydney",
-                  "streams": [
-                    {
-                      "id": "st-b9c64cdf37",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Brisbane Roar",
-            "team_b": "Sydney",
-            "time": "14:00",
-            "date": "09/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5dc8967de5_46e2277f_20260809.png?v=86f3860e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-4280655ef9",
-          "name": "South Melbourne vs Fremantle City | 16:40 09/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4280655ef9",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-4280655ef9",
-                  "name": "South Melbourne vs Fremantle City",
-                  "streams": [
-                    {
-                      "id": "st-4280655ef9",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "South Melbourne",
-            "team_b": "Fremantle City",
-            "time": "16:40",
-            "date": "09/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1f98589fa4_2aab7f4b_20260809.png?v=f0b8290f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-8b903faf5b",
-          "name": "V-Varen Nagasaki vs Kyoto Sanga | 17:00 09/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8b903faf5b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8b903faf5b",
-                  "name": "V-Varen Nagasaki vs Kyoto Sanga",
-                  "streams": [
-                    {
-                      "id": "st-8b903faf5b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "V-Varen Nagasaki",
-            "team_b": "Kyoto Sanga",
-            "time": "17:00",
-            "date": "09/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a26b04d1e_182ed1f1_20260809.png?v=67c59271",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-31587ca3c2",
           "name": "Manchester City vs Atletico Madrid | 18:00 09/08",
           "type": "single",
@@ -480,59 +321,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4d4e29a305_f543c366_20260809.png?v=ebf2d2f5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-8ac2729950",
-          "name": "Chongqing Tongliang Long vs Shanghai Sipg | 18:35 09/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8ac2729950",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8ac2729950",
-                  "name": "Chongqing Tongliang Long vs Shanghai Sipg",
-                  "streams": [
-                    {
-                      "id": "st-8ac2729950",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Chongqing Tongliang Long",
-            "team_b": "Shanghai Sipg",
-            "time": "18:35",
-            "date": "09/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d6dd58c46f_619a63e3_20260809.png?v=288f8284",
             "width": 1600,
             "height": 1200
           }
@@ -692,6 +480,218 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b345e35fc3_90fe443b_20260809.png?v=afce84ff",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b9c64cdf37",
+          "name": "Brisbane Roar vs Sydney | 14:00 09/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b9c64cdf37",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b9c64cdf37",
+                  "name": "Brisbane Roar vs Sydney",
+                  "streams": [
+                    {
+                      "id": "st-b9c64cdf37",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Brisbane Roar",
+            "team_b": "Sydney",
+            "time": "14:00",
+            "date": "09/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5dc8967de5_46e2277f_20260809.png?v=86f3860e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-4280655ef9",
+          "name": "South Melbourne vs Fremantle City | 16:40 09/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4280655ef9",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4280655ef9",
+                  "name": "South Melbourne vs Fremantle City",
+                  "streams": [
+                    {
+                      "id": "st-4280655ef9",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "South Melbourne",
+            "team_b": "Fremantle City",
+            "time": "16:40",
+            "date": "09/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1f98589fa4_2aab7f4b_20260809.png?v=f0b8290f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8b903faf5b",
+          "name": "V-Varen Nagasaki vs Kyoto Sanga | 17:00 09/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8b903faf5b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8b903faf5b",
+                  "name": "V-Varen Nagasaki vs Kyoto Sanga",
+                  "streams": [
+                    {
+                      "id": "st-8b903faf5b",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "V-Varen Nagasaki",
+            "team_b": "Kyoto Sanga",
+            "time": "17:00",
+            "date": "09/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a26b04d1e_182ed1f1_20260809.png?v=67c59271",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8ac2729950",
+          "name": "Chongqing Tongliang Long vs Shanghai Sipg | 18:35 09/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8ac2729950",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8ac2729950",
+                  "name": "Chongqing Tongliang Long vs Shanghai Sipg",
+                  "streams": [
+                    {
+                      "id": "st-8ac2729950",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Chongqing Tongliang Long",
+            "team_b": "Shanghai Sipg",
+            "time": "18:35",
+            "date": "09/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d6dd58c46f_619a63e3_20260809.png?v=288f8284",
             "width": 1600,
             "height": 1200
           }
