@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-ae003d95c7",
-          "name": "Fc Botosani vs Corvinul Hunedoara | 22:30 10/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ae003d95c7",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ae003d95c7",
-                  "name": "Fc Botosani vs Corvinul Hunedoara",
-                  "streams": [
-                    {
-                      "id": "st-ae003d95c7",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fc Botosani",
-            "team_b": "Corvinul Hunedoara",
-            "time": "22:30",
-            "date": "10/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f3ca8d0373_f822bee9_20260810.png?v=ec3233e8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-dd1ada2660",
           "name": "Metalourg vs Yaypan | 21:00 10/08",
           "type": "single",
@@ -230,6 +159,130 @@
           }
         },
         {
+          "id": "ch-ae003d95c7",
+          "name": "Fc Botosani vs Corvinul Hunedoara | 22:30 10/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ae003d95c7",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ae003d95c7",
+                  "name": "Fc Botosani vs Corvinul Hunedoara",
+                  "streams": [
+                    {
+                      "id": "st-ae003d95c7",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fc Botosani",
+            "team_b": "Corvinul Hunedoara",
+            "time": "22:30",
+            "date": "10/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f3ca8d0373_f822bee9_20260810.png?v=ec3233e8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ff4ee193ae",
+          "name": "Fakel vs Akhmat | 23:30 10/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ff4ee193ae",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ff4ee193ae",
+                  "name": "Fakel vs Akhmat",
+                  "streams": [
+                    {
+                      "id": "st-ff4ee193ae",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fakel",
+            "team_b": "Akhmat",
+            "time": "23:30",
+            "date": "10/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b702261746_691f2c3d_20260810.png?v=452c1d61",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-f2561f3f46",
           "name": "Silkeborg vs Odense | 00:00 11/08",
           "type": "single",
@@ -336,8 +389,8 @@
           }
         },
         {
-          "id": "ch-87fd65e3b4",
-          "name": "Pendikspor vs Batman Petrolspor | 01:30 11/08",
+          "id": "ch-bef3eb649b",
+          "name": "Sepsi Osk Sfantu Gheorghe vs Fcsb | 01:30 11/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -351,15 +404,15 @@
           ],
           "sources": [
             {
-              "id": "src-87fd65e3b4",
+              "id": "src-bef3eb649b",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-87fd65e3b4",
-                  "name": "Pendikspor vs Batman Petrolspor",
+                  "id": "ct-bef3eb649b",
+                  "name": "Sepsi Osk Sfantu Gheorghe vs Fcsb",
                   "streams": [
                     {
-                      "id": "st-87fd65e3b4",
+                      "id": "st-bef3eb649b",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -370,8 +423,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Pendikspor",
-            "team_b": "Batman Petrolspor",
+            "team_a": "Sepsi Osk Sfantu Gheorghe",
+            "team_b": "Fcsb",
             "time": "01:30",
             "date": "11/08",
             "blv": "Chưa có link",
@@ -383,7 +436,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-325024c15f_502ac9af_20260810.png?v=ad1660e4",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-160f984d4b_fd00d40f_20260810.png?v=b0575c2f",
             "width": 1600,
             "height": 1200
           }
@@ -437,59 +490,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fbda6a73b8_b44196b2_20260810.png?v=dd96fef1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-ff4ee193ae",
-          "name": "Fakel vs Akhmat | 23:30 10/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ff4ee193ae",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ff4ee193ae",
-                  "name": "Fakel vs Akhmat",
-                  "streams": [
-                    {
-                      "id": "st-ff4ee193ae",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fakel",
-            "team_b": "Akhmat",
-            "time": "23:30",
-            "date": "10/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b702261746_691f2c3d_20260810.png?v=452c1d61",
             "width": 1600,
             "height": 1200
           }
