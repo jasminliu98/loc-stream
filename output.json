@@ -11,11 +11,82 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "ch-7d2652d2f2",
+          "name": "Jong Psv vs Fc Volendam | 01:00 11/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7d2652d2f2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-7d2652d2f2",
+                  "name": "Jong Psv vs Fc Volendam",
+                  "streams": [
+                    {
+                      "id": "st-7d2652d2f2",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8b0372d7d4",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Jong Psv",
+            "team_b": "Fc Volendam",
+            "time": "01:00",
+            "date": "11/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-184bdf03b3_44423658_20260811.png?v=576eb428",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "ch-606be4660c",
           "name": "Plymouth vs Exeter City | 02:00 11/08",
@@ -88,67 +159,32 @@
           }
         },
         {
-          "id": "ch-f2561f3f46",
-          "name": "Silkeborg vs Odense | 00:00 11/08",
+          "id": "ch-a7691dcf55",
+          "name": "Adelaide United vs Công An Hà Nội | 16:30 11/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-f2561f3f46",
+              "id": "src-a7691dcf55",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-f2561f3f46",
-                  "name": "Silkeborg vs Odense",
+                  "id": "ct-a7691dcf55",
+                  "name": "Adelaide United vs Công An Hà Nội",
                   "streams": [
                     {
-                      "id": "st-f2561f3f46",
+                      "id": "st-a7691dcf55",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3a4472f2c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-99b34a5d2f",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -157,69 +193,51 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Silkeborg",
-            "team_b": "Odense",
-            "time": "00:00",
+            "team_a": "Adelaide United",
+            "team_b": "Công An Hà Nội",
+            "time": "16:30",
             "date": "11/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-37653929d1_c97f2ffa_20260811.png?v=16f62704",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-242f913a9b_b69419fb_20260811.png?v=f005ae34",
             "width": 1600,
             "height": 1200
           }
         },
         {
-          "id": "ch-7d2652d2f2",
-          "name": "Jong Psv vs Fc Volendam | 01:00 11/08",
+          "id": "ch-0be67a0600",
+          "name": "Lions vs Melbourne City | 16:30 11/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (1)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-7d2652d2f2",
+              "id": "src-0be67a0600",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-7d2652d2f2",
-                  "name": "Jong Psv vs Fc Volendam",
+                  "id": "ct-0be67a0600",
+                  "name": "Lions vs Melbourne City",
                   "streams": [
                     {
-                      "id": "st-7d2652d2f2",
+                      "id": "st-0be67a0600",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b0372d7d4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -228,20 +246,73 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Jong Psv",
-            "team_b": "Fc Volendam",
-            "time": "01:00",
+            "team_a": "Lions",
+            "team_b": "Melbourne City",
+            "time": "16:30",
             "date": "11/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-184bdf03b3_44423658_20260811.png?v=576eb428",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-95e2e3484e_f7b2fdf6_20260811.png?v=c1820fe7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8d9b6e17e4",
+          "name": "Juventus vs Palermo | 17:00 11/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8d9b6e17e4",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8d9b6e17e4",
+                  "name": "Juventus vs Palermo",
+                  "streams": [
+                    {
+                      "id": "st-8d9b6e17e4",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Juventus",
+            "team_b": "Palermo",
+            "time": "17:00",
+            "date": "11/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-50aff1b836_2701ac42_20260811.png?v=fdb4b66d",
             "width": 1600,
             "height": 1200
           }
