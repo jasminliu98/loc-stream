@@ -264,6 +264,59 @@
           }
         },
         {
+          "id": "ch-dd1ada2660",
+          "name": "Metalourg vs Yaypan | 21:00 10/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dd1ada2660",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-dd1ada2660",
+                  "name": "Metalourg vs Yaypan",
+                  "streams": [
+                    {
+                      "id": "st-dd1ada2660",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Metalourg",
+            "team_b": "Yaypan",
+            "time": "21:00",
+            "date": "10/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b13b1165c1_0a871c86_20260810.png?v=7697b0a9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-0d152aa436",
           "name": "Karpaty vs Lnz Cherkasy | 22:00 10/08",
           "type": "single",
@@ -471,6 +524,165 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-37653929d1_c97f2ffa_20260810.png?v=16f62704",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-7d2652d2f2",
+          "name": "Jong Psv vs Fc Volendam | 01:00 11/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7d2652d2f2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-7d2652d2f2",
+                  "name": "Jong Psv vs Fc Volendam",
+                  "streams": [
+                    {
+                      "id": "st-7d2652d2f2",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Jong Psv",
+            "team_b": "Fc Volendam",
+            "time": "01:00",
+            "date": "11/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-184bdf03b3_44423658_20260810.png?v=576eb428",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-87fd65e3b4",
+          "name": "Pendikspor vs Batman Petrolspor | 01:30 11/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-87fd65e3b4",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-87fd65e3b4",
+                  "name": "Pendikspor vs Batman Petrolspor",
+                  "streams": [
+                    {
+                      "id": "st-87fd65e3b4",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Pendikspor",
+            "team_b": "Batman Petrolspor",
+            "time": "01:30",
+            "date": "11/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-325024c15f_502ac9af_20260810.png?v=ad1660e4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-606be4660c",
+          "name": "Plymouth vs Exeter City | 02:00 11/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-606be4660c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-606be4660c",
+                  "name": "Plymouth vs Exeter City",
+                  "streams": [
+                    {
+                      "id": "st-606be4660c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Plymouth",
+            "team_b": "Exeter City",
+            "time": "02:00",
+            "date": "11/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fbda6a73b8_b44196b2_20260810.png?v=dd96fef1",
             "width": 1600,
             "height": 1200
           }
