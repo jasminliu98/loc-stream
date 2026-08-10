@@ -11,20 +11,20 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-ff4ee193ae",
-          "name": "Fakel vs Akhmat | 23:30 10/08",
+          "id": "ch-606be4660c",
+          "name": "Plymouth vs Exeter City | 02:00 11/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2)",
+              "text": "● LIVE (1)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -32,40 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-ff4ee193ae",
+              "id": "src-606be4660c",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-ff4ee193ae",
-                  "name": "Fakel vs Akhmat",
+                  "id": "ct-606be4660c",
+                  "name": "Plymouth vs Exeter City",
                   "streams": [
                     {
-                      "id": "st-ff4ee193ae",
+                      "id": "st-606be4660c",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-4c0437badd",
+                          "id": "lnk-e03ccf6037",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8338c9ffd4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -86,11 +69,11 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Fakel",
-            "team_b": "Akhmat",
-            "time": "23:30",
-            "date": "10/08",
-            "blv": "Stream, Stream",
+            "team_a": "Plymouth",
+            "team_b": "Exeter City",
+            "time": "02:00",
+            "date": "11/08",
+            "blv": "Stream",
             "is_live": true,
             "status": "live",
             "cate_type": "football"
@@ -99,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b702261746_691f2c3d_20260811.png?v=452c1d61",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fbda6a73b8_b44196b2_20260811.png?v=dd96fef1",
             "width": 1600,
             "height": 1200
           }
@@ -200,7 +183,7 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2)",
+              "text": "● LIVE (1)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -220,28 +203,11 @@
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-694cfaa40e",
+                          "id": "lnk-8b0372d7d4",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-373bd859d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -266,7 +232,7 @@
             "team_b": "Fc Volendam",
             "time": "01:00",
             "date": "11/08",
-            "blv": "Stream, Stream",
+            "blv": "Stream",
             "is_live": true,
             "status": "live",
             "cate_type": "football"
@@ -276,182 +242,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-184bdf03b3_44423658_20260811.png?v=576eb428",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-bef3eb649b",
-          "name": "Sepsi Osk Sfantu Gheorghe vs Fcsb | 01:30 11/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bef3eb649b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-bef3eb649b",
-                  "name": "Sepsi Osk Sfantu Gheorghe vs Fcsb",
-                  "streams": [
-                    {
-                      "id": "st-bef3eb649b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-01aaaaefba",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7bafb7ebe1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sepsi Osk Sfantu Gheorghe",
-            "team_b": "Fcsb",
-            "time": "01:30",
-            "date": "11/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-160f984d4b_fd00d40f_20260811.png?v=b0575c2f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-606be4660c",
-          "name": "Plymouth vs Exeter City | 02:00 11/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-606be4660c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-606be4660c",
-                  "name": "Plymouth vs Exeter City",
-                  "streams": [
-                    {
-                      "id": "st-606be4660c",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8bd26ff327",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-439dbc1bde",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Plymouth",
-            "team_b": "Exeter City",
-            "time": "02:00",
-            "date": "11/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fbda6a73b8_b44196b2_20260811.png?v=dd96fef1",
             "width": 1600,
             "height": 1200
           }
