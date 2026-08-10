@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-ae003d95c7",
+          "name": "Fc Botosani vs Corvinul Hunedoara | 22:30 10/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ae003d95c7",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ae003d95c7",
+                  "name": "Fc Botosani vs Corvinul Hunedoara",
+                  "streams": [
+                    {
+                      "id": "st-ae003d95c7",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fc Botosani",
+            "team_b": "Corvinul Hunedoara",
+            "time": "22:30",
+            "date": "10/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f3ca8d0373_f822bee9_20260810.png?v=ec3233e8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-dd1ada2660",
           "name": "Metalourg vs Yaypan | 21:00 10/08",
           "type": "single",
@@ -154,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c2ba2858e2_b2505f79_20260810.png?v=3051a9f3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-ae003d95c7",
-          "name": "Fc Botosani vs Corvinul Hunedoara | 22:30 10/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ae003d95c7",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ae003d95c7",
-                  "name": "Fc Botosani vs Corvinul Hunedoara",
-                  "streams": [
-                    {
-                      "id": "st-ae003d95c7",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fc Botosani",
-            "team_b": "Corvinul Hunedoara",
-            "time": "22:30",
-            "date": "10/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f3ca8d0373_f822bee9_20260810.png?v=ec3233e8",
             "width": 1600,
             "height": 1200
           }
