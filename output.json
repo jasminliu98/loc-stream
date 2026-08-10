@@ -17,94 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-7d2652d2f2",
-          "name": "Jong Psv vs Fc Volendam | 01:00 11/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7d2652d2f2",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-7d2652d2f2",
-                  "name": "Jong Psv vs Fc Volendam",
-                  "streams": [
-                    {
-                      "id": "st-7d2652d2f2",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f95db3fce2",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0f5d544a39",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Jong Psv",
-            "team_b": "Fc Volendam",
-            "time": "01:00",
-            "date": "11/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-184bdf03b3_44423658_20260811.png?v=576eb428",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-0d152aa436",
           "name": "Karpaty vs Lnz Cherkasy | 22:00 10/08",
           "type": "single",
@@ -382,6 +294,94 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-37653929d1_c97f2ffa_20260811.png?v=16f62704",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-7d2652d2f2",
+          "name": "Jong Psv vs Fc Volendam | 01:00 11/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7d2652d2f2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-7d2652d2f2",
+                  "name": "Jong Psv vs Fc Volendam",
+                  "streams": [
+                    {
+                      "id": "st-7d2652d2f2",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f95db3fce2",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0f5d544a39",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Jong Psv",
+            "team_b": "Fc Volendam",
+            "time": "01:00",
+            "date": "11/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-184bdf03b3_44423658_20260811.png?v=576eb428",
             "width": 1600,
             "height": 1200
           }
