@@ -987,6 +987,165 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-e64f238749",
+          "name": "Inter Miami vs Leon | 06:30 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e64f238749",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e64f238749",
+                  "name": "Inter Miami vs Leon",
+                  "streams": [
+                    {
+                      "id": "st-e64f238749",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Inter Miami",
+            "team_b": "Leon",
+            "time": "06:30",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d7d2c6e74f_95d37598_20260812.png?v=6c10fc1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9f2b7ecd74",
+          "name": "Monterrey vs Nashville Sc | 07:00 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9f2b7ecd74",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9f2b7ecd74",
+                  "name": "Monterrey vs Nashville Sc",
+                  "streams": [
+                    {
+                      "id": "st-9f2b7ecd74",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Monterrey",
+            "team_b": "Nashville Sc",
+            "time": "07:00",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a9af4e8435_2df5e271_20260812.png?v=520b719f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c3ac6f1d64",
+          "name": "Los Angeles Fc vs Club Queretaro | 09:30 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c3ac6f1d64",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c3ac6f1d64",
+                  "name": "Los Angeles Fc vs Club Queretaro",
+                  "streams": [
+                    {
+                      "id": "st-c3ac6f1d64",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Los Angeles Fc",
+            "team_b": "Club Queretaro",
+            "time": "09:30",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ac146a396b_c8f12cf5_20260812.png?v=a1a3df09",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
