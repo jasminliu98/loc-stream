@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-5ec1f66f3c",
-          "name": "Gangwon Fc vs Gamba Osaka | 17:30 11/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5ec1f66f3c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-5ec1f66f3c",
-                  "name": "Gangwon Fc vs Gamba Osaka",
-                  "streams": [
-                    {
-                      "id": "st-5ec1f66f3c",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Gangwon Fc",
-            "team_b": "Gamba Osaka",
-            "time": "17:30",
-            "date": "11/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a5146a2723_624f785a_20260811.png?v=53596acb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-94cd81122e",
           "name": "Paro vs Mackenzie W | 19:00 11/08",
           "type": "single",
