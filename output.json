@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-0be67a0600",
-          "name": "Lions vs Melbourne City | 16:30 11/08",
+          "id": "ch-94cd81122e",
+          "name": "Paro vs Mackenzie W | 19:00 11/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-0be67a0600",
+              "id": "src-94cd81122e",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-0be67a0600",
-                  "name": "Lions vs Melbourne City",
+                  "id": "ct-94cd81122e",
+                  "name": "Paro vs Mackenzie W",
                   "streams": [
                     {
-                      "id": "st-0be67a0600",
+                      "id": "st-94cd81122e",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-8b0372d7d4",
+                          "id": "lnk-959b9ee9a1",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Lions",
-            "team_b": "Melbourne City",
-            "time": "16:30",
+            "team_a": "Paro",
+            "team_b": "Mackenzie W",
+            "time": "19:00",
             "date": "11/08",
             "blv": "Stream",
             "is_live": true,
@@ -82,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-95e2e3484e_f7b2fdf6_20260811.png?v=c1820fe7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-62cdf9f006_0c8bd124_20260811.png?v=091d78ac",
             "width": 1600,
             "height": 1200
           }
@@ -225,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a5146a2723_624f785a_20260811.png?v=53596acb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-94cd81122e",
-          "name": "Paro vs Mackenzie W | 19:00 11/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-94cd81122e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-94cd81122e",
-                  "name": "Paro vs Mackenzie W",
-                  "streams": [
-                    {
-                      "id": "st-94cd81122e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Paro",
-            "team_b": "Mackenzie W",
-            "time": "19:00",
-            "date": "11/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-62cdf9f006_0c8bd124_20260811.png?v=091d78ac",
             "width": 1600,
             "height": 1200
           }
