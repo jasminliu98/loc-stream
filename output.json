@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-d08bd7e500",
-          "name": "Fk Crvena Zvezda vs Hapoel Beer Sheva | 01:00 12/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d08bd7e500",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d08bd7e500",
-                  "name": "Fk Crvena Zvezda vs Hapoel Beer Sheva",
-                  "streams": [
-                    {
-                      "id": "st-d08bd7e500",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fk Crvena Zvezda",
-            "team_b": "Hapoel Beer Sheva",
-            "time": "01:00",
-            "date": "12/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-863f86aad7_0e56fc06_20260812.png?v=a93e9d78",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-b27f3167ff",
           "name": "Sturm Graz vs Fenerbahce | 01:30 12/08",
