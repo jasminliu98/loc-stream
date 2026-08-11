@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-5ec1f66f3c",
+          "name": "Gangwon Fc vs Gamba Osaka | 17:30 11/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5ec1f66f3c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-5ec1f66f3c",
+                  "name": "Gangwon Fc vs Gamba Osaka",
+                  "streams": [
+                    {
+                      "id": "st-5ec1f66f3c",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Gangwon Fc",
+            "team_b": "Gamba Osaka",
+            "time": "17:30",
+            "date": "11/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a5146a2723_624f785a_20260811.png?v=53596acb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-a7691dcf55",
           "name": "Adelaide United vs Công An Hà Nội | 16:30 11/08",
           "type": "single",
@@ -225,77 +296,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-50aff1b836_2701ac42_20260811.png?v=fdb4b66d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-5ec1f66f3c",
-          "name": "Gangwon Fc vs Gamba Osaka | 17:30 11/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5ec1f66f3c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-5ec1f66f3c",
-                  "name": "Gangwon Fc vs Gamba Osaka",
-                  "streams": [
-                    {
-                      "id": "st-5ec1f66f3c",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Gangwon Fc",
-            "team_b": "Gamba Osaka",
-            "time": "17:30",
-            "date": "11/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a5146a2723_624f785a_20260811.png?v=53596acb",
             "width": 1600,
             "height": 1200
           }
