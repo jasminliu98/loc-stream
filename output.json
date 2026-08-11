@@ -11,206 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-c789c383a5",
-          "name": "Kauno Žalgiris vs Dinamo Zagreb | 00:00 12/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c789c383a5",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c789c383a5",
-                  "name": "Kauno Žalgiris vs Dinamo Zagreb",
-                  "streams": [
-                    {
-                      "id": "st-c789c383a5",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Kauno Žalgiris",
-            "team_b": "Dinamo Zagreb",
-            "time": "00:00",
-            "date": "12/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9b3e27b26f_bb645be6_20260812.png?v=b7b24ab8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-ad3d1dce74",
-          "name": "Dordoi Bishkek vs Wathba | 21:00 11/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ad3d1dce74",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ad3d1dce74",
-                  "name": "Dordoi Bishkek vs Wathba",
-                  "streams": [
-                    {
-                      "id": "st-ad3d1dce74",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Dordoi Bishkek",
-            "team_b": "Wathba",
-            "time": "21:00",
-            "date": "11/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eb46d27395_8aae5c97_20260812.png?v=3579beba",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-2e32a016e8",
-          "name": "Pakhtakor vs Al Hussein | 22:00 11/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2e32a016e8",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-2e32a016e8",
-                  "name": "Pakhtakor vs Al Hussein",
-                  "streams": [
-                    {
-                      "id": "st-2e32a016e8",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b0372d7d4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Pakhtakor",
-            "team_b": "Al Hussein",
-            "time": "22:00",
-            "date": "11/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-731e174203_247dd935_20260812.png?v=e2a6d679",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-89a10284c7",
           "name": "Bodo/Glimt vs Union St. Gilloise | 23:00 11/08",
@@ -349,6 +154,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b8c0976ee9_5cac707e_20260812.png?v=bbb5619c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c789c383a5",
+          "name": "Kauno Žalgiris vs Dinamo Zagreb | 00:00 12/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c789c383a5",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c789c383a5",
+                  "name": "Kauno Žalgiris vs Dinamo Zagreb",
+                  "streams": [
+                    {
+                      "id": "st-c789c383a5",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kauno Žalgiris",
+            "team_b": "Dinamo Zagreb",
+            "time": "00:00",
+            "date": "12/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9b3e27b26f_bb645be6_20260812.png?v=b7b24ab8",
             "width": 1600,
             "height": 1200
           }
