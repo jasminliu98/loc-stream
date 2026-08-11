@@ -265,6 +265,112 @@
           }
         },
         {
+          "id": "ch-94cd81122e",
+          "name": "Paro vs Mackenzie W | 19:00 11/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-94cd81122e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-94cd81122e",
+                  "name": "Paro vs Mackenzie W",
+                  "streams": [
+                    {
+                      "id": "st-94cd81122e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Paro",
+            "team_b": "Mackenzie W",
+            "time": "19:00",
+            "date": "11/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-62cdf9f006_0c8bd124_20260811.png?v=091d78ac",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ad3d1dce74",
+          "name": "Dordoi Bishkek vs Wathba | 21:00 11/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ad3d1dce74",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ad3d1dce74",
+                  "name": "Dordoi Bishkek vs Wathba",
+                  "streams": [
+                    {
+                      "id": "st-ad3d1dce74",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Dordoi Bishkek",
+            "team_b": "Wathba",
+            "time": "21:00",
+            "date": "11/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eb46d27395_8aae5c97_20260811.png?v=3579beba",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-2e32a016e8",
           "name": "Pakhtakor vs Al Hussein | 22:00 11/08",
           "type": "single",
@@ -419,112 +525,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b8c0976ee9_5cac707e_20260811.png?v=bbb5619c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-94cd81122e",
-          "name": "Paro vs Mackenzie W | 19:00 11/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-94cd81122e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-94cd81122e",
-                  "name": "Paro vs Mackenzie W",
-                  "streams": [
-                    {
-                      "id": "st-94cd81122e",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Paro",
-            "team_b": "Mackenzie W",
-            "time": "19:00",
-            "date": "11/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-62cdf9f006_0c8bd124_20260811.png?v=091d78ac",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-ad3d1dce74",
-          "name": "Dordoi Bishkek vs Wathba | 21:00 11/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ad3d1dce74",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ad3d1dce74",
-                  "name": "Dordoi Bishkek vs Wathba",
-                  "streams": [
-                    {
-                      "id": "st-ad3d1dce74",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Dordoi Bishkek",
-            "team_b": "Wathba",
-            "time": "21:00",
-            "date": "11/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eb46d27395_8aae5c97_20260811.png?v=3579beba",
             "width": 1600,
             "height": 1200
           }
