@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-115106720a",
-          "name": "Fluminense vs Independ. Rivadavia | 05:00 12/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-115106720a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-115106720a",
-                  "name": "Fluminense vs Independ. Rivadavia",
-                  "streams": [
-                    {
-                      "id": "st-115106720a",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fluminense",
-            "team_b": "Independ. Rivadavia",
-            "time": "05:00",
-            "date": "12/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2ea6d05a09_b13ac770_20260812.png?v=b8cd8fd5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-858debe317",
           "name": "Columbus Crew vs U.N.A.M. _ Pumas | 06:30 12/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-432bbf598e_268bc0d1_20260812.png?v=7f923dbe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-115106720a",
+          "name": "Fluminense vs Independ. Rivadavia | 05:00 12/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-115106720a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-115106720a",
+                  "name": "Fluminense vs Independ. Rivadavia",
+                  "streams": [
+                    {
+                      "id": "st-115106720a",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fluminense",
+            "team_b": "Independ. Rivadavia",
+            "time": "05:00",
+            "date": "12/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2ea6d05a09_b13ac770_20260812.png?v=b8cd8fd5",
             "width": 1600,
             "height": 1200
           }
