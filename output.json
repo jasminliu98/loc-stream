@@ -88,59 +88,6 @@
           }
         },
         {
-          "id": "ch-40152a4bb1",
-          "name": "Leeds vs Manchester United | 01:30 13/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-40152a4bb1",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-40152a4bb1",
-                  "name": "Leeds vs Manchester United",
-                  "streams": [
-                    {
-                      "id": "st-40152a4bb1",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Leeds",
-            "team_b": "Manchester United",
-            "time": "01:30",
-            "date": "13/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dda16dd872_244516e1_20260813.png?v=f5f14661",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-c3ac6f1d64",
           "name": "Los Angeles Fc vs Club Queretaro | 09:30 13/08",
           "type": "single",
@@ -242,6 +189,748 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a9af4e8435_2df5e271_20260813.png?v=520b719f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-325ebfc7a3",
+          "name": "Andijan vs Neftchi | 21:00 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-325ebfc7a3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-325ebfc7a3",
+                  "name": "Andijan vs Neftchi",
+                  "streams": [
+                    {
+                      "id": "st-325ebfc7a3",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Andijan",
+            "team_b": "Neftchi",
+            "time": "21:00",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ce51a21e0e_d90377e0_20260813.png?v=66ee5efa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9ec1dde5e2",
+          "name": "Surkhon vs Sogdiana | 21:00 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9ec1dde5e2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9ec1dde5e2",
+                  "name": "Surkhon vs Sogdiana",
+                  "streams": [
+                    {
+                      "id": "st-9ec1dde5e2",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Surkhon",
+            "team_b": "Sogdiana",
+            "time": "21:00",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3bb8872018_3d70022a_20260813.png?v=d7f51ae5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-26707b7694",
+          "name": "Spartak Nalchik vs Alaniya Vladikavkaz | 21:00 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-26707b7694",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-26707b7694",
+                  "name": "Spartak Nalchik vs Alaniya Vladikavkaz",
+                  "streams": [
+                    {
+                      "id": "st-26707b7694",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Spartak Nalchik",
+            "team_b": "Alaniya Vladikavkaz",
+            "time": "21:00",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-28f8569e7f_9a5f7493_20260813.png?v=31f726f8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6065aa975e",
+          "name": "Fk Tobol Kostanay vs Fk Partizan | 22:00 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6065aa975e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6065aa975e",
+                  "name": "Fk Tobol Kostanay vs Fk Partizan",
+                  "streams": [
+                    {
+                      "id": "st-6065aa975e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fk Tobol Kostanay",
+            "team_b": "Fk Partizan",
+            "time": "22:00",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7ae5c07a55_77f0e9f2_20260813.png?v=6e7e854c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f2cdd22170",
+          "name": "Ilves vs Hnk Rijeka | 23:00 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f2cdd22170",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f2cdd22170",
+                  "name": "Ilves vs Hnk Rijeka",
+                  "streams": [
+                    {
+                      "id": "st-f2cdd22170",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Ilves",
+            "team_b": "Hnk Rijeka",
+            "time": "23:00",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cc718bd371_154a1bca_20260813.png?v=0e221e65",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e6dfd7f680",
+          "name": "Flora Tallinn vs Inter Club D'Escaldes | 23:00 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e6dfd7f680",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e6dfd7f680",
+                  "name": "Flora Tallinn vs Inter Club D'Escaldes",
+                  "streams": [
+                    {
+                      "id": "st-e6dfd7f680",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Flora Tallinn",
+            "team_b": "Inter Club D'Escaldes",
+            "time": "23:00",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6c02081f53_c0335832_20260813.png?v=e5e7fd55",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-68cf4ccc08",
+          "name": "Qarabag vs Dynamo Kyiv | 23:00 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-68cf4ccc08",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-68cf4ccc08",
+                  "name": "Qarabag vs Dynamo Kyiv",
+                  "streams": [
+                    {
+                      "id": "st-68cf4ccc08",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Qarabag",
+            "team_b": "Dynamo Kyiv",
+            "time": "23:00",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-acbb3af3a5_96304c10_20260813.png?v=9d174cf3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9b7acb36b9",
+          "name": "Abha vs Al-Hazm | 23:15 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9b7acb36b9",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9b7acb36b9",
+                  "name": "Abha vs Al-Hazm",
+                  "streams": [
+                    {
+                      "id": "st-9b7acb36b9",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Abha",
+            "team_b": "Al-Hazm",
+            "time": "23:15",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f146180240_0f293b94_20260813.png?v=b4010ba6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-26399cdd12",
+          "name": "Rīgas Fs vs Fk Jablonec | 23:30 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-26399cdd12",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-26399cdd12",
+                  "name": "Rīgas Fs vs Fk Jablonec",
+                  "streams": [
+                    {
+                      "id": "st-26399cdd12",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Rīgas Fs",
+            "team_b": "Fk Jablonec",
+            "time": "23:30",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-16b1a2024d_c4f9ef6e_20260813.png?v=095069a3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-82736f8827",
+          "name": "Dinamo Minsk vs Sc Braga | 00:00 14/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-82736f8827",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-82736f8827",
+                  "name": "Dinamo Minsk vs Sc Braga",
+                  "streams": [
+                    {
+                      "id": "st-82736f8827",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Dinamo Minsk",
+            "team_b": "Sc Braga",
+            "time": "00:00",
+            "date": "14/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-25c3381e34_7d9339a1_20260813.png?v=f88de5a2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6e86c9426e",
+          "name": "Universitatea Craiova vs Kups | 00:00 14/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6e86c9426e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6e86c9426e",
+                  "name": "Universitatea Craiova vs Kups",
+                  "streams": [
+                    {
+                      "id": "st-6e86c9426e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Universitatea Craiova",
+            "team_b": "Kups",
+            "time": "00:00",
+            "date": "14/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2b7c6976b5_c5baf376_20260813.png?v=7e6fe3ed",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-0c33bd9efd",
+          "name": "Cska Sofia vs Maccabi Tel Aviv | 01:00 14/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0c33bd9efd",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-0c33bd9efd",
+                  "name": "Cska Sofia vs Maccabi Tel Aviv",
+                  "streams": [
+                    {
+                      "id": "st-0c33bd9efd",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Cska Sofia",
+            "team_b": "Maccabi Tel Aviv",
+            "time": "01:00",
+            "date": "14/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0b10841016_bfde80ce_20260813.png?v=c782a9bd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-1dd11aee5c",
+          "name": "Rangers vs Jagiellonia | 01:30 14/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1dd11aee5c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-1dd11aee5c",
+                  "name": "Rangers vs Jagiellonia",
+                  "streams": [
+                    {
+                      "id": "st-1dd11aee5c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Rangers",
+            "team_b": "Jagiellonia",
+            "time": "01:30",
+            "date": "14/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8ef2b62a66_2b3320d8_20260813.png?v=ad091ecd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f13b32462d",
+          "name": "Heart Of Midlothian vs Benfica | 01:45 14/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f13b32462d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f13b32462d",
+                  "name": "Heart Of Midlothian vs Benfica",
+                  "streams": [
+                    {
+                      "id": "st-f13b32462d",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Heart Of Midlothian",
+            "team_b": "Benfica",
+            "time": "01:45",
+            "date": "14/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a97dfae950_4e29f6e2_20260813.png?v=9b9699f5",
             "width": 1600,
             "height": 1200
           }
