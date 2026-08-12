@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-8471826dc3",
+          "name": "East Bengal Ii vs Al Arabi | 20:30 12/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8471826dc3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8471826dc3",
+                  "name": "East Bengal Ii vs Al Arabi",
+                  "streams": [
+                    {
+                      "id": "st-8471826dc3",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8b0372d7d4",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "East Bengal Ii",
+            "team_b": "Al Arabi",
+            "time": "20:30",
+            "date": "12/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c10d3dbc94_abea3404_20260812.png?v=3925c2fa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-0044483f93",
           "name": "Arkadag vs Goa | 22:00 12/08",
           "type": "single",
@@ -88,50 +159,32 @@
           }
         },
         {
-          "id": "ch-8471826dc3",
-          "name": "East Bengal Ii vs Al Arabi | 20:30 12/08",
+          "id": "ch-48ef2392df",
+          "name": "Fc Copenhagen vs Debreceni Vsc | 23:00 12/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (1)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-8471826dc3",
+              "id": "src-48ef2392df",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-8471826dc3",
-                  "name": "East Bengal Ii vs Al Arabi",
+                  "id": "ct-48ef2392df",
+                  "name": "Fc Copenhagen vs Debreceni Vsc",
                   "streams": [
                     {
-                      "id": "st-8471826dc3",
+                      "id": "st-48ef2392df",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b0372d7d4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -140,20 +193,73 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "East Bengal Ii",
-            "team_b": "Al Arabi",
-            "time": "20:30",
+            "team_a": "Fc Copenhagen",
+            "team_b": "Debreceni Vsc",
+            "time": "23:00",
             "date": "12/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c10d3dbc94_abea3404_20260812.png?v=3925c2fa",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-11c35df69d_d0c66273_20260812.png?v=4a765bbf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-621d6394a2",
+          "name": "Gks Katowice vs Hapoel Tel Aviv | 23:00 12/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-621d6394a2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-621d6394a2",
+                  "name": "Gks Katowice vs Hapoel Tel Aviv",
+                  "streams": [
+                    {
+                      "id": "st-621d6394a2",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Gks Katowice",
+            "team_b": "Hapoel Tel Aviv",
+            "time": "23:00",
+            "date": "12/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a1aa8a39d3_07780c52_20260812.png?v=5d772dc1",
             "width": 1600,
             "height": 1200
           }
@@ -366,112 +472,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-73d34f9cea_27b454d3_20260812.png?v=5de0a1c7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-48ef2392df",
-          "name": "Fc Copenhagen vs Debreceni Vsc | 23:00 12/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-48ef2392df",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-48ef2392df",
-                  "name": "Fc Copenhagen vs Debreceni Vsc",
-                  "streams": [
-                    {
-                      "id": "st-48ef2392df",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fc Copenhagen",
-            "team_b": "Debreceni Vsc",
-            "time": "23:00",
-            "date": "12/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-11c35df69d_d0c66273_20260812.png?v=4a765bbf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-621d6394a2",
-          "name": "Gks Katowice vs Hapoel Tel Aviv | 23:00 12/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-621d6394a2",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-621d6394a2",
-                  "name": "Gks Katowice vs Hapoel Tel Aviv",
-                  "streams": [
-                    {
-                      "id": "st-621d6394a2",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Gks Katowice",
-            "team_b": "Hapoel Tel Aviv",
-            "time": "23:00",
-            "date": "12/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a1aa8a39d3_07780c52_20260812.png?v=5d772dc1",
             "width": 1600,
             "height": 1200
           }
