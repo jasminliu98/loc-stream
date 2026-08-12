@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-42531e6c12",
-          "name": "Tigres Uanl vs Vancouver Whitecaps | 09:00 12/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-42531e6c12",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-42531e6c12",
-                  "name": "Tigres Uanl vs Vancouver Whitecaps",
-                  "streams": [
-                    {
-                      "id": "st-42531e6c12",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Tigres Uanl",
-            "team_b": "Vancouver Whitecaps",
-            "time": "09:00",
-            "date": "12/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-04f04f940f_ca5d8d24_20260812.png?v=dea33256",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-367d48a673",
           "name": "Brindabella vs Tuggeranong United | 15:30 12/08",
           "type": "single",
