@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c66434bce1",
-          "name": "Kdv vs Novosibirsk | 19:00 12/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c66434bce1",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c66434bce1",
-                  "name": "Kdv vs Novosibirsk",
-                  "streams": [
-                    {
-                      "id": "st-c66434bce1",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Kdv",
-            "team_b": "Novosibirsk",
-            "time": "19:00",
-            "date": "12/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0c591ded93_e99f2553_20260812.png?v=49f1c1e1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-8471826dc3",
           "name": "East Bengal Ii vs Al Arabi | 20:30 12/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c10d3dbc94_abea3404_20260812.png?v=3925c2fa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c66434bce1",
+          "name": "Kdv vs Novosibirsk | 19:00 12/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c66434bce1",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c66434bce1",
+                  "name": "Kdv vs Novosibirsk",
+                  "streams": [
+                    {
+                      "id": "st-c66434bce1",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kdv",
+            "team_b": "Novosibirsk",
+            "time": "19:00",
+            "date": "12/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0c591ded93_e99f2553_20260812.png?v=49f1c1e1",
             "width": 1600,
             "height": 1200
           }
