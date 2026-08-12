@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-1e1361053b",
-          "name": "North Sunshine Eagles vs Heidelberg United | 16:45 12/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1e1361053b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-1e1361053b",
-                  "name": "North Sunshine Eagles vs Heidelberg United",
-                  "streams": [
-                    {
-                      "id": "st-1e1361053b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "North Sunshine Eagles",
-            "team_b": "Heidelberg United",
-            "time": "16:45",
-            "date": "12/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-84785a15f1_394324a3_20260812.png?v=cea852c3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-c66434bce1",
           "name": "Kdv vs Novosibirsk | 19:00 12/08",
           "type": "single",
