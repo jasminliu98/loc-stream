@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-40152a4bb1",
-          "name": "Leeds vs Manchester United | 01:30 13/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-40152a4bb1",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-40152a4bb1",
-                  "name": "Leeds vs Manchester United",
-                  "streams": [
-                    {
-                      "id": "st-40152a4bb1",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Leeds",
-            "team_b": "Manchester United",
-            "time": "01:30",
-            "date": "13/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dda16dd872_244516e1_20260813.png?v=f5f14661",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-e64f238749",
           "name": "Inter Miami vs Leon | 06:30 13/08",
           "type": "single",
@@ -118,6 +65,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d7d2c6e74f_95d37598_20260813.png?v=6c10fc1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-40152a4bb1",
+          "name": "Leeds vs Manchester United | 01:30 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-40152a4bb1",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-40152a4bb1",
+                  "name": "Leeds vs Manchester United",
+                  "streams": [
+                    {
+                      "id": "st-40152a4bb1",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Leeds",
+            "team_b": "Manchester United",
+            "time": "01:30",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "finished",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dda16dd872_244516e1_20260813.png?v=f5f14661",
             "width": 1600,
             "height": 1200
           }
