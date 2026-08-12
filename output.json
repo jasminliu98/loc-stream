@@ -247,112 +247,6 @@
           }
         },
         {
-          "id": "ch-48ef2392df",
-          "name": "Fc Copenhagen vs Debreceni Vsc | 23:00 12/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-48ef2392df",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-48ef2392df",
-                  "name": "Fc Copenhagen vs Debreceni Vsc",
-                  "streams": [
-                    {
-                      "id": "st-48ef2392df",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fc Copenhagen",
-            "team_b": "Debreceni Vsc",
-            "time": "23:00",
-            "date": "12/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-11c35df69d_d0c66273_20260812.png?v=4a765bbf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-621d6394a2",
-          "name": "Gks Katowice vs Hapoel Tel Aviv | 23:00 12/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-621d6394a2",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-621d6394a2",
-                  "name": "Gks Katowice vs Hapoel Tel Aviv",
-                  "streams": [
-                    {
-                      "id": "st-621d6394a2",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Gks Katowice",
-            "team_b": "Hapoel Tel Aviv",
-            "time": "23:00",
-            "date": "12/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a1aa8a39d3_07780c52_20260812.png?v=5d772dc1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-26614511c4",
           "name": "Newcastle vs Everton | 23:15 12/08",
           "type": "single",
@@ -512,59 +406,6 @@
           }
         },
         {
-          "id": "ch-9c99fbd571",
-          "name": "Deportivo La Coruna vs Real Madrid | 02:00 13/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9c99fbd571",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-9c99fbd571",
-                  "name": "Deportivo La Coruna vs Real Madrid",
-                  "streams": [
-                    {
-                      "id": "st-9c99fbd571",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Deportivo La Coruna",
-            "team_b": "Real Madrid",
-            "time": "02:00",
-            "date": "13/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aad8bfca34_2ce5c09e_20260812.png?v=3711d33b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-491596bcf2",
           "name": "Paris Saint Germain vs Aston Villa | 02:00 13/08",
           "type": "single",
@@ -613,6 +454,165 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-73d34f9cea_27b454d3_20260812.png?v=5de0a1c7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-48ef2392df",
+          "name": "Fc Copenhagen vs Debreceni Vsc | 23:00 12/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-48ef2392df",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-48ef2392df",
+                  "name": "Fc Copenhagen vs Debreceni Vsc",
+                  "streams": [
+                    {
+                      "id": "st-48ef2392df",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fc Copenhagen",
+            "team_b": "Debreceni Vsc",
+            "time": "23:00",
+            "date": "12/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-11c35df69d_d0c66273_20260812.png?v=4a765bbf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-621d6394a2",
+          "name": "Gks Katowice vs Hapoel Tel Aviv | 23:00 12/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-621d6394a2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-621d6394a2",
+                  "name": "Gks Katowice vs Hapoel Tel Aviv",
+                  "streams": [
+                    {
+                      "id": "st-621d6394a2",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Gks Katowice",
+            "team_b": "Hapoel Tel Aviv",
+            "time": "23:00",
+            "date": "12/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a1aa8a39d3_07780c52_20260812.png?v=5d772dc1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9c99fbd571",
+          "name": "Deportivo La Coruna vs Real Madrid | 02:00 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9c99fbd571",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9c99fbd571",
+                  "name": "Deportivo La Coruna vs Real Madrid",
+                  "streams": [
+                    {
+                      "id": "st-9c99fbd571",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Deportivo La Coruna",
+            "team_b": "Real Madrid",
+            "time": "02:00",
+            "date": "13/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aad8bfca34_2ce5c09e_20260812.png?v=3711d33b",
             "width": 1600,
             "height": 1200
           }
