@@ -17,201 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-26614511c4",
-          "name": "Newcastle vs Everton | 23:15 12/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-26614511c4",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-26614511c4",
-                  "name": "Newcastle vs Everton",
-                  "streams": [
-                    {
-                      "id": "st-26614511c4",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Newcastle",
-            "team_b": "Everton",
-            "time": "23:15",
-            "date": "12/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9a790a485d_ac161809_20260813.png?v=78e92668",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-40152a4bb1",
-          "name": "Leeds vs Manchester United | 01:30 13/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-40152a4bb1",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-40152a4bb1",
-                  "name": "Leeds vs Manchester United",
-                  "streams": [
-                    {
-                      "id": "st-40152a4bb1",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Leeds",
-            "team_b": "Manchester United",
-            "time": "01:30",
-            "date": "13/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dda16dd872_244516e1_20260813.png?v=f5f14661",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c375acbbd2",
-          "name": "Arsenal vs Como | 01:30 13/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c375acbbd2",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c375acbbd2",
-                  "name": "Arsenal vs Como",
-                  "streams": [
-                    {
-                      "id": "st-c375acbbd2",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b0372d7d4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Arsenal",
-            "team_b": "Como",
-            "time": "01:30",
-            "date": "13/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f9925b150f_bd0bec29_20260813.png?v=4fc9baf2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-9c99fbd571",
           "name": "Deportivo La Coruna vs Real Madrid | 02:00 13/08",
           "type": "single",
@@ -366,6 +171,148 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-73d34f9cea_27b454d3_20260813.png?v=5de0a1c7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-40152a4bb1",
+          "name": "Leeds vs Manchester United | 01:30 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-40152a4bb1",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-40152a4bb1",
+                  "name": "Leeds vs Manchester United",
+                  "streams": [
+                    {
+                      "id": "st-40152a4bb1",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959b9ee9a1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Leeds",
+            "team_b": "Manchester United",
+            "time": "01:30",
+            "date": "13/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dda16dd872_244516e1_20260813.png?v=f5f14661",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c375acbbd2",
+          "name": "Arsenal vs Como | 01:30 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c375acbbd2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c375acbbd2",
+                  "name": "Arsenal vs Como",
+                  "streams": [
+                    {
+                      "id": "st-c375acbbd2",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8b0372d7d4",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Arsenal",
+            "team_b": "Como",
+            "time": "01:30",
+            "date": "13/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f9925b150f_bd0bec29_20260813.png?v=4fc9baf2",
             "width": 1600,
             "height": 1200
           }
