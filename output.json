@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-0c33bd9efd",
-          "name": "Cska Sofia vs Maccabi Tel Aviv | 01:00 14/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0c33bd9efd",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-0c33bd9efd",
-                  "name": "Cska Sofia vs Maccabi Tel Aviv",
-                  "streams": [
-                    {
-                      "id": "st-0c33bd9efd",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Cska Sofia",
-            "team_b": "Maccabi Tel Aviv",
-            "time": "01:00",
-            "date": "14/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0b10841016_bfde80ce_20260814.png?v=c782a9bd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-1dd11aee5c",
           "name": "Rangers vs Jagiellonia | 01:30 14/08",
@@ -1285,6 +1214,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fb57d496e5_1fd2ca8a_20260814.png?v=383dad99",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-835f7e5a9d",
+          "name": "Llaneros vs Deportes Tolima | 06:00 15/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-835f7e5a9d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-835f7e5a9d",
+                  "name": "Llaneros vs Deportes Tolima",
+                  "streams": [
+                    {
+                      "id": "st-835f7e5a9d",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Llaneros",
+            "team_b": "Deportes Tolima",
+            "time": "06:00",
+            "date": "15/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3e8c50338c_9fb048c2_20260814.png?v=25f8b756",
             "width": 1600,
             "height": 1200
           }
