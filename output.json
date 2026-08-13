@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-1dd11aee5c",
-          "name": "Rangers vs Jagiellonia | 01:30 14/08",
+          "id": "ch-f13b32462d",
+          "name": "Heart Of Midlothian vs Benfica | 01:45 14/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-1dd11aee5c",
+              "id": "src-f13b32462d",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-1dd11aee5c",
-                  "name": "Rangers vs Jagiellonia",
+                  "id": "ct-f13b32462d",
+                  "name": "Heart Of Midlothian vs Benfica",
                   "streams": [
                     {
-                      "id": "st-1dd11aee5c",
+                      "id": "st-f13b32462d",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-352d8625d5",
+                          "id": "lnk-a6ace71bea",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Rangers",
-            "team_b": "Jagiellonia",
-            "time": "01:30",
+            "team_a": "Heart Of Midlothian",
+            "team_b": "Benfica",
+            "time": "01:45",
             "date": "14/08",
             "blv": "Stream",
             "is_live": true,
@@ -82,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8ef2b62a66_2b3320d8_20260814.png?v=ad091ecd",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a97dfae950_4e29f6e2_20260814.png?v=9b9699f5",
             "width": 1600,
             "height": 1200
           }
@@ -655,8 +655,8 @@
           }
         },
         {
-          "id": "ch-f13b32462d",
-          "name": "Heart Of Midlothian vs Benfica | 01:45 14/08",
+          "id": "ch-1dd11aee5c",
+          "name": "Rangers vs Jagiellonia | 01:30 14/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -670,23 +670,23 @@
           ],
           "sources": [
             {
-              "id": "src-f13b32462d",
+              "id": "src-1dd11aee5c",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-f13b32462d",
-                  "name": "Heart Of Midlothian vs Benfica",
+                  "id": "ct-1dd11aee5c",
+                  "name": "Rangers vs Jagiellonia",
                   "streams": [
                     {
-                      "id": "st-f13b32462d",
+                      "id": "st-1dd11aee5c",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-a6ace71bea",
+                          "id": "lnk-352d8625d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -707,9 +707,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Heart Of Midlothian",
-            "team_b": "Benfica",
-            "time": "01:45",
+            "team_a": "Rangers",
+            "team_b": "Jagiellonia",
+            "time": "01:30",
             "date": "14/08",
             "blv": "Stream",
             "is_live": true,
@@ -720,7 +720,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a97dfae950_4e29f6e2_20260814.png?v=9b9699f5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8ef2b62a66_2b3320d8_20260814.png?v=ad091ecd",
             "width": 1600,
             "height": 1200
           }
