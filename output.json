@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (8 LIVE)",
+      "name": "⚽ Bóng Đá (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-9b7acb36b9",
-          "name": "Abha vs Al-Hazm | 23:15 13/08",
+          "id": "ch-26399cdd12",
+          "name": "Rīgas Fs vs Fk Jablonec | 23:30 13/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,86 +32,15 @@
           ],
           "sources": [
             {
-              "id": "src-9b7acb36b9",
+              "id": "src-26399cdd12",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-9b7acb36b9",
-                  "name": "Abha vs Al-Hazm",
+                  "id": "ct-26399cdd12",
+                  "name": "Rīgas Fs vs Fk Jablonec",
                   "streams": [
                     {
-                      "id": "st-9b7acb36b9",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Abha",
-            "team_b": "Al-Hazm",
-            "time": "23:15",
-            "date": "13/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f146180240_0f293b94_20260813.png?v=b4010ba6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-325ebfc7a3",
-          "name": "Andijan vs Neftchi | 21:00 13/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-325ebfc7a3",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-325ebfc7a3",
-                  "name": "Andijan vs Neftchi",
-                  "streams": [
-                    {
-                      "id": "st-325ebfc7a3",
+                      "id": "st-26399cdd12",
                       "name": "Streams",
                       "stream_links": [
                         {
@@ -140,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Andijan",
-            "team_b": "Neftchi",
-            "time": "21:00",
+            "team_a": "Rīgas Fs",
+            "team_b": "Fk Jablonec",
+            "time": "23:30",
             "date": "13/08",
             "blv": "Stream",
             "is_live": true,
@@ -153,14 +82,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ce51a21e0e_d90377e0_20260813.png?v=66ee5efa",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-16b1a2024d_c4f9ef6e_20260813.png?v=095069a3",
             "width": 1600,
             "height": 1200
           }
         },
         {
-          "id": "ch-26707b7694",
-          "name": "Spartak Nalchik vs Alaniya Vladikavkaz | 21:00 13/08",
+          "id": "ch-1b3f822437",
+          "name": "Dinamo Vologda vs Tver | 23:30 13/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -174,15 +103,15 @@
           ],
           "sources": [
             {
-              "id": "src-26707b7694",
+              "id": "src-1b3f822437",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-26707b7694",
-                  "name": "Spartak Nalchik vs Alaniya Vladikavkaz",
+                  "id": "ct-1b3f822437",
+                  "name": "Dinamo Vologda vs Tver",
                   "streams": [
                     {
-                      "id": "st-26707b7694",
+                      "id": "st-1b3f822437",
                       "name": "Streams",
                       "stream_links": [
                         {
@@ -211,9 +140,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Spartak Nalchik",
-            "team_b": "Alaniya Vladikavkaz",
-            "time": "21:00",
+            "team_a": "Dinamo Vologda",
+            "team_b": "Tver",
+            "time": "23:30",
             "date": "13/08",
             "blv": "Stream",
             "is_live": true,
@@ -224,7 +153,78 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-28f8569e7f_9a5f7493_20260813.png?v=31f726f8",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0bf0315fb7_a3f75645_20260813.png?v=bcedc67a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6065aa975e",
+          "name": "Fk Tobol Kostanay vs Fk Partizan | 22:00 13/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6065aa975e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6065aa975e",
+                  "name": "Fk Tobol Kostanay vs Fk Partizan",
+                  "streams": [
+                    {
+                      "id": "st-6065aa975e",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fk Tobol Kostanay",
+            "team_b": "Fk Partizan",
+            "time": "22:00",
+            "date": "13/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7ae5c07a55_77f0e9f2_20260813.png?v=6e7e854c",
             "width": 1600,
             "height": 1200
           }
@@ -443,8 +443,8 @@
           }
         },
         {
-          "id": "ch-26399cdd12",
-          "name": "Rīgas Fs vs Fk Jablonec | 23:30 13/08",
+          "id": "ch-9b7acb36b9",
+          "name": "Abha vs Al-Hazm | 23:15 13/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -458,23 +458,23 @@
           ],
           "sources": [
             {
-              "id": "src-26399cdd12",
+              "id": "src-9b7acb36b9",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-26399cdd12",
-                  "name": "Rīgas Fs vs Fk Jablonec",
+                  "id": "ct-9b7acb36b9",
+                  "name": "Abha vs Al-Hazm",
                   "streams": [
                     {
-                      "id": "st-26399cdd12",
+                      "id": "st-9b7acb36b9",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-8b0372d7d4",
+                          "id": "lnk-a6ace71bea",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -495,9 +495,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Rīgas Fs",
-            "team_b": "Fk Jablonec",
-            "time": "23:30",
+            "team_a": "Abha",
+            "team_b": "Al-Hazm",
+            "time": "23:15",
             "date": "13/08",
             "blv": "Stream",
             "is_live": true,
@@ -508,78 +508,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-16b1a2024d_c4f9ef6e_20260813.png?v=095069a3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-1b3f822437",
-          "name": "Dinamo Vologda vs Tver | 23:30 13/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1b3f822437",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-1b3f822437",
-                  "name": "Dinamo Vologda vs Tver",
-                  "streams": [
-                    {
-                      "id": "st-1b3f822437",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Dinamo Vologda",
-            "team_b": "Tver",
-            "time": "23:30",
-            "date": "13/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0bf0315fb7_a3f75645_20260813.png?v=bcedc67a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f146180240_0f293b94_20260813.png?v=b4010ba6",
             "width": 1600,
             "height": 1200
           }
