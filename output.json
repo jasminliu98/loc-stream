@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-6e86c9426e",
+          "name": "Universitatea Craiova vs Kups | 00:00 14/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6e86c9426e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6e86c9426e",
+                  "name": "Universitatea Craiova vs Kups",
+                  "streams": [
+                    {
+                      "id": "st-6e86c9426e",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Universitatea Craiova",
+            "team_b": "Kups",
+            "time": "00:00",
+            "date": "14/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2b7c6976b5_c5baf376_20260813.png?v=7e6fe3ed",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-6065aa975e",
           "name": "Fk Tobol Kostanay vs Fk Partizan | 22:00 13/08",
           "type": "single",
@@ -509,77 +580,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0bf0315fb7_a3f75645_20260813.png?v=bcedc67a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-6e86c9426e",
-          "name": "Universitatea Craiova vs Kups | 00:00 14/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6e86c9426e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-6e86c9426e",
-                  "name": "Universitatea Craiova vs Kups",
-                  "streams": [
-                    {
-                      "id": "st-6e86c9426e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Universitatea Craiova",
-            "team_b": "Kups",
-            "time": "00:00",
-            "date": "14/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2b7c6976b5_c5baf376_20260813.png?v=7e6fe3ed",
             "width": 1600,
             "height": 1200
           }
