@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c3ac6f1d64",
-          "name": "Los Angeles Fc vs Club Queretaro | 09:30 13/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c3ac6f1d64",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c3ac6f1d64",
-                  "name": "Los Angeles Fc vs Club Queretaro",
-                  "streams": [
-                    {
-                      "id": "st-c3ac6f1d64",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Los Angeles Fc",
-            "team_b": "Club Queretaro",
-            "time": "09:30",
-            "date": "13/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ac146a396b_c8f12cf5_20260813.png?v=a1a3df09",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-325ebfc7a3",
           "name": "Andijan vs Neftchi | 21:00 13/08",
           "type": "single",
@@ -966,6 +913,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1cb391c014_c6f43925_20260813.png?v=b3a6c59d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-782e96b192",
+          "name": "Portland Timbers vs Club Tijuana | 09:30 14/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-782e96b192",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-782e96b192",
+                  "name": "Portland Timbers vs Club Tijuana",
+                  "streams": [
+                    {
+                      "id": "st-782e96b192",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Portland Timbers",
+            "team_b": "Club Tijuana",
+            "time": "09:30",
+            "date": "14/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-710fc12e06_8feeb8d6_20260813.png?v=f3bc1092",
             "width": 1600,
             "height": 1200
           }
