@@ -566,8 +566,8 @@
           }
         },
         {
-          "id": "ch-82736f8827",
-          "name": "Dinamo Minsk vs Sc Braga | 00:00 14/08",
+          "id": "ch-1b3f822437",
+          "name": "Dinamo Vologda vs Tver | 23:30 13/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -581,15 +581,15 @@
           ],
           "sources": [
             {
-              "id": "src-82736f8827",
+              "id": "src-1b3f822437",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-82736f8827",
-                  "name": "Dinamo Minsk vs Sc Braga",
+                  "id": "ct-1b3f822437",
+                  "name": "Dinamo Vologda vs Tver",
                   "streams": [
                     {
-                      "id": "st-82736f8827",
+                      "id": "st-1b3f822437",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -600,10 +600,10 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Dinamo Minsk",
-            "team_b": "Sc Braga",
-            "time": "00:00",
-            "date": "14/08",
+            "team_a": "Dinamo Vologda",
+            "team_b": "Tver",
+            "time": "23:30",
+            "date": "13/08",
             "blv": "Chưa có link",
             "is_live": false,
             "status": "upcoming",
@@ -613,7 +613,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-25c3381e34_7d9339a1_20260813.png?v=f88de5a2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0bf0315fb7_a3f75645_20260813.png?v=bcedc67a",
             "width": 1600,
             "height": 1200
           }
