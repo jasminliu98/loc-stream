@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -289,10 +289,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (1)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -307,25 +307,7 @@
                     {
                       "id": "st-26399cdd12",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b0372d7d4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -338,9 +320,9 @@
             "team_b": "Fk Jablonec",
             "time": "23:30",
             "date": "13/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "finished",
             "cate_type": "football"
           },
           "image": {
@@ -360,10 +342,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (1)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -378,25 +360,7 @@
                     {
                       "id": "st-1b3f822437",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -409,9 +373,9 @@
             "team_b": "Tver",
             "time": "23:30",
             "date": "13/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "finished",
             "cate_type": "football"
           },
           "image": {
