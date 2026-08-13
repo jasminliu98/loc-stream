@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-1dd11aee5c",
-          "name": "Rangers vs Jagiellonia | 01:30 14/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1dd11aee5c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-1dd11aee5c",
-                  "name": "Rangers vs Jagiellonia",
-                  "streams": [
-                    {
-                      "id": "st-1dd11aee5c",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Rangers",
-            "team_b": "Jagiellonia",
-            "time": "01:30",
-            "date": "14/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8ef2b62a66_2b3320d8_20260814.png?v=ad091ecd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-f13b32462d",
           "name": "Heart Of Midlothian vs Benfica | 01:45 14/08",
@@ -1267,6 +1196,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3e8c50338c_9fb048c2_20260814.png?v=25f8b756",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-79a661ba69",
+          "name": "Racing Club vs Banfield | 06:30 15/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-79a661ba69",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-79a661ba69",
+                  "name": "Racing Club vs Banfield",
+                  "streams": [
+                    {
+                      "id": "st-79a661ba69",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Racing Club",
+            "team_b": "Banfield",
+            "time": "06:30",
+            "date": "15/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-84c82dad64_b0063ac9_20260814.png?v=0842cb34",
             "width": 1600,
             "height": 1200
           }
