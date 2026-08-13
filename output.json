@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-9f2b7ecd74",
-          "name": "Monterrey vs Nashville Sc | 07:00 13/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9f2b7ecd74",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-9f2b7ecd74",
-                  "name": "Monterrey vs Nashville Sc",
-                  "streams": [
-                    {
-                      "id": "st-9f2b7ecd74",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Monterrey",
-            "team_b": "Nashville Sc",
-            "time": "07:00",
-            "date": "13/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a9af4e8435_2df5e271_20260813.png?v=520b719f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-c3ac6f1d64",
           "name": "Los Angeles Fc vs Club Queretaro | 09:30 13/08",
@@ -949,6 +878,112 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d8fc57deca_8384beb6_20260813.png?v=f3e3016c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-cefc6cbcc2",
+          "name": "Philadelphia Union vs Santos Laguna | 06:00 14/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cefc6cbcc2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-cefc6cbcc2",
+                  "name": "Philadelphia Union vs Santos Laguna",
+                  "streams": [
+                    {
+                      "id": "st-cefc6cbcc2",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Philadelphia Union",
+            "team_b": "Santos Laguna",
+            "time": "06:00",
+            "date": "14/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e7ecaf962e_20395cbd_20260813.png?v=5d6e71e3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-cb012b69db",
+          "name": "Club America vs Austin | 07:30 14/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cb012b69db",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-cb012b69db",
+                  "name": "Club America vs Austin",
+                  "streams": [
+                    {
+                      "id": "st-cb012b69db",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Club America",
+            "team_b": "Austin",
+            "time": "07:30",
+            "date": "14/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1cb391c014_c6f43925_20260813.png?v=b3a6c59d",
             "width": 1600,
             "height": 1200
           }
