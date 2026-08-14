@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-0825ef1aaf",
-          "name": "Qingdao Youth Island vs Chongqing Tongliang Long | 19:00 14/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0825ef1aaf",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-0825ef1aaf",
-                  "name": "Qingdao Youth Island vs Chongqing Tongliang Long",
-                  "streams": [
-                    {
-                      "id": "st-0825ef1aaf",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Qingdao Youth Island",
-            "team_b": "Chongqing Tongliang Long",
-            "time": "19:00",
-            "date": "14/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-336e690f61_10177f6d_20260814.png?v=4598be21",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-5d12615c5d",
           "name": "Tokyo Verdy vs Kashiwa Reysol | 17:00 14/08",
           "type": "single",
@@ -296,6 +225,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9c82efeedd_df2bddbf_20260814.png?v=38153938",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-0825ef1aaf",
+          "name": "Qingdao Youth Island vs Chongqing Tongliang Long | 19:00 14/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0825ef1aaf",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-0825ef1aaf",
+                  "name": "Qingdao Youth Island vs Chongqing Tongliang Long",
+                  "streams": [
+                    {
+                      "id": "st-0825ef1aaf",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Qingdao Youth Island",
+            "team_b": "Chongqing Tongliang Long",
+            "time": "19:00",
+            "date": "14/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-336e690f61_10177f6d_20260814.png?v=4598be21",
             "width": 1600,
             "height": 1200
           }
