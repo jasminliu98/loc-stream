@@ -566,59 +566,6 @@
           }
         },
         {
-          "id": "ch-835f7e5a9d",
-          "name": "Llaneros vs Deportes Tolima | 06:00 15/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-835f7e5a9d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-835f7e5a9d",
-                  "name": "Llaneros vs Deportes Tolima",
-                  "streams": [
-                    {
-                      "id": "st-835f7e5a9d",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Llaneros",
-            "team_b": "Deportes Tolima",
-            "time": "06:00",
-            "date": "15/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3e8c50338c_9fb048c2_20260815.png?v=25f8b756",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-79a661ba69",
           "name": "Racing Club vs Banfield | 06:30 15/08",
           "type": "single",
