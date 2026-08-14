@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c72bd20fb7",
-          "name": "Eintracht Braunschweig vs Vfl Bochum | 23:30 14/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c72bd20fb7",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c72bd20fb7",
-                  "name": "Eintracht Braunschweig vs Vfl Bochum",
-                  "streams": [
-                    {
-                      "id": "st-c72bd20fb7",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Eintracht Braunschweig",
-            "team_b": "Vfl Bochum",
-            "time": "23:30",
-            "date": "14/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8c9cd3b838_94a6986f_20260814.png?v=14fdb86b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-6772797745",
           "name": "Dinamo Samarqand vs Xorazm | 22:00 14/08",
           "type": "single",
@@ -296,6 +225,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-19e843e0e8_3ff80f4b_20260814.png?v=85bf516c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c72bd20fb7",
+          "name": "Eintracht Braunschweig vs Vfl Bochum | 23:30 14/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c72bd20fb7",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c72bd20fb7",
+                  "name": "Eintracht Braunschweig vs Vfl Bochum",
+                  "streams": [
+                    {
+                      "id": "st-c72bd20fb7",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Eintracht Braunschweig",
+            "team_b": "Vfl Bochum",
+            "time": "23:30",
+            "date": "14/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8c9cd3b838_94a6986f_20260814.png?v=14fdb86b",
             "width": 1600,
             "height": 1200
           }
