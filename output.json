@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-a7a6f1a007",
+          "name": "Marseille vs Atletico Madrid | 22:30 14/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a7a6f1a007",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a7a6f1a007",
+                  "name": "Marseille vs Atletico Madrid",
+                  "streams": [
+                    {
+                      "id": "st-a7a6f1a007",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959b9ee9a1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Marseille",
+            "team_b": "Atletico Madrid",
+            "time": "22:30",
+            "date": "14/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cefa199c5c_37b43fac_20260814.png?v=8377de0f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-77757a508e",
           "name": "Fc Orenburg vs Lokomotiv | 21:00 14/08",
           "type": "single",
@@ -154,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5104060b57_ae2d1c0c_20260814.png?v=c875f0a5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-a7a6f1a007",
-          "name": "Marseille vs Atletico Madrid | 22:30 14/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a7a6f1a007",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a7a6f1a007",
-                  "name": "Marseille vs Atletico Madrid",
-                  "streams": [
-                    {
-                      "id": "st-a7a6f1a007",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Marseille",
-            "team_b": "Atletico Madrid",
-            "time": "22:30",
-            "date": "14/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cefa199c5c_37b43fac_20260814.png?v=8377de0f",
             "width": 1600,
             "height": 1200
           }
