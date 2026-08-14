@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-b844c36f8b",
+          "name": "Wolves vs Blackburn | 02:00 15/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b844c36f8b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b844c36f8b",
+                  "name": "Wolves vs Blackburn",
+                  "streams": [
+                    {
+                      "id": "st-b844c36f8b",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Wolves",
+            "team_b": "Blackburn",
+            "time": "02:00",
+            "date": "15/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2eaf4130c0_f7810254_20260815.png?v=31f3ecbc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-a7a6f1a007",
           "name": "Marseille vs Atletico Madrid | 22:30 14/08",
           "type": "single",
@@ -402,77 +473,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3543845fbc_0968f390_20260815.png?v=bd35d091",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-b844c36f8b",
-          "name": "Wolves vs Blackburn | 02:00 15/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b844c36f8b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b844c36f8b",
-                  "name": "Wolves vs Blackburn",
-                  "streams": [
-                    {
-                      "id": "st-b844c36f8b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Wolves",
-            "team_b": "Blackburn",
-            "time": "02:00",
-            "date": "15/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2eaf4130c0_f7810254_20260815.png?v=31f3ecbc",
             "width": 1600,
             "height": 1200
           }
