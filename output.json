@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-b844c36f8b",
-          "name": "Wolves vs Blackburn | 02:00 15/08",
+          "id": "ch-6a447bd08f",
+          "name": "Sporting Cp vs Guimaraes | 02:15 15/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-b844c36f8b",
+              "id": "src-6a447bd08f",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-b844c36f8b",
-                  "name": "Wolves vs Blackburn",
+                  "id": "ct-6a447bd08f",
+                  "name": "Sporting Cp vs Guimaraes",
                   "streams": [
                     {
-                      "id": "st-b844c36f8b",
+                      "id": "st-6a447bd08f",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-d880a8c66a",
+                          "id": "lnk-e03ccf6037",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Wolves",
-            "team_b": "Blackburn",
-            "time": "02:00",
+            "team_a": "Sporting Cp",
+            "team_b": "Guimaraes",
+            "time": "02:15",
             "date": "15/08",
             "blv": "Stream",
             "is_live": true,
@@ -82,237 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2eaf4130c0_f7810254_20260815.png?v=31f3ecbc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-a7a6f1a007",
-          "name": "Marseille vs Atletico Madrid | 22:30 14/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a7a6f1a007",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a7a6f1a007",
-                  "name": "Marseille vs Atletico Madrid",
-                  "streams": [
-                    {
-                      "id": "st-a7a6f1a007",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Marseille",
-            "team_b": "Atletico Madrid",
-            "time": "22:30",
-            "date": "14/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cefa199c5c_37b43fac_20260815.png?v=8377de0f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-9c11547562",
-          "name": "Parma vs Catania | 23:00 14/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9c11547562",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-9c11547562",
-                  "name": "Parma vs Catania",
-                  "streams": [
-                    {
-                      "id": "st-9c11547562",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Parma",
-            "team_b": "Catania",
-            "time": "23:00",
-            "date": "14/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-19e843e0e8_3ff80f4b_20260815.png?v=85bf516c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c72bd20fb7",
-          "name": "Eintracht Braunschweig vs Vfl Bochum | 23:30 14/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c72bd20fb7",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c72bd20fb7",
-                  "name": "Eintracht Braunschweig vs Vfl Bochum",
-                  "streams": [
-                    {
-                      "id": "st-c72bd20fb7",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Eintracht Braunschweig",
-            "team_b": "Vfl Bochum",
-            "time": "23:30",
-            "date": "14/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8c9cd3b838_94a6986f_20260815.png?v=14fdb86b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-1071edd74e",
-          "name": "Viborg vs Aarhus | 00:00 15/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1071edd74e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-1071edd74e",
-                  "name": "Viborg vs Aarhus",
-                  "streams": [
-                    {
-                      "id": "st-1071edd74e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3bd545d681",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitieuhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Viborg",
-            "team_b": "Aarhus",
-            "time": "00:00",
-            "date": "15/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-32b6890032_e80042c0_20260815.png?v=d92fa83e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d95620b8d1_7ed7918d_20260815.png?v=8301a68c",
             "width": 1600,
             "height": 1200
           }
@@ -460,8 +230,8 @@
           }
         },
         {
-          "id": "ch-6a447bd08f",
-          "name": "Sporting Cp vs Guimaraes | 02:15 15/08",
+          "id": "ch-b844c36f8b",
+          "name": "Wolves vs Blackburn | 02:00 15/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -475,23 +245,23 @@
           ],
           "sources": [
             {
-              "id": "src-6a447bd08f",
+              "id": "src-b844c36f8b",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-6a447bd08f",
-                  "name": "Sporting Cp vs Guimaraes",
+                  "id": "ct-b844c36f8b",
+                  "name": "Wolves vs Blackburn",
                   "streams": [
                     {
-                      "id": "st-6a447bd08f",
+                      "id": "st-b844c36f8b",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-e03ccf6037",
+                          "id": "lnk-d880a8c66a",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -512,9 +282,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Sporting Cp",
-            "team_b": "Guimaraes",
-            "time": "02:15",
+            "team_a": "Wolves",
+            "team_b": "Blackburn",
+            "time": "02:00",
             "date": "15/08",
             "blv": "Stream",
             "is_live": true,
@@ -525,7 +295,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d95620b8d1_7ed7918d_20260815.png?v=8301a68c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2eaf4130c0_f7810254_20260815.png?v=31f3ecbc",
             "width": 1600,
             "height": 1200
           }
