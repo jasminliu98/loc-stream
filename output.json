@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-cfd1533a87",
-          "name": "Wuhan Three Towns vs Shanghai Sipg | 18:35 14/08",
+          "id": "ch-0825ef1aaf",
+          "name": "Qingdao Youth Island vs Chongqing Tongliang Long | 19:00 14/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-cfd1533a87",
+              "id": "src-0825ef1aaf",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-cfd1533a87",
-                  "name": "Wuhan Three Towns vs Shanghai Sipg",
+                  "id": "ct-0825ef1aaf",
+                  "name": "Qingdao Youth Island vs Chongqing Tongliang Long",
                   "streams": [
                     {
-                      "id": "st-cfd1533a87",
+                      "id": "st-0825ef1aaf",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-352d8625d5",
+                          "id": "lnk-a6ace71bea",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Wuhan Three Towns",
-            "team_b": "Shanghai Sipg",
-            "time": "18:35",
+            "team_a": "Qingdao Youth Island",
+            "team_b": "Chongqing Tongliang Long",
+            "time": "19:00",
             "date": "14/08",
             "blv": "Stream",
             "is_live": true,
@@ -82,78 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9c82efeedd_df2bddbf_20260814.png?v=38153938",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-8b15ed353f",
-          "name": "Dandenong City vs Altona Magic | 16:45 14/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8b15ed353f",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8b15ed353f",
-                  "name": "Dandenong City vs Altona Magic",
-                  "streams": [
-                    {
-                      "id": "st-8b15ed353f",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b0372d7d4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Dandenong City",
-            "team_b": "Altona Magic",
-            "time": "16:45",
-            "date": "14/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-30da139eb1_fc50ca2b_20260814.png?v=933a77a2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-336e690f61_10177f6d_20260814.png?v=4598be21",
             "width": 1600,
             "height": 1200
           }
@@ -301,8 +230,8 @@
           }
         },
         {
-          "id": "ch-0825ef1aaf",
-          "name": "Qingdao Youth Island vs Chongqing Tongliang Long | 19:00 14/08",
+          "id": "ch-cfd1533a87",
+          "name": "Wuhan Three Towns vs Shanghai Sipg | 18:35 14/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -316,23 +245,23 @@
           ],
           "sources": [
             {
-              "id": "src-0825ef1aaf",
+              "id": "src-cfd1533a87",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-0825ef1aaf",
-                  "name": "Qingdao Youth Island vs Chongqing Tongliang Long",
+                  "id": "ct-cfd1533a87",
+                  "name": "Wuhan Three Towns vs Shanghai Sipg",
                   "streams": [
                     {
-                      "id": "st-0825ef1aaf",
+                      "id": "st-cfd1533a87",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-a6ace71bea",
+                          "id": "lnk-352d8625d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -353,9 +282,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Qingdao Youth Island",
-            "team_b": "Chongqing Tongliang Long",
-            "time": "19:00",
+            "team_a": "Wuhan Three Towns",
+            "team_b": "Shanghai Sipg",
+            "time": "18:35",
             "date": "14/08",
             "blv": "Stream",
             "is_live": true,
@@ -366,7 +295,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-336e690f61_10177f6d_20260814.png?v=4598be21",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9c82efeedd_df2bddbf_20260814.png?v=38153938",
             "width": 1600,
             "height": 1200
           }
