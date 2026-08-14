@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-604cd6ff8d",
-          "name": "Atlanta United Ii vs New York Rb Ii | 03:00 15/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-604cd6ff8d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-604cd6ff8d",
-                  "name": "Atlanta United Ii vs New York Rb Ii",
-                  "streams": [
-                    {
-                      "id": "st-604cd6ff8d",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Atlanta United Ii",
-            "team_b": "New York Rb Ii",
-            "time": "03:00",
-            "date": "15/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fb57d496e5_1fd2ca8a_20260815.png?v=383dad99",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-9ccf6d183c",
           "name": "Universidad De Concepcion vs D. La Serena | 06:00 15/08",
           "type": "single",
