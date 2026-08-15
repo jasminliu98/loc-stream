@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-e40b4a4908",
+          "name": "Al-Nassr vs Al-Fateh | 01:00 16/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e40b4a4908",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e40b4a4908",
+                  "name": "Al-Nassr vs Al-Fateh",
+                  "streams": [
+                    {
+                      "id": "st-e40b4a4908",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Nassr",
+            "team_b": "Al-Fateh",
+            "time": "01:00",
+            "date": "16/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-33c4ad9704_ec32c874_20260816.png?v=f5381781",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-9e7bc3c36f",
           "name": "Sheffield Utd vs Birmingham | 23:30 15/08",
           "type": "single",
@@ -154,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-32c12074a0_3c18a50f_20260816.png?v=e2233180",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-e40b4a4908",
-          "name": "Al-Nassr vs Al-Fateh | 01:00 16/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e40b4a4908",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-e40b4a4908",
-                  "name": "Al-Nassr vs Al-Fateh",
-                  "streams": [
-                    {
-                      "id": "st-e40b4a4908",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Nassr",
-            "team_b": "Al-Fateh",
-            "time": "01:00",
-            "date": "16/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-33c4ad9704_ec32c874_20260816.png?v=f5381781",
             "width": 1600,
             "height": 1200
           }
