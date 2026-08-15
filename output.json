@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-79a661ba69",
-          "name": "Racing Club vs Banfield | 06:30 15/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-79a661ba69",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-79a661ba69",
-                  "name": "Racing Club vs Banfield",
-                  "streams": [
-                    {
-                      "id": "st-79a661ba69",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Racing Club",
-            "team_b": "Banfield",
-            "time": "06:30",
-            "date": "15/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-84c82dad64_b0063ac9_20260815.png?v=0842cb34",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-4856f07164",
           "name": "Correcaminos Uat vs Tapatío | 08:00 15/08",
@@ -265,8 +194,8 @@
           }
         },
         {
-          "id": "ch-aa2a7c9c93",
-          "name": "Canterbury Bankstown vs Hakoah Sydney City | 14:00 15/08",
+          "id": "ch-c14b4ca7eb",
+          "name": "Sunshine Georgies vs Avondale | 15:00 15/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -280,15 +209,15 @@
           ],
           "sources": [
             {
-              "id": "src-aa2a7c9c93",
+              "id": "src-c14b4ca7eb",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-aa2a7c9c93",
-                  "name": "Canterbury Bankstown vs Hakoah Sydney City",
+                  "id": "ct-c14b4ca7eb",
+                  "name": "Sunshine Georgies vs Avondale",
                   "streams": [
                     {
-                      "id": "st-aa2a7c9c93",
+                      "id": "st-c14b4ca7eb",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -299,9 +228,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Canterbury Bankstown",
-            "team_b": "Hakoah Sydney City",
-            "time": "14:00",
+            "team_a": "Sunshine Georgies",
+            "team_b": "Avondale",
+            "time": "15:00",
             "date": "15/08",
             "blv": "Chưa có link",
             "is_live": false,
@@ -312,7 +241,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ed1a0c3f84_071e315b_20260815.png?v=90c624c9",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a05a6c7c6f_f918e75b_20260815.png?v=5c9a5b93",
             "width": 1600,
             "height": 1200
           }
@@ -1161,6 +1090,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-38629e3bd6_010e4eaf_20260815.png?v=42d4aef6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8b5a4f122c",
+          "name": "Los Angeles Fc vs San Diego | 09:30 16/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8b5a4f122c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8b5a4f122c",
+                  "name": "Los Angeles Fc vs San Diego",
+                  "streams": [
+                    {
+                      "id": "st-8b5a4f122c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Los Angeles Fc",
+            "team_b": "San Diego",
+            "time": "09:30",
+            "date": "16/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6eb76e2f10_1803bb3a_20260815.png?v=a1a3df09",
             "width": 1600,
             "height": 1200
           }
