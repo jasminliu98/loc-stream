@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-9cb24965a9",
-          "name": "Mito Hollyhock vs Gamba Osaka | 16:00 15/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9cb24965a9",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-9cb24965a9",
-                  "name": "Mito Hollyhock vs Gamba Osaka",
-                  "streams": [
-                    {
-                      "id": "st-9cb24965a9",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Mito Hollyhock",
-            "team_b": "Gamba Osaka",
-            "time": "16:00",
-            "date": "15/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0bf3cb26f8_0873f09a_20260815.png?v=148dc867",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-c14b4ca7eb",
           "name": "Sunshine Georgies vs Avondale | 15:00 15/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a05a6c7c6f_f918e75b_20260815.png?v=5c9a5b93",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9cb24965a9",
+          "name": "Mito Hollyhock vs Gamba Osaka | 16:00 15/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9cb24965a9",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9cb24965a9",
+                  "name": "Mito Hollyhock vs Gamba Osaka",
+                  "streams": [
+                    {
+                      "id": "st-9cb24965a9",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Mito Hollyhock",
+            "team_b": "Gamba Osaka",
+            "time": "16:00",
+            "date": "15/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0bf3cb26f8_0873f09a_20260815.png?v=148dc867",
             "width": 1600,
             "height": 1200
           }
