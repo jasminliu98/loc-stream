@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-9e7bc3c36f",
-          "name": "Sheffield Utd vs Birmingham | 23:30 15/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9e7bc3c36f",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-9e7bc3c36f",
-                  "name": "Sheffield Utd vs Birmingham",
-                  "streams": [
-                    {
-                      "id": "st-9e7bc3c36f",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sheffield Utd",
-            "team_b": "Birmingham",
-            "time": "23:30",
-            "date": "15/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b433ad73f6_d24c731e_20260816.png?v=c9511e08",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-22981f9b7b",
           "name": "Sevilla vs Rayo Vallecano | 02:30 16/08",
           "type": "single",
@@ -136,6 +83,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5904646c5d_28e6c30a_20260816.png?v=b2118d2c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9e7bc3c36f",
+          "name": "Sheffield Utd vs Birmingham | 23:30 15/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9e7bc3c36f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9e7bc3c36f",
+                  "name": "Sheffield Utd vs Birmingham",
+                  "streams": [
+                    {
+                      "id": "st-9e7bc3c36f",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sheffield Utd",
+            "team_b": "Birmingham",
+            "time": "23:30",
+            "date": "15/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "finished",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b433ad73f6_d24c731e_20260816.png?v=c9511e08",
             "width": 1600,
             "height": 1200
           }
