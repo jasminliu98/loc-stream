@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c14b4ca7eb",
-          "name": "Sunshine Georgies vs Avondale | 15:00 15/08",
+          "id": "ch-db8204c47b",
+          "name": "Gwangju Fc vs Pohang Steelers | 17:30 15/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-c14b4ca7eb",
+              "id": "src-db8204c47b",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-c14b4ca7eb",
-                  "name": "Sunshine Georgies vs Avondale",
+                  "id": "ct-db8204c47b",
+                  "name": "Gwangju Fc vs Pohang Steelers",
                   "streams": [
                     {
-                      "id": "st-c14b4ca7eb",
+                      "id": "st-db8204c47b",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-d880a8c66a",
+                          "id": "lnk-8b0372d7d4",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Sunshine Georgies",
-            "team_b": "Avondale",
-            "time": "15:00",
+            "team_a": "Gwangju Fc",
+            "team_b": "Pohang Steelers",
+            "time": "17:30",
             "date": "15/08",
             "blv": "Stream",
             "is_live": true,
@@ -82,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a05a6c7c6f_f918e75b_20260815.png?v=5c9a5b93",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a881d9475e_2d06c329_20260815.png?v=2ae23234",
             "width": 1600,
             "height": 1200
           }
@@ -225,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7c4f9f8261_80495e2d_20260815.png?v=c976d928",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-db8204c47b",
-          "name": "Gwangju Fc vs Pohang Steelers | 17:30 15/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-db8204c47b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-db8204c47b",
-                  "name": "Gwangju Fc vs Pohang Steelers",
-                  "streams": [
-                    {
-                      "id": "st-db8204c47b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b0372d7d4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Gwangju Fc",
-            "team_b": "Pohang Steelers",
-            "time": "17:30",
-            "date": "15/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a881d9475e_2d06c329_20260815.png?v=2ae23234",
             "width": 1600,
             "height": 1200
           }
