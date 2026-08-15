@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-f411e18fa9",
+          "name": "Urawa vs Sanfrecce Hiroshima | 17:00 15/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f411e18fa9",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f411e18fa9",
+                  "name": "Urawa vs Sanfrecce Hiroshima",
+                  "streams": [
+                    {
+                      "id": "st-f411e18fa9",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Urawa",
+            "team_b": "Sanfrecce Hiroshima",
+            "time": "17:00",
+            "date": "15/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7c4f9f8261_80495e2d_20260815.png?v=c976d928",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-c14b4ca7eb",
           "name": "Sunshine Georgies vs Avondale | 15:00 15/08",
           "type": "single",
@@ -154,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0bf3cb26f8_0873f09a_20260815.png?v=148dc867",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-f411e18fa9",
-          "name": "Urawa vs Sanfrecce Hiroshima | 17:00 15/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f411e18fa9",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f411e18fa9",
-                  "name": "Urawa vs Sanfrecce Hiroshima",
-                  "streams": [
-                    {
-                      "id": "st-f411e18fa9",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Urawa",
-            "team_b": "Sanfrecce Hiroshima",
-            "time": "17:00",
-            "date": "15/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7c4f9f8261_80495e2d_20260815.png?v=c976d928",
             "width": 1600,
             "height": 1200
           }
