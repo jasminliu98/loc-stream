@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-f6d31a9d98",
-          "name": "Mirassol vs Flamengo | 04:30 17/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f6d31a9d98",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f6d31a9d98",
-                  "name": "Mirassol vs Flamengo",
-                  "streams": [
-                    {
-                      "id": "st-f6d31a9d98",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Mirassol",
-            "team_b": "Flamengo",
-            "time": "04:30",
-            "date": "17/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-22caaf2f4f_3dd9fb44_20260817.png?v=977ef323",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-48bc8b507a",
           "name": "Barracas Central vs Rosario Central | 06:15 17/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2875bbef53_ec172cd7_20260817.png?v=5008aeae",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f6d31a9d98",
+          "name": "Mirassol vs Flamengo | 04:30 17/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f6d31a9d98",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f6d31a9d98",
+                  "name": "Mirassol vs Flamengo",
+                  "streams": [
+                    {
+                      "id": "st-f6d31a9d98",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Mirassol",
+            "team_b": "Flamengo",
+            "time": "04:30",
+            "date": "17/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-22caaf2f4f_3dd9fb44_20260817.png?v=977ef323",
             "width": 1600,
             "height": 1200
           }
@@ -260,6 +260,218 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2113291a14_1a18f2d1_20260817.png?v=4391942c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-23b350caed",
+          "name": "Etihad Club W vs Al Nassr W | 19:00 17/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-23b350caed",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-23b350caed",
+                  "name": "Etihad Club W vs Al Nassr W",
+                  "streams": [
+                    {
+                      "id": "st-23b350caed",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Etihad Club W",
+            "team_b": "Al Nassr W",
+            "time": "19:00",
+            "date": "17/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-69d7904d42_bbc3a833_20260817.png?v=11f8e4b6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a8b51611e4",
+          "name": "Pisa vs Empoli | 23:00 17/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a8b51611e4",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a8b51611e4",
+                  "name": "Pisa vs Empoli",
+                  "streams": [
+                    {
+                      "id": "st-a8b51611e4",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Pisa",
+            "team_b": "Empoli",
+            "time": "23:00",
+            "date": "17/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e2352de441_d0f7f0b8_20260817.png?v=322db309",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2edd6053a8",
+          "name": "Sassuolo vs Cesena | 23:30 17/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2edd6053a8",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2edd6053a8",
+                  "name": "Sassuolo vs Cesena",
+                  "streams": [
+                    {
+                      "id": "st-2edd6053a8",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sassuolo",
+            "team_b": "Cesena",
+            "time": "23:30",
+            "date": "17/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0d518cc516_71da438f_20260817.png?v=e3e6979b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-40dc388f1b",
+          "name": "Al-Raed vs Al-Hilal Saudi Fc | 01:00 18/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-40dc388f1b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-40dc388f1b",
+                  "name": "Al-Raed vs Al-Hilal Saudi Fc",
+                  "streams": [
+                    {
+                      "id": "st-40dc388f1b",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Raed",
+            "team_b": "Al-Hilal Saudi Fc",
+            "time": "01:00",
+            "date": "18/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f1d291a1d2_37bd110a_20260817.png?v=e2372b01",
             "width": 1600,
             "height": 1200
           }
@@ -424,59 +636,6 @@
           }
         },
         {
-          "id": "ch-23b350caed",
-          "name": "Etihad Club W vs Al Nassr W | 19:00 17/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-23b350caed",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-23b350caed",
-                  "name": "Etihad Club W vs Al Nassr W",
-                  "streams": [
-                    {
-                      "id": "st-23b350caed",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Etihad Club W",
-            "team_b": "Al Nassr W",
-            "time": "19:00",
-            "date": "17/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-69d7904d42_bbc3a833_20260817.png?v=11f8e4b6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-4b54f6ae4b",
           "name": "Kaya W vs Ilbirs W | 21:00 17/08",
           "type": "single",
@@ -583,59 +742,6 @@
           }
         },
         {
-          "id": "ch-a8b51611e4",
-          "name": "Pisa vs Empoli | 23:00 17/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a8b51611e4",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a8b51611e4",
-                  "name": "Pisa vs Empoli",
-                  "streams": [
-                    {
-                      "id": "st-a8b51611e4",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Pisa",
-            "team_b": "Empoli",
-            "time": "23:00",
-            "date": "17/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e2352de441_d0f7f0b8_20260817.png?v=322db309",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-c8e000137c",
           "name": "Al Zulfi vs Al Riyadh | 23:15 17/08",
           "type": "single",
@@ -684,59 +790,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fb999e6c9d_1f62b519_20260817.png?v=7a938195",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-2edd6053a8",
-          "name": "Sassuolo vs Cesena | 23:30 17/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2edd6053a8",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-2edd6053a8",
-                  "name": "Sassuolo vs Cesena",
-                  "streams": [
-                    {
-                      "id": "st-2edd6053a8",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sassuolo",
-            "team_b": "Cesena",
-            "time": "23:30",
-            "date": "17/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0d518cc516_71da438f_20260817.png?v=e3e6979b",
             "width": 1600,
             "height": 1200
           }
@@ -843,59 +896,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8885f6a4ea_3765fa19_20260817.png?v=caf8fdcd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-40dc388f1b",
-          "name": "Al-Raed vs Al-Hilal Saudi Fc | 01:00 18/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-40dc388f1b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-40dc388f1b",
-                  "name": "Al-Raed vs Al-Hilal Saudi Fc",
-                  "streams": [
-                    {
-                      "id": "st-40dc388f1b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Raed",
-            "team_b": "Al-Hilal Saudi Fc",
-            "time": "01:00",
-            "date": "18/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f1d291a1d2_37bd110a_20260817.png?v=e2372b01",
             "width": 1600,
             "height": 1200
           }
