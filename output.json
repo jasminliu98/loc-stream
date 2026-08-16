@@ -210,6 +210,59 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-1ec65c0ba1",
+          "name": "Yokohama Fc vs Jubilo Iwata | 16:00 16/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1ec65c0ba1",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-1ec65c0ba1",
+                  "name": "Yokohama Fc vs Jubilo Iwata",
+                  "streams": [
+                    {
+                      "id": "st-1ec65c0ba1",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Yokohama Fc",
+            "team_b": "Jubilo Iwata",
+            "time": "16:00",
+            "date": "16/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f96745ab24_d19782fa_20260816.png?v=e8f8dd6e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
