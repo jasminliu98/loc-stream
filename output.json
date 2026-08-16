@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-9702271bf0",
-          "name": "Nashville Sc vs Inter Miami | 07:30 16/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9702271bf0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-9702271bf0",
-                  "name": "Nashville Sc vs Inter Miami",
-                  "streams": [
-                    {
-                      "id": "st-9702271bf0",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Nashville Sc",
-            "team_b": "Inter Miami",
-            "time": "07:30",
-            "date": "16/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-38629e3bd6_010e4eaf_20260816.png?v=42d4aef6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-8b5a4f122c",
           "name": "Los Angeles Fc vs San Diego | 09:30 16/08",
           "type": "single",
