@@ -17,94 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-6a57ef0281",
-          "name": "Arsenal vs Manchester City | 21:00 16/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6a57ef0281",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-6a57ef0281",
-                  "name": "Arsenal vs Manchester City",
-                  "streams": [
-                    {
-                      "id": "st-6a57ef0281",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-3a8902444c",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Arsenal",
-            "team_b": "Manchester City",
-            "time": "21:00",
-            "date": "16/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-962d4bb83f_42412538_20260816.png?v=4fc9baf2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-3dd7005fe7",
           "name": "Malaysia vs Việt Nam | 20:00 16/08",
           "type": "single",
@@ -188,6 +100,94 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3adb068013_f34978b3_20260816.png?v=3f0e49c4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6a57ef0281",
+          "name": "Arsenal vs Manchester City | 21:00 16/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (2)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6a57ef0281",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6a57ef0281",
+                  "name": "Arsenal vs Manchester City",
+                  "streams": [
+                    {
+                      "id": "st-6a57ef0281",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-3a8902444c",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Arsenal",
+            "team_b": "Manchester City",
+            "time": "21:00",
+            "date": "16/08",
+            "blv": "Stream, Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-962d4bb83f_42412538_20260816.png?v=4fc9baf2",
             "width": 1600,
             "height": 1200
           }
