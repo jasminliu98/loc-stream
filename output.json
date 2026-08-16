@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-b55d69bfee",
-          "name": "Tottenham vs 1899 Hoffenheim | 18:00 16/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b55d69bfee",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b55d69bfee",
-                  "name": "Tottenham vs 1899 Hoffenheim",
-                  "streams": [
-                    {
-                      "id": "st-b55d69bfee",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b0372d7d4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Tottenham",
-            "team_b": "1899 Hoffenheim",
-            "time": "18:00",
-            "date": "16/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-134a6969de_6116ae21_20260816.png?v=6edafb11",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-1ec65c0ba1",
           "name": "Yokohama Fc vs Jubilo Iwata | 16:00 16/08",
           "type": "single",
@@ -225,6 +154,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-47e2f9b257_874d99e3_20260816.png?v=cefc3655",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-69ac02f487",
+          "name": "Suzhou Dongwu vs Nantong Zhiyun | 18:00 16/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-69ac02f487",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-69ac02f487",
+                  "name": "Suzhou Dongwu vs Nantong Zhiyun",
+                  "streams": [
+                    {
+                      "id": "st-69ac02f487",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8b0372d7d4",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Suzhou Dongwu",
+            "team_b": "Nantong Zhiyun",
+            "time": "18:00",
+            "date": "16/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ccbffae825_af0bc435_20260816.png?v=88c4f3e7",
             "width": 1600,
             "height": 1200
           }
