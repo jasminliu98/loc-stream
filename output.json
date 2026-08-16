@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-be7281b729",
-          "name": "Hannover 96 vs Vfl Wolfsburg | 18:30 16/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-be7281b729",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-be7281b729",
-                  "name": "Hannover 96 vs Vfl Wolfsburg",
-                  "streams": [
-                    {
-                      "id": "st-be7281b729",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Hannover 96",
-            "team_b": "Vfl Wolfsburg",
-            "time": "18:30",
-            "date": "16/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6b59f67077_0791fdb6_20260816.png?v=d0bb08a5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-167d897033",
           "name": "Dynamo Dresden vs Sv Darmstadt 98 | 18:30 16/08",
