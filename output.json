@@ -265,8 +265,8 @@
           }
         },
         {
-          "id": "ch-2c741cac69",
-          "name": "Vitoria vs Botafogo | 04:30 17/08",
+          "id": "ch-f6d31a9d98",
+          "name": "Mirassol vs Flamengo | 04:30 17/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -280,15 +280,15 @@
           ],
           "sources": [
             {
-              "id": "src-2c741cac69",
+              "id": "src-f6d31a9d98",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-2c741cac69",
-                  "name": "Vitoria vs Botafogo",
+                  "id": "ct-f6d31a9d98",
+                  "name": "Mirassol vs Flamengo",
                   "streams": [
                     {
-                      "id": "st-2c741cac69",
+                      "id": "st-f6d31a9d98",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -299,8 +299,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Vitoria",
-            "team_b": "Botafogo",
+            "team_a": "Mirassol",
+            "team_b": "Flamengo",
             "time": "04:30",
             "date": "17/08",
             "blv": "Chưa có link",
@@ -312,7 +312,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1dd61825ec_494eb11c_20260817.png?v=abd7a6ff",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-22caaf2f4f_3dd9fb44_20260817.png?v=977ef323",
             "width": 1600,
             "height": 1200
           }
