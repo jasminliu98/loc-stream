@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-dbbb724d34",
+          "name": "April W vs Kharaatsai W | 16:00 17/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dbbb724d34",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-dbbb724d34",
+                  "name": "April W vs Kharaatsai W",
+                  "streams": [
+                    {
+                      "id": "st-dbbb724d34",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "April W",
+            "team_b": "Kharaatsai W",
+            "time": "16:00",
+            "date": "17/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6d3dcbd527_68a00a58_20260817.png?v=ea49115a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-23b350caed",
           "name": "Etihad Club W vs Al Nassr W | 19:00 17/08",
           "type": "single",
@@ -224,77 +295,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f1d291a1d2_37bd110a_20260817.png?v=e2372b01",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-dbbb724d34",
-          "name": "April W vs Kharaatsai W | 16:00 17/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dbbb724d34",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-dbbb724d34",
-                  "name": "April W vs Kharaatsai W",
-                  "streams": [
-                    {
-                      "id": "st-dbbb724d34",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "April W",
-            "team_b": "Kharaatsai W",
-            "time": "16:00",
-            "date": "17/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6d3dcbd527_68a00a58_20260817.png?v=ea49115a",
             "width": 1600,
             "height": 1200
           }
