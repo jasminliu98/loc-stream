@@ -17,6 +17,59 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-4b54f6ae4b",
+          "name": "Kaya W vs Ilbirs W | 21:00 17/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4b54f6ae4b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4b54f6ae4b",
+                  "name": "Kaya W vs Ilbirs W",
+                  "streams": [
+                    {
+                      "id": "st-4b54f6ae4b",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kaya W",
+            "team_b": "Ilbirs W",
+            "time": "21:00",
+            "date": "17/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "finished",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0d3c5b7ee8_e34b0629_20260817.png?v=29566329",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-88589a0f3a",
           "name": "Al Anwar vs Al-Ahli Jeddah | 23:00 17/08",
           "type": "single",
@@ -159,61 +212,8 @@
           }
         },
         {
-          "id": "ch-4b54f6ae4b",
-          "name": "Kaya W vs Ilbirs W | 21:00 17/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4b54f6ae4b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-4b54f6ae4b",
-                  "name": "Kaya W vs Ilbirs W",
-                  "streams": [
-                    {
-                      "id": "st-4b54f6ae4b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Kaya W",
-            "team_b": "Ilbirs W",
-            "time": "21:00",
-            "date": "17/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0d3c5b7ee8_e34b0629_20260817.png?v=29566329",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c8e000137c",
-          "name": "Al Zulfi vs Al Riyadh | 23:15 17/08",
+          "id": "ch-b9dda97446",
+          "name": "Al Taee vs Al-Qadisiyah Fc | 23:15 17/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -227,15 +227,15 @@
           ],
           "sources": [
             {
-              "id": "src-c8e000137c",
+              "id": "src-b9dda97446",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-c8e000137c",
-                  "name": "Al Zulfi vs Al Riyadh",
+                  "id": "ct-b9dda97446",
+                  "name": "Al Taee vs Al-Qadisiyah Fc",
                   "streams": [
                     {
-                      "id": "st-c8e000137c",
+                      "id": "st-b9dda97446",
                       "name": "Streams",
                       "stream_links": [
                         {
@@ -264,8 +264,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Al Zulfi",
-            "team_b": "Al Riyadh",
+            "team_a": "Al Taee",
+            "team_b": "Al-Qadisiyah Fc",
             "time": "23:15",
             "date": "17/08",
             "blv": "Stream",
@@ -277,7 +277,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fb999e6c9d_1f62b519_20260817.png?v=7a938195",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8f80c631cd_36786eca_20260817.png?v=92fe6984",
             "width": 1600,
             "height": 1200
           }
