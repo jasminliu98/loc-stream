@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-aabfb83397",
-          "name": "Seattle Sounders vs Vancouver Whitecaps | 09:30 17/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-aabfb83397",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-aabfb83397",
-                  "name": "Seattle Sounders vs Vancouver Whitecaps",
-                  "streams": [
-                    {
-                      "id": "st-aabfb83397",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Seattle Sounders",
-            "team_b": "Vancouver Whitecaps",
-            "time": "09:30",
-            "date": "17/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2113291a14_1a18f2d1_20260817.png?v=4391942c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-8ce860f84b",
           "name": "Austin vs Fc Dallas | 07:30 17/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4a6eeba44a_81c165c4_20260817.png?v=54c3265d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-aabfb83397",
+          "name": "Seattle Sounders vs Vancouver Whitecaps | 09:30 17/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-aabfb83397",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-aabfb83397",
+                  "name": "Seattle Sounders vs Vancouver Whitecaps",
+                  "streams": [
+                    {
+                      "id": "st-aabfb83397",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Seattle Sounders",
+            "team_b": "Vancouver Whitecaps",
+            "time": "09:30",
+            "date": "17/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2113291a14_1a18f2d1_20260817.png?v=4391942c",
             "width": 1600,
             "height": 1200
           }
