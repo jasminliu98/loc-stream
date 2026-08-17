@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -148,10 +148,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": " Sắp",
+              "text": "● LIVE (1)",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -166,7 +166,25 @@
                     {
                       "id": "st-88589a0f3a",
                       "name": "Streams",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -179,9 +197,9 @@
             "team_b": "Al-Ahli Jeddah",
             "time": "23:00",
             "date": "17/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
@@ -201,10 +219,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": " Sắp",
+              "text": "● LIVE (1)",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -219,7 +237,25 @@
                     {
                       "id": "st-a8b51611e4",
                       "name": "Streams",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -232,9 +268,9 @@
             "team_b": "Empoli",
             "time": "23:00",
             "date": "17/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
