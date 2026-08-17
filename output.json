@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-48bc8b507a",
-          "name": "Barracas Central vs Rosario Central | 06:15 17/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-48bc8b507a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-48bc8b507a",
-                  "name": "Barracas Central vs Rosario Central",
-                  "streams": [
-                    {
-                      "id": "st-48bc8b507a",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Barracas Central",
-            "team_b": "Rosario Central",
-            "time": "06:15",
-            "date": "17/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2875bbef53_ec172cd7_20260817.png?v=5008aeae",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-8ce860f84b",
           "name": "Austin vs Fc Dallas | 07:30 17/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4a6eeba44a_81c165c4_20260817.png?v=54c3265d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-48bc8b507a",
+          "name": "Barracas Central vs Rosario Central | 06:15 17/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-48bc8b507a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-48bc8b507a",
+                  "name": "Barracas Central vs Rosario Central",
+                  "streams": [
+                    {
+                      "id": "st-48bc8b507a",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Barracas Central",
+            "team_b": "Rosario Central",
+            "time": "06:15",
+            "date": "17/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2875bbef53_ec172cd7_20260817.png?v=5008aeae",
             "width": 1600,
             "height": 1200
           }
