@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-8f5485e70f",
-          "name": "Velez Sarsfield vs Defensa Y Justicia | 05:15 18/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8f5485e70f",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8f5485e70f",
-                  "name": "Velez Sarsfield vs Defensa Y Justicia",
-                  "streams": [
-                    {
-                      "id": "st-8f5485e70f",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Velez Sarsfield",
-            "team_b": "Defensa Y Justicia",
-            "time": "05:15",
-            "date": "18/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-555856604f_330a22f5_20260818.png?v=80b59917",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-4ebd7c08a1",
           "name": "Internacional vs Remo | 06:00 18/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d0be20c958_326be9b7_20260818.png?v=be2c9c05",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8f5485e70f",
+          "name": "Velez Sarsfield vs Defensa Y Justicia | 05:15 18/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8f5485e70f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8f5485e70f",
+                  "name": "Velez Sarsfield vs Defensa Y Justicia",
+                  "streams": [
+                    {
+                      "id": "st-8f5485e70f",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Velez Sarsfield",
+            "team_b": "Defensa Y Justicia",
+            "time": "05:15",
+            "date": "18/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-555856604f_330a22f5_20260818.png?v=80b59917",
             "width": 1600,
             "height": 1200
           }
