@@ -88,6 +88,77 @@
           }
         },
         {
+          "id": "ch-18134d84f6",
+          "name": "Ayeyawady W vs Jurong W | 16:30 17/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-18134d84f6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-18134d84f6",
+                  "name": "Ayeyawady W vs Jurong W",
+                  "streams": [
+                    {
+                      "id": "st-18134d84f6",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Ayeyawady W",
+            "team_b": "Jurong W",
+            "time": "16:30",
+            "date": "17/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5d4d5ac534_a869d989_20260817.png?v=00580206",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-23b350caed",
           "name": "Etihad Club W vs Al Nassr W | 19:00 17/08",
           "type": "single",
@@ -295,77 +366,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f1d291a1d2_37bd110a_20260817.png?v=e2372b01",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-7561cb6152",
-          "name": "Tsl Fc W vs Phnom Penh W | 17:00 17/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7561cb6152",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-7561cb6152",
-                  "name": "Tsl Fc W vs Phnom Penh W",
-                  "streams": [
-                    {
-                      "id": "st-7561cb6152",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Tsl Fc W",
-            "team_b": "Phnom Penh W",
-            "time": "17:00",
-            "date": "17/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4199ce6bb0_38f7ab16_20260817.png?v=edfb79fa",
             "width": 1600,
             "height": 1200
           }
