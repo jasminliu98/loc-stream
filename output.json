@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-8ce860f84b",
-          "name": "Austin vs Fc Dallas | 07:30 17/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8ce860f84b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8ce860f84b",
-                  "name": "Austin vs Fc Dallas",
-                  "streams": [
-                    {
-                      "id": "st-8ce860f84b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Austin",
-            "team_b": "Fc Dallas",
-            "time": "07:30",
-            "date": "17/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4a6eeba44a_81c165c4_20260817.png?v=54c3265d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-aabfb83397",
           "name": "Seattle Sounders vs Vancouver Whitecaps | 09:30 17/08",
           "type": "single",
