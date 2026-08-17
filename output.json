@@ -17,148 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-8592328ae0",
-          "name": "Cardiff vs Wrexham | 02:00 18/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8592328ae0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8592328ae0",
-                  "name": "Cardiff vs Wrexham",
-                  "streams": [
-                    {
-                      "id": "st-8592328ae0",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Cardiff",
-            "team_b": "Wrexham",
-            "time": "02:00",
-            "date": "18/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-15a3ec17c0_316e4167_20260818.png?v=288a6430",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-39b7d5b0af",
-          "name": "Deportivo La Coruna vs Elche | 02:00 18/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-39b7d5b0af",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-39b7d5b0af",
-                  "name": "Deportivo La Coruna vs Elche",
-                  "streams": [
-                    {
-                      "id": "st-39b7d5b0af",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Deportivo La Coruna",
-            "team_b": "Elche",
-            "time": "02:00",
-            "date": "18/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-65d4bda92a_6f5e4eee_20260818.png?v=3711d33b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-fc6d02e3df",
           "name": "Estudiantes De Rio Cuarto vs Atletico Tucuman | 00:45 18/08",
           "type": "single",
@@ -438,6 +296,148 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f1dcf572db_c455e14e_20260818.png?v=e7ebd6a3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8592328ae0",
+          "name": "Cardiff vs Wrexham | 02:00 18/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8592328ae0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8592328ae0",
+                  "name": "Cardiff vs Wrexham",
+                  "streams": [
+                    {
+                      "id": "st-8592328ae0",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Cardiff",
+            "team_b": "Wrexham",
+            "time": "02:00",
+            "date": "18/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-15a3ec17c0_316e4167_20260818.png?v=288a6430",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-39b7d5b0af",
+          "name": "Deportivo La Coruna vs Elche | 02:00 18/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-39b7d5b0af",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-39b7d5b0af",
+                  "name": "Deportivo La Coruna vs Elche",
+                  "streams": [
+                    {
+                      "id": "st-39b7d5b0af",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Deportivo La Coruna",
+            "team_b": "Elche",
+            "time": "02:00",
+            "date": "18/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-65d4bda92a_6f5e4eee_20260818.png?v=3711d33b",
             "width": 1600,
             "height": 1200
           }
