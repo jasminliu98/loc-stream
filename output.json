@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-be8b11c4b3",
-          "name": "Necaxa vs Leon | 08:00 18/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-be8b11c4b3",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-be8b11c4b3",
-                  "name": "Necaxa vs Leon",
-                  "streams": [
-                    {
-                      "id": "st-be8b11c4b3",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b0372d7d4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Necaxa",
-            "team_b": "Leon",
-            "time": "08:00",
-            "date": "18/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ec03e01cdb_16327d94_20260818.png?v=29f998f6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-ec5f352ac5",
           "name": "Pachuca vs Puebla | 10:06 18/08",
