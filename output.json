@@ -139,6 +139,748 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-7d3658c084",
+          "name": "Sydney vs Sd Raiders | 16:30 18/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7d3658c084",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-7d3658c084",
+                  "name": "Sydney vs Sd Raiders",
+                  "streams": [
+                    {
+                      "id": "st-7d3658c084",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sydney",
+            "team_b": "Sd Raiders",
+            "time": "16:30",
+            "date": "18/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-284c179792_2e6f8ec1_20260818.png?v=1fc91e86",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-5d10ba8e13",
+          "name": "Shanghai Shenhua vs Beijing Guoan | 18:35 18/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5d10ba8e13",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-5d10ba8e13",
+                  "name": "Shanghai Shenhua vs Beijing Guoan",
+                  "streams": [
+                    {
+                      "id": "st-5d10ba8e13",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Shanghai Shenhua",
+            "team_b": "Beijing Guoan",
+            "time": "18:35",
+            "date": "18/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-24be08d174_21773bb0_20260818.png?v=afb92a22",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9c5ada9221",
+          "name": "Thailand vs Singapore | 20:00 18/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9c5ada9221",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9c5ada9221",
+                  "name": "Thailand vs Singapore",
+                  "streams": [
+                    {
+                      "id": "st-9c5ada9221",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Thailand",
+            "team_b": "Singapore",
+            "time": "20:00",
+            "date": "18/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bd9f326a29_d424c606_20260818.png?v=103357e3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-1c1b04106c",
+          "name": "Buxoro vs Neftchi | 22:00 18/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1c1b04106c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-1c1b04106c",
+                  "name": "Buxoro vs Neftchi",
+                  "streams": [
+                    {
+                      "id": "st-1c1b04106c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Buxoro",
+            "team_b": "Neftchi",
+            "time": "22:00",
+            "date": "18/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2714f826ae_09597a4e_20260818.png?v=cdbfa92a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2ddb3e2c76",
+          "name": "1. Fc Heidenheim vs Bayern München | 23:00 18/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2ddb3e2c76",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2ddb3e2c76",
+                  "name": "1. Fc Heidenheim vs Bayern München",
+                  "streams": [
+                    {
+                      "id": "st-2ddb3e2c76",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "1. Fc Heidenheim",
+            "team_b": "Bayern München",
+            "time": "23:00",
+            "date": "18/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-76b8ef25c0_19ad3bd6_20260818.png?v=3e56d557",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d6c8aa60aa",
+          "name": "Al Najma vs Al-Ittihad Fc | 23:15 18/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d6c8aa60aa",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d6c8aa60aa",
+                  "name": "Al Najma vs Al-Ittihad Fc",
+                  "streams": [
+                    {
+                      "id": "st-d6c8aa60aa",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al Najma",
+            "team_b": "Al-Ittihad Fc",
+            "time": "23:15",
+            "date": "18/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b75379b0fe_0f97a434_20260818.png?v=1fd7e673",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-80e4683d5b",
+          "name": "Al Diriyah vs Al-Nassr | 01:00 19/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-80e4683d5b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-80e4683d5b",
+                  "name": "Al Diriyah vs Al-Nassr",
+                  "streams": [
+                    {
+                      "id": "st-80e4683d5b",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al Diriyah",
+            "team_b": "Al-Nassr",
+            "time": "01:00",
+            "date": "19/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1e29317ecb_d91eba05_20260818.png?v=7e59056b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-714a3edc08",
+          "name": "Dinamo Zagreb vs Viking | 02:00 19/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-714a3edc08",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-714a3edc08",
+                  "name": "Dinamo Zagreb vs Viking",
+                  "streams": [
+                    {
+                      "id": "st-714a3edc08",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Dinamo Zagreb",
+            "team_b": "Viking",
+            "time": "02:00",
+            "date": "19/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4e3726e4fe_486ff002_20260818.png?v=dcda8790",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a7418f85a6",
+          "name": "Fenerbahce vs Lyon | 02:00 19/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a7418f85a6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a7418f85a6",
+                  "name": "Fenerbahce vs Lyon",
+                  "streams": [
+                    {
+                      "id": "st-a7418f85a6",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fenerbahce",
+            "team_b": "Lyon",
+            "time": "02:00",
+            "date": "19/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b7e054a65d_d387ad02_20260818.png?v=f7f7d85c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-95ab67930e",
+          "name": "Deportivo Riestra vs Gimnasia L.P. | 03:00 19/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-95ab67930e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-95ab67930e",
+                  "name": "Deportivo Riestra vs Gimnasia L.P.",
+                  "streams": [
+                    {
+                      "id": "st-95ab67930e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Deportivo Riestra",
+            "team_b": "Gimnasia L.P.",
+            "time": "03:00",
+            "date": "19/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3c532a2858_0f0b5005_20260818.png?v=884dd710",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c00abe6557",
+          "name": "Deportivo Recoleta vs Boca Juniors | 05:00 19/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c00abe6557",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c00abe6557",
+                  "name": "Deportivo Recoleta vs Boca Juniors",
+                  "streams": [
+                    {
+                      "id": "st-c00abe6557",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Deportivo Recoleta",
+            "team_b": "Boca Juniors",
+            "time": "05:00",
+            "date": "19/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-be710dfe5a_ea2e1806_20260818.png?v=1b2955c9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-31c7e272ff",
+          "name": "Sao Paulo vs Bolívar | 07:30 19/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-31c7e272ff",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-31c7e272ff",
+                  "name": "Sao Paulo vs Bolívar",
+                  "streams": [
+                    {
+                      "id": "st-31c7e272ff",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sao Paulo",
+            "team_b": "Bolívar",
+            "time": "07:30",
+            "date": "19/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3c969075bc_1ab44e39_20260818.png?v=9fe56725",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d43b96818f",
+          "name": "Cs Cartagines vs Verdes | 08:00 19/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d43b96818f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d43b96818f",
+                  "name": "Cs Cartagines vs Verdes",
+                  "streams": [
+                    {
+                      "id": "st-d43b96818f",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Cs Cartagines",
+            "team_b": "Verdes",
+            "time": "08:00",
+            "date": "19/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dc4c486e91_8ccb33d1_20260818.png?v=4e9e7767",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-24b5f437e0",
+          "name": "Real Estelí vs Cs Herediano | 10:00 19/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-24b5f437e0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-24b5f437e0",
+                  "name": "Real Estelí vs Cs Herediano",
+                  "streams": [
+                    {
+                      "id": "st-24b5f437e0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Real Estelí",
+            "team_b": "Cs Herediano",
+            "time": "10:00",
+            "date": "19/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-469a42a5b9_53718d02_20260818.png?v=a6a4ea7d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
