@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-5d10ba8e13",
-          "name": "Shanghai Shenhua vs Beijing Guoan | 18:35 18/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5d10ba8e13",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-5d10ba8e13",
-                  "name": "Shanghai Shenhua vs Beijing Guoan",
-                  "streams": [
-                    {
-                      "id": "st-5d10ba8e13",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Shanghai Shenhua",
-            "team_b": "Beijing Guoan",
-            "time": "18:35",
-            "date": "18/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-24be08d174_21773bb0_20260818.png?v=afb92a22",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-9c5ada9221",
           "name": "Thailand vs Singapore | 20:00 18/08",
           "type": "single",
@@ -171,6 +100,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bd9f326a29_d424c606_20260818.png?v=103357e3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-5d10ba8e13",
+          "name": "Shanghai Shenhua vs Beijing Guoan | 18:35 18/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5d10ba8e13",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-5d10ba8e13",
+                  "name": "Shanghai Shenhua vs Beijing Guoan",
+                  "streams": [
+                    {
+                      "id": "st-5d10ba8e13",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959b9ee9a1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Shanghai Shenhua",
+            "team_b": "Beijing Guoan",
+            "time": "18:35",
+            "date": "18/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-24be08d174_21773bb0_20260818.png?v=afb92a22",
             "width": 1600,
             "height": 1200
           }
