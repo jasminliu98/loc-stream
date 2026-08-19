@@ -11,170 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-9382eb7674",
-          "name": "Mash'Al vs Andijan | 22:00 19/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9382eb7674",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-9382eb7674",
-                  "name": "Mash'Al vs Andijan",
-                  "streams": [
-                    {
-                      "id": "st-9382eb7674",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Mash'Al",
-            "team_b": "Andijan",
-            "time": "22:00",
-            "date": "19/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-71c2b9a40b_0b0dd02f_20260819.png?v=60cf358b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c07aca15c0",
-          "name": "Việt Nam vs Malaysia | 20:00 19/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c07aca15c0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c07aca15c0",
-                  "name": "Việt Nam vs Malaysia",
-                  "streams": [
-                    {
-                      "id": "st-c07aca15c0",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-48b02a897a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Việt Nam",
-            "team_b": "Malaysia",
-            "time": "20:00",
-            "date": "19/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f6a34e1100_2b1238b9_20260819.png?v=f6ce1ae8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-efc1f53ea3",
           "name": "Olmaliq vs Dinamo Samarqand | 21:00 19/08",
@@ -242,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f8376947e9_c8faeca9_20260819.png?v=4e786f8d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9382eb7674",
+          "name": "Mash'Al vs Andijan | 22:00 19/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9382eb7674",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9382eb7674",
+                  "name": "Mash'Al vs Andijan",
+                  "streams": [
+                    {
+                      "id": "st-9382eb7674",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Mash'Al",
+            "team_b": "Andijan",
+            "time": "22:00",
+            "date": "19/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-71c2b9a40b_0b0dd02f_20260819.png?v=60cf358b",
             "width": 1600,
             "height": 1200
           }
