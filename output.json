@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-00d210838e",
-          "name": "Barcelona vs Al Ahly | 01:00 20/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-00d210838e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-00d210838e",
-                  "name": "Barcelona vs Al Ahly",
-                  "streams": [
-                    {
-                      "id": "st-00d210838e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Barcelona",
-            "team_b": "Al Ahly",
-            "time": "01:00",
-            "date": "20/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5f1ddd6555_e108a2ab_20260820.png?v=550d05ab",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-27d72f6b59",
           "name": "Atletico Madrid vs Malaga | 02:00 20/08",
