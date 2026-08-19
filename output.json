@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-1f25cf6a71",
-          "name": "Damac vs Al Taawon | 23:15 19/08",
+          "id": "ch-0eb0bfa5d3",
+          "name": "Jeddah Club vs Al Kholood | 23:30 19/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-1f25cf6a71",
+              "id": "src-0eb0bfa5d3",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-1f25cf6a71",
-                  "name": "Damac vs Al Taawon",
+                  "id": "ct-0eb0bfa5d3",
+                  "name": "Jeddah Club vs Al Kholood",
                   "streams": [
                     {
-                      "id": "st-1f25cf6a71",
+                      "id": "st-0eb0bfa5d3",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-959b9ee9a1",
+                          "id": "lnk-352d8625d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Damac",
-            "team_b": "Al Taawon",
-            "time": "23:15",
+            "team_a": "Jeddah Club",
+            "team_b": "Al Kholood",
+            "time": "23:30",
             "date": "19/08",
             "blv": "Stream",
             "is_live": true,
@@ -82,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-048046413b_df2269f1_20260819.png?v=1e821a40",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cfbde7ba10_94f9cfd6_20260819.png?v=0b362ef5",
             "width": 1600,
             "height": 1200
           }
@@ -230,8 +230,8 @@
           }
         },
         {
-          "id": "ch-0eb0bfa5d3",
-          "name": "Jeddah Club vs Al Kholood | 23:30 19/08",
+          "id": "ch-1f25cf6a71",
+          "name": "Damac vs Al Taawon | 23:15 19/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -245,23 +245,23 @@
           ],
           "sources": [
             {
-              "id": "src-0eb0bfa5d3",
+              "id": "src-1f25cf6a71",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-0eb0bfa5d3",
-                  "name": "Jeddah Club vs Al Kholood",
+                  "id": "ct-1f25cf6a71",
+                  "name": "Damac vs Al Taawon",
                   "streams": [
                     {
-                      "id": "st-0eb0bfa5d3",
+                      "id": "st-1f25cf6a71",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-352d8625d5",
+                          "id": "lnk-959b9ee9a1",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -282,9 +282,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Jeddah Club",
-            "team_b": "Al Kholood",
-            "time": "23:30",
+            "team_a": "Damac",
+            "team_b": "Al Taawon",
+            "time": "23:15",
             "date": "19/08",
             "blv": "Stream",
             "is_live": true,
@@ -295,7 +295,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cfbde7ba10_94f9cfd6_20260819.png?v=0b362ef5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-048046413b_df2269f1_20260819.png?v=1e821a40",
             "width": 1600,
             "height": 1200
           }
