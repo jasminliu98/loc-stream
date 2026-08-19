@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-fe061d6e12",
-          "name": "Shanghai Sipg vs Dalian Zhixing | 18:35 19/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fe061d6e12",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-fe061d6e12",
-                  "name": "Shanghai Sipg vs Dalian Zhixing",
-                  "streams": [
-                    {
-                      "id": "st-fe061d6e12",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Shanghai Sipg",
-            "team_b": "Dalian Zhixing",
-            "time": "18:35",
-            "date": "19/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b567a08eb5_e013eec5_20260819.png?v=acb829cc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-c07aca15c0",
           "name": "Việt Nam vs Malaysia | 20:00 19/08",
@@ -176,59 +105,6 @@
           }
         },
         {
-          "id": "ch-27d72f6b59",
-          "name": "Atletico Madrid vs Malaga | 02:00 20/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-27d72f6b59",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-27d72f6b59",
-                  "name": "Atletico Madrid vs Malaga",
-                  "streams": [
-                    {
-                      "id": "st-27d72f6b59",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Atletico Madrid",
-            "team_b": "Malaga",
-            "time": "02:00",
-            "date": "20/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-094229583c_a3cf16b1_20260819.png?v=21658441",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-efc1f53ea3",
           "name": "Olmaliq vs Dinamo Samarqand | 21:00 19/08",
           "type": "single",
@@ -295,6 +171,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f8376947e9_c8faeca9_20260819.png?v=4e786f8d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-27d72f6b59",
+          "name": "Atletico Madrid vs Malaga | 02:00 20/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-27d72f6b59",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-27d72f6b59",
+                  "name": "Atletico Madrid vs Malaga",
+                  "streams": [
+                    {
+                      "id": "st-27d72f6b59",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Atletico Madrid",
+            "team_b": "Malaga",
+            "time": "02:00",
+            "date": "20/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-094229583c_a3cf16b1_20260819.png?v=21658441",
             "width": 1600,
             "height": 1200
           }
