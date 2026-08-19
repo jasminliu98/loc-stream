@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-fe061d6e12",
-          "name": "Shanghai Sipg vs Dalian Zhixing | 18:35 19/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fe061d6e12",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-fe061d6e12",
-                  "name": "Shanghai Sipg vs Dalian Zhixing",
-                  "streams": [
-                    {
-                      "id": "st-fe061d6e12",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Shanghai Sipg",
-            "team_b": "Dalian Zhixing",
-            "time": "18:35",
-            "date": "19/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b567a08eb5_e013eec5_20260819.png?v=acb829cc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-cb5b7ff19b",
           "name": "Apia Leichhardt Tigers vs Melbourne Victory | 16:30 19/08",
           "type": "single",
@@ -296,6 +225,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8f08b2b1fc_dbf399da_20260819.png?v=e42d116f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-fe061d6e12",
+          "name": "Shanghai Sipg vs Dalian Zhixing | 18:35 19/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fe061d6e12",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-fe061d6e12",
+                  "name": "Shanghai Sipg vs Dalian Zhixing",
+                  "streams": [
+                    {
+                      "id": "st-fe061d6e12",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Shanghai Sipg",
+            "team_b": "Dalian Zhixing",
+            "time": "18:35",
+            "date": "19/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b567a08eb5_e013eec5_20260819.png?v=acb829cc",
             "width": 1600,
             "height": 1200
           }
