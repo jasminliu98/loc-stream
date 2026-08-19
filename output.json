@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-c579827be6",
-          "name": "Arterivo Wakayama vs Azul Claro Numazu | 15:00 19/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c579827be6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c579827be6",
-                  "name": "Arterivo Wakayama vs Azul Claro Numazu",
-                  "streams": [
-                    {
-                      "id": "st-c579827be6",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Arterivo Wakayama",
-            "team_b": "Azul Claro Numazu",
-            "time": "15:00",
-            "date": "19/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dd7e716fae_e0056828_20260819.png?v=a9a250a3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-cb5b7ff19b",
           "name": "Apia Leichhardt Tigers vs Melbourne Victory | 16:30 19/08",
