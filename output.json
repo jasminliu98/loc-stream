@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -42,42 +42,7 @@
                     {
                       "id": "st-9c5ada9221",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-2e921b7c85",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -90,16 +55,16 @@
             "team_b": "Singapore",
             "time": "20:00",
             "date": "18/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "finished",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bd9f326a29_d424c606_20260818.png?v=103357e3",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bd9f326a29_d424c606_20260819.png?v=103357e3",
             "width": 1600,
             "height": 1200
           }
@@ -145,14 +110,14 @@
             "date": "18/08",
             "blv": "Chưa có link",
             "is_live": false,
-            "status": "upcoming",
+            "status": "finished",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2714f826ae_09597a4e_20260818.png?v=cdbfa92a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2714f826ae_09597a4e_20260819.png?v=cdbfa92a",
             "width": 1600,
             "height": 1200
           }
@@ -198,14 +163,14 @@
             "date": "18/08",
             "blv": "Chưa có link",
             "is_live": false,
-            "status": "upcoming",
+            "status": "finished",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-76b8ef25c0_19ad3bd6_20260818.png?v=3e56d557",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-76b8ef25c0_19ad3bd6_20260819.png?v=3e56d557",
             "width": 1600,
             "height": 1200
           }
@@ -251,14 +216,14 @@
             "date": "18/08",
             "blv": "Chưa có link",
             "is_live": false,
-            "status": "upcoming",
+            "status": "finished",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b75379b0fe_0f97a434_20260818.png?v=1fd7e673",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b75379b0fe_0f97a434_20260819.png?v=1fd7e673",
             "width": 1600,
             "height": 1200
           }
@@ -304,14 +269,14 @@
             "date": "19/08",
             "blv": "Chưa có link",
             "is_live": false,
-            "status": "upcoming",
+            "status": "finished",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1e29317ecb_d91eba05_20260818.png?v=7e59056b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1e29317ecb_d91eba05_20260819.png?v=7e59056b",
             "width": 1600,
             "height": 1200
           }
@@ -357,14 +322,14 @@
             "date": "19/08",
             "blv": "Chưa có link",
             "is_live": false,
-            "status": "upcoming",
+            "status": "finished",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4e3726e4fe_486ff002_20260818.png?v=dcda8790",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4e3726e4fe_486ff002_20260819.png?v=dcda8790",
             "width": 1600,
             "height": 1200
           }
@@ -410,14 +375,14 @@
             "date": "19/08",
             "blv": "Chưa có link",
             "is_live": false,
-            "status": "upcoming",
+            "status": "finished",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b7e054a65d_d387ad02_20260818.png?v=f7f7d85c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b7e054a65d_d387ad02_20260819.png?v=f7f7d85c",
             "width": 1600,
             "height": 1200
           }
@@ -463,14 +428,14 @@
             "date": "19/08",
             "blv": "Chưa có link",
             "is_live": false,
-            "status": "upcoming",
+            "status": "finished",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3c532a2858_0f0b5005_20260818.png?v=884dd710",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3c532a2858_0f0b5005_20260819.png?v=884dd710",
             "width": 1600,
             "height": 1200
           }
@@ -516,14 +481,14 @@
             "date": "19/08",
             "blv": "Chưa có link",
             "is_live": false,
-            "status": "upcoming",
+            "status": "finished",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-be710dfe5a_ea2e1806_20260818.png?v=1b2955c9",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-be710dfe5a_ea2e1806_20260819.png?v=1b2955c9",
             "width": 1600,
             "height": 1200
           }
@@ -536,10 +501,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": " Sắp",
+              "text": "● LIVE (1)",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -554,7 +519,25 @@
                     {
                       "id": "st-31c7e272ff",
                       "name": "Streams",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -567,16 +550,16 @@
             "team_b": "Bolívar",
             "time": "07:30",
             "date": "19/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3c969075bc_1ab44e39_20260818.png?v=9fe56725",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3c969075bc_1ab44e39_20260819.png?v=9fe56725",
             "width": 1600,
             "height": 1200
           }
@@ -629,7 +612,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dc4c486e91_8ccb33d1_20260818.png?v=4e9e7767",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dc4c486e91_8ccb33d1_20260819.png?v=4e9e7767",
             "width": 1600,
             "height": 1200
           }
@@ -682,7 +665,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-469a42a5b9_53718d02_20260818.png?v=a6a4ea7d",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-469a42a5b9_53718d02_20260819.png?v=a6a4ea7d",
             "width": 1600,
             "height": 1200
           }
