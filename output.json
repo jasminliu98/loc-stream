@@ -11,67 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-9382eb7674",
-          "name": "Mash'Al vs Andijan | 22:00 19/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9382eb7674",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-9382eb7674",
-                  "name": "Mash'Al vs Andijan",
-                  "streams": [
-                    {
-                      "id": "st-9382eb7674",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Mash'Al",
-            "team_b": "Andijan",
-            "time": "22:00",
-            "date": "19/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-71c2b9a40b_0b0dd02f_20260820.png?v=60cf358b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-bfe4d990b6",
-          "name": "Rubin vs Spartak Moscow | 22:30 19/08",
+          "id": "ch-00d210838e",
+          "name": "Barcelona vs Al Ahly | 01:00 20/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -85,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-bfe4d990b6",
+              "id": "src-00d210838e",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-bfe4d990b6",
-                  "name": "Rubin vs Spartak Moscow",
+                  "id": "ct-00d210838e",
+                  "name": "Barcelona vs Al Ahly",
                   "streams": [
                     {
-                      "id": "st-bfe4d990b6",
+                      "id": "st-00d210838e",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-8b0372d7d4",
+                          "id": "lnk-0cd40431c5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -122,10 +69,10 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Rubin",
-            "team_b": "Spartak Moscow",
-            "time": "22:30",
-            "date": "19/08",
+            "team_a": "Barcelona",
+            "team_b": "Al Ahly",
+            "time": "01:00",
+            "date": "20/08",
             "blv": "Stream",
             "is_live": true,
             "status": "live",
@@ -135,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-45e35b4b52_bb65681e_20260820.png?v=3c1a3bf3",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5f1ddd6555_e108a2ab_20260820.png?v=550d05ab",
             "width": 1600,
             "height": 1200
           }
@@ -278,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cfbde7ba10_94f9cfd6_20260820.png?v=0b362ef5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-00d210838e",
-          "name": "Barcelona vs Al Ahly | 01:00 20/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-00d210838e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-00d210838e",
-                  "name": "Barcelona vs Al Ahly",
-                  "streams": [
-                    {
-                      "id": "st-00d210838e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Barcelona",
-            "team_b": "Al Ahly",
-            "time": "01:00",
-            "date": "20/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5f1ddd6555_e108a2ab_20260820.png?v=550d05ab",
             "width": 1600,
             "height": 1200
           }
