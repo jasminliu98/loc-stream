@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-11baf20d4f",
-          "name": "Ilbirs W vs Tsl Fc W | 21:00 20/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-11baf20d4f",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-11baf20d4f",
-                  "name": "Ilbirs W vs Tsl Fc W",
-                  "streams": [
-                    {
-                      "id": "st-11baf20d4f",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Ilbirs W",
-            "team_b": "Tsl Fc W",
-            "time": "21:00",
-            "date": "20/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-74c68fcd7b_4ba80da5_20260820.png?v=7acc0f7f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-e02313ba2a",
           "name": "Kairat Almaty vs Anderlecht | 22:00 20/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-257e9b0cbe_7c7d64ef_20260820.png?v=61a15120",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-11baf20d4f",
+          "name": "Ilbirs W vs Tsl Fc W | 21:00 20/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-11baf20d4f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-11baf20d4f",
+                  "name": "Ilbirs W vs Tsl Fc W",
+                  "streams": [
+                    {
+                      "id": "st-11baf20d4f",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Ilbirs W",
+            "team_b": "Tsl Fc W",
+            "time": "21:00",
+            "date": "20/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-74c68fcd7b_4ba80da5_20260820.png?v=7acc0f7f",
             "width": 1600,
             "height": 1200
           }
