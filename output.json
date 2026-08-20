@@ -477,6 +477,59 @@
           }
         },
         {
+          "id": "ch-b75c92ed0f",
+          "name": "Venados Fc vs Dorados | 06:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b75c92ed0f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b75c92ed0f",
+                  "name": "Venados Fc vs Dorados",
+                  "streams": [
+                    {
+                      "id": "st-b75c92ed0f",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Venados Fc",
+            "team_b": "Dorados",
+            "time": "06:00",
+            "date": "21/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-29f4e4958d_f39cdfd0_20260820.png?v=6579fce8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-4ddec2c086",
           "name": "Corinthians vs Rosario Central | 07:30 21/08",
           "type": "single",
@@ -578,59 +631,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1b2e26cd5c_830c7b7b_20260820.png?v=3bf83b22",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-b75c92ed0f",
-          "name": "Venados Fc vs Dorados | 06:00 21/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b75c92ed0f",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b75c92ed0f",
-                  "name": "Venados Fc vs Dorados",
-                  "streams": [
-                    {
-                      "id": "st-b75c92ed0f",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Venados Fc",
-            "team_b": "Dorados",
-            "time": "06:00",
-            "date": "21/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-29f4e4958d_f39cdfd0_20260820.png?v=6579fce8",
             "width": 1600,
             "height": 1200
           }
