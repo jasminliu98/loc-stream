@@ -11,11 +11,153 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "ch-03f28a9981",
+          "name": "Besiktas vs Kauno Žalgiris | 00:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-03f28a9981",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-03f28a9981",
+                  "name": "Besiktas vs Kauno Žalgiris",
+                  "streams": [
+                    {
+                      "id": "st-03f28a9981",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8b0372d7d4",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Besiktas",
+            "team_b": "Kauno Žalgiris",
+            "time": "00:00",
+            "date": "21/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b8ee7e10c9_e7b4bcce_20260820.png?v=97518921",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8610b8968d",
+          "name": "Trabzonspor vs Ferencvarosi Tc | 00:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8610b8968d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8610b8968d",
+                  "name": "Trabzonspor vs Ferencvarosi Tc",
+                  "streams": [
+                    {
+                      "id": "st-8610b8968d",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Trabzonspor",
+            "team_b": "Ferencvarosi Tc",
+            "time": "00:00",
+            "date": "21/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a6ccb2ff60_02508fb6_20260820.png?v=2a13f6de",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "ch-e02313ba2a",
           "name": "Kairat Almaty vs Anderlecht | 22:00 20/08",
@@ -154,77 +296,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f26290319b_96e069c4_20260820.png?v=8a0ae727",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-03f28a9981",
-          "name": "Besiktas vs Kauno Žalgiris | 00:00 21/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-03f28a9981",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-03f28a9981",
-                  "name": "Besiktas vs Kauno Žalgiris",
-                  "streams": [
-                    {
-                      "id": "st-03f28a9981",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b0372d7d4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Besiktas",
-            "team_b": "Kauno Žalgiris",
-            "time": "00:00",
-            "date": "21/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b8ee7e10c9_e7b4bcce_20260820.png?v=97518921",
             "width": 1600,
             "height": 1200
           }
