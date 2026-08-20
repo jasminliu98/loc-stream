@@ -17,6 +17,148 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-d0ea047fe7",
+          "name": "Al-Fayha vs Al-Hilal Saudi Fc | 01:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d0ea047fe7",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d0ea047fe7",
+                  "name": "Al-Fayha vs Al-Hilal Saudi Fc",
+                  "streams": [
+                    {
+                      "id": "st-d0ea047fe7",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959b9ee9a1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Fayha",
+            "team_b": "Al-Hilal Saudi Fc",
+            "time": "01:00",
+            "date": "21/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9a4a303b1a_3d49dabb_20260821.png?v=d9e3f3af",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2eb3957291",
+          "name": "Gornik Zabrze vs Monaco | 01:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2eb3957291",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2eb3957291",
+                  "name": "Gornik Zabrze vs Monaco",
+                  "streams": [
+                    {
+                      "id": "st-2eb3957291",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Gornik Zabrze",
+            "team_b": "Monaco",
+            "time": "01:00",
+            "date": "21/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1b8fb8fe0e_5f0269ee_20260821.png?v=09cca2f0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-ad15fabbcd",
           "name": "Mjallby vs Red Bull Salzburg | 23:00 20/08",
           "type": "single",
@@ -225,148 +367,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a6ccb2ff60_02508fb6_20260821.png?v=2a13f6de",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-d0ea047fe7",
-          "name": "Al-Fayha vs Al-Hilal Saudi Fc | 01:00 21/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d0ea047fe7",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d0ea047fe7",
-                  "name": "Al-Fayha vs Al-Hilal Saudi Fc",
-                  "streams": [
-                    {
-                      "id": "st-d0ea047fe7",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Fayha",
-            "team_b": "Al-Hilal Saudi Fc",
-            "time": "01:00",
-            "date": "21/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9a4a303b1a_3d49dabb_20260821.png?v=d9e3f3af",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-2eb3957291",
-          "name": "Gornik Zabrze vs Monaco | 01:00 21/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2eb3957291",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-2eb3957291",
-                  "name": "Gornik Zabrze vs Monaco",
-                  "streams": [
-                    {
-                      "id": "st-2eb3957291",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Gornik Zabrze",
-            "team_b": "Monaco",
-            "time": "01:00",
-            "date": "21/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1b8fb8fe0e_5f0269ee_20260821.png?v=09cca2f0",
             "width": 1600,
             "height": 1200
           }
