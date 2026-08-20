@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-908d7bde3d",
-          "name": "Philadelphia Union vs Inter Miami | 06:30 20/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-908d7bde3d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-908d7bde3d",
-                  "name": "Philadelphia Union vs Inter Miami",
-                  "streams": [
-                    {
-                      "id": "st-908d7bde3d",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Philadelphia Union",
-            "team_b": "Inter Miami",
-            "time": "06:30",
-            "date": "20/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c91dc9cdf0_a0970deb_20260820.png?v=5d6e71e3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-4a3de47982",
           "name": "Colorado Rapids vs Los Angeles Fc | 08:30 20/08",
           "type": "single",
