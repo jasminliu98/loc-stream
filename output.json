@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-4a3de47982",
-          "name": "Colorado Rapids vs Los Angeles Fc | 08:30 20/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4a3de47982",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-4a3de47982",
-                  "name": "Colorado Rapids vs Los Angeles Fc",
-                  "streams": [
-                    {
-                      "id": "st-4a3de47982",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Colorado Rapids",
-            "team_b": "Los Angeles Fc",
-            "time": "08:30",
-            "date": "20/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a2c5bccffb_46ccb7e4_20260820.png?v=3593910e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-55f909bb5d",
           "name": "Los Angeles Galaxy vs San Jose Earthquakes | 09:30 20/08",
           "type": "single",
@@ -136,59 +83,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d0e300dfd2_126e606b_20260820.png?v=6846c1c8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c9facaf7e9",
-          "name": "Rovers Fc W vs East Bengal W | 15:00 20/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c9facaf7e9",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c9facaf7e9",
-                  "name": "Rovers Fc W vs East Bengal W",
-                  "streams": [
-                    {
-                      "id": "st-c9facaf7e9",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Rovers Fc W",
-            "team_b": "East Bengal W",
-            "time": "15:00",
-            "date": "20/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-643793df5e_3fde0727_20260820.png?v=2fdb5c26",
             "width": 1600,
             "height": 1200
           }
@@ -353,59 +247,6 @@
           }
         },
         {
-          "id": "ch-e02313ba2a",
-          "name": "Kairat Almaty vs Anderlecht | 22:00 20/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e02313ba2a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-e02313ba2a",
-                  "name": "Kairat Almaty vs Anderlecht",
-                  "streams": [
-                    {
-                      "id": "st-e02313ba2a",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Kairat Almaty",
-            "team_b": "Anderlecht",
-            "time": "22:00",
-            "date": "20/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-257e9b0cbe_7c7d64ef_20260820.png?v=61a15120",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-ad15fabbcd",
           "name": "Mjallby vs Red Bull Salzburg | 23:00 20/08",
           "type": "single",
@@ -560,6 +401,112 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9a4a303b1a_3d49dabb_20260820.png?v=d9e3f3af",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c9facaf7e9",
+          "name": "Rovers Fc W vs East Bengal W | 15:00 20/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c9facaf7e9",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c9facaf7e9",
+                  "name": "Rovers Fc W vs East Bengal W",
+                  "streams": [
+                    {
+                      "id": "st-c9facaf7e9",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Rovers Fc W",
+            "team_b": "East Bengal W",
+            "time": "15:00",
+            "date": "20/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-643793df5e_3fde0727_20260820.png?v=2fdb5c26",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e02313ba2a",
+          "name": "Kairat Almaty vs Anderlecht | 22:00 20/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e02313ba2a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e02313ba2a",
+                  "name": "Kairat Almaty vs Anderlecht",
+                  "streams": [
+                    {
+                      "id": "st-e02313ba2a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kairat Almaty",
+            "team_b": "Anderlecht",
+            "time": "22:00",
+            "date": "20/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-257e9b0cbe_7c7d64ef_20260820.png?v=61a15120",
             "width": 1600,
             "height": 1200
           }
