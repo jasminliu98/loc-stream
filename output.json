@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-47a2a1d28b",
+          "name": "Al Nassr W vs Bam Khatoon W | 19:00 20/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-47a2a1d28b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-47a2a1d28b",
+                  "name": "Al Nassr W vs Bam Khatoon W",
+                  "streams": [
+                    {
+                      "id": "st-47a2a1d28b",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959b9ee9a1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al Nassr W",
+            "team_b": "Bam Khatoon W",
+            "time": "19:00",
+            "date": "20/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-087fc7408f_88c2686c_20260820.png?v=43a0e121",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-739cddd494",
           "name": "Phnom Penh W vs Kaya W | 17:00 20/08",
           "type": "single",
@@ -154,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7a0b8ccdc3_fa3e56c9_20260820.png?v=ab6fa5e8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-47a2a1d28b",
-          "name": "Al Nassr W vs Bam Khatoon W | 19:00 20/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-47a2a1d28b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-47a2a1d28b",
-                  "name": "Al Nassr W vs Bam Khatoon W",
-                  "streams": [
-                    {
-                      "id": "st-47a2a1d28b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al Nassr W",
-            "team_b": "Bam Khatoon W",
-            "time": "19:00",
-            "date": "20/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-087fc7408f_88c2686c_20260820.png?v=43a0e121",
             "width": 1600,
             "height": 1200
           }
