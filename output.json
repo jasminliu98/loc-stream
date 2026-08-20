@@ -88,6 +88,59 @@
           }
         },
         {
+          "id": "ch-e02313ba2a",
+          "name": "Kairat Almaty vs Anderlecht | 22:00 20/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e02313ba2a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e02313ba2a",
+                  "name": "Kairat Almaty vs Anderlecht",
+                  "streams": [
+                    {
+                      "id": "st-e02313ba2a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kairat Almaty",
+            "team_b": "Anderlecht",
+            "time": "22:00",
+            "date": "20/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-257e9b0cbe_7c7d64ef_20260820.png?v=61a15120",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-ad15fabbcd",
           "name": "Mjallby vs Red Bull Salzburg | 23:00 20/08",
           "type": "single",
@@ -247,8 +300,8 @@
           }
         },
         {
-          "id": "ch-e02313ba2a",
-          "name": "Kairat Almaty vs Anderlecht | 22:00 20/08",
+          "id": "ch-2eb3957291",
+          "name": "Gornik Zabrze vs Monaco | 01:00 21/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -262,15 +315,15 @@
           ],
           "sources": [
             {
-              "id": "src-e02313ba2a",
+              "id": "src-2eb3957291",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-e02313ba2a",
-                  "name": "Kairat Almaty vs Anderlecht",
+                  "id": "ct-2eb3957291",
+                  "name": "Gornik Zabrze vs Monaco",
                   "streams": [
                     {
-                      "id": "st-e02313ba2a",
+                      "id": "st-2eb3957291",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -281,10 +334,10 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Kairat Almaty",
-            "team_b": "Anderlecht",
-            "time": "22:00",
-            "date": "20/08",
+            "team_a": "Gornik Zabrze",
+            "team_b": "Monaco",
+            "time": "01:00",
+            "date": "21/08",
             "blv": "Chưa có link",
             "is_live": false,
             "status": "upcoming",
@@ -294,7 +347,325 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-257e9b0cbe_7c7d64ef_20260820.png?v=61a15120",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1b8fb8fe0e_5f0269ee_20260820.png?v=09cca2f0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-09d26eaeca",
+          "name": "Rayo Vallecano vs Alaves | 02:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-09d26eaeca",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-09d26eaeca",
+                  "name": "Rayo Vallecano vs Alaves",
+                  "streams": [
+                    {
+                      "id": "st-09d26eaeca",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Rayo Vallecano",
+            "team_b": "Alaves",
+            "time": "02:00",
+            "date": "21/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0be025c0c2_08bee03f_20260820.png?v=a415d192",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ebec24b4a7",
+          "name": "Benfica vs Aarhus | 02:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ebec24b4a7",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ebec24b4a7",
+                  "name": "Benfica vs Aarhus",
+                  "streams": [
+                    {
+                      "id": "st-ebec24b4a7",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Benfica",
+            "team_b": "Aarhus",
+            "time": "02:00",
+            "date": "21/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7365f27b85_3b916b46_20260820.png?v=e4bbc3be",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-43823e683b",
+          "name": "Macara vs Santos | 05:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-43823e683b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-43823e683b",
+                  "name": "Macara vs Santos",
+                  "streams": [
+                    {
+                      "id": "st-43823e683b",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Macara",
+            "team_b": "Santos",
+            "time": "05:00",
+            "date": "21/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-47ae8179ab_0002795d_20260820.png?v=310204b1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-4ddec2c086",
+          "name": "Corinthians vs Rosario Central | 07:30 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4ddec2c086",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4ddec2c086",
+                  "name": "Corinthians vs Rosario Central",
+                  "streams": [
+                    {
+                      "id": "st-4ddec2c086",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Corinthians",
+            "team_b": "Rosario Central",
+            "time": "07:30",
+            "date": "21/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-91e7fc5832_75242420_20260820.png?v=b68d3da5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2721e80d37",
+          "name": "Firpo vs Ld Alajuelense | 10:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2721e80d37",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2721e80d37",
+                  "name": "Firpo vs Ld Alajuelense",
+                  "streams": [
+                    {
+                      "id": "st-2721e80d37",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Firpo",
+            "team_b": "Ld Alajuelense",
+            "time": "10:00",
+            "date": "21/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1b2e26cd5c_830c7b7b_20260820.png?v=3bf83b22",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b75c92ed0f",
+          "name": "Venados Fc vs Dorados | 06:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b75c92ed0f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b75c92ed0f",
+                  "name": "Venados Fc vs Dorados",
+                  "streams": [
+                    {
+                      "id": "st-b75c92ed0f",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Venados Fc",
+            "team_b": "Dorados",
+            "time": "06:00",
+            "date": "21/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-29f4e4958d_f39cdfd0_20260820.png?v=6579fce8",
             "width": 1600,
             "height": 1200
           }
