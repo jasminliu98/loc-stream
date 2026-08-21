@@ -280,59 +280,6 @@
             "width": 1600,
             "height": 1200
           }
-        },
-        {
-          "id": "ch-a83148e17e",
-          "name": "Fc Juarez vs Club America | 10:00 22/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a83148e17e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a83148e17e",
-                  "name": "Fc Juarez vs Club America",
-                  "streams": [
-                    {
-                      "id": "st-a83148e17e",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fc Juarez",
-            "team_b": "Club America",
-            "time": "10:00",
-            "date": "22/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5596ff2548_88c6245a_20260822.png?v=e74b3049",
-            "width": 1600,
-            "height": 1200
-          }
         }
       ]
     }
