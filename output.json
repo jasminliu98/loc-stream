@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -88,79 +88,8 @@
           }
         },
         {
-          "id": "ch-f4bf45fef6",
-          "name": "Japan vs Hong Kong | 12:00 21/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f4bf45fef6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f4bf45fef6",
-                  "name": "Japan vs Hong Kong",
-                  "streams": [
-                    {
-                      "id": "st-f4bf45fef6",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Japan",
-            "team_b": "Hong Kong",
-            "time": "12:00",
-            "date": "21/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-860f22e49b_47b25224_20260821.png?v=53a577bb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-e0fcb3dac6",
-          "name": "Thailand vs Australia | 15:00 21/08",
+          "id": "ch-fdf3d67a5d",
+          "name": "Thailand vs Australia | 13:00 21/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -174,15 +103,15 @@
           ],
           "sources": [
             {
-              "id": "src-e0fcb3dac6",
+              "id": "src-fdf3d67a5d",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-e0fcb3dac6",
+                  "id": "ct-fdf3d67a5d",
                   "name": "Thailand vs Australia",
                   "streams": [
                     {
-                      "id": "st-e0fcb3dac6",
+                      "id": "st-fdf3d67a5d",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -195,7 +124,7 @@
             "league": "Trực Tiếp",
             "team_a": "Thailand",
             "team_b": "Australia",
-            "time": "15:00",
+            "time": "13:00",
             "date": "21/08",
             "blv": "Chưa có link",
             "is_live": false,
@@ -206,7 +135,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b8503610de_f6d4bc74_20260821.png?v=103357e3",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c4f438f7ff_f6d4bc74_20260821.png?v=103357e3",
             "width": 1600,
             "height": 1200
           }
