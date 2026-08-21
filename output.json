@@ -11,153 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-d027aa8db0",
-          "name": "Al Riyadh vs Al-Nassr | 23:00 21/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d027aa8db0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d027aa8db0",
-                  "name": "Al Riyadh vs Al-Nassr",
-                  "streams": [
-                    {
-                      "id": "st-d027aa8db0",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b0372d7d4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al Riyadh",
-            "team_b": "Al-Nassr",
-            "time": "23:00",
-            "date": "21/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a457400e9b_b94b1da3_20260821.png?v=67859540",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-87f29a7d7c",
-          "name": "Navbahor vs Nasaf | 21:00 21/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-87f29a7d7c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-87f29a7d7c",
-                  "name": "Navbahor vs Nasaf",
-                  "streams": [
-                    {
-                      "id": "st-87f29a7d7c",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Navbahor",
-            "team_b": "Nasaf",
-            "time": "21:00",
-            "date": "21/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0df60aeccd_73784580_20260821.png?v=092b9414",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-fbfe5b0140",
           "name": "Al-Hazm vs Al Diriyah | 23:15 21/08",
@@ -230,6 +88,77 @@
           }
         },
         {
+          "id": "ch-d027aa8db0",
+          "name": "Al Riyadh vs Al-Nassr | 23:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d027aa8db0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d027aa8db0",
+                  "name": "Al Riyadh vs Al-Nassr",
+                  "streams": [
+                    {
+                      "id": "st-d027aa8db0",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8b0372d7d4",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al Riyadh",
+            "team_b": "Al-Nassr",
+            "time": "23:00",
+            "date": "21/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a457400e9b_b94b1da3_20260821.png?v=67859540",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-8eab563938",
           "name": "Al-Qadisiyah Fc vs Al-Ittihad Fc | 01:00 22/08",
           "type": "single",
@@ -278,59 +207,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e602d77d35_7649df4d_20260821.png?v=96ef445b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-80fc64434c",
-          "name": "Marseille vs Strasbourg | 01:45 22/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-80fc64434c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-80fc64434c",
-                  "name": "Marseille vs Strasbourg",
-                  "streams": [
-                    {
-                      "id": "st-80fc64434c",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Marseille",
-            "team_b": "Strasbourg",
-            "time": "01:45",
-            "date": "22/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f58616cca5_6b70b225_20260821.png?v=8377de0f",
             "width": 1600,
             "height": 1200
           }
