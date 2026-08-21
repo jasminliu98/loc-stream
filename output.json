@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-2721e80d37",
-          "name": "Firpo vs Ld Alajuelense | 10:00 21/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2721e80d37",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-2721e80d37",
-                  "name": "Firpo vs Ld Alajuelense",
-                  "streams": [
-                    {
-                      "id": "st-2721e80d37",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Firpo",
-            "team_b": "Ld Alajuelense",
-            "time": "10:00",
-            "date": "21/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1b2e26cd5c_830c7b7b_20260821.png?v=3bf83b22",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-fdf3d67a5d",
           "name": "Thailand vs Australia | 13:00 21/08",
@@ -300,8 +229,8 @@
           }
         },
         {
-          "id": "ch-ec017390f1",
-          "name": "China vs Iraq | 18:00 21/08",
+          "id": "ch-1dec65bdb5",
+          "name": "Japan vs Hong Kong | 17:30 21/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -315,15 +244,15 @@
           ],
           "sources": [
             {
-              "id": "src-ec017390f1",
+              "id": "src-1dec65bdb5",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-ec017390f1",
-                  "name": "China vs Iraq",
+                  "id": "ct-1dec65bdb5",
+                  "name": "Japan vs Hong Kong",
                   "streams": [
                     {
-                      "id": "st-ec017390f1",
+                      "id": "st-1dec65bdb5",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -334,9 +263,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "China",
-            "team_b": "Iraq",
-            "time": "18:00",
+            "team_a": "Japan",
+            "team_b": "Hong Kong",
+            "time": "17:30",
             "date": "21/08",
             "blv": "Chưa có link",
             "is_live": false,
@@ -347,7 +276,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a2713d4aa0_05f9179f_20260821.png?v=ae54a5c0",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ec4f50fdce_47b25224_20260821.png?v=53a577bb",
             "width": 1600,
             "height": 1200
           }
