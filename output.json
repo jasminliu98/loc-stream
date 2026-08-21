@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-eed5d9e498",
-          "name": "Kashiwa Reysol vs V-Varen Nagasaki | 17:00 21/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-eed5d9e498",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-eed5d9e498",
-                  "name": "Kashiwa Reysol vs V-Varen Nagasaki",
-                  "streams": [
-                    {
-                      "id": "st-eed5d9e498",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8b0372d7d4",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Kashiwa Reysol",
-            "team_b": "V-Varen Nagasaki",
-            "time": "17:00",
-            "date": "21/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f0cdf460e8_313ac64e_20260821.png?v=f394f540",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-721b59a216",
           "name": "Green Gully vs St. Albans Saints | 16:30 21/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e7e31becbd_ef2c9b7b_20260821.png?v=544f541f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-eed5d9e498",
+          "name": "Kashiwa Reysol vs V-Varen Nagasaki | 17:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-eed5d9e498",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-eed5d9e498",
+                  "name": "Kashiwa Reysol vs V-Varen Nagasaki",
+                  "streams": [
+                    {
+                      "id": "st-eed5d9e498",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8b0372d7d4",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kashiwa Reysol",
+            "team_b": "V-Varen Nagasaki",
+            "time": "17:00",
+            "date": "21/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f0cdf460e8_313ac64e_20260821.png?v=f394f540",
             "width": 1600,
             "height": 1200
           }
