@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-87f29a7d7c",
-          "name": "Navbahor vs Nasaf | 21:00 21/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-87f29a7d7c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-87f29a7d7c",
-                  "name": "Navbahor vs Nasaf",
-                  "streams": [
-                    {
-                      "id": "st-87f29a7d7c",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Navbahor",
-            "team_b": "Nasaf",
-            "time": "21:00",
-            "date": "21/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0df60aeccd_73784580_20260821.png?v=092b9414",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-a8682743cf",
           "name": "Johor Darul Takzim Fc vs Kuching Fa | 20:00 21/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4e4cb00350_bb1aeb82_20260821.png?v=c8902d27",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-87f29a7d7c",
+          "name": "Navbahor vs Nasaf | 21:00 21/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-87f29a7d7c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-87f29a7d7c",
+                  "name": "Navbahor vs Nasaf",
+                  "streams": [
+                    {
+                      "id": "st-87f29a7d7c",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959b9ee9a1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Navbahor",
+            "team_b": "Nasaf",
+            "time": "21:00",
+            "date": "21/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0df60aeccd_73784580_20260821.png?v=092b9414",
             "width": 1600,
             "height": 1200
           }
