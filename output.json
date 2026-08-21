@@ -44,11 +44,11 @@
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-959b9ee9a1",
+                          "id": "lnk-0cd40431c5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -83,59 +83,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e7e31becbd_ef2c9b7b_20260821.png?v=544f541f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-fdf3d67a5d",
-          "name": "Thailand vs Australia | 13:00 21/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fdf3d67a5d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-fdf3d67a5d",
-                  "name": "Thailand vs Australia",
-                  "streams": [
-                    {
-                      "id": "st-fdf3d67a5d",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Thailand",
-            "team_b": "Australia",
-            "time": "13:00",
-            "date": "21/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c4f438f7ff_f6d4bc74_20260821.png?v=103357e3",
             "width": 1600,
             "height": 1200
           }
