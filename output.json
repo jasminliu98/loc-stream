@@ -370,112 +370,6 @@
           }
         },
         {
-          "id": "ch-4b48b11e80",
-          "name": "Brentford vs Tottenham | 23:30 22/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4b48b11e80",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-4b48b11e80",
-                  "name": "Brentford vs Tottenham",
-                  "streams": [
-                    {
-                      "id": "st-4b48b11e80",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Brentford",
-            "team_b": "Tottenham",
-            "time": "23:30",
-            "date": "22/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b3ceac7593_46bb4e08_20260822.png?v=540133b5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c1d094947d",
-          "name": "Espanyol vs Real Madrid | 02:30 23/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c1d094947d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c1d094947d",
-                  "name": "Espanyol vs Real Madrid",
-                  "streams": [
-                    {
-                      "id": "st-c1d094947d",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Espanyol",
-            "team_b": "Real Madrid",
-            "time": "02:30",
-            "date": "23/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2fd17ea368_ec33c46b_20260822.png?v=d069e7f8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-a2247c5c27",
           "name": "Athletic Club vs Sevilla | 22:00 22/08",
           "type": "single",
@@ -529,8 +423,8 @@
           }
         },
         {
-          "id": "ch-6bcd8a9c19",
-          "name": "Inter vs Monza | 23:30 22/08",
+          "id": "ch-4b48b11e80",
+          "name": "Brentford vs Tottenham | 23:30 22/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -544,15 +438,15 @@
           ],
           "sources": [
             {
-              "id": "src-6bcd8a9c19",
+              "id": "src-4b48b11e80",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-6bcd8a9c19",
-                  "name": "Inter vs Monza",
+                  "id": "ct-4b48b11e80",
+                  "name": "Brentford vs Tottenham",
                   "streams": [
                     {
-                      "id": "st-6bcd8a9c19",
+                      "id": "st-4b48b11e80",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -563,8 +457,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Inter",
-            "team_b": "Monza",
+            "team_a": "Brentford",
+            "team_b": "Tottenham",
             "time": "23:30",
             "date": "22/08",
             "blv": "Chưa có link",
@@ -576,7 +470,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9768ff0df7_d340abc0_20260822.png?v=db41658a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b3ceac7593_46bb4e08_20260822.png?v=540133b5",
             "width": 1600,
             "height": 1200
           }
@@ -688,6 +582,59 @@
           }
         },
         {
+          "id": "ch-c1d094947d",
+          "name": "Espanyol vs Real Madrid | 02:30 23/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c1d094947d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c1d094947d",
+                  "name": "Espanyol vs Real Madrid",
+                  "streams": [
+                    {
+                      "id": "st-c1d094947d",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Espanyol",
+            "team_b": "Real Madrid",
+            "time": "02:30",
+            "date": "23/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2fd17ea368_ec33c46b_20260822.png?v=d069e7f8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-796f402eb9",
           "name": "Internacional vs Atletico-Mg | 04:30 23/08",
           "type": "single",
@@ -789,6 +736,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d79bf24386_a5975e63_20260822.png?v=6c10fc1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6bcd8a9c19",
+          "name": "Inter vs Monza | 23:30 22/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6bcd8a9c19",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6bcd8a9c19",
+                  "name": "Inter vs Monza",
+                  "streams": [
+                    {
+                      "id": "st-6bcd8a9c19",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Inter",
+            "team_b": "Monza",
+            "time": "23:30",
+            "date": "22/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9768ff0df7_d340abc0_20260822.png?v=db41658a",
             "width": 1600,
             "height": 1200
           }
