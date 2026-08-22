@@ -17,14 +17,14 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-a3e76a5fb1",
-          "name": "Negeri Sembilan vs Kuala Lumpur Fa | 16:00 22/08",
+          "id": "ch-1f39304fb3",
+          "name": "Kashima vs Avispa Fukuoka | 16:00 22/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (1)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -32,15 +32,15 @@
           ],
           "sources": [
             {
-              "id": "src-a3e76a5fb1",
+              "id": "src-1f39304fb3",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-a3e76a5fb1",
-                  "name": "Negeri Sembilan vs Kuala Lumpur Fa",
+                  "id": "ct-1f39304fb3",
+                  "name": "Kashima vs Avispa Fukuoka",
                   "streams": [
                     {
-                      "id": "st-a3e76a5fb1",
+                      "id": "st-1f39304fb3",
                       "name": "Streams",
                       "stream_links": [
                         {
@@ -48,6 +48,23 @@
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-48b02a897a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
                           "request_headers": [
                             {
@@ -69,11 +86,11 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Negeri Sembilan",
-            "team_b": "Kuala Lumpur Fa",
+            "team_a": "Kashima",
+            "team_b": "Avispa Fukuoka",
             "time": "16:00",
             "date": "22/08",
-            "blv": "Stream",
+            "blv": "Stream, Stream",
             "is_live": true,
             "status": "live",
             "cate_type": "football"
@@ -82,7 +99,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6e09bee080_d392cfba_20260822.png?v=487cc42e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e91b0468bc_76cdfc1b_20260822.png?v=781f6276",
             "width": 1600,
             "height": 1200
           }
