@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-abc9bcb68c",
-          "name": "Everton vs Crystal Palace | 21:00 22/08",
+          "id": "ch-43123a6cc4",
+          "name": "Thailand vs Việt Nam | 20:00 22/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-abc9bcb68c",
+              "id": "src-43123a6cc4",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-abc9bcb68c",
-                  "name": "Everton vs Crystal Palace",
+                  "id": "ct-43123a6cc4",
+                  "name": "Thailand vs Việt Nam",
                   "streams": [
                     {
-                      "id": "st-abc9bcb68c",
+                      "id": "st-43123a6cc4",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-0cd40431c5",
+                          "id": "lnk-d880a8c66a",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Everton",
-            "team_b": "Crystal Palace",
-            "time": "21:00",
+            "team_a": "Thailand",
+            "team_b": "Việt Nam",
+            "time": "20:00",
             "date": "22/08",
             "blv": "Stream",
             "is_live": true,
@@ -82,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5ba9227661_adbe9756_20260822.png?v=6414a61d",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aab4b4353b_5daac52d_20260822.png?v=103357e3",
             "width": 1600,
             "height": 1200
           }
@@ -225,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e1c43b536f_b7234158_20260822.png?v=9939bbb5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-43123a6cc4",
-          "name": "Thailand vs Việt Nam | 20:00 22/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-43123a6cc4",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-43123a6cc4",
-                  "name": "Thailand vs Việt Nam",
-                  "streams": [
-                    {
-                      "id": "st-43123a6cc4",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Thailand",
-            "team_b": "Việt Nam",
-            "time": "20:00",
-            "date": "22/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aab4b4353b_5daac52d_20260822.png?v=103357e3",
             "width": 1600,
             "height": 1200
           }
