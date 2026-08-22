@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-a2247c5c27",
+          "name": "Athletic Club vs Sevilla | 22:00 22/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a2247c5c27",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a2247c5c27",
+                  "name": "Athletic Club vs Sevilla",
+                  "streams": [
+                    {
+                      "id": "st-a2247c5c27",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Athletic Club",
+            "team_b": "Sevilla",
+            "time": "22:00",
+            "date": "22/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-daa4a38397_38c59b87_20260822.png?v=0587f59e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-43123a6cc4",
           "name": "Thailand vs Việt Nam | 20:00 22/08",
           "type": "single",
@@ -225,77 +296,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e1c43b536f_b7234158_20260822.png?v=9939bbb5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-a2247c5c27",
-          "name": "Athletic Club vs Sevilla | 22:00 22/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a2247c5c27",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a2247c5c27",
-                  "name": "Athletic Club vs Sevilla",
-                  "streams": [
-                    {
-                      "id": "st-a2247c5c27",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Athletic Club",
-            "team_b": "Sevilla",
-            "time": "22:00",
-            "date": "22/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-daa4a38397_38c59b87_20260822.png?v=0587f59e",
             "width": 1600,
             "height": 1200
           }
