@@ -11,99 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-4a1ce0c17c",
-          "name": "Hull City vs Manchester United | 18:30 22/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4a1ce0c17c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-4a1ce0c17c",
-                  "name": "Hull City vs Manchester United",
-                  "streams": [
-                    {
-                      "id": "st-4a1ce0c17c",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ae1a96b0be",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Hull City",
-            "team_b": "Manchester United",
-            "time": "18:30",
-            "date": "22/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f10d5f9811_7c4676b0_20260822.png?v=1ff84871",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-31eba77bcd",
           "name": "China vs Iraq | 18:30 22/08",
@@ -295,6 +207,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5ba9227661_adbe9756_20260822.png?v=6414a61d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-012e444bde",
+          "name": "Ipswich vs Sunderland | 21:00 22/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-012e444bde",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-012e444bde",
+                  "name": "Ipswich vs Sunderland",
+                  "streams": [
+                    {
+                      "id": "st-012e444bde",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Ipswich",
+            "team_b": "Sunderland",
+            "time": "21:00",
+            "date": "22/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eca79cf379_b7a0191c_20260822.png?v=e4f63bf6",
             "width": 1600,
             "height": 1200
           }
