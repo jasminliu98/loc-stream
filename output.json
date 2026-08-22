@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-012e444bde",
-          "name": "Ipswich vs Sunderland | 21:00 22/08",
+          "id": "ch-4b48b11e80",
+          "name": "Brentford vs Tottenham | 23:30 22/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-012e444bde",
+              "id": "src-4b48b11e80",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-012e444bde",
-                  "name": "Ipswich vs Sunderland",
+                  "id": "ct-4b48b11e80",
+                  "name": "Brentford vs Tottenham",
                   "streams": [
                     {
-                      "id": "st-012e444bde",
+                      "id": "st-4b48b11e80",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-352d8625d5",
+                          "id": "lnk-d880a8c66a",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Ipswich",
-            "team_b": "Sunderland",
-            "time": "21:00",
+            "team_a": "Brentford",
+            "team_b": "Tottenham",
+            "time": "23:30",
             "date": "22/08",
             "blv": "Stream",
             "is_live": true,
@@ -82,78 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eca79cf379_b7a0191c_20260822.png?v=e4f63bf6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-7b57bf7ed0",
-          "name": "Nottingham Forest vs Leeds | 21:00 22/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7b57bf7ed0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-7b57bf7ed0",
-                  "name": "Nottingham Forest vs Leeds",
-                  "streams": [
-                    {
-                      "id": "st-7b57bf7ed0",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Nottingham Forest",
-            "team_b": "Leeds",
-            "time": "21:00",
-            "date": "22/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e1c43b536f_b7234158_20260822.png?v=9939bbb5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b3ceac7593_46bb4e08_20260822.png?v=540133b5",
             "width": 1600,
             "height": 1200
           }
@@ -230,8 +159,8 @@
           }
         },
         {
-          "id": "ch-4b48b11e80",
-          "name": "Brentford vs Tottenham | 23:30 22/08",
+          "id": "ch-6bcd8a9c19",
+          "name": "Inter vs Monza | 23:30 22/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -245,23 +174,23 @@
           ],
           "sources": [
             {
-              "id": "src-4b48b11e80",
+              "id": "src-6bcd8a9c19",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-4b48b11e80",
-                  "name": "Brentford vs Tottenham",
+                  "id": "ct-6bcd8a9c19",
+                  "name": "Inter vs Monza",
                   "streams": [
                     {
-                      "id": "st-4b48b11e80",
+                      "id": "st-6bcd8a9c19",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-d880a8c66a",
+                          "id": "lnk-352d8625d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -282,8 +211,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Brentford",
-            "team_b": "Tottenham",
+            "team_a": "Inter",
+            "team_b": "Monza",
             "time": "23:30",
             "date": "22/08",
             "blv": "Stream",
@@ -295,7 +224,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b3ceac7593_46bb4e08_20260822.png?v=540133b5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9768ff0df7_d340abc0_20260822.png?v=db41658a",
             "width": 1600,
             "height": 1200
           }
@@ -561,77 +490,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d79bf24386_a5975e63_20260822.png?v=6c10fc1c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-6bcd8a9c19",
-          "name": "Inter vs Monza | 23:30 22/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6bcd8a9c19",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-6bcd8a9c19",
-                  "name": "Inter vs Monza",
-                  "streams": [
-                    {
-                      "id": "st-6bcd8a9c19",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Inter",
-            "team_b": "Monza",
-            "time": "23:30",
-            "date": "22/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9768ff0df7_d340abc0_20260822.png?v=db41658a",
             "width": 1600,
             "height": 1200
           }
