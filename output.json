@@ -403,6 +403,112 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-a3bde6e8ea",
+          "name": "Torino vs Ac Milan | 01:45 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a3bde6e8ea",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a3bde6e8ea",
+                  "name": "Torino vs Ac Milan",
+                  "streams": [
+                    {
+                      "id": "st-a3bde6e8ea",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Torino",
+            "team_b": "Ac Milan",
+            "time": "01:45",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9a2fd8f973_b6a75274_20260823.png?v=75ae464e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c154c0ca6a",
+          "name": "Paris Saint Germain vs Rennes | 01:45 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c154c0ca6a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c154c0ca6a",
+                  "name": "Paris Saint Germain vs Rennes",
+                  "streams": [
+                    {
+                      "id": "st-c154c0ca6a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Paris Saint Germain",
+            "team_b": "Rennes",
+            "time": "01:45",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-23c0dacb13_d2fa0fb7_20260823.png?v=5de0a1c7",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
