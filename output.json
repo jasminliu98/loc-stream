@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-a2247c5c27",
-          "name": "Athletic Club vs Sevilla | 22:00 22/08",
+          "id": "ch-adb816cc41",
+          "name": "Brighton vs Aston Villa | 20:00 23/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,15 +32,15 @@
           ],
           "sources": [
             {
-              "id": "src-a2247c5c27",
+              "id": "src-adb816cc41",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-a2247c5c27",
-                  "name": "Athletic Club vs Sevilla",
+                  "id": "ct-adb816cc41",
+                  "name": "Brighton vs Aston Villa",
                   "streams": [
                     {
-                      "id": "st-a2247c5c27",
+                      "id": "st-adb816cc41",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -51,69 +51,157 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Athletic Club",
-            "team_b": "Sevilla",
+            "team_a": "Brighton",
+            "team_b": "Aston Villa",
+            "time": "20:00",
+            "date": "23/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b49cd02507_5a9cf10d_20260823.png?v=0d84883c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-0356891dd0",
+          "name": "Manchester City vs Bournemouth | 20:00 23/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0356891dd0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-0356891dd0",
+                  "name": "Manchester City vs Bournemouth",
+                  "streams": [
+                    {
+                      "id": "st-0356891dd0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Manchester City",
+            "team_b": "Bournemouth",
+            "time": "20:00",
+            "date": "23/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f6884032aa_c9671241_20260823.png?v=ebf2d2f5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-59aa27b27c",
+          "name": "Atletico Madrid vs Villarreal | 22:00 23/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-59aa27b27c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-59aa27b27c",
+                  "name": "Atletico Madrid vs Villarreal",
+                  "streams": [
+                    {
+                      "id": "st-59aa27b27c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Atletico Madrid",
+            "team_b": "Villarreal",
             "time": "22:00",
-            "date": "22/08",
+            "date": "23/08",
             "blv": "Chưa có link",
             "is_live": false,
-            "status": "finished",
+            "status": "upcoming",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-daa4a38397_38c59b87_20260823.png?v=0587f59e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-584b908274_13baa803_20260823.png?v=21658441",
             "width": 1600,
             "height": 1200
           }
         },
         {
-          "id": "ch-4b48b11e80",
-          "name": "Brentford vs Tottenham | 23:30 22/08",
+          "id": "ch-69fa05e3b2",
+          "name": "Newcastle vs Liverpool | 22:30 23/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (1)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-4b48b11e80",
+              "id": "src-69fa05e3b2",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-4b48b11e80",
-                  "name": "Brentford vs Tottenham",
+                  "id": "ct-69fa05e3b2",
+                  "name": "Newcastle vs Liverpool",
                   "streams": [
                     {
-                      "id": "st-4b48b11e80",
+                      "id": "st-69fa05e3b2",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -122,98 +210,80 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Brentford",
-            "team_b": "Tottenham",
+            "team_a": "Newcastle",
+            "team_b": "Liverpool",
+            "time": "22:30",
+            "date": "23/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-65a63cad54_a816f4b3_20260823.png?v=78e92668",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-7b7b2b3920",
+          "name": "Frosinone vs Juventus | 23:30 23/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7b7b2b3920",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-7b7b2b3920",
+                  "name": "Frosinone vs Juventus",
+                  "streams": [
+                    {
+                      "id": "st-7b7b2b3920",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Frosinone",
+            "team_b": "Juventus",
             "time": "23:30",
-            "date": "22/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
+            "date": "23/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b3ceac7593_46bb4e08_20260823.png?v=540133b5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa38ff7e6f_d3da6df1_20260823.png?v=3434a033",
             "width": 1600,
             "height": 1200
           }
         },
         {
-          "id": "ch-6bcd8a9c19",
-          "name": "Inter vs Monza | 23:30 22/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6bcd8a9c19",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-6bcd8a9c19",
-                  "name": "Inter vs Monza",
-                  "streams": [
-                    {
-                      "id": "st-6bcd8a9c19",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Inter",
-            "team_b": "Monza",
-            "time": "23:30",
-            "date": "22/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9768ff0df7_d340abc0_20260823.png?v=db41658a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-9f089dfd31",
-          "name": "Borussia Dortmund vs Bayern München | 01:30 23/08",
+          "id": "ch-90412bac56",
+          "name": "Getafe vs Racing Santander | 00:30 24/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -227,15 +297,15 @@
           ],
           "sources": [
             {
-              "id": "src-9f089dfd31",
+              "id": "src-90412bac56",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-9f089dfd31",
-                  "name": "Borussia Dortmund vs Bayern München",
+                  "id": "ct-90412bac56",
+                  "name": "Getafe vs Racing Santander",
                   "streams": [
                     {
-                      "id": "st-9f089dfd31",
+                      "id": "st-90412bac56",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -246,10 +316,10 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Borussia Dortmund",
-            "team_b": "Bayern München",
-            "time": "01:30",
-            "date": "23/08",
+            "team_a": "Getafe",
+            "team_b": "Racing Santander",
+            "time": "00:30",
+            "date": "24/08",
             "blv": "Chưa có link",
             "is_live": false,
             "status": "upcoming",
@@ -259,219 +329,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7ac8a21ec9_1d11ac41_20260823.png?v=9457f1ba",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-a2c0171a77",
-          "name": "Genoa vs Napoli | 01:45 23/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a2c0171a77",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a2c0171a77",
-                  "name": "Genoa vs Napoli",
-                  "streams": [
-                    {
-                      "id": "st-a2c0171a77",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Genoa",
-            "team_b": "Napoli",
-            "time": "01:45",
-            "date": "23/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-96eefc5276_cfe2c64a_20260823.png?v=5e59a424",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c1d094947d",
-          "name": "Espanyol vs Real Madrid | 02:30 23/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c1d094947d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c1d094947d",
-                  "name": "Espanyol vs Real Madrid",
-                  "streams": [
-                    {
-                      "id": "st-c1d094947d",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Espanyol",
-            "team_b": "Real Madrid",
-            "time": "02:30",
-            "date": "23/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2fd17ea368_ec33c46b_20260823.png?v=d069e7f8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-796f402eb9",
-          "name": "Internacional vs Atletico-Mg | 04:30 23/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-796f402eb9",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-796f402eb9",
-                  "name": "Internacional vs Atletico-Mg",
-                  "streams": [
-                    {
-                      "id": "st-796f402eb9",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Internacional",
-            "team_b": "Atletico-Mg",
-            "time": "04:30",
-            "date": "23/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8e87bf2252_c34f1e06_20260823.png?v=be2c9c05",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-b18a0f8d5d",
-          "name": "Inter Miami vs Toronto Fc | 06:30 23/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b18a0f8d5d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b18a0f8d5d",
-                  "name": "Inter Miami vs Toronto Fc",
-                  "streams": [
-                    {
-                      "id": "st-b18a0f8d5d",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Inter Miami",
-            "team_b": "Toronto Fc",
-            "time": "06:30",
-            "date": "23/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d79bf24386_a5975e63_20260823.png?v=6c10fc1c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e244f9dd3d_66339d5a_20260823.png?v=7273a887",
             "width": 1600,
             "height": 1200
           }
