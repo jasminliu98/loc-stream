@@ -185,77 +185,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-f6898a6e73",
-          "name": "Elche vs Barcelona | 02:30 24/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f6898a6e73",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f6898a6e73",
-                  "name": "Elche vs Barcelona",
-                  "streams": [
-                    {
-                      "id": "st-f6898a6e73",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Elche",
-            "team_b": "Barcelona",
-            "time": "02:30",
-            "date": "24/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a6dcd27271_c20797e0_20260824.png?v=a4ec0f45",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-359e9c3ed0",
           "name": "Santos vs Mirassol | 04:30 24/08",
           "type": "single",
@@ -322,6 +251,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-960ce5db98_a54e65dc_20260824.png?v=f3e3016c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f6898a6e73",
+          "name": "Elche vs Barcelona | 02:30 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f6898a6e73",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f6898a6e73",
+                  "name": "Elche vs Barcelona",
+                  "streams": [
+                    {
+                      "id": "st-f6898a6e73",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Elche",
+            "team_b": "Barcelona",
+            "time": "02:30",
+            "date": "24/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a6dcd27271_c20797e0_20260824.png?v=a4ec0f45",
             "width": 1600,
             "height": 1200
           }
