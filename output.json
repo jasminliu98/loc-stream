@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-59aa27b27c",
-          "name": "Atletico Madrid vs Villarreal | 22:00 23/08",
+          "id": "ch-90412bac56",
+          "name": "Getafe vs Racing Santander | 00:30 24/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-59aa27b27c",
+              "id": "src-90412bac56",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-59aa27b27c",
-                  "name": "Atletico Madrid vs Villarreal",
+                  "id": "ct-90412bac56",
+                  "name": "Getafe vs Racing Santander",
                   "streams": [
                     {
-                      "id": "st-59aa27b27c",
+                      "id": "st-90412bac56",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-e03ccf6037",
+                          "id": "lnk-a6ace71bea",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,10 +69,10 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Atletico Madrid",
-            "team_b": "Villarreal",
-            "time": "22:00",
-            "date": "23/08",
+            "team_a": "Getafe",
+            "team_b": "Racing Santander",
+            "time": "00:30",
+            "date": "24/08",
             "blv": "Stream",
             "is_live": true,
             "status": "live",
@@ -82,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-584b908274_13baa803_20260824.png?v=21658441",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e244f9dd3d_66339d5a_20260824.png?v=7273a887",
             "width": 1600,
             "height": 1200
           }
@@ -225,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa38ff7e6f_d3da6df1_20260824.png?v=3434a033",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-90412bac56",
-          "name": "Getafe vs Racing Santander | 00:30 24/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-90412bac56",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-90412bac56",
-                  "name": "Getafe vs Racing Santander",
-                  "streams": [
-                    {
-                      "id": "st-90412bac56",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Getafe",
-            "team_b": "Racing Santander",
-            "time": "00:30",
-            "date": "24/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e244f9dd3d_66339d5a_20260824.png?v=7273a887",
             "width": 1600,
             "height": 1200
           }
