@@ -11,20 +11,20 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-0356891dd0",
-          "name": "Manchester City vs Bournemouth | 20:00 23/08",
+          "id": "ch-69fa05e3b2",
+          "name": "Newcastle vs Liverpool | 22:30 23/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2)",
+              "text": "● LIVE (1)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -32,40 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-0356891dd0",
+              "id": "src-69fa05e3b2",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-0356891dd0",
-                  "name": "Manchester City vs Bournemouth",
+                  "id": "ct-69fa05e3b2",
+                  "name": "Newcastle vs Liverpool",
                   "streams": [
                     {
-                      "id": "st-0356891dd0",
+                      "id": "st-69fa05e3b2",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-d880a8c66a",
+                          "id": "lnk-352d8625d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-48b02a897a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -86,11 +69,11 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Manchester City",
-            "team_b": "Bournemouth",
-            "time": "20:00",
+            "team_a": "Newcastle",
+            "team_b": "Liverpool",
+            "time": "22:30",
             "date": "23/08",
-            "blv": "Stream, Stream",
+            "blv": "Stream",
             "is_live": true,
             "status": "live",
             "cate_type": "football"
@@ -99,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f6884032aa_c9671241_20260823.png?v=ebf2d2f5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-65a63cad54_a816f4b3_20260823.png?v=78e92668",
             "width": 1600,
             "height": 1200
           }
@@ -171,77 +154,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-584b908274_13baa803_20260823.png?v=21658441",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-69fa05e3b2",
-          "name": "Newcastle vs Liverpool | 22:30 23/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-69fa05e3b2",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-69fa05e3b2",
-                  "name": "Newcastle vs Liverpool",
-                  "streams": [
-                    {
-                      "id": "st-69fa05e3b2",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Newcastle",
-            "team_b": "Liverpool",
-            "time": "22:30",
-            "date": "23/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-65a63cad54_a816f4b3_20260823.png?v=78e92668",
             "width": 1600,
             "height": 1200
           }
