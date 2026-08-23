@@ -179,7 +179,7 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -251,77 +251,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9a2fd8f973_b6a75274_20260824.png?v=75ae464e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c154c0ca6a",
-          "name": "Paris Saint Germain vs Rennes | 01:45 24/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c154c0ca6a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c154c0ca6a",
-                  "name": "Paris Saint Germain vs Rennes",
-                  "streams": [
-                    {
-                      "id": "st-c154c0ca6a",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Paris Saint Germain",
-            "team_b": "Rennes",
-            "time": "01:45",
-            "date": "24/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-23c0dacb13_d2fa0fb7_20260824.png?v=5de0a1c7",
             "width": 1600,
             "height": 1200
           }
