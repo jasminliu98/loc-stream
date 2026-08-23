@@ -185,59 +185,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-69fa05e3b2",
-          "name": "Newcastle vs Liverpool | 22:30 23/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-69fa05e3b2",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-69fa05e3b2",
-                  "name": "Newcastle vs Liverpool",
-                  "streams": [
-                    {
-                      "id": "st-69fa05e3b2",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Newcastle",
-            "team_b": "Liverpool",
-            "time": "22:30",
-            "date": "23/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-65a63cad54_a816f4b3_20260824.png?v=78e92668",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-7b7b2b3920",
           "name": "Frosinone vs Juventus | 23:30 23/08",
           "type": "single",
