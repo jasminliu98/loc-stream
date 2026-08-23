@@ -10,57 +10,39 @@
   },
   "groups": [
     {
-      "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "id": "cate_volleyball",
+      "name": null,
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-90412bac56",
-          "name": "Getafe vs Racing Santander | 00:30 24/08",
+          "id": "ch-abc7018cbe",
+          "name": "Hong Kong vs Vietnam W | 09:00 24/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (1)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-90412bac56",
+              "id": "src-abc7018cbe",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-90412bac56",
-                  "name": "Getafe vs Racing Santander",
+                  "id": "ct-abc7018cbe",
+                  "name": "Hong Kong vs Vietnam W",
                   "streams": [
                     {
-                      "id": "st-90412bac56",
+                      "id": "st-abc7018cbe",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -69,24 +51,139 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Getafe",
-            "team_b": "Racing Santander",
-            "time": "00:30",
+            "team_a": "Hong Kong",
+            "team_b": "Vietnam W",
+            "time": "09:00",
             "date": "24/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e244f9dd3d_66339d5a_20260824.png?v=7273a887",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-514ce55f03_1b0f68c2_20260824.png?v=8b476ff7",
             "width": 1600,
             "height": 1200
           }
         },
+        {
+          "id": "ch-64d183902c",
+          "name": "Thailand W vs Indonesia | 14:00 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-64d183902c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-64d183902c",
+                  "name": "Thailand W vs Indonesia",
+                  "streams": [
+                    {
+                      "id": "st-64d183902c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Thailand W",
+            "team_b": "Indonesia",
+            "time": "14:00",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d208be2a2a_644e29dc_20260824.png?v=18c5b535",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d57dd4c9ba",
+          "name": "China W vs Iran | 18:30 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d57dd4c9ba",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d57dd4c9ba",
+                  "name": "China W vs Iran",
+                  "streams": [
+                    {
+                      "id": "st-d57dd4c9ba",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "China W",
+            "team_b": "Iran",
+            "time": "18:30",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-87c21846f0_1adba7fc_20260824.png?v=7c75f315",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_football",
+      "name": "⚽ Bóng Đá (3 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "ch-69fa05e3b2",
           "name": "Newcastle vs Liverpool | 22:30 23/08",
@@ -225,6 +322,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa38ff7e6f_d3da6df1_20260824.png?v=3434a033",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-90412bac56",
+          "name": "Getafe vs Racing Santander | 00:30 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-90412bac56",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-90412bac56",
+                  "name": "Getafe vs Racing Santander",
+                  "streams": [
+                    {
+                      "id": "st-90412bac56",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Getafe",
+            "team_b": "Racing Santander",
+            "time": "00:30",
+            "date": "24/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e244f9dd3d_66339d5a_20260824.png?v=7273a887",
             "width": 1600,
             "height": 1200
           }
@@ -437,6 +605,271 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-960ce5db98_a54e65dc_20260824.png?v=f3e3016c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3fa4f7b856",
+          "name": "Sabah Fa vs Imigresen | 19:15 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3fa4f7b856",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3fa4f7b856",
+                  "name": "Sabah Fa vs Imigresen",
+                  "streams": [
+                    {
+                      "id": "st-3fa4f7b856",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sabah Fa",
+            "team_b": "Imigresen",
+            "time": "19:15",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-80c70e80a5_d66a147f_20260824.png?v=6daf1d7d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-863baafebe",
+          "name": "Kokand-1912 vs Buxoro | 21:00 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-863baafebe",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-863baafebe",
+                  "name": "Kokand-1912 vs Buxoro",
+                  "streams": [
+                    {
+                      "id": "st-863baafebe",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kokand-1912",
+            "team_b": "Buxoro",
+            "time": "21:00",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-69372b2944_e14116bf_20260824.png?v=1efcdc51",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-59c0bb9c6b",
+          "name": "Kamaz vs Fc Sochi | 21:30 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-59c0bb9c6b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-59c0bb9c6b",
+                  "name": "Kamaz vs Fc Sochi",
+                  "streams": [
+                    {
+                      "id": "st-59c0bb9c6b",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kamaz",
+            "team_b": "Fc Sochi",
+            "time": "21:30",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-935f7edd12_cba3dbce_20260824.png?v=09b9bdac",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e5fa0f5bc0",
+          "name": "Würzburger Kickers vs 1.Fc Köln | 23:00 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e5fa0f5bc0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e5fa0f5bc0",
+                  "name": "Würzburger Kickers vs 1.Fc Köln",
+                  "streams": [
+                    {
+                      "id": "st-e5fa0f5bc0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Würzburger Kickers",
+            "team_b": "1.Fc Köln",
+            "time": "23:00",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b6da5e63aa_9ea96de2_20260824.png?v=d4b622a1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-912faf8916",
+          "name": "Bologna vs Lazio | 23:30 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-912faf8916",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-912faf8916",
+                  "name": "Bologna vs Lazio",
+                  "streams": [
+                    {
+                      "id": "st-912faf8916",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Bologna",
+            "team_b": "Lazio",
+            "time": "23:30",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4764698cf3_afab44de_20260824.png?v=7014d018",
             "width": 1600,
             "height": 1200
           }
