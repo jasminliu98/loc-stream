@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-7b7b2b3920",
-          "name": "Frosinone vs Juventus | 23:30 23/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7b7b2b3920",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-7b7b2b3920",
-                  "name": "Frosinone vs Juventus",
-                  "streams": [
-                    {
-                      "id": "st-7b7b2b3920",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Frosinone",
-            "team_b": "Juventus",
-            "time": "23:30",
-            "date": "23/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa38ff7e6f_d3da6df1_20260823.png?v=3434a033",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-59aa27b27c",
           "name": "Atletico Madrid vs Villarreal | 22:00 23/08",
           "type": "single",
@@ -225,6 +154,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-65a63cad54_a816f4b3_20260823.png?v=78e92668",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-7b7b2b3920",
+          "name": "Frosinone vs Juventus | 23:30 23/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7b7b2b3920",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-7b7b2b3920",
+                  "name": "Frosinone vs Juventus",
+                  "streams": [
+                    {
+                      "id": "st-7b7b2b3920",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Frosinone",
+            "team_b": "Juventus",
+            "time": "23:30",
+            "date": "23/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa38ff7e6f_d3da6df1_20260823.png?v=3434a033",
             "width": 1600,
             "height": 1200
           }
