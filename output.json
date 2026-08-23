@@ -509,6 +509,112 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-f6898a6e73",
+          "name": "Elche vs Barcelona | 02:30 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f6898a6e73",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f6898a6e73",
+                  "name": "Elche vs Barcelona",
+                  "streams": [
+                    {
+                      "id": "st-f6898a6e73",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Elche",
+            "team_b": "Barcelona",
+            "time": "02:30",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a6dcd27271_c20797e0_20260823.png?v=a4ec0f45",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-359e9c3ed0",
+          "name": "Santos vs Mirassol | 04:30 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-359e9c3ed0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-359e9c3ed0",
+                  "name": "Santos vs Mirassol",
+                  "streams": [
+                    {
+                      "id": "st-359e9c3ed0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Santos",
+            "team_b": "Mirassol",
+            "time": "04:30",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-960ce5db98_a54e65dc_20260823.png?v=f3e3016c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
