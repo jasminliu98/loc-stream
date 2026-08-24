@@ -159,6 +159,77 @@
           }
         },
         {
+          "id": "ch-59c0bb9c6b",
+          "name": "Kamaz vs Fc Sochi | 21:30 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-59c0bb9c6b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-59c0bb9c6b",
+                  "name": "Kamaz vs Fc Sochi",
+                  "streams": [
+                    {
+                      "id": "st-59c0bb9c6b",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kamaz",
+            "team_b": "Fc Sochi",
+            "time": "21:30",
+            "date": "24/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-935f7edd12_cba3dbce_20260824.png?v=09b9bdac",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-e5fa0f5bc0",
           "name": "Würzburger Kickers vs 1.Fc Köln | 23:00 24/08",
           "type": "single",
@@ -472,77 +543,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5ab2af4aa8_5157387a_20260824.png?v=c555476e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-59c0bb9c6b",
-          "name": "Kamaz vs Fc Sochi | 21:30 24/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-59c0bb9c6b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-59c0bb9c6b",
-                  "name": "Kamaz vs Fc Sochi",
-                  "streams": [
-                    {
-                      "id": "st-59c0bb9c6b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Kamaz",
-            "team_b": "Fc Sochi",
-            "time": "21:30",
-            "date": "24/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-935f7edd12_cba3dbce_20260824.png?v=09b9bdac",
             "width": 1600,
             "height": 1200
           }
