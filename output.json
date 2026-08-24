@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_volleyball",
-      "name": "None (1 LIVE)",
+      "name": null,
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-abc7018cbe",
-          "name": "Hong Kong vs Vietnam W | 09:00 24/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-abc7018cbe",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-abc7018cbe",
-                  "name": "Hong Kong vs Vietnam W",
-                  "streams": [
-                    {
-                      "id": "st-abc7018cbe",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Hong Kong",
-            "team_b": "Vietnam W",
-            "time": "09:00",
-            "date": "24/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-514ce55f03_1b0f68c2_20260824.png?v=8b476ff7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-64d183902c",
           "name": "Thailand W vs Indonesia | 14:00 24/08",
