@@ -309,165 +309,6 @@
           }
         },
         {
-          "id": "ch-863baafebe",
-          "name": "Kokand-1912 vs Buxoro | 21:00 24/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-863baafebe",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-863baafebe",
-                  "name": "Kokand-1912 vs Buxoro",
-                  "streams": [
-                    {
-                      "id": "st-863baafebe",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Kokand-1912",
-            "team_b": "Buxoro",
-            "time": "21:00",
-            "date": "24/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-69372b2944_e14116bf_20260824.png?v=1efcdc51",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-59c0bb9c6b",
-          "name": "Kamaz vs Fc Sochi | 21:30 24/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-59c0bb9c6b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-59c0bb9c6b",
-                  "name": "Kamaz vs Fc Sochi",
-                  "streams": [
-                    {
-                      "id": "st-59c0bb9c6b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Kamaz",
-            "team_b": "Fc Sochi",
-            "time": "21:30",
-            "date": "24/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-935f7edd12_cba3dbce_20260824.png?v=09b9bdac",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-e5fa0f5bc0",
-          "name": "Würzburger Kickers vs 1.Fc Köln | 23:00 24/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e5fa0f5bc0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-e5fa0f5bc0",
-                  "name": "Würzburger Kickers vs 1.Fc Köln",
-                  "streams": [
-                    {
-                      "id": "st-e5fa0f5bc0",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Würzburger Kickers",
-            "team_b": "1.Fc Köln",
-            "time": "23:00",
-            "date": "24/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b6da5e63aa_9ea96de2_20260824.png?v=d4b622a1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-912faf8916",
           "name": "Bologna vs Lazio | 23:30 24/08",
           "type": "single",
@@ -569,59 +410,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4c7225c8e0_fe4aa3f3_20260824.png?v=839b22b8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c8f6b40862",
-          "name": "Al-Ittihad Fc vs Al-Hazm | 01:00 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c8f6b40862",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c8f6b40862",
-                  "name": "Al-Ittihad Fc vs Al-Hazm",
-                  "streams": [
-                    {
-                      "id": "st-c8f6b40862",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Ittihad Fc",
-            "team_b": "Al-Hazm",
-            "time": "01:00",
-            "date": "25/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a3b210a930_849bd122_20260824.png?v=e0af704c",
             "width": 1600,
             "height": 1200
           }
@@ -786,8 +574,8 @@
           }
         },
         {
-          "id": "ch-5b333d876c",
-          "name": "Atlante W vs Toluca W | 04:45 25/08",
+          "id": "ch-59c0bb9c6b",
+          "name": "Kamaz vs Fc Sochi | 21:30 24/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -801,15 +589,15 @@
           ],
           "sources": [
             {
-              "id": "src-5b333d876c",
+              "id": "src-59c0bb9c6b",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-5b333d876c",
-                  "name": "Atlante W vs Toluca W",
+                  "id": "ct-59c0bb9c6b",
+                  "name": "Kamaz vs Fc Sochi",
                   "streams": [
                     {
-                      "id": "st-5b333d876c",
+                      "id": "st-59c0bb9c6b",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -820,9 +608,115 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Atlante W",
-            "team_b": "Toluca W",
-            "time": "04:45",
+            "team_a": "Kamaz",
+            "team_b": "Fc Sochi",
+            "time": "21:30",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-935f7edd12_cba3dbce_20260824.png?v=09b9bdac",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e5fa0f5bc0",
+          "name": "Würzburger Kickers vs 1.Fc Köln | 23:00 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e5fa0f5bc0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e5fa0f5bc0",
+                  "name": "Würzburger Kickers vs 1.Fc Köln",
+                  "streams": [
+                    {
+                      "id": "st-e5fa0f5bc0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Würzburger Kickers",
+            "team_b": "1.Fc Köln",
+            "time": "23:00",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b6da5e63aa_9ea96de2_20260824.png?v=d4b622a1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c8f6b40862",
+          "name": "Al-Ittihad Fc vs Al-Hazm | 01:00 25/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c8f6b40862",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c8f6b40862",
+                  "name": "Al-Ittihad Fc vs Al-Hazm",
+                  "streams": [
+                    {
+                      "id": "st-c8f6b40862",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Ittihad Fc",
+            "team_b": "Al-Hazm",
+            "time": "01:00",
             "date": "25/08",
             "blv": "Chưa có link",
             "is_live": false,
@@ -833,7 +727,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aa0d92652b_4178aac7_20260824.png?v=3d46f53c",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a3b210a930_849bd122_20260824.png?v=e0af704c",
             "width": 1600,
             "height": 1200
           }
