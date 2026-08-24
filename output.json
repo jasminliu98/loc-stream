@@ -132,59 +132,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-912faf8916",
-          "name": "Bologna vs Lazio | 23:30 24/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-912faf8916",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-912faf8916",
-                  "name": "Bologna vs Lazio",
-                  "streams": [
-                    {
-                      "id": "st-912faf8916",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Bologna",
-            "team_b": "Lazio",
-            "time": "23:30",
-            "date": "24/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4764698cf3_afab44de_20260825.png?v=7014d018",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-c8f6b40862",
           "name": "Al-Ittihad Fc vs Al-Hazm | 01:00 25/08",
           "type": "single",
