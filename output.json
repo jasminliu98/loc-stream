@@ -132,77 +132,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-63c75c10a3",
-          "name": "Botafogo vs Atletico Paranaense | 06:00 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-63c75c10a3",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-63c75c10a3",
-                  "name": "Botafogo vs Atletico Paranaense",
-                  "streams": [
-                    {
-                      "id": "st-63c75c10a3",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Botafogo",
-            "team_b": "Atletico Paranaense",
-            "time": "06:00",
-            "date": "25/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9bf4cafa65_5d09c370_20260825.png?v=e0e9f295",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-5b333d876c",
           "name": "Atlante W vs Toluca W | 04:45 25/08",
           "type": "single",
@@ -269,6 +198,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aa0d92652b_4178aac7_20260825.png?v=3d46f53c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-63c75c10a3",
+          "name": "Botafogo vs Atletico Paranaense | 06:00 25/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-63c75c10a3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-63c75c10a3",
+                  "name": "Botafogo vs Atletico Paranaense",
+                  "streams": [
+                    {
+                      "id": "st-63c75c10a3",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Botafogo",
+            "team_b": "Atletico Paranaense",
+            "time": "06:00",
+            "date": "25/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9bf4cafa65_5d09c370_20260825.png?v=e0e9f295",
             "width": 1600,
             "height": 1200
           }
