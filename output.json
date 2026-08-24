@@ -132,8 +132,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-108add51f6",
-          "name": "As Roma vs Fiorentina | 01:45 25/08",
+          "id": "ch-c2d1519962",
+          "name": "Fulham vs Chelsea | 02:00 25/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -147,23 +147,23 @@
           ],
           "sources": [
             {
-              "id": "src-108add51f6",
+              "id": "src-c2d1519962",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-108add51f6",
-                  "name": "As Roma vs Fiorentina",
+                  "id": "ct-c2d1519962",
+                  "name": "Fulham vs Chelsea",
                   "streams": [
                     {
-                      "id": "st-108add51f6",
+                      "id": "st-c2d1519962",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-352d8625d5",
+                          "id": "lnk-959b9ee9a1",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -184,9 +184,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "As Roma",
-            "team_b": "Fiorentina",
-            "time": "01:45",
+            "team_a": "Fulham",
+            "team_b": "Chelsea",
+            "time": "02:00",
             "date": "25/08",
             "blv": "Stream",
             "is_live": true,
@@ -197,7 +197,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-102fc5d2f7_bf348b99_20260825.png?v=906355fc",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-849dbb32a7_0f8ee6c3_20260825.png?v=8cd5e946",
             "width": 1600,
             "height": 1200
           }
@@ -416,8 +416,8 @@
           }
         },
         {
-          "id": "ch-c2d1519962",
-          "name": "Fulham vs Chelsea | 02:00 25/08",
+          "id": "ch-108add51f6",
+          "name": "As Roma vs Fiorentina | 01:45 25/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -431,23 +431,23 @@
           ],
           "sources": [
             {
-              "id": "src-c2d1519962",
+              "id": "src-108add51f6",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-c2d1519962",
-                  "name": "Fulham vs Chelsea",
+                  "id": "ct-108add51f6",
+                  "name": "As Roma vs Fiorentina",
                   "streams": [
                     {
-                      "id": "st-c2d1519962",
+                      "id": "st-108add51f6",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-959b9ee9a1",
+                          "id": "lnk-352d8625d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -468,9 +468,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Fulham",
-            "team_b": "Chelsea",
-            "time": "02:00",
+            "team_a": "As Roma",
+            "team_b": "Fiorentina",
+            "time": "01:45",
             "date": "25/08",
             "blv": "Stream",
             "is_live": true,
@@ -481,7 +481,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-849dbb32a7_0f8ee6c3_20260825.png?v=8cd5e946",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-102fc5d2f7_bf348b99_20260825.png?v=906355fc",
             "width": 1600,
             "height": 1200
           }
