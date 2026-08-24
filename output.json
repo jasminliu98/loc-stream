@@ -168,6 +168,59 @@
           }
         },
         {
+          "id": "ch-863baafebe",
+          "name": "Kokand-1912 vs Buxoro | 21:00 24/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-863baafebe",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-863baafebe",
+                  "name": "Kokand-1912 vs Buxoro",
+                  "streams": [
+                    {
+                      "id": "st-863baafebe",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kokand-1912",
+            "team_b": "Buxoro",
+            "time": "21:00",
+            "date": "24/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-69372b2944_e14116bf_20260824.png?v=1efcdc51",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-e5fa0f5bc0",
           "name": "Würzburger Kickers vs 1.Fc Köln | 23:00 24/08",
           "type": "single",
@@ -481,59 +534,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5ab2af4aa8_5157387a_20260824.png?v=c555476e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-863baafebe",
-          "name": "Kokand-1912 vs Buxoro | 21:00 24/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-863baafebe",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-863baafebe",
-                  "name": "Kokand-1912 vs Buxoro",
-                  "streams": [
-                    {
-                      "id": "st-863baafebe",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Kokand-1912",
-            "team_b": "Buxoro",
-            "time": "21:00",
-            "date": "24/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-69372b2944_e14116bf_20260824.png?v=1efcdc51",
             "width": 1600,
             "height": 1200
           }
