@@ -179,82 +179,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-ff808974c6",
-          "name": "Atlanta United Fc vs Sporting Kansas City | 06:00 24/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ff808974c6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ff808974c6",
-                  "name": "Atlanta United Fc vs Sporting Kansas City",
-                  "streams": [
-                    {
-                      "id": "st-ff808974c6",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Atlanta United Fc",
-            "team_b": "Sporting Kansas City",
-            "time": "06:00",
-            "date": "24/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d5a9a29de6_f5cf387e_20260824.png?v=786739de",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-3fa4f7b856",
           "name": "Sabah Fa vs Imigresen | 19:15 24/08",
