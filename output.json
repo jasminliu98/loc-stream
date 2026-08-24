@@ -132,6 +132,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-108add51f6",
+          "name": "As Roma vs Fiorentina | 01:45 25/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-108add51f6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-108add51f6",
+                  "name": "As Roma vs Fiorentina",
+                  "streams": [
+                    {
+                      "id": "st-108add51f6",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "As Roma",
+            "team_b": "Fiorentina",
+            "time": "01:45",
+            "date": "25/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-102fc5d2f7_bf348b99_20260825.png?v=906355fc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-912faf8916",
           "name": "Bologna vs Lazio | 23:30 24/08",
           "type": "single",
@@ -340,77 +411,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a3b210a930_849bd122_20260825.png?v=e0af704c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-108add51f6",
-          "name": "As Roma vs Fiorentina | 01:45 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-108add51f6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-108add51f6",
-                  "name": "As Roma vs Fiorentina",
-                  "streams": [
-                    {
-                      "id": "st-108add51f6",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "As Roma",
-            "team_b": "Fiorentina",
-            "time": "01:45",
-            "date": "25/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-102fc5d2f7_bf348b99_20260825.png?v=906355fc",
             "width": 1600,
             "height": 1200
           }
