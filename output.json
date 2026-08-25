@@ -10,68 +10,6 @@
   },
   "groups": [
     {
-      "id": "cate_volleyball",
-      "name": null,
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "ch-b391daf8fc",
-          "name": "Japan vs Vietnam W | 17:30 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b391daf8fc",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b391daf8fc",
-                  "name": "Japan vs Vietnam W",
-                  "streams": [
-                    {
-                      "id": "st-b391daf8fc",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Japan",
-            "team_b": "Vietnam W",
-            "time": "17:30",
-            "date": "25/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1004e8528b_74444686_20260825.png?v=53a577bb",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
       "id": "cate_football",
       "name": "⚽ Bóng Đá",
       "display": "vertical",
