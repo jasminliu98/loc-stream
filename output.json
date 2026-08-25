@@ -724,6 +724,59 @@
           }
         },
         {
+          "id": "ch-63dbcc3a01",
+          "name": "Real Madrid vs Real Sociedad | 02:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-63dbcc3a01",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-63dbcc3a01",
+                  "name": "Real Madrid vs Real Sociedad",
+                  "streams": [
+                    {
+                      "id": "st-63dbcc3a01",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Real Madrid",
+            "team_b": "Real Sociedad",
+            "time": "02:00",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-21ea85725b_d7e4550c_20260826.png?v=93330b41",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-573972bbde",
           "name": "Lyon vs Fenerbahce | 02:00 27/08",
           "type": "single",
