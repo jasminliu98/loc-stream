@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-4031bf3658",
-          "name": "Thailand W vs Kazakhstan W | 09:00 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4031bf3658",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-4031bf3658",
-                  "name": "Thailand W vs Kazakhstan W",
-                  "streams": [
-                    {
-                      "id": "st-4031bf3658",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Thailand W",
-            "team_b": "Kazakhstan W",
-            "time": "09:00",
-            "date": "25/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9563b31d26_3f690b2e_20260825.png?v=18c5b535",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-b391daf8fc",
           "name": "Japan vs Vietnam W | 17:30 25/08",
           "type": "single",
