@@ -11,64 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-f39040db0f",
-          "name": "Dinamo Samarqand vs Pakhtakor | 22:00 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f39040db0f",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f39040db0f",
-                  "name": "Dinamo Samarqand vs Pakhtakor",
-                  "streams": [
-                    {
-                      "id": "st-f39040db0f",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Dinamo Samarqand",
-            "team_b": "Pakhtakor",
-            "time": "22:00",
-            "date": "25/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b25f6a8582_791316aa_20260826.png?v=c875f0a5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-d0eb9156f2",
           "name": "Sabah Fa vs Hapoel Beer Sheva | 23:45 25/08",
@@ -148,10 +95,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": " Sắp",
+              "text": "● LIVE (1)",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -166,7 +113,25 @@
                     {
                       "id": "st-a625552e50",
                       "name": "Streams",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-25ef28843d",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -179,9 +144,9 @@
             "team_b": "Al-Nassr",
             "time": "01:00",
             "date": "26/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
