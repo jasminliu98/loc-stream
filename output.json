@@ -256,6 +256,165 @@
           }
         },
         {
+          "id": "ch-b325be3d54",
+          "name": "Valencia vs Real Betis | 02:00 26/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b325be3d54",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b325be3d54",
+                  "name": "Valencia vs Real Betis",
+                  "streams": [
+                    {
+                      "id": "st-b325be3d54",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Valencia",
+            "team_b": "Real Betis",
+            "time": "02:00",
+            "date": "26/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-31f692a574_51c4199b_20260825.png?v=bddfcdfa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-dc44d3991c",
+          "name": "Bodo/Glimt vs Nec Nijmegen | 02:00 26/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dc44d3991c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-dc44d3991c",
+                  "name": "Bodo/Glimt vs Nec Nijmegen",
+                  "streams": [
+                    {
+                      "id": "st-dc44d3991c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Bodo/Glimt",
+            "team_b": "Nec Nijmegen",
+            "time": "02:00",
+            "date": "26/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d72659d7f2_910e1990_20260825.png?v=48a68fb5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2282fa155c",
+          "name": "Nottingham Forest vs Leeds | 02:00 26/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2282fa155c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2282fa155c",
+                  "name": "Nottingham Forest vs Leeds",
+                  "streams": [
+                    {
+                      "id": "st-2282fa155c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Nottingham Forest",
+            "team_b": "Leeds",
+            "time": "02:00",
+            "date": "26/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4133606656_b7234158_20260825.png?v=9939bbb5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-3d96e97165",
           "name": "Lions vs North Sunshine Eagles | 16:30 25/08",
           "type": "single",
@@ -675,165 +834,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-019b3e9200_7f10aca2_20260825.png?v=76274ac9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-b325be3d54",
-          "name": "Valencia vs Real Betis | 02:00 26/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b325be3d54",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b325be3d54",
-                  "name": "Valencia vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "st-b325be3d54",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Valencia",
-            "team_b": "Real Betis",
-            "time": "02:00",
-            "date": "26/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-31f692a574_51c4199b_20260825.png?v=bddfcdfa",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-dc44d3991c",
-          "name": "Bodo/Glimt vs Nec Nijmegen | 02:00 26/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dc44d3991c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-dc44d3991c",
-                  "name": "Bodo/Glimt vs Nec Nijmegen",
-                  "streams": [
-                    {
-                      "id": "st-dc44d3991c",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Bodo/Glimt",
-            "team_b": "Nec Nijmegen",
-            "time": "02:00",
-            "date": "26/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d72659d7f2_910e1990_20260825.png?v=48a68fb5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-2282fa155c",
-          "name": "Nottingham Forest vs Leeds | 02:00 26/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2282fa155c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-2282fa155c",
-                  "name": "Nottingham Forest vs Leeds",
-                  "streams": [
-                    {
-                      "id": "st-2282fa155c",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Nottingham Forest",
-            "team_b": "Leeds",
-            "time": "02:00",
-            "date": "26/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4133606656_b7234158_20260825.png?v=9939bbb5",
             "width": 1600,
             "height": 1200
           }
