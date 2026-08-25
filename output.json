@@ -91,82 +91,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-3d96e97165",
-          "name": "Lions vs North Sunshine Eagles | 16:30 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3d96e97165",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-3d96e97165",
-                  "name": "Lions vs North Sunshine Eagles",
-                  "streams": [
-                    {
-                      "id": "st-3d96e97165",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Lions",
-            "team_b": "North Sunshine Eagles",
-            "time": "16:30",
-            "date": "25/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3a78496504_c47fbe12_20260825.png?v=c1820fe7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-a49fca2a56",
           "name": "Jeju United Fc vs Pohang Steelers | 17:30 25/08",
