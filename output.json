@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-d0eb9156f2",
-          "name": "Sabah Fa vs Hapoel Beer Sheva | 23:45 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d0eb9156f2",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d0eb9156f2",
-                  "name": "Sabah Fa vs Hapoel Beer Sheva",
-                  "streams": [
-                    {
-                      "id": "st-d0eb9156f2",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sabah Fa",
-            "team_b": "Hapoel Beer Sheva",
-            "time": "23:45",
-            "date": "25/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9ffd67b127_31ea0394_20260826.png?v=6daf1d7d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-a625552e50",
           "name": "Al-Ettifaq vs Al-Nassr | 01:00 26/08",
           "type": "single",
