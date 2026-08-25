@@ -17,6 +17,148 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-d0eb9156f2",
+          "name": "Sabah Fa vs Hapoel Beer Sheva | 23:45 25/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d0eb9156f2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d0eb9156f2",
+                  "name": "Sabah Fa vs Hapoel Beer Sheva",
+                  "streams": [
+                    {
+                      "id": "st-d0eb9156f2",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sabah Fa",
+            "team_b": "Hapoel Beer Sheva",
+            "time": "23:45",
+            "date": "25/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9ffd67b127_31ea0394_20260826.png?v=6daf1d7d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a625552e50",
+          "name": "Al-Ettifaq vs Al-Nassr | 01:00 26/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a625552e50",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a625552e50",
+                  "name": "Al-Ettifaq vs Al-Nassr",
+                  "streams": [
+                    {
+                      "id": "st-a625552e50",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25ef28843d",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Ettifaq",
+            "team_b": "Al-Nassr",
+            "time": "01:00",
+            "date": "26/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-019b3e9200_7f10aca2_20260826.png?v=76274ac9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-b325be3d54",
           "name": "Valencia vs Real Betis | 02:00 26/08",
           "type": "single",
@@ -225,148 +367,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4133606656_b7234158_20260826.png?v=9939bbb5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-d0eb9156f2",
-          "name": "Sabah Fa vs Hapoel Beer Sheva | 23:45 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d0eb9156f2",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d0eb9156f2",
-                  "name": "Sabah Fa vs Hapoel Beer Sheva",
-                  "streams": [
-                    {
-                      "id": "st-d0eb9156f2",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sabah Fa",
-            "team_b": "Hapoel Beer Sheva",
-            "time": "23:45",
-            "date": "25/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9ffd67b127_31ea0394_20260826.png?v=6daf1d7d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-a625552e50",
-          "name": "Al-Ettifaq vs Al-Nassr | 01:00 26/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a625552e50",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a625552e50",
-                  "name": "Al-Ettifaq vs Al-Nassr",
-                  "streams": [
-                    {
-                      "id": "st-a625552e50",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ef28843d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Ettifaq",
-            "team_b": "Al-Nassr",
-            "time": "01:00",
-            "date": "26/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-019b3e9200_7f10aca2_20260826.png?v=76274ac9",
             "width": 1600,
             "height": 1200
           }
