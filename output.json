@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-92cde3d98c",
-          "name": "Ryazan vs Fk Spartak Tambov | 21:00 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-92cde3d98c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-92cde3d98c",
-                  "name": "Ryazan vs Fk Spartak Tambov",
-                  "streams": [
-                    {
-                      "id": "st-92cde3d98c",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Ryazan",
-            "team_b": "Fk Spartak Tambov",
-            "time": "21:00",
-            "date": "25/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cdfb2e4298_dd3fdc07_20260825.png?v=194c2f5a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-f39040db0f",
           "name": "Dinamo Samarqand vs Pakhtakor | 22:00 25/08",
