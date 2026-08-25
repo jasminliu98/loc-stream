@@ -97,6 +97,148 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-a49fca2a56",
+          "name": "Jeju United Fc vs Pohang Steelers | 17:30 25/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a49fca2a56",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a49fca2a56",
+                  "name": "Jeju United Fc vs Pohang Steelers",
+                  "streams": [
+                    {
+                      "id": "st-a49fca2a56",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959b9ee9a1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Jeju United Fc",
+            "team_b": "Pohang Steelers",
+            "time": "17:30",
+            "date": "25/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4dc606497c_437ebd6b_20260825.png?v=c4832e21",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d807574dfb",
+          "name": "Fc Seoul vs Bucheon Fc 1995 | 17:30 25/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d807574dfb",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d807574dfb",
+                  "name": "Fc Seoul vs Bucheon Fc 1995",
+                  "streams": [
+                    {
+                      "id": "st-d807574dfb",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fc Seoul",
+            "team_b": "Bucheon Fc 1995",
+            "time": "17:30",
+            "date": "25/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-be2d5a957c_ed7b0af6_20260825.png?v=ae6a6dfa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-3d96e97165",
           "name": "Lions vs North Sunshine Eagles | 16:30 25/08",
           "type": "single",
@@ -322,148 +464,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4133606656_b7234158_20260825.png?v=9939bbb5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-a49fca2a56",
-          "name": "Jeju United Fc vs Pohang Steelers | 17:30 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a49fca2a56",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a49fca2a56",
-                  "name": "Jeju United Fc vs Pohang Steelers",
-                  "streams": [
-                    {
-                      "id": "st-a49fca2a56",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Jeju United Fc",
-            "team_b": "Pohang Steelers",
-            "time": "17:30",
-            "date": "25/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4dc606497c_437ebd6b_20260825.png?v=c4832e21",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-d807574dfb",
-          "name": "Fc Seoul vs Bucheon Fc 1995 | 17:30 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d807574dfb",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d807574dfb",
-                  "name": "Fc Seoul vs Bucheon Fc 1995",
-                  "streams": [
-                    {
-                      "id": "st-d807574dfb",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fc Seoul",
-            "team_b": "Bucheon Fc 1995",
-            "time": "17:30",
-            "date": "25/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-be2d5a957c_ed7b0af6_20260825.png?v=ae6a6dfa",
             "width": 1600,
             "height": 1200
           }
