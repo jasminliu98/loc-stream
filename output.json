@@ -11,11 +11,153 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "ch-c1284ae0dc",
+          "name": "Andijan vs Xorazm | 21:00 25/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c1284ae0dc",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c1284ae0dc",
+                  "name": "Andijan vs Xorazm",
+                  "streams": [
+                    {
+                      "id": "st-c1284ae0dc",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Andijan",
+            "team_b": "Xorazm",
+            "time": "21:00",
+            "date": "25/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a762a878b7_691d6be4_20260825.png?v=66ee5efa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c005a550e8",
+          "name": "Dinamo Kirov vs Amkar | 21:00 25/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c005a550e8",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c005a550e8",
+                  "name": "Dinamo Kirov vs Amkar",
+                  "streams": [
+                    {
+                      "id": "st-c005a550e8",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Dinamo Kirov",
+            "team_b": "Amkar",
+            "time": "21:00",
+            "date": "25/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6befd7c1e6_a657334c_20260825.png?v=eef29cf7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "ch-b325be3d54",
           "name": "Valencia vs Real Betis | 02:00 26/08",
@@ -171,112 +313,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4133606656_b7234158_20260825.png?v=9939bbb5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c1284ae0dc",
-          "name": "Andijan vs Xorazm | 21:00 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c1284ae0dc",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c1284ae0dc",
-                  "name": "Andijan vs Xorazm",
-                  "streams": [
-                    {
-                      "id": "st-c1284ae0dc",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Andijan",
-            "team_b": "Xorazm",
-            "time": "21:00",
-            "date": "25/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a762a878b7_691d6be4_20260825.png?v=66ee5efa",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c005a550e8",
-          "name": "Dinamo Kirov vs Amkar | 21:00 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c005a550e8",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c005a550e8",
-                  "name": "Dinamo Kirov vs Amkar",
-                  "streams": [
-                    {
-                      "id": "st-c005a550e8",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Dinamo Kirov",
-            "team_b": "Amkar",
-            "time": "21:00",
-            "date": "25/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6befd7c1e6_a657334c_20260825.png?v=eef29cf7",
             "width": 1600,
             "height": 1200
           }
