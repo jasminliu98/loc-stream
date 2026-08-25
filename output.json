@@ -79,59 +79,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-169afaa4a7",
-          "name": "Iran vs Iraq | 13:00 25/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-169afaa4a7",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-169afaa4a7",
-                  "name": "Iran vs Iraq",
-                  "streams": [
-                    {
-                      "id": "st-169afaa4a7",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Iran",
-            "team_b": "Iraq",
-            "time": "13:00",
-            "date": "25/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2e2d9b1687_84b2bdcf_20260825.png?v=21fc6890",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-b325be3d54",
           "name": "Valencia vs Real Betis | 02:00 26/08",
           "type": "single",
