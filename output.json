@@ -88,8 +88,8 @@
           }
         },
         {
-          "id": "ch-c005a550e8",
-          "name": "Dinamo Kirov vs Amkar | 21:00 25/08",
+          "id": "ch-92cde3d98c",
+          "name": "Ryazan vs Fk Spartak Tambov | 21:00 25/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -103,15 +103,15 @@
           ],
           "sources": [
             {
-              "id": "src-c005a550e8",
+              "id": "src-92cde3d98c",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-c005a550e8",
-                  "name": "Dinamo Kirov vs Amkar",
+                  "id": "ct-92cde3d98c",
+                  "name": "Ryazan vs Fk Spartak Tambov",
                   "streams": [
                     {
-                      "id": "st-c005a550e8",
+                      "id": "st-92cde3d98c",
                       "name": "Streams",
                       "stream_links": [
                         {
@@ -140,8 +140,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Dinamo Kirov",
-            "team_b": "Amkar",
+            "team_a": "Ryazan",
+            "team_b": "Fk Spartak Tambov",
             "time": "21:00",
             "date": "25/08",
             "blv": "Stream",
@@ -153,7 +153,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6befd7c1e6_a657334c_20260825.png?v=eef29cf7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cdfb2e4298_dd3fdc07_20260825.png?v=194c2f5a",
             "width": 1600,
             "height": 1200
           }
