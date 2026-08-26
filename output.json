@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-b463453b70",
-          "name": "Al-Faisaly Fc vs Al-Fateh | 23:00 26/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b463453b70",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b463453b70",
-                  "name": "Al-Faisaly Fc vs Al-Fateh",
-                  "streams": [
-                    {
-                      "id": "st-b463453b70",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Faisaly Fc",
-            "team_b": "Al-Fateh",
-            "time": "23:00",
-            "date": "26/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-97217b3f89_f353fb3a_20260827.png?v=882019d3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-6abfe02059",
           "name": "Newcastle vs West Brom | 01:45 27/08",
           "type": "single",
