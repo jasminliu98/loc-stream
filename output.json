@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-235467af32",
-          "name": "Juventude vs Crb | 05:30 26/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-235467af32",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-235467af32",
-                  "name": "Juventude vs Crb",
-                  "streams": [
-                    {
-                      "id": "st-235467af32",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ef28843d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Juventude",
-            "team_b": "Crb",
-            "time": "05:30",
-            "date": "26/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-57a76ab479_017b45fc_20260826.png?v=b0906bb8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-6a52373042",
           "name": "Monterrey vs Chicago Fire | 07:30 26/08",
           "type": "single",
@@ -159,32 +88,50 @@
           }
         },
         {
-          "id": "ch-18c83ff11a",
-          "name": "Việt Nam vs Thailand | 20:00 26/08",
+          "id": "ch-235467af32",
+          "name": "Juventude vs Crb | 05:30 26/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": " Sắp",
+              "text": "● LIVE (1)",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-18c83ff11a",
+              "id": "src-235467af32",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-18c83ff11a",
-                  "name": "Việt Nam vs Thailand",
+                  "id": "ct-235467af32",
+                  "name": "Juventude vs Crb",
                   "streams": [
                     {
-                      "id": "st-18c83ff11a",
+                      "id": "st-235467af32",
                       "name": "Streams",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-25ef28843d",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -193,20 +140,20 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Việt Nam",
-            "team_b": "Thailand",
-            "time": "20:00",
+            "team_a": "Juventude",
+            "team_b": "Crb",
+            "time": "05:30",
             "date": "26/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-89bb1ca49e_26855e7d_20260826.png?v=f6ce1ae8",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-57a76ab479_017b45fc_20260826.png?v=b0906bb8",
             "width": 1600,
             "height": 1200
           }
@@ -530,8 +477,8 @@
           }
         },
         {
-          "id": "ch-3c8a7437e6",
-          "name": "Lokomotiv vs Bunyodkor | 21:00 26/08",
+          "id": "ch-18c83ff11a",
+          "name": "Việt Nam vs Thailand | 20:00 26/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -545,15 +492,15 @@
           ],
           "sources": [
             {
-              "id": "src-3c8a7437e6",
+              "id": "src-18c83ff11a",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-3c8a7437e6",
-                  "name": "Lokomotiv vs Bunyodkor",
+                  "id": "ct-18c83ff11a",
+                  "name": "Việt Nam vs Thailand",
                   "streams": [
                     {
-                      "id": "st-3c8a7437e6",
+                      "id": "st-18c83ff11a",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -564,9 +511,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Lokomotiv",
-            "team_b": "Bunyodkor",
-            "time": "21:00",
+            "team_a": "Việt Nam",
+            "team_b": "Thailand",
+            "time": "20:00",
             "date": "26/08",
             "blv": "Chưa có link",
             "is_live": false,
@@ -577,60 +524,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-848e891c65_66ae9e30_20260826.png?v=7a82ebda",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-b463453b70",
-          "name": "Al-Faisaly Fc vs Al-Fateh | 23:00 26/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b463453b70",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b463453b70",
-                  "name": "Al-Faisaly Fc vs Al-Fateh",
-                  "streams": [
-                    {
-                      "id": "st-b463453b70",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Faisaly Fc",
-            "team_b": "Al-Fateh",
-            "time": "23:00",
-            "date": "26/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-97217b3f89_f353fb3a_20260826.png?v=882019d3",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-89bb1ca49e_26855e7d_20260826.png?v=f6ce1ae8",
             "width": 1600,
             "height": 1200
           }
@@ -790,6 +684,112 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-21ea85725b_d7e4550c_20260826.png?v=93330b41",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3c8a7437e6",
+          "name": "Lokomotiv vs Bunyodkor | 21:00 26/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3c8a7437e6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3c8a7437e6",
+                  "name": "Lokomotiv vs Bunyodkor",
+                  "streams": [
+                    {
+                      "id": "st-3c8a7437e6",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Lokomotiv",
+            "team_b": "Bunyodkor",
+            "time": "21:00",
+            "date": "26/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-848e891c65_66ae9e30_20260826.png?v=7a82ebda",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b463453b70",
+          "name": "Al-Faisaly Fc vs Al-Fateh | 23:00 26/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b463453b70",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b463453b70",
+                  "name": "Al-Faisaly Fc vs Al-Fateh",
+                  "streams": [
+                    {
+                      "id": "st-b463453b70",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Faisaly Fc",
+            "team_b": "Al-Fateh",
+            "time": "23:00",
+            "date": "26/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-97217b3f89_f353fb3a_20260826.png?v=882019d3",
             "width": 1600,
             "height": 1200
           }
