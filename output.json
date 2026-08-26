@@ -11,153 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-bc5fb9433c",
-          "name": "China vs Chinese Taipei | 18:30 26/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bc5fb9433c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-bc5fb9433c",
-                  "name": "China vs Chinese Taipei",
-                  "streams": [
-                    {
-                      "id": "st-bc5fb9433c",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "China",
-            "team_b": "Chinese Taipei",
-            "time": "18:30",
-            "date": "26/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9fdbaf0c6f_ce4dbd89_20260826.png?v=ae54a5c0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-ab4bae4ce0",
-          "name": "Preston Lions vs South Melbourne | 16:30 26/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ab4bae4ce0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ab4bae4ce0",
-                  "name": "Preston Lions vs South Melbourne",
-                  "streams": [
-                    {
-                      "id": "st-ab4bae4ce0",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Preston Lions",
-            "team_b": "South Melbourne",
-            "time": "16:30",
-            "date": "26/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-48fe566223_9c69fc9b_20260826.png?v=60626ea5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-f4fd97762d",
           "name": "Gangwon Fc vs Gwangju Fc | 17:30 26/08",
@@ -225,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a82388bb5b_76425cf9_20260826.png?v=53596acb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-bc5fb9433c",
+          "name": "China vs Chinese Taipei | 18:30 26/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bc5fb9433c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-bc5fb9433c",
+                  "name": "China vs Chinese Taipei",
+                  "streams": [
+                    {
+                      "id": "st-bc5fb9433c",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "China",
+            "team_b": "Chinese Taipei",
+            "time": "18:30",
+            "date": "26/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9fdbaf0c6f_ce4dbd89_20260826.png?v=ae54a5c0",
             "width": 1600,
             "height": 1200
           }
