@@ -521,6 +521,59 @@
           }
         },
         {
+          "id": "ch-4363c85101",
+          "name": "Trực Tiếp vs Lễ Bốc Thăm C1 | 23:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4363c85101",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4363c85101",
+                  "name": "Trực Tiếp vs Lễ Bốc Thăm C1",
+                  "streams": [
+                    {
+                      "id": "st-4363c85101",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Trực Tiếp",
+            "team_b": "Lễ Bốc Thăm C1",
+            "time": "23:00",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3e499826b8_2e231717_20260827.png?v=4285b8b5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-c296f62dfe",
           "name": "Jeddah Club vs Al Najma | 23:20 27/08",
           "type": "single",
