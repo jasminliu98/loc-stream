@@ -11,153 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-3be49a5657",
-          "name": "Kauno Žalgiris vs Besiktas | 00:00 28/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3be49a5657",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-3be49a5657",
-                  "name": "Kauno Žalgiris vs Besiktas",
-                  "streams": [
-                    {
-                      "id": "st-3be49a5657",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0bd5e53133",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Kauno Žalgiris",
-            "team_b": "Besiktas",
-            "time": "00:00",
-            "date": "28/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-236b50b792_9b337578_20260828.png?v=b7b24ab8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-fb699f25d6",
-          "name": "Kups vs Shamrock Rovers | 22:00 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fb699f25d6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-fb699f25d6",
-                  "name": "Kups vs Shamrock Rovers",
-                  "streams": [
-                    {
-                      "id": "st-fb699f25d6",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Kups",
-            "team_b": "Shamrock Rovers",
-            "time": "22:00",
-            "date": "27/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1e87856c3b_836a4e55_20260828.png?v=eec097a1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-4363c85101",
           "name": "Trực Tiếp vs Lễ Bốc Thăm C1 | 23:00 27/08",
@@ -438,6 +296,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8364bcf136_25f7c2f1_20260828.png?v=d6a297c6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3be49a5657",
+          "name": "Kauno Žalgiris vs Besiktas | 00:00 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3be49a5657",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3be49a5657",
+                  "name": "Kauno Žalgiris vs Besiktas",
+                  "streams": [
+                    {
+                      "id": "st-3be49a5657",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0bd5e53133",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kauno Žalgiris",
+            "team_b": "Besiktas",
+            "time": "00:00",
+            "date": "28/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-236b50b792_9b337578_20260828.png?v=b7b24ab8",
             "width": 1600,
             "height": 1200
           }
