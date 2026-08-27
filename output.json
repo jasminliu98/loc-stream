@@ -159,59 +159,6 @@
           }
         },
         {
-          "id": "ch-5794ccc2da",
-          "name": "Fk Jablonec vs Rangers | 23:00 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5794ccc2da",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-5794ccc2da",
-                  "name": "Fk Jablonec vs Rangers",
-                  "streams": [
-                    {
-                      "id": "st-5794ccc2da",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fk Jablonec",
-            "team_b": "Rangers",
-            "time": "23:00",
-            "date": "27/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5f54633863_76d9628f_20260827.png?v=a2e9aef7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-4363c85101",
           "name": "Trực Tiếp vs Lễ Bốc Thăm C1 | 23:00 27/08",
           "type": "single",
@@ -260,6 +207,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3e499826b8_2e231717_20260827.png?v=4285b8b5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-7fb5a8d114",
+          "name": "Saburtalo vs Jagiellonia | 23:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7fb5a8d114",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-7fb5a8d114",
+                  "name": "Saburtalo vs Jagiellonia",
+                  "streams": [
+                    {
+                      "id": "st-7fb5a8d114",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Saburtalo",
+            "team_b": "Jagiellonia",
+            "time": "23:00",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-631faeb62d_0bbcc110_20260827.png?v=37c05b1c",
             "width": 1600,
             "height": 1200
           }
