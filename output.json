@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c296f62dfe",
-          "name": "Jeddah Club vs Al Najma | 23:20 27/08",
+          "id": "ch-7de20766a5",
+          "name": "Monaco vs Gornik Zabrze | 23:45 27/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-c296f62dfe",
+              "id": "src-7de20766a5",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-c296f62dfe",
-                  "name": "Jeddah Club vs Al Najma",
+                  "id": "ct-7de20766a5",
+                  "name": "Monaco vs Gornik Zabrze",
                   "streams": [
                     {
-                      "id": "st-c296f62dfe",
+                      "id": "st-7de20766a5",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-0cd40431c5",
+                          "id": "lnk-352d8625d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Jeddah Club",
-            "team_b": "Al Najma",
-            "time": "23:20",
+            "team_a": "Monaco",
+            "team_b": "Gornik Zabrze",
+            "time": "23:45",
             "date": "27/08",
             "blv": "Stream",
             "is_live": true,
@@ -82,78 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c0e74375f3_94977976_20260827.png?v=0b362ef5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-dcde12c66b",
-          "name": "Al-Gharafa vs Al Shamal | 21:15 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dcde12c66b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-dcde12c66b",
-                  "name": "Al-Gharafa vs Al Shamal",
-                  "streams": [
-                    {
-                      "id": "st-dcde12c66b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Gharafa",
-            "team_b": "Al Shamal",
-            "time": "21:15",
-            "date": "27/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-75b40d0267_8eecda22_20260827.png?v=b4bc99e5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8364bcf136_25f7c2f1_20260827.png?v=d6a297c6",
             "width": 1600,
             "height": 1200
           }
@@ -372,8 +301,8 @@
           }
         },
         {
-          "id": "ch-7de20766a5",
-          "name": "Monaco vs Gornik Zabrze | 23:45 27/08",
+          "id": "ch-c296f62dfe",
+          "name": "Jeddah Club vs Al Najma | 23:20 27/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -387,23 +316,23 @@
           ],
           "sources": [
             {
-              "id": "src-7de20766a5",
+              "id": "src-c296f62dfe",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-7de20766a5",
-                  "name": "Monaco vs Gornik Zabrze",
+                  "id": "ct-c296f62dfe",
+                  "name": "Jeddah Club vs Al Najma",
                   "streams": [
                     {
-                      "id": "st-7de20766a5",
+                      "id": "st-c296f62dfe",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-352d8625d5",
+                          "id": "lnk-0cd40431c5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -424,9 +353,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Monaco",
-            "team_b": "Gornik Zabrze",
-            "time": "23:45",
+            "team_a": "Jeddah Club",
+            "team_b": "Al Najma",
+            "time": "23:20",
             "date": "27/08",
             "blv": "Stream",
             "is_live": true,
@@ -437,7 +366,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8364bcf136_25f7c2f1_20260827.png?v=d6a297c6",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c0e74375f3_94977976_20260827.png?v=0b362ef5",
             "width": 1600,
             "height": 1200
           }
