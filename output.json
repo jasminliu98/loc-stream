@@ -126,7 +126,7 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -198,77 +198,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c9a6f504b1_d0fe84a3_20260827.png?v=d06922dd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-3ab63d2651",
-          "name": "America De Cali vs Junior | 06:20 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3ab63d2651",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-3ab63d2651",
-                  "name": "America De Cali vs Junior",
-                  "streams": [
-                    {
-                      "id": "st-3ab63d2651",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ef28843d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "America De Cali",
-            "team_b": "Junior",
-            "time": "06:20",
-            "date": "27/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dc67834e35_e76a05f4_20260827.png?v=72b15013",
             "width": 1600,
             "height": 1200
           }
