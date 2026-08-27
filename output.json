@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-dcde12c66b",
-          "name": "Al-Gharafa vs Al Shamal | 21:15 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dcde12c66b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-dcde12c66b",
-                  "name": "Al-Gharafa vs Al Shamal",
-                  "streams": [
-                    {
-                      "id": "st-dcde12c66b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Gharafa",
-            "team_b": "Al Shamal",
-            "time": "21:15",
-            "date": "27/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-75b40d0267_8eecda22_20260827.png?v=b4bc99e5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-ad779d594b",
           "name": "Kaspij Aktau 2 vs Akademiya Ontustik | 20:00 27/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ea78948ac0_2907ee39_20260827.png?v=842878d7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-dcde12c66b",
+          "name": "Al-Gharafa vs Al Shamal | 21:15 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dcde12c66b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-dcde12c66b",
+                  "name": "Al-Gharafa vs Al Shamal",
+                  "streams": [
+                    {
+                      "id": "st-dcde12c66b",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959b9ee9a1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Gharafa",
+            "team_b": "Al Shamal",
+            "time": "21:15",
+            "date": "27/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-75b40d0267_8eecda22_20260827.png?v=b4bc99e5",
             "width": 1600,
             "height": 1200
           }
