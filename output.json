@@ -592,59 +592,6 @@
           }
         },
         {
-          "id": "ch-a8a2c81b80",
-          "name": "Ekibastuz vs Turan Turkistan | 19:00 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a8a2c81b80",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a8a2c81b80",
-                  "name": "Ekibastuz vs Turan Turkistan",
-                  "streams": [
-                    {
-                      "id": "st-a8a2c81b80",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Ekibastuz",
-            "team_b": "Turan Turkistan",
-            "time": "19:00",
-            "date": "27/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bcce4767bb_f8c8e02a_20260827.png?v=b2fa56ec",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-e45c2b3c52",
           "name": "Luki-Energiya vs Cherepovets | 20:00 27/08",
           "type": "single",
