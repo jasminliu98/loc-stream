@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-7de20766a5",
-          "name": "Monaco vs Gornik Zabrze | 23:45 27/08",
+          "id": "ch-3be49a5657",
+          "name": "Kauno Žalgiris vs Besiktas | 00:00 28/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-7de20766a5",
+              "id": "src-3be49a5657",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-7de20766a5",
-                  "name": "Monaco vs Gornik Zabrze",
+                  "id": "ct-3be49a5657",
+                  "name": "Kauno Žalgiris vs Besiktas",
                   "streams": [
                     {
-                      "id": "st-7de20766a5",
+                      "id": "st-3be49a5657",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-352d8625d5",
+                          "id": "lnk-0bd5e53133",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,10 +69,10 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Monaco",
-            "team_b": "Gornik Zabrze",
-            "time": "23:45",
-            "date": "27/08",
+            "team_a": "Kauno Žalgiris",
+            "team_b": "Besiktas",
+            "time": "00:00",
+            "date": "28/08",
             "blv": "Stream",
             "is_live": true,
             "status": "live",
@@ -82,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8364bcf136_25f7c2f1_20260827.png?v=d6a297c6",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-236b50b792_9b337578_20260827.png?v=b7b24ab8",
             "width": 1600,
             "height": 1200
           }
@@ -372,8 +372,8 @@
           }
         },
         {
-          "id": "ch-3be49a5657",
-          "name": "Kauno Žalgiris vs Besiktas | 00:00 28/08",
+          "id": "ch-7de20766a5",
+          "name": "Monaco vs Gornik Zabrze | 23:45 27/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -387,23 +387,23 @@
           ],
           "sources": [
             {
-              "id": "src-3be49a5657",
+              "id": "src-7de20766a5",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-3be49a5657",
-                  "name": "Kauno Žalgiris vs Besiktas",
+                  "id": "ct-7de20766a5",
+                  "name": "Monaco vs Gornik Zabrze",
                   "streams": [
                     {
-                      "id": "st-3be49a5657",
+                      "id": "st-7de20766a5",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-0bd5e53133",
+                          "id": "lnk-352d8625d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -424,10 +424,10 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Kauno Žalgiris",
-            "team_b": "Besiktas",
-            "time": "00:00",
-            "date": "28/08",
+            "team_a": "Monaco",
+            "team_b": "Gornik Zabrze",
+            "time": "23:45",
+            "date": "27/08",
             "blv": "Stream",
             "is_live": true,
             "status": "live",
@@ -437,7 +437,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-236b50b792_9b337578_20260827.png?v=b7b24ab8",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8364bcf136_25f7c2f1_20260827.png?v=d6a297c6",
             "width": 1600,
             "height": 1200
           }
