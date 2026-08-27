@@ -150,165 +150,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-f09ba8776a",
-          "name": "Dinamo Barnaul vs Irtysh Omsk | 17:30 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f09ba8776a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f09ba8776a",
-                  "name": "Dinamo Barnaul vs Irtysh Omsk",
-                  "streams": [
-                    {
-                      "id": "st-f09ba8776a",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Dinamo Barnaul",
-            "team_b": "Irtysh Omsk",
-            "time": "17:30",
-            "date": "27/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aa973fe594_29c5ff07_20260827.png?v=339c13d9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-a8a2c81b80",
-          "name": "Ekibastuz vs Turan Turkistan | 19:00 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a8a2c81b80",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a8a2c81b80",
-                  "name": "Ekibastuz vs Turan Turkistan",
-                  "streams": [
-                    {
-                      "id": "st-a8a2c81b80",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Ekibastuz",
-            "team_b": "Turan Turkistan",
-            "time": "19:00",
-            "date": "27/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bcce4767bb_f8c8e02a_20260827.png?v=b2fa56ec",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-e45c2b3c52",
-          "name": "Luki-Energiya vs Cherepovets | 20:00 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e45c2b3c52",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-e45c2b3c52",
-                  "name": "Luki-Energiya vs Cherepovets",
-                  "streams": [
-                    {
-                      "id": "st-e45c2b3c52",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Luki-Energiya",
-            "team_b": "Cherepovets",
-            "time": "20:00",
-            "date": "27/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-77a627a4c7_99ccb5e5_20260827.png?v=3fcccd3d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-dcde12c66b",
           "name": "Al-Gharafa vs Al Shamal | 21:15 27/08",
           "type": "single",
@@ -468,59 +309,6 @@
           }
         },
         {
-          "id": "ch-4363c85101",
-          "name": "Trực Tiếp vs Lễ Bốc Thăm C1 | 23:00 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4363c85101",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-4363c85101",
-                  "name": "Trực Tiếp vs Lễ Bốc Thăm C1",
-                  "streams": [
-                    {
-                      "id": "st-4363c85101",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Trực Tiếp",
-            "team_b": "Lễ Bốc Thăm C1",
-            "time": "23:00",
-            "date": "27/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3e499826b8_2e231717_20260827.png?v=4285b8b5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-c296f62dfe",
           "name": "Jeddah Club vs Al Najma | 23:20 27/08",
           "type": "single",
@@ -569,59 +357,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c0e74375f3_94977976_20260827.png?v=0b362ef5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-7de20766a5",
-          "name": "Monaco vs Gornik Zabrze | 23:45 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7de20766a5",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-7de20766a5",
-                  "name": "Monaco vs Gornik Zabrze",
-                  "streams": [
-                    {
-                      "id": "st-7de20766a5",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Monaco",
-            "team_b": "Gornik Zabrze",
-            "time": "23:45",
-            "date": "27/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8364bcf136_25f7c2f1_20260827.png?v=d6a297c6",
             "width": 1600,
             "height": 1200
           }
@@ -834,6 +569,271 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-07ef605b3f_2cb4c5a2_20260827.png?v=8056df08",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f09ba8776a",
+          "name": "Dinamo Barnaul vs Irtysh Omsk | 17:30 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f09ba8776a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f09ba8776a",
+                  "name": "Dinamo Barnaul vs Irtysh Omsk",
+                  "streams": [
+                    {
+                      "id": "st-f09ba8776a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Dinamo Barnaul",
+            "team_b": "Irtysh Omsk",
+            "time": "17:30",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aa973fe594_29c5ff07_20260827.png?v=339c13d9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a8a2c81b80",
+          "name": "Ekibastuz vs Turan Turkistan | 19:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a8a2c81b80",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a8a2c81b80",
+                  "name": "Ekibastuz vs Turan Turkistan",
+                  "streams": [
+                    {
+                      "id": "st-a8a2c81b80",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Ekibastuz",
+            "team_b": "Turan Turkistan",
+            "time": "19:00",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bcce4767bb_f8c8e02a_20260827.png?v=b2fa56ec",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e45c2b3c52",
+          "name": "Luki-Energiya vs Cherepovets | 20:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e45c2b3c52",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e45c2b3c52",
+                  "name": "Luki-Energiya vs Cherepovets",
+                  "streams": [
+                    {
+                      "id": "st-e45c2b3c52",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Luki-Energiya",
+            "team_b": "Cherepovets",
+            "time": "20:00",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-77a627a4c7_99ccb5e5_20260827.png?v=3fcccd3d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-4363c85101",
+          "name": "Trực Tiếp vs Lễ Bốc Thăm C1 | 23:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4363c85101",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4363c85101",
+                  "name": "Trực Tiếp vs Lễ Bốc Thăm C1",
+                  "streams": [
+                    {
+                      "id": "st-4363c85101",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Trực Tiếp",
+            "team_b": "Lễ Bốc Thăm C1",
+            "time": "23:00",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3e499826b8_2e231717_20260827.png?v=4285b8b5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-7de20766a5",
+          "name": "Monaco vs Gornik Zabrze | 23:45 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7de20766a5",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-7de20766a5",
+                  "name": "Monaco vs Gornik Zabrze",
+                  "streams": [
+                    {
+                      "id": "st-7de20766a5",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Monaco",
+            "team_b": "Gornik Zabrze",
+            "time": "23:45",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8364bcf136_25f7c2f1_20260827.png?v=d6a297c6",
             "width": 1600,
             "height": 1200
           }
