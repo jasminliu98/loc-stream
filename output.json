@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_volleyball",
-      "name": "None (1 LIVE)",
+      "name": null,
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (1)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -42,25 +42,7 @@
                     {
                       "id": "st-1b676f0067",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -73,9 +55,9 @@
             "team_b": "Chinese Taipei W",
             "time": "17:30",
             "date": "27/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "finished",
             "cate_type": "volleyball"
           },
           "image": {
