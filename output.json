@@ -132,77 +132,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-3ab63d2651",
-          "name": "America De Cali vs Junior | 06:20 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3ab63d2651",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-3ab63d2651",
-                  "name": "America De Cali vs Junior",
-                  "streams": [
-                    {
-                      "id": "st-3ab63d2651",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ef28843d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "America De Cali",
-            "team_b": "Junior",
-            "time": "06:20",
-            "date": "27/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dc67834e35_e76a05f4_20260827.png?v=72b15013",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-c36da0c918",
           "name": "Atletico Nacional vs Deportivo Cali | 08:30 27/08",
           "type": "single",
@@ -269,6 +198,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c9a6f504b1_d0fe84a3_20260827.png?v=d06922dd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3ab63d2651",
+          "name": "America De Cali vs Junior | 06:20 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3ab63d2651",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3ab63d2651",
+                  "name": "America De Cali vs Junior",
+                  "streams": [
+                    {
+                      "id": "st-3ab63d2651",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25ef28843d",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "America De Cali",
+            "team_b": "Junior",
+            "time": "06:20",
+            "date": "27/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dc67834e35_e76a05f4_20260827.png?v=72b15013",
             "width": 1600,
             "height": 1200
           }
@@ -375,6 +375,801 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bcce4767bb_f8c8e02a_20260827.png?v=b2fa56ec",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e45c2b3c52",
+          "name": "Luki-Energiya vs Cherepovets | 20:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e45c2b3c52",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e45c2b3c52",
+                  "name": "Luki-Energiya vs Cherepovets",
+                  "streams": [
+                    {
+                      "id": "st-e45c2b3c52",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Luki-Energiya",
+            "team_b": "Cherepovets",
+            "time": "20:00",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-77a627a4c7_99ccb5e5_20260827.png?v=3fcccd3d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-dcde12c66b",
+          "name": "Al-Gharafa vs Al Shamal | 21:15 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dcde12c66b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-dcde12c66b",
+                  "name": "Al-Gharafa vs Al Shamal",
+                  "streams": [
+                    {
+                      "id": "st-dcde12c66b",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Gharafa",
+            "team_b": "Al Shamal",
+            "time": "21:15",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-75b40d0267_8eecda22_20260827.png?v=b4bc99e5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-fb699f25d6",
+          "name": "Kups vs Shamrock Rovers | 22:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fb699f25d6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-fb699f25d6",
+                  "name": "Kups vs Shamrock Rovers",
+                  "streams": [
+                    {
+                      "id": "st-fb699f25d6",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kups",
+            "team_b": "Shamrock Rovers",
+            "time": "22:00",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1e87856c3b_836a4e55_20260827.png?v=eec097a1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-5794ccc2da",
+          "name": "Fk Jablonec vs Rangers | 23:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5794ccc2da",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-5794ccc2da",
+                  "name": "Fk Jablonec vs Rangers",
+                  "streams": [
+                    {
+                      "id": "st-5794ccc2da",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fk Jablonec",
+            "team_b": "Rangers",
+            "time": "23:00",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5f54633863_76d9628f_20260827.png?v=a2e9aef7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c296f62dfe",
+          "name": "Jeddah Club vs Al Najma | 23:20 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c296f62dfe",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c296f62dfe",
+                  "name": "Jeddah Club vs Al Najma",
+                  "streams": [
+                    {
+                      "id": "st-c296f62dfe",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Jeddah Club",
+            "team_b": "Al Najma",
+            "time": "23:20",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c0e74375f3_94977976_20260827.png?v=0b362ef5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-7de20766a5",
+          "name": "Monaco vs Gornik Zabrze | 23:45 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7de20766a5",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-7de20766a5",
+                  "name": "Monaco vs Gornik Zabrze",
+                  "streams": [
+                    {
+                      "id": "st-7de20766a5",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Monaco",
+            "team_b": "Gornik Zabrze",
+            "time": "23:45",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8364bcf136_25f7c2f1_20260827.png?v=d6a297c6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3be49a5657",
+          "name": "Kauno Žalgiris vs Besiktas | 00:00 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3be49a5657",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3be49a5657",
+                  "name": "Kauno Žalgiris vs Besiktas",
+                  "streams": [
+                    {
+                      "id": "st-3be49a5657",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kauno Žalgiris",
+            "team_b": "Besiktas",
+            "time": "00:00",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-236b50b792_9b337578_20260827.png?v=b7b24ab8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-31be49a936",
+          "name": "Aarhus vs Benfica | 01:00 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-31be49a936",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-31be49a936",
+                  "name": "Aarhus vs Benfica",
+                  "streams": [
+                    {
+                      "id": "st-31be49a936",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Aarhus",
+            "team_b": "Benfica",
+            "time": "01:00",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa82f1cd9e_bfa30145_20260827.png?v=e8fd3d08",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b2971c317d",
+          "name": "Celta Vigo vs Osasuna | 01:30 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b2971c317d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b2971c317d",
+                  "name": "Celta Vigo vs Osasuna",
+                  "streams": [
+                    {
+                      "id": "st-b2971c317d",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Celta Vigo",
+            "team_b": "Osasuna",
+            "time": "01:30",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e7f018b5b3_2a195860_20260827.png?v=720795a0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-dfc43db38c",
+          "name": "Chelsea vs Luton | 01:30 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dfc43db38c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-dfc43db38c",
+                  "name": "Chelsea vs Luton",
+                  "streams": [
+                    {
+                      "id": "st-dfc43db38c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Chelsea",
+            "team_b": "Luton",
+            "time": "01:30",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-07ef605b3f_2cb4c5a2_20260827.png?v=8056df08",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-55af69df78",
+          "name": "Barcelona vs Athletic Club | 02:00 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-55af69df78",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-55af69df78",
+                  "name": "Barcelona vs Athletic Club",
+                  "streams": [
+                    {
+                      "id": "st-55af69df78",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Barcelona",
+            "team_b": "Athletic Club",
+            "time": "02:00",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6cd653b476_b86c3748_20260827.png?v=550d05ab",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2c78325fa6",
+          "name": "Fulham vs Afc Wimbledon | 02:00 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2c78325fa6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2c78325fa6",
+                  "name": "Fulham vs Afc Wimbledon",
+                  "streams": [
+                    {
+                      "id": "st-2c78325fa6",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fulham",
+            "team_b": "Afc Wimbledon",
+            "time": "02:00",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-216d817fee_20db9f9c_20260827.png?v=8cd5e946",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3ee2845505",
+          "name": "Estudiantes L.P. vs Barracas Central | 05:00 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3ee2845505",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3ee2845505",
+                  "name": "Estudiantes L.P. vs Barracas Central",
+                  "streams": [
+                    {
+                      "id": "st-3ee2845505",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Estudiantes L.P.",
+            "team_b": "Barracas Central",
+            "time": "05:00",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f01ddccecd_b050f3ba_20260827.png?v=338af29f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9573147f03",
+          "name": "Platense vs Instituto Cordoba | 07:15 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9573147f03",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9573147f03",
+                  "name": "Platense vs Instituto Cordoba",
+                  "streams": [
+                    {
+                      "id": "st-9573147f03",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Platense",
+            "team_b": "Instituto Cordoba",
+            "time": "07:15",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d913b6921f_0ee093a6_20260827.png?v=408ef341",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a3d08670b9",
+          "name": "Mixco vs Alianza Fc | 09:30 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a3d08670b9",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a3d08670b9",
+                  "name": "Mixco vs Alianza Fc",
+                  "streams": [
+                    {
+                      "id": "st-a3d08670b9",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Mixco",
+            "team_b": "Alianza Fc",
+            "time": "09:30",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b8539c418e_5b94d25b_20260827.png?v=50e424ed",
             "width": 1600,
             "height": 1200
           }
