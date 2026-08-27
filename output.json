@@ -11,11 +11,153 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "ch-4363c85101",
+          "name": "Trực Tiếp vs Lễ Bốc Thăm C1 | 23:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4363c85101",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4363c85101",
+                  "name": "Trực Tiếp vs Lễ Bốc Thăm C1",
+                  "streams": [
+                    {
+                      "id": "st-4363c85101",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Trực Tiếp",
+            "team_b": "Lễ Bốc Thăm C1",
+            "time": "23:00",
+            "date": "27/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3e499826b8_2e231717_20260827.png?v=4285b8b5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-7fb5a8d114",
+          "name": "Saburtalo vs Jagiellonia | 23:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7fb5a8d114",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-7fb5a8d114",
+                  "name": "Saburtalo vs Jagiellonia",
+                  "streams": [
+                    {
+                      "id": "st-7fb5a8d114",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25ef28843d",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Saburtalo",
+            "team_b": "Jagiellonia",
+            "time": "23:00",
+            "date": "27/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-631faeb62d_0bbcc110_20260827.png?v=37c05b1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "ch-dcde12c66b",
           "name": "Al-Gharafa vs Al Shamal | 21:15 27/08",
@@ -154,112 +296,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1e87856c3b_836a4e55_20260827.png?v=eec097a1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-4363c85101",
-          "name": "Trực Tiếp vs Lễ Bốc Thăm C1 | 23:00 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4363c85101",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-4363c85101",
-                  "name": "Trực Tiếp vs Lễ Bốc Thăm C1",
-                  "streams": [
-                    {
-                      "id": "st-4363c85101",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Trực Tiếp",
-            "team_b": "Lễ Bốc Thăm C1",
-            "time": "23:00",
-            "date": "27/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3e499826b8_2e231717_20260827.png?v=4285b8b5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-7fb5a8d114",
-          "name": "Saburtalo vs Jagiellonia | 23:00 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7fb5a8d114",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-7fb5a8d114",
-                  "name": "Saburtalo vs Jagiellonia",
-                  "streams": [
-                    {
-                      "id": "st-7fb5a8d114",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Saburtalo",
-            "team_b": "Jagiellonia",
-            "time": "23:00",
-            "date": "27/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-631faeb62d_0bbcc110_20260827.png?v=37c05b1c",
             "width": 1600,
             "height": 1200
           }
