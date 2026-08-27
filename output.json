@@ -91,82 +91,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-f09ba8776a",
-          "name": "Dinamo Barnaul vs Irtysh Omsk | 17:30 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f09ba8776a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f09ba8776a",
-                  "name": "Dinamo Barnaul vs Irtysh Omsk",
-                  "streams": [
-                    {
-                      "id": "st-f09ba8776a",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Dinamo Barnaul",
-            "team_b": "Irtysh Omsk",
-            "time": "17:30",
-            "date": "27/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aa973fe594_29c5ff07_20260827.png?v=339c13d9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-e45c2b3c52",
           "name": "Luki-Energiya vs Cherepovets | 20:00 27/08",
