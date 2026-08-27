@@ -10,6 +10,121 @@
   },
   "groups": [
     {
+      "id": "cate_volleyball",
+      "name": null,
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "ch-91f2c198b0",
+          "name": "Thailand vs South Korea | 13:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-91f2c198b0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-91f2c198b0",
+                  "name": "Thailand vs South Korea",
+                  "streams": [
+                    {
+                      "id": "st-91f2c198b0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Thailand",
+            "team_b": "South Korea",
+            "time": "13:00",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-77ee8abaa6_061dba00_20260827.png?v=103357e3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-1b676f0067",
+          "name": "Japan W vs Chinese Taipei W | 17:30 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1b676f0067",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-1b676f0067",
+                  "name": "Japan W vs Chinese Taipei W",
+                  "streams": [
+                    {
+                      "id": "st-1b676f0067",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Japan W",
+            "team_b": "Chinese Taipei W",
+            "time": "17:30",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5e4baefa29_a421c3d0_20260827.png?v=b17651c9",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_football",
       "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
@@ -136,6 +251,112 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c9a6f504b1_d0fe84a3_20260827.png?v=d06922dd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f09ba8776a",
+          "name": "Dinamo Barnaul vs Irtysh Omsk | 17:30 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f09ba8776a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f09ba8776a",
+                  "name": "Dinamo Barnaul vs Irtysh Omsk",
+                  "streams": [
+                    {
+                      "id": "st-f09ba8776a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Dinamo Barnaul",
+            "team_b": "Irtysh Omsk",
+            "time": "17:30",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aa973fe594_29c5ff07_20260827.png?v=339c13d9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a8a2c81b80",
+          "name": "Ekibastuz vs Turan Turkistan | 19:00 27/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a8a2c81b80",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a8a2c81b80",
+                  "name": "Ekibastuz vs Turan Turkistan",
+                  "streams": [
+                    {
+                      "id": "st-a8a2c81b80",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Ekibastuz",
+            "team_b": "Turan Turkistan",
+            "time": "19:00",
+            "date": "27/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bcce4767bb_f8c8e02a_20260827.png?v=b2fa56ec",
             "width": 1600,
             "height": 1200
           }
