@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (7 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-7de20766a5",
-          "name": "Monaco vs Gornik Zabrze | 23:45 27/08",
+          "id": "ch-55af69df78",
+          "name": "Barcelona vs Athletic Club | 02:00 28/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,15 +32,86 @@
           ],
           "sources": [
             {
-              "id": "src-7de20766a5",
+              "id": "src-55af69df78",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-7de20766a5",
-                  "name": "Monaco vs Gornik Zabrze",
+                  "id": "ct-55af69df78",
+                  "name": "Barcelona vs Athletic Club",
                   "streams": [
                     {
-                      "id": "st-7de20766a5",
+                      "id": "st-55af69df78",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Barcelona",
+            "team_b": "Athletic Club",
+            "time": "02:00",
+            "date": "28/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6cd653b476_b86c3748_20260828.png?v=550d05ab",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2c78325fa6",
+          "name": "Fulham vs Afc Wimbledon | 02:00 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2c78325fa6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2c78325fa6",
+                  "name": "Fulham vs Afc Wimbledon",
+                  "streams": [
+                    {
+                      "id": "st-2c78325fa6",
                       "name": "Streams",
                       "stream_links": [
                         {
@@ -69,10 +140,10 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Monaco",
-            "team_b": "Gornik Zabrze",
-            "time": "23:45",
-            "date": "27/08",
+            "team_a": "Fulham",
+            "team_b": "Afc Wimbledon",
+            "time": "02:00",
+            "date": "28/08",
             "blv": "Stream",
             "is_live": true,
             "status": "live",
@@ -82,7 +153,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8364bcf136_25f7c2f1_20260828.png?v=d6a297c6",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-216d817fee_20db9f9c_20260828.png?v=8cd5e946",
             "width": 1600,
             "height": 1200
           }
@@ -367,148 +438,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-07ef605b3f_2cb4c5a2_20260828.png?v=8056df08",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-55af69df78",
-          "name": "Barcelona vs Athletic Club | 02:00 28/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-55af69df78",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-55af69df78",
-                  "name": "Barcelona vs Athletic Club",
-                  "streams": [
-                    {
-                      "id": "st-55af69df78",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Barcelona",
-            "team_b": "Athletic Club",
-            "time": "02:00",
-            "date": "28/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6cd653b476_b86c3748_20260828.png?v=550d05ab",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-2c78325fa6",
-          "name": "Fulham vs Afc Wimbledon | 02:00 28/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2c78325fa6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-2c78325fa6",
-                  "name": "Fulham vs Afc Wimbledon",
-                  "streams": [
-                    {
-                      "id": "st-2c78325fa6",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fulham",
-            "team_b": "Afc Wimbledon",
-            "time": "02:00",
-            "date": "28/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-216d817fee_20db9f9c_20260828.png?v=8cd5e946",
             "width": 1600,
             "height": 1200
           }
