@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_volleyball",
-      "name": "None (1 LIVE)",
+      "name": null,
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-91f2c198b0",
-          "name": "Thailand vs South Korea | 13:00 27/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-91f2c198b0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-91f2c198b0",
-                  "name": "Thailand vs South Korea",
-                  "streams": [
-                    {
-                      "id": "st-91f2c198b0",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0bd5e53133",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Thailand",
-            "team_b": "South Korea",
-            "time": "13:00",
-            "date": "27/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-77ee8abaa6_061dba00_20260827.png?v=103357e3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-1b676f0067",
           "name": "Japan W vs Chinese Taipei W | 17:30 27/08",
