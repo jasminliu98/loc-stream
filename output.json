@@ -10,6 +10,68 @@
   },
   "groups": [
     {
+      "id": "cate_volleyball",
+      "name": null,
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "ch-921358d998",
+          "name": "China vs Vietnam W | 18:30 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-921358d998",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-921358d998",
+                  "name": "China vs Vietnam W",
+                  "streams": [
+                    {
+                      "id": "st-921358d998",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "China",
+            "team_b": "Vietnam W",
+            "time": "18:30",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e4b7bffe31_4f72ddd0_20260828.png?v=ae54a5c0",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_football",
       "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
@@ -83,6 +145,271 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b8539c418e_5b94d25b_20260828.png?v=50e424ed",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-03706832e0",
+          "name": "Indonesia vs Iran | 14:00 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-03706832e0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-03706832e0",
+                  "name": "Indonesia vs Iran",
+                  "streams": [
+                    {
+                      "id": "st-03706832e0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Indonesia",
+            "team_b": "Iran",
+            "time": "14:00",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3c89724de4_1830961a_20260828.png?v=4647d00c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ea90a9b113",
+          "name": "Ansan Greeners vs Daegu Fc | 17:30 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ea90a9b113",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ea90a9b113",
+                  "name": "Ansan Greeners vs Daegu Fc",
+                  "streams": [
+                    {
+                      "id": "st-ea90a9b113",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Ansan Greeners",
+            "team_b": "Daegu Fc",
+            "time": "17:30",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1a9cb28513_e610cf62_20260828.png?v=7d1bc7b7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-1dd133326d",
+          "name": "Sabah Fa vs Penang | 18:30 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1dd133326d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-1dd133326d",
+                  "name": "Sabah Fa vs Penang",
+                  "streams": [
+                    {
+                      "id": "st-1dd133326d",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sabah Fa",
+            "team_b": "Penang",
+            "time": "18:30",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bcea2ed51e_5818700e_20260828.png?v=6daf1d7d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f841926adb",
+          "name": "Sichuan Jiuniu vs Shanghai Sipg | 19:00 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f841926adb",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f841926adb",
+                  "name": "Sichuan Jiuniu vs Shanghai Sipg",
+                  "streams": [
+                    {
+                      "id": "st-f841926adb",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sichuan Jiuniu",
+            "team_b": "Shanghai Sipg",
+            "time": "19:00",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8da5629888_56c830f3_20260828.png?v=f2547f7a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d316b54f5d",
+          "name": "Terengganu vs Selangor | 20:00 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d316b54f5d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d316b54f5d",
+                  "name": "Terengganu vs Selangor",
+                  "streams": [
+                    {
+                      "id": "st-d316b54f5d",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Terengganu",
+            "team_b": "Selangor",
+            "time": "20:00",
+            "date": "28/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c40ddccd39_0f61e9d0_20260828.png?v=f6356f4f",
             "width": 1600,
             "height": 1200
           }
