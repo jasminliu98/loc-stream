@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-d18f2328ae",
-          "name": "Al-Nassr vs Al Taawon | 01:00 29/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d18f2328ae",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d18f2328ae",
-                  "name": "Al-Nassr vs Al Taawon",
-                  "streams": [
-                    {
-                      "id": "st-d18f2328ae",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ef28843d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Nassr",
-            "team_b": "Al Taawon",
-            "time": "01:00",
-            "date": "29/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-00a62ce5cb_92aa3d96_20260829.png?v=f5381781",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-a9b33a5928",
           "name": "Bayern München vs Vfb Stuttgart | 01:30 29/08",
