@@ -97,6 +97,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-dd204fa335",
+          "name": "Al-Fayha vs Abha | 23:00 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dd204fa335",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-dd204fa335",
+                  "name": "Al-Fayha vs Abha",
+                  "streams": [
+                    {
+                      "id": "st-dd204fa335",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Fayha",
+            "team_b": "Abha",
+            "time": "23:00",
+            "date": "28/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-349c6f2960_5d82b319_20260828.png?v=d9e3f3af",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-7db6449caf",
           "name": "Akron vs Cska Moscow | 22:00 28/08",
           "type": "single",
@@ -375,77 +446,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7b8e49f524_1304edea_20260828.png?v=e2233180",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-dd204fa335",
-          "name": "Al-Fayha vs Abha | 23:00 28/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dd204fa335",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-dd204fa335",
-                  "name": "Al-Fayha vs Abha",
-                  "streams": [
-                    {
-                      "id": "st-dd204fa335",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Fayha",
-            "team_b": "Abha",
-            "time": "23:00",
-            "date": "28/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-349c6f2960_5d82b319_20260828.png?v=d9e3f3af",
             "width": 1600,
             "height": 1200
           }
