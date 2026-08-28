@@ -132,6 +132,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-03706832e0",
+          "name": "Indonesia vs Iran | 14:00 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-03706832e0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-03706832e0",
+                  "name": "Indonesia vs Iran",
+                  "streams": [
+                    {
+                      "id": "st-03706832e0",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Indonesia",
+            "team_b": "Iran",
+            "time": "14:00",
+            "date": "28/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3c89724de4_1830961a_20260828.png?v=4647d00c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-1dd133326d",
           "name": "Sabah Fa vs Penang | 18:30 28/08",
           "type": "single",
@@ -503,77 +574,6 @@
           }
         },
         {
-          "id": "ch-03706832e0",
-          "name": "Indonesia vs Iran | 14:00 28/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-03706832e0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-03706832e0",
-                  "name": "Indonesia vs Iran",
-                  "streams": [
-                    {
-                      "id": "st-03706832e0",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Indonesia",
-            "team_b": "Iran",
-            "time": "14:00",
-            "date": "28/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3c89724de4_1830961a_20260828.png?v=4647d00c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-ea90a9b113",
           "name": "Ansan Greeners vs Daegu Fc | 17:30 28/08",
           "type": "single",
@@ -834,6 +834,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ce8f67c6d1_ce081f9e_20260828.png?v=35af9872",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d007097f03",
+          "name": "Lille vs Paris Saint Germain | 01:45 29/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d007097f03",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d007097f03",
+                  "name": "Lille vs Paris Saint Germain",
+                  "streams": [
+                    {
+                      "id": "st-d007097f03",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Lille",
+            "team_b": "Paris Saint Germain",
+            "time": "01:45",
+            "date": "29/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1cc5f9bcf2_a714efb4_20260828.png?v=c56e94a9",
             "width": 1600,
             "height": 1200
           }
