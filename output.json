@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-9573147f03",
-          "name": "Platense vs Instituto Cordoba | 07:15 28/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9573147f03",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-9573147f03",
-                  "name": "Platense vs Instituto Cordoba",
-                  "streams": [
-                    {
-                      "id": "st-9573147f03",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Platense",
-            "team_b": "Instituto Cordoba",
-            "time": "07:15",
-            "date": "28/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d913b6921f_0ee093a6_20260828.png?v=408ef341",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-a3d08670b9",
           "name": "Mixco vs Alianza Fc | 09:30 28/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b8539c418e_5b94d25b_20260828.png?v=50e424ed",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9573147f03",
+          "name": "Platense vs Instituto Cordoba | 07:15 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9573147f03",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9573147f03",
+                  "name": "Platense vs Instituto Cordoba",
+                  "streams": [
+                    {
+                      "id": "st-9573147f03",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Platense",
+            "team_b": "Instituto Cordoba",
+            "time": "07:15",
+            "date": "28/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d913b6921f_0ee093a6_20260828.png?v=408ef341",
             "width": 1600,
             "height": 1200
           }
