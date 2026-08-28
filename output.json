@@ -97,59 +97,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c233ed5818",
-          "name": "Slovenia vs Hungary W | 20:00 28/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c233ed5818",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c233ed5818",
-                  "name": "Slovenia vs Hungary W",
-                  "streams": [
-                    {
-                      "id": "st-c233ed5818",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Slovenia",
-            "team_b": "Hungary W",
-            "time": "20:00",
-            "date": "28/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8c17ea0ffc_70783325_20260828.png?v=00247297",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-7db6449caf",
           "name": "Akron vs Cska Moscow | 22:00 28/08",
           "type": "single",
