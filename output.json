@@ -450,6 +450,59 @@
           }
         },
         {
+          "id": "ch-0551c2a99e",
+          "name": "Alaves vs Villarreal | 02:30 29/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0551c2a99e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-0551c2a99e",
+                  "name": "Alaves vs Villarreal",
+                  "streams": [
+                    {
+                      "id": "st-0551c2a99e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Alaves",
+            "team_b": "Villarreal",
+            "time": "02:30",
+            "date": "29/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7b8e49f524_1304edea_20260828.png?v=e2233180",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-03706832e0",
           "name": "Indonesia vs Iran | 14:00 28/08",
           "type": "single",
@@ -763,59 +816,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ce8f67c6d1_ce081f9e_20260828.png?v=35af9872",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-0551c2a99e",
-          "name": "Alaves vs Villarreal | 02:30 29/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0551c2a99e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-0551c2a99e",
-                  "name": "Alaves vs Villarreal",
-                  "streams": [
-                    {
-                      "id": "st-0551c2a99e",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Alaves",
-            "team_b": "Villarreal",
-            "time": "02:30",
-            "date": "29/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7b8e49f524_1304edea_20260828.png?v=e2233180",
             "width": 1600,
             "height": 1200
           }
