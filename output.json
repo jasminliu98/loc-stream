@@ -17,14 +17,14 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-88a9086303",
-          "name": "Ac Milan vs Venezia | 01:45 29/08",
+          "id": "ch-1de559f6a3",
+          "name": "Crystal Palace vs Manchester City | 02:00 29/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (1)",
+              "text": "● LIVE (2)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -32,23 +32,40 @@
           ],
           "sources": [
             {
-              "id": "src-88a9086303",
+              "id": "src-1de559f6a3",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-88a9086303",
-                  "name": "Ac Milan vs Venezia",
+                  "id": "ct-1de559f6a3",
+                  "name": "Crystal Palace vs Manchester City",
                   "streams": [
                     {
-                      "id": "st-88a9086303",
+                      "id": "st-1de559f6a3",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-a6ace71bea",
+                          "id": "lnk-0cd40431c5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-48b02a897a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,11 +86,11 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Ac Milan",
-            "team_b": "Venezia",
-            "time": "01:45",
+            "team_a": "Crystal Palace",
+            "team_b": "Manchester City",
+            "time": "02:00",
             "date": "29/08",
-            "blv": "Stream",
+            "blv": "Stream, Stream",
             "is_live": true,
             "status": "live",
             "cate_type": "football"
@@ -82,78 +99,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ce8f67c6d1_ce081f9e_20260829.png?v=35af9872",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-d007097f03",
-          "name": "Lille vs Paris Saint Germain | 01:45 29/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d007097f03",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d007097f03",
-                  "name": "Lille vs Paris Saint Germain",
-                  "streams": [
-                    {
-                      "id": "st-d007097f03",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Lille",
-            "team_b": "Paris Saint Germain",
-            "time": "01:45",
-            "date": "29/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1cc5f9bcf2_a714efb4_20260829.png?v=c56e94a9",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1b09355aec_59b75772_20260829.png?v=507469ae",
             "width": 1600,
             "height": 1200
           }
@@ -318,14 +264,14 @@
           }
         },
         {
-          "id": "ch-1de559f6a3",
-          "name": "Crystal Palace vs Manchester City | 02:00 29/08",
+          "id": "ch-88a9086303",
+          "name": "Ac Milan vs Venezia | 01:45 29/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2)",
+              "text": "● LIVE (1)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -333,40 +279,23 @@
           ],
           "sources": [
             {
-              "id": "src-1de559f6a3",
+              "id": "src-88a9086303",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-1de559f6a3",
-                  "name": "Crystal Palace vs Manchester City",
+                  "id": "ct-88a9086303",
+                  "name": "Ac Milan vs Venezia",
                   "streams": [
                     {
-                      "id": "st-1de559f6a3",
+                      "id": "st-88a9086303",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-0cd40431c5",
+                          "id": "lnk-a6ace71bea",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-48b02a897a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -387,11 +316,11 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Crystal Palace",
-            "team_b": "Manchester City",
-            "time": "02:00",
+            "team_a": "Ac Milan",
+            "team_b": "Venezia",
+            "time": "01:45",
             "date": "29/08",
-            "blv": "Stream, Stream",
+            "blv": "Stream",
             "is_live": true,
             "status": "live",
             "cate_type": "football"
@@ -400,7 +329,78 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1b09355aec_59b75772_20260829.png?v=507469ae",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ce8f67c6d1_ce081f9e_20260829.png?v=35af9872",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d007097f03",
+          "name": "Lille vs Paris Saint Germain | 01:45 29/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d007097f03",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d007097f03",
+                  "name": "Lille vs Paris Saint Germain",
+                  "streams": [
+                    {
+                      "id": "st-d007097f03",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Lille",
+            "team_b": "Paris Saint Germain",
+            "time": "01:45",
+            "date": "29/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1cc5f9bcf2_a714efb4_20260829.png?v=c56e94a9",
             "width": 1600,
             "height": 1200
           }
