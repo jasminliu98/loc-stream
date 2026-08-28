@@ -132,59 +132,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-03706832e0",
-          "name": "Indonesia vs Iran | 14:00 28/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-03706832e0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-03706832e0",
-                  "name": "Indonesia vs Iran",
-                  "streams": [
-                    {
-                      "id": "st-03706832e0",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Indonesia",
-            "team_b": "Iran",
-            "time": "14:00",
-            "date": "28/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3c89724de4_1830961a_20260828.png?v=4647d00c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-1dd133326d",
           "name": "Sabah Fa vs Penang | 18:30 28/08",
           "type": "single",
