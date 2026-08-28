@@ -477,8 +477,8 @@
           }
         },
         {
-          "id": "ch-575e205913",
-          "name": "Charlotte Independence vs Alta | 06:00 29/08",
+          "id": "ch-0ce1db2bfa",
+          "name": "Boca Juniors vs Lanus | 07:30 29/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -492,15 +492,15 @@
           ],
           "sources": [
             {
-              "id": "src-575e205913",
+              "id": "src-0ce1db2bfa",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-575e205913",
-                  "name": "Charlotte Independence vs Alta",
+                  "id": "ct-0ce1db2bfa",
+                  "name": "Boca Juniors vs Lanus",
                   "streams": [
                     {
-                      "id": "st-575e205913",
+                      "id": "st-0ce1db2bfa",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -511,9 +511,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Charlotte Independence",
-            "team_b": "Alta",
-            "time": "06:00",
+            "team_a": "Boca Juniors",
+            "team_b": "Lanus",
+            "time": "07:30",
             "date": "29/08",
             "blv": "Chưa có link",
             "is_live": false,
@@ -524,7 +524,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-57461a0adc_c8196d0e_20260829.png?v=f7043e0d",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-682a47335b_233dff0a_20260829.png?v=77a45f95",
             "width": 1600,
             "height": 1200
           }
