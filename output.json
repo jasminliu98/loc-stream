@@ -150,77 +150,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-ea90a9b113",
-          "name": "Ansan Greeners vs Daegu Fc | 17:30 28/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ea90a9b113",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ea90a9b113",
-                  "name": "Ansan Greeners vs Daegu Fc",
-                  "streams": [
-                    {
-                      "id": "st-ea90a9b113",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Ansan Greeners",
-            "team_b": "Daegu Fc",
-            "time": "17:30",
-            "date": "28/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1a9cb28513_e610cf62_20260828.png?v=7d1bc7b7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-1dd133326d",
           "name": "Sabah Fa vs Penang | 18:30 28/08",
           "type": "single",
@@ -287,6 +216,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bcea2ed51e_5818700e_20260828.png?v=6daf1d7d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ea90a9b113",
+          "name": "Ansan Greeners vs Daegu Fc | 17:30 28/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ea90a9b113",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ea90a9b113",
+                  "name": "Ansan Greeners vs Daegu Fc",
+                  "streams": [
+                    {
+                      "id": "st-ea90a9b113",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Ansan Greeners",
+            "team_b": "Daegu Fc",
+            "time": "17:30",
+            "date": "28/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1a9cb28513_e610cf62_20260828.png?v=7d1bc7b7",
             "width": 1600,
             "height": 1200
           }
