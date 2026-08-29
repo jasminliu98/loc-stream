@@ -11,20 +11,20 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-3f5e6c6774",
-          "name": "Liverpool vs Nottingham Forest | 18:30 29/08",
+          "id": "ch-c4d69d0672",
+          "name": "Bournemouth vs Everton | 21:00 29/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (2)",
+              "text": "● LIVE (1)",
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
@@ -32,40 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-3f5e6c6774",
+              "id": "src-c4d69d0672",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-3f5e6c6774",
-                  "name": "Liverpool vs Nottingham Forest",
+                  "id": "ct-c4d69d0672",
+                  "name": "Bournemouth vs Everton",
                   "streams": [
                     {
-                      "id": "st-3f5e6c6774",
+                      "id": "st-c4d69d0672",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-959b9ee9a1",
+                          "id": "lnk-0cd40431c5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ae1a96b0be",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -86,11 +69,11 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Liverpool",
-            "team_b": "Nottingham Forest",
-            "time": "18:30",
+            "team_a": "Bournemouth",
+            "team_b": "Everton",
+            "time": "21:00",
             "date": "29/08",
-            "blv": "Stream, Stream",
+            "blv": "Stream",
             "is_live": true,
             "status": "live",
             "cate_type": "football"
@@ -99,7 +82,78 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-984166c6ea_0f6c1f94_20260829.png?v=afce84ff",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-20717eb2dd_206150a7_20260829.png?v=b436d55f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6cebc02727",
+          "name": "Coventry vs Hull City | 21:00 29/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6cebc02727",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6cebc02727",
+                  "name": "Coventry vs Hull City",
+                  "streams": [
+                    {
+                      "id": "st-6cebc02727",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25ef28843d",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Coventry",
+            "team_b": "Hull City",
+            "time": "21:00",
+            "date": "29/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-58d8a85291_377eb2a0_20260829.png?v=9ed47047",
             "width": 1600,
             "height": 1200
           }
@@ -313,148 +367,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d3e7e54b5a_e68bc02f_20260829.png?v=35d151df",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-c4d69d0672",
-          "name": "Bournemouth vs Everton | 21:00 29/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c4d69d0672",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c4d69d0672",
-                  "name": "Bournemouth vs Everton",
-                  "streams": [
-                    {
-                      "id": "st-c4d69d0672",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Bournemouth",
-            "team_b": "Everton",
-            "time": "21:00",
-            "date": "29/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-20717eb2dd_206150a7_20260829.png?v=b436d55f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-6cebc02727",
-          "name": "Coventry vs Hull City | 21:00 29/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6cebc02727",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-6cebc02727",
-                  "name": "Coventry vs Hull City",
-                  "streams": [
-                    {
-                      "id": "st-6cebc02727",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ef28843d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Coventry",
-            "team_b": "Hull City",
-            "time": "21:00",
-            "date": "29/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-58d8a85291_377eb2a0_20260829.png?v=9ed47047",
             "width": 1600,
             "height": 1200
           }
