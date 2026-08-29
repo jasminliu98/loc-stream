@@ -17,6 +17,148 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-2aa163eb70",
+          "name": "Sv Elversberg vs Bayer Leverkusen | 20:30 29/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2aa163eb70",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2aa163eb70",
+                  "name": "Sv Elversberg vs Bayer Leverkusen",
+                  "streams": [
+                    {
+                      "id": "st-2aa163eb70",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sv Elversberg",
+            "team_b": "Bayer Leverkusen",
+            "time": "20:30",
+            "date": "29/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d3487413d0_d62f0ee3_20260829.png?v=f54ca416",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-5a12c98d7b",
+          "name": "Rb Leipzig vs Borussia Mönchengladbach | 20:30 29/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5a12c98d7b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-5a12c98d7b",
+                  "name": "Rb Leipzig vs Borussia Mönchengladbach",
+                  "streams": [
+                    {
+                      "id": "st-5a12c98d7b",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Rb Leipzig",
+            "team_b": "Borussia Mönchengladbach",
+            "time": "20:30",
+            "date": "29/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d3e7e54b5a_e68bc02f_20260829.png?v=35d151df",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-3f5e6c6774",
           "name": "Liverpool vs Nottingham Forest | 18:30 29/08",
           "type": "single",
@@ -171,148 +313,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0c490b32e9_6ff02fb3_20260829.png?v=ae54a5c0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-2aa163eb70",
-          "name": "Sv Elversberg vs Bayer Leverkusen | 20:30 29/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2aa163eb70",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-2aa163eb70",
-                  "name": "Sv Elversberg vs Bayer Leverkusen",
-                  "streams": [
-                    {
-                      "id": "st-2aa163eb70",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sv Elversberg",
-            "team_b": "Bayer Leverkusen",
-            "time": "20:30",
-            "date": "29/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d3487413d0_d62f0ee3_20260829.png?v=f54ca416",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-5a12c98d7b",
-          "name": "Rb Leipzig vs Borussia Mönchengladbach | 20:30 29/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5a12c98d7b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-5a12c98d7b",
-                  "name": "Rb Leipzig vs Borussia Mönchengladbach",
-                  "streams": [
-                    {
-                      "id": "st-5a12c98d7b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Rb Leipzig",
-            "team_b": "Borussia Mönchengladbach",
-            "time": "20:30",
-            "date": "29/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d3e7e54b5a_e68bc02f_20260829.png?v=35d151df",
             "width": 1600,
             "height": 1200
           }
