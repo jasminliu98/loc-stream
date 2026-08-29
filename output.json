@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-810e07d570",
-          "name": "Real Sociedad vs Espanyol | 00:00 30/08",
+          "id": "ch-0ab415aa8e",
+          "name": "Sevilla vs Atletico Madrid | 02:30 30/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-810e07d570",
+              "id": "src-0ab415aa8e",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-810e07d570",
-                  "name": "Real Sociedad vs Espanyol",
+                  "id": "ct-0ab415aa8e",
+                  "name": "Sevilla vs Atletico Madrid",
                   "streams": [
                     {
-                      "id": "st-810e07d570",
+                      "id": "st-0ab415aa8e",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-a6ace71bea",
+                          "id": "lnk-959b9ee9a1",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Real Sociedad",
-            "team_b": "Espanyol",
-            "time": "00:00",
+            "team_a": "Sevilla",
+            "team_b": "Atletico Madrid",
+            "time": "02:30",
             "date": "30/08",
             "blv": "Stream",
             "is_live": true,
@@ -82,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1144baa9a4_bcbaeffa_20260830.png?v=782246ea",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a2e9cd44c2_e3e1a83d_20260830.png?v=b2118d2c",
             "width": 1600,
             "height": 1200
           }
@@ -225,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8ee40a05b3_235e9538_20260830.png?v=debecab9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-0ab415aa8e",
-          "name": "Sevilla vs Atletico Madrid | 02:30 30/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0ab415aa8e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-0ab415aa8e",
-                  "name": "Sevilla vs Atletico Madrid",
-                  "streams": [
-                    {
-                      "id": "st-0ab415aa8e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sevilla",
-            "team_b": "Atletico Madrid",
-            "time": "02:30",
-            "date": "30/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a2e9cd44c2_e3e1a83d_20260830.png?v=b2118d2c",
             "width": 1600,
             "height": 1200
           }
