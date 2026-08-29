@@ -97,77 +97,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-65451a09f7",
-          "name": "V-Varen Nagasaki vs Fc Tokyo | 16:30 29/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-65451a09f7",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-65451a09f7",
-                  "name": "V-Varen Nagasaki vs Fc Tokyo",
-                  "streams": [
-                    {
-                      "id": "st-65451a09f7",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "V-Varen Nagasaki",
-            "team_b": "Fc Tokyo",
-            "time": "16:30",
-            "date": "29/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-158ce78114_71bf160e_20260829.png?v=67c59271",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-3f5e6c6774",
           "name": "Liverpool vs Nottingham Forest | 18:30 29/08",
           "type": "single",
@@ -251,6 +180,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-984166c6ea_0f6c1f94_20260829.png?v=afce84ff",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-65451a09f7",
+          "name": "V-Varen Nagasaki vs Fc Tokyo | 16:30 29/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-65451a09f7",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-65451a09f7",
+                  "name": "V-Varen Nagasaki vs Fc Tokyo",
+                  "streams": [
+                    {
+                      "id": "st-65451a09f7",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "V-Varen Nagasaki",
+            "team_b": "Fc Tokyo",
+            "time": "16:30",
+            "date": "29/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-158ce78114_71bf160e_20260829.png?v=67c59271",
             "width": 1600,
             "height": 1200
           }
