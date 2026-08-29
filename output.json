@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-05968df99e",
-          "name": "Atletico-Mg vs Vitoria | 04:30 30/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-05968df99e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-05968df99e",
-                  "name": "Atletico-Mg vs Vitoria",
-                  "streams": [
-                    {
-                      "id": "st-05968df99e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ef28843d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Atletico-Mg",
-            "team_b": "Vitoria",
-            "time": "04:30",
-            "date": "30/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9b2a75a8d7_440a02ad_20260830.png?v=017fe9a1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-0ad6d910e3",
           "name": "Inter Miami vs Cf Montreal | 06:30 30/08",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-68fe1ed10d_39ae2763_20260830.png?v=6c10fc1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-05968df99e",
+          "name": "Atletico-Mg vs Vitoria | 04:30 30/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-05968df99e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-05968df99e",
+                  "name": "Atletico-Mg vs Vitoria",
+                  "streams": [
+                    {
+                      "id": "st-05968df99e",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25ef28843d",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Atletico-Mg",
+            "team_b": "Vitoria",
+            "time": "04:30",
+            "date": "30/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9b2a75a8d7_440a02ad_20260830.png?v=017fe9a1",
             "width": 1600,
             "height": 1200
           }
