@@ -97,59 +97,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c573d9e064",
-          "name": "Moreton City Excelsior vs Gold Coast Knights | 14:00 29/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c573d9e064",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c573d9e064",
-                  "name": "Moreton City Excelsior vs Gold Coast Knights",
-                  "streams": [
-                    {
-                      "id": "st-c573d9e064",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Moreton City Excelsior",
-            "team_b": "Gold Coast Knights",
-            "time": "14:00",
-            "date": "29/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-62660a5628_c140a6f9_20260829.png?v=27573c9e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-65451a09f7",
           "name": "V-Varen Nagasaki vs Fc Tokyo | 16:30 29/08",
           "type": "single",
