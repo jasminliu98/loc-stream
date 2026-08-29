@@ -73,82 +73,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-0ce1db2bfa",
-          "name": "Boca Juniors vs Lanus | 07:30 29/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0ce1db2bfa",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-0ce1db2bfa",
-                  "name": "Boca Juniors vs Lanus",
-                  "streams": [
-                    {
-                      "id": "st-0ce1db2bfa",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Boca Juniors",
-            "team_b": "Lanus",
-            "time": "07:30",
-            "date": "29/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-682a47335b_233dff0a_20260829.png?v=77a45f95",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-a62714d140",
           "name": "Necaxa vs Cruz Azul | 08:00 29/08",
