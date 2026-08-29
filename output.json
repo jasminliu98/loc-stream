@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-06989c75ab",
-          "name": "Levante vs Real Betis | 22:00 29/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-06989c75ab",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-06989c75ab",
-                  "name": "Levante vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "st-06989c75ab",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Levante",
-            "team_b": "Real Betis",
-            "time": "22:00",
-            "date": "29/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-46c32c0e35_fcb371ce_20260829.png?v=1c981597",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-2aa163eb70",
           "name": "Sv Elversberg vs Bayer Leverkusen | 20:30 29/08",
           "type": "single",
@@ -367,6 +296,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-58d8a85291_377eb2a0_20260829.png?v=9ed47047",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-06989c75ab",
+          "name": "Levante vs Real Betis | 22:00 29/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-06989c75ab",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-06989c75ab",
+                  "name": "Levante vs Real Betis",
+                  "streams": [
+                    {
+                      "id": "st-06989c75ab",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Levante",
+            "team_b": "Real Betis",
+            "time": "22:00",
+            "date": "29/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-46c32c0e35_fcb371ce_20260829.png?v=1c981597",
             "width": 1600,
             "height": 1200
           }
