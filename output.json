@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c4fc6bec0e",
-          "name": "Napoli vs Como | 23:30 30/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c4fc6bec0e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c4fc6bec0e",
-                  "name": "Napoli vs Como",
-                  "streams": [
-                    {
-                      "id": "st-c4fc6bec0e",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Napoli",
-            "team_b": "Como",
-            "time": "23:30",
-            "date": "30/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a39d5b6d65_7741bcbd_20260831.png?v=c600c031",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-8d74be0851",
           "name": "Deportivo La Coruna vs Valencia | 00:30 31/08",
           "type": "single",
