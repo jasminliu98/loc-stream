@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-1af02d88bd",
-          "name": "Chelsea vs Brighton | 20:00 30/08",
+          "id": "ch-fb78b6f6b8",
+          "name": "Manchester United vs Ipswich | 22:30 30/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-1af02d88bd",
+              "id": "src-fb78b6f6b8",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-1af02d88bd",
-                  "name": "Chelsea vs Brighton",
+                  "id": "ct-fb78b6f6b8",
+                  "name": "Manchester United vs Ipswich",
                   "streams": [
                     {
-                      "id": "st-1af02d88bd",
+                      "id": "st-fb78b6f6b8",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-0cd40431c5",
+                          "id": "lnk-959b9ee9a1",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -86,9 +86,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Chelsea",
-            "team_b": "Brighton",
-            "time": "20:00",
+            "team_a": "Manchester United",
+            "team_b": "Ipswich",
+            "time": "22:30",
             "date": "30/08",
             "blv": "Stream, Stream",
             "is_live": true,
@@ -99,149 +99,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1a396ca046_fbeb7504_20260830.png?v=8056df08",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-227742afdc",
-          "name": "Leeds vs Brentford | 20:00 30/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-227742afdc",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-227742afdc",
-                  "name": "Leeds vs Brentford",
-                  "streams": [
-                    {
-                      "id": "st-227742afdc",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Leeds",
-            "team_b": "Brentford",
-            "time": "20:00",
-            "date": "30/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f1ae9cf3fd_0148b4ce_20260830.png?v=f5f14661",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-6d1daa4a57",
-          "name": "Sunderland vs Fulham | 20:00 30/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6d1daa4a57",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-6d1daa4a57",
-                  "name": "Sunderland vs Fulham",
-                  "streams": [
-                    {
-                      "id": "st-6d1daa4a57",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sunderland",
-            "team_b": "Fulham",
-            "time": "20:00",
-            "date": "30/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-792c9182d7_ea26d147_20260830.png?v=1820e986",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9f3f28a813_77c606d1_20260830.png?v=9ff48521",
             "width": 1600,
             "height": 1200
           }
@@ -401,94 +259,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1adca48bc6_13c55639_20260830.png?v=93330b41",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-fb78b6f6b8",
-          "name": "Manchester United vs Ipswich | 22:30 30/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (2)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fb78b6f6b8",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-fb78b6f6b8",
-                  "name": "Manchester United vs Ipswich",
-                  "streams": [
-                    {
-                      "id": "st-fb78b6f6b8",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ae1a96b0be",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Manchester United",
-            "team_b": "Ipswich",
-            "time": "22:30",
-            "date": "30/08",
-            "blv": "Stream, Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9f3f28a813_77c606d1_20260830.png?v=9ff48521",
             "width": 1600,
             "height": 1200
           }
