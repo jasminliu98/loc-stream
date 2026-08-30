@@ -79,77 +79,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-0a82352d2b",
-          "name": "Sc Freiburg vs Werder Bremen | 20:30 30/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0a82352d2b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-0a82352d2b",
-                  "name": "Sc Freiburg vs Werder Bremen",
-                  "streams": [
-                    {
-                      "id": "st-0a82352d2b",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0bd5e53133",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sc Freiburg",
-            "team_b": "Werder Bremen",
-            "time": "20:30",
-            "date": "30/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b9fe867906_cb9510b7_20260830.png?v=a3257e1d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-1af02d88bd",
           "name": "Chelsea vs Brighton | 20:00 30/08",
           "type": "single",
@@ -380,32 +309,50 @@
           }
         },
         {
-          "id": "ch-528a69dea1",
-          "name": "Công An Hà Nội vs Tp. Hồ Chí Minh | 18:00 30/08",
+          "id": "ch-0a82352d2b",
+          "name": "Sc Freiburg vs Werder Bremen | 20:30 30/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": " Sắp",
+              "text": "● LIVE (1)",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-528a69dea1",
+              "id": "src-0a82352d2b",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-528a69dea1",
-                  "name": "Công An Hà Nội vs Tp. Hồ Chí Minh",
+                  "id": "ct-0a82352d2b",
+                  "name": "Sc Freiburg vs Werder Bremen",
                   "streams": [
                     {
-                      "id": "st-528a69dea1",
+                      "id": "st-0a82352d2b",
                       "name": "Streams",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-0bd5e53133",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -414,20 +361,20 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Công An Hà Nội",
-            "team_b": "Tp. Hồ Chí Minh",
-            "time": "18:00",
+            "team_a": "Sc Freiburg",
+            "team_b": "Werder Bremen",
+            "time": "20:30",
             "date": "30/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fddb1eaa2a_39cad941_20260830.png?v=405cd273",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b9fe867906_cb9510b7_20260830.png?v=a3257e1d",
             "width": 1600,
             "height": 1200
           }
