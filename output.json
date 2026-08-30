@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c5f48b0e75",
-          "name": "Mirassol vs Palmeiras | 04:30 31/08",
+          "id": "ch-255eda0fbd",
+          "name": "Toluca vs Fc Juarez | 07:00 31/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-c5f48b0e75",
+              "id": "src-255eda0fbd",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-c5f48b0e75",
-                  "name": "Mirassol vs Palmeiras",
+                  "id": "ct-255eda0fbd",
+                  "name": "Toluca vs Fc Juarez",
                   "streams": [
                     {
-                      "id": "st-c5f48b0e75",
+                      "id": "st-255eda0fbd",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-0cd40431c5",
+                          "id": "lnk-a6ace71bea",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Mirassol",
-            "team_b": "Palmeiras",
-            "time": "04:30",
+            "team_a": "Toluca",
+            "team_b": "Fc Juarez",
+            "time": "07:00",
             "date": "31/08",
             "blv": "Stream",
             "is_live": true,
@@ -82,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-924dd05b2a_271b61e3_20260831.png?v=977ef323",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-74d2ca574c_905e9108_20260831.png?v=4fc15b2a",
             "width": 1600,
             "height": 1200
           }
@@ -154,77 +154,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1855d7b398_d0c44df6_20260831.png?v=746eaded",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-255eda0fbd",
-          "name": "Toluca vs Fc Juarez | 07:00 31/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-255eda0fbd",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-255eda0fbd",
-                  "name": "Toluca vs Fc Juarez",
-                  "streams": [
-                    {
-                      "id": "st-255eda0fbd",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Toluca",
-            "team_b": "Fc Juarez",
-            "time": "07:00",
-            "date": "31/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-74d2ca574c_905e9108_20260831.png?v=4fc15b2a",
             "width": 1600,
             "height": 1200
           }
