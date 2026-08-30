@@ -97,77 +97,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-528a69dea1",
-          "name": "Công An Hà Nội vs Tp. Hồ Chí Minh | 18:00 30/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-528a69dea1",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-528a69dea1",
-                  "name": "Công An Hà Nội vs Tp. Hồ Chí Minh",
-                  "streams": [
-                    {
-                      "id": "st-528a69dea1",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Công An Hà Nội",
-            "team_b": "Tp. Hồ Chí Minh",
-            "time": "18:00",
-            "date": "30/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fddb1eaa2a_39cad941_20260830.png?v=405cd273",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-1af02d88bd",
           "name": "Chelsea vs Brighton | 20:00 30/08",
           "type": "single",
@@ -393,6 +322,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-792c9182d7_ea26d147_20260830.png?v=1820e986",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-528a69dea1",
+          "name": "Công An Hà Nội vs Tp. Hồ Chí Minh | 18:00 30/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-528a69dea1",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-528a69dea1",
+                  "name": "Công An Hà Nội vs Tp. Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-528a69dea1",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Công An Hà Nội",
+            "team_b": "Tp. Hồ Chí Minh",
+            "time": "18:00",
+            "date": "30/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fddb1eaa2a_39cad941_20260830.png?v=405cd273",
             "width": 1600,
             "height": 1200
           }
