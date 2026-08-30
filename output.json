@@ -91,82 +91,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-75132ef5da",
-          "name": "Gangwon Fc vs Pohang Steelers | 17:30 30/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-75132ef5da",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-75132ef5da",
-                  "name": "Gangwon Fc vs Pohang Steelers",
-                  "streams": [
-                    {
-                      "id": "st-75132ef5da",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ef28843d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Gangwon Fc",
-            "team_b": "Pohang Steelers",
-            "time": "17:30",
-            "date": "30/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ff188888c3_e1ff04a2_20260830.png?v=53596acb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-528a69dea1",
           "name": "Công An Hà Nội vs Tp. Hồ Chí Minh | 18:00 30/08",
