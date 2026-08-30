@@ -424,8 +424,8 @@
           }
         },
         {
-          "id": "ch-a46a7d5872",
-          "name": "Atlético San Luis W vs Atlas W | 06:00 31/08",
+          "id": "ch-f9c3b83141",
+          "name": "St. Louis City vs Fc Dallas | 06:00 31/08",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -439,15 +439,15 @@
           ],
           "sources": [
             {
-              "id": "src-a46a7d5872",
+              "id": "src-f9c3b83141",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-a46a7d5872",
-                  "name": "Atlético San Luis W vs Atlas W",
+                  "id": "ct-f9c3b83141",
+                  "name": "St. Louis City vs Fc Dallas",
                   "streams": [
                     {
-                      "id": "st-a46a7d5872",
+                      "id": "st-f9c3b83141",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -458,8 +458,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Atlético San Luis W",
-            "team_b": "Atlas W",
+            "team_a": "St. Louis City",
+            "team_b": "Fc Dallas",
             "time": "06:00",
             "date": "31/08",
             "blv": "Chưa có link",
@@ -471,7 +471,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8d3a3c18d8_9502c900_20260831.png?v=e7b1b514",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1855d7b398_d0c44df6_20260831.png?v=746eaded",
             "width": 1600,
             "height": 1200
           }
