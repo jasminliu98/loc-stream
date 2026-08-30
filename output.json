@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c4fc6bec0e",
-          "name": "Napoli vs Como | 23:30 30/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c4fc6bec0e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c4fc6bec0e",
-                  "name": "Napoli vs Como",
-                  "streams": [
-                    {
-                      "id": "st-c4fc6bec0e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Napoli",
-            "team_b": "Como",
-            "time": "23:30",
-            "date": "30/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a39d5b6d65_7741bcbd_20260830.png?v=c600c031",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-2526bc6049",
           "name": "Real Madrid vs Malaga | 22:00 30/08",
           "type": "single",
@@ -242,6 +171,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9f3f28a813_77c606d1_20260830.png?v=9ff48521",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c4fc6bec0e",
+          "name": "Napoli vs Como | 23:30 30/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c4fc6bec0e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c4fc6bec0e",
+                  "name": "Napoli vs Como",
+                  "streams": [
+                    {
+                      "id": "st-c4fc6bec0e",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Napoli",
+            "team_b": "Como",
+            "time": "23:30",
+            "date": "30/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a39d5b6d65_7741bcbd_20260830.png?v=c600c031",
             "width": 1600,
             "height": 1200
           }
