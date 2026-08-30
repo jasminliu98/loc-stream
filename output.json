@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-0a82352d2b",
-          "name": "Sc Freiburg vs Werder Bremen | 20:30 30/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0a82352d2b",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-0a82352d2b",
-                  "name": "Sc Freiburg vs Werder Bremen",
-                  "streams": [
-                    {
-                      "id": "st-0a82352d2b",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sc Freiburg",
-            "team_b": "Werder Bremen",
-            "time": "20:30",
-            "date": "30/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b9fe867906_cb9510b7_20260830.png?v=a3257e1d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-2526bc6049",
           "name": "Real Madrid vs Malaga | 22:00 30/08",
           "type": "single",
