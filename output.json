@@ -468,112 +468,6 @@
           }
         },
         {
-          "id": "ch-702f5a1cd0",
-          "name": "Aston Villa vs Arsenal | 02:00 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-702f5a1cd0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-702f5a1cd0",
-                  "name": "Aston Villa vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "st-702f5a1cd0",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Aston Villa",
-            "team_b": "Arsenal",
-            "time": "02:00",
-            "date": "01/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bdd49692ca_4da65cd6_20260831.png?v=568cd44a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-cf7c6826d1",
-          "name": "Barcelona vs Rayo Vallecano | 02:30 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cf7c6826d1",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-cf7c6826d1",
-                  "name": "Barcelona vs Rayo Vallecano",
-                  "streams": [
-                    {
-                      "id": "st-cf7c6826d1",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Barcelona",
-            "team_b": "Rayo Vallecano",
-            "time": "02:30",
-            "date": "01/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa72b18488_645e4854_20260831.png?v=550d05ab",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-46ee3befac",
           "name": "Thailand U20 vs United Arab Emirates | 19:30 31/08",
           "type": "single",
@@ -887,6 +781,112 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ce7ff599c6_3921bd84_20260831.png?v=e341c0b2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-702f5a1cd0",
+          "name": "Aston Villa vs Arsenal | 02:00 01/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-702f5a1cd0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-702f5a1cd0",
+                  "name": "Aston Villa vs Arsenal",
+                  "streams": [
+                    {
+                      "id": "st-702f5a1cd0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Aston Villa",
+            "team_b": "Arsenal",
+            "time": "02:00",
+            "date": "01/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bdd49692ca_4da65cd6_20260831.png?v=568cd44a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-cf7c6826d1",
+          "name": "Barcelona vs Rayo Vallecano | 02:30 01/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cf7c6826d1",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-cf7c6826d1",
+                  "name": "Barcelona vs Rayo Vallecano",
+                  "streams": [
+                    {
+                      "id": "st-cf7c6826d1",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Barcelona",
+            "team_b": "Rayo Vallecano",
+            "time": "02:30",
+            "date": "01/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa72b18488_645e4854_20260831.png?v=550d05ab",
             "width": 1600,
             "height": 1200
           }
