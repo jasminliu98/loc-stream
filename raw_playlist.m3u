@@ -1,16 +1,10 @@
 #EXTM3U x-tvg-name="TINHLAGI.PRO" name="TINHLAGI.PRO"
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788141603" group-title="🌈 TINHLAGI.PRO",Cập Nhật
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788141903" group-title="🌈 TINHLAGI.PRO",Cập Nhật
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788141603" group-title="🌈 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788141903" group-title="🌈 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788141603" group-title="🌈 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788141903" group-title="🌈 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F725ccd5793be6b4f8dd917170dd17d04.png%21w80&time=07%3A00+31%2F08" group-title="🔴 COLA TV",07:00 31/08 Toluca vs Juarez (BLV SAMURAI) [flv]
-https://live05.meung.app/live/07808742.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F725ccd5793be6b4f8dd917170dd17d04.png%21w80&time=07%3A00+31%2F08" group-title="🔴 COLA TV",07:00 31/08 Toluca vs Juarez (BLV SAMURAI) [hls]
-https://live05.meung.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F725ccd5793be6b4f8dd917170dd17d04.png%21w80&time=07%3A00+31%2F08" group-title="🔴 COLA TV",07:00 31/08 Toluca vs Juarez (BLV SAMURAI) [hls 2]
-https://live05.miekgo.app/live/07808742.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fteam%2F58709b9e7964e03c28ebe777ef823eca.png%21w80&time=07%3A30+31%2F08" group-title="🔴 COLA TV",07:30 31/08 Dallas Wings vs Connecticut Sun (BLV Cozy) [flv]
 https://live05.meung.app/live/87379114.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimg.gvapi.cc%2Fbasketball%2Fteam%2F58709b9e7964e03c28ebe777ef823eca.png%21w80&time=07%3A30+31%2F08" group-title="🔴 COLA TV",07:30 31/08 Dallas Wings vs Connecticut Sun (BLV Cozy) [hls]
@@ -131,9 +125,6 @@ https://live05.meung.app/live/16226575.flv
 https://live05.meung.app/live/16226575.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F8ae657d992b70843447d0e50108cbf37.png%21w80&time=21%3A00+31%2F08" group-title="🔴 COLA TV",21:00 31/08 Asyut Petroleum vs NBE SC (BLV FANTA) [hls 2]
 https://live05.miekgo.app/live/16226575.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2F20250921_010707_d23dff4c.png&time=07%3A00+31%2F08" group-title="🔴 CHUỐI CHIÊN TV",07:00 31/08 Toluca vs FC Juarez (Chuối To) [FHD] [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_131433_e85dcdc4.png&time=09%3A10+31%2F08" group-title="🔴 CHUỐI CHIÊN TV",09:10 31/08 Monterrey vs Atletico San Luis (Chuối Kem) [FHD] [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
@@ -197,18 +188,10 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2F20250916_004011_bb3475cd.png&time=08%3A06+01%2F09" group-title="🔴 CHUỐI CHIÊN TV",08:06 01/09 Santos Laguna W vs Atlante W (A Ngao) [FHD] [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F725ccd5793be6b4f8dd917170dd17d04.png&time=07%3A00+31%2F08" group-title="🔴 VUA SÂN CỎ TV",07:00 31/08 Toluca vs FC Juarez (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/2d38c400f83bf461dd3333e5d3bbf67c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F725ccd5793be6b4f8dd917170dd17d04.png&time=07%3A00+31%2F08" group-title="🔴 VUA SÂN CỎ TV",07:00 31/08 Toluca vs FC Juarez (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/2d38c400f83bf461dd3333e5d3bbf67c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F9d9f49c182f05d684f38fbb480eba34b.png&time=07%3A00+31%2F08" group-title="🔴 VUA SÂN CỎ TV",07:00 31/08 Deportivo Saprissa vs Escorpiones Belen (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/7b9f20da5dc76771c02120dba7dff82e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F9d9f49c182f05d684f38fbb480eba34b.png&time=07%3A00+31%2F08" group-title="🔴 VUA SÂN CỎ TV",07:00 31/08 Deportivo Saprissa vs Escorpiones Belen (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/7b9f20da5dc76771c02120dba7dff82e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fe868bb2eac1923c5aecaddd492860b32.png&time=07%3A00+31%2F08" group-title="🔴 VUA SÂN CỎ TV",07:00 31/08 Cienciano vs Cusco FC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/6d53febda968aa7112ecc6c1cb193a6e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fe868bb2eac1923c5aecaddd492860b32.png&time=07%3A00+31%2F08" group-title="🔴 VUA SÂN CỎ TV",07:00 31/08 Cienciano vs Cusco FC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/6d53febda968aa7112ecc6c1cb193a6e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fe62f69a9de87796972eb59d19c27e59c.png&time=07%3A00+31%2F08" group-title="🔴 VUA SÂN CỎ TV",07:00 31/08 Coquimbo Unido vs Huachipato (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/ab1a07283643003b300b8f60f3c55b9a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fe62f69a9de87796972eb59d19c27e59c.png&time=07%3A00+31%2F08" group-title="🔴 VUA SÂN CỎ TV",07:00 31/08 Coquimbo Unido vs Huachipato (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/ab1a07283643003b300b8f60f3c55b9a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F7e779bba58b944c8cfa786d857430383.png&time=07%3A30+31%2F08" group-title="🔴 VUA SÂN CỎ TV",07:30 31/08 Independiente Rivadavia vs Racing Club de Avellaneda (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/59f8437d8403181c092a1e97b6c98dec/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F7e779bba58b944c8cfa786d857430383.png&time=07%3A30+31%2F08" group-title="🔴 VUA SÂN CỎ TV",07:30 31/08 Independiente Rivadavia vs Racing Club de Avellaneda (Nhà Đài 1)
@@ -229,14 +212,14 @@ https://station1-global.ebaclofen.org/live/cf19c549146be21865837411d34d92e9/play
 https://station1-global.ebaclofen.org/live/baf2367628d55bbf6f4c962a37c79e41/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F3d84980e4dec8902b3bf627228141c2d.png&time=16%3A00+31%2F08" group-title="🔴 VUA SÂN CỎ TV",16:00 31/08 LNZ Cherkasy U21 vs Veres Rivne U21 (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/baf2367628d55bbf6f4c962a37c79e41/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F09d6732e74cc8f4ece8cfac78a4ef777.png&time=16%3A30+31%2F08" group-title="🔴 VUA SÂN CỎ TV",16:30 31/08 Okinawa SV vs Azul Claro Numazu (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/80227297622fe1d8517d270fb2d6a54d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F09d6732e74cc8f4ece8cfac78a4ef777.png&time=16%3A30+31%2F08" group-title="🔴 VUA SÂN CỎ TV",16:30 31/08 Okinawa SV vs Azul Claro Numazu (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/80227297622fe1d8517d270fb2d6a54d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F7a2ca0a9a53ae410965c536014cbe3ba.png&time=16%3A30+31%2F08" group-title="🔴 VUA SÂN CỎ TV",16:30 31/08 Myanmar U20 vs Sri Lanka U20 (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/4e8c7b78432afe39719eff765addfe4f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F7a2ca0a9a53ae410965c536014cbe3ba.png&time=16%3A30+31%2F08" group-title="🔴 VUA SÂN CỎ TV",16:30 31/08 Myanmar U20 vs Sri Lanka U20 (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/4e8c7b78432afe39719eff765addfe4f/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F09d6732e74cc8f4ece8cfac78a4ef777.png&time=16%3A30+31%2F08" group-title="🔴 VUA SÂN CỎ TV",16:30 31/08 Okinawa SV vs Azul Claro Numazu (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/80227297622fe1d8517d270fb2d6a54d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F09d6732e74cc8f4ece8cfac78a4ef777.png&time=16%3A30+31%2F08" group-title="🔴 VUA SÂN CỎ TV",16:30 31/08 Okinawa SV vs Azul Claro Numazu (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/80227297622fe1d8517d270fb2d6a54d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fb2826b738926150bfd7c91069005153a.png&time=17%3A00+31%2F08" group-title="🔴 VUA SÂN CỎ TV",17:00 31/08 FC Zorya Luhansk U21 vs FC Kharkiv U21 (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/9d0bc1a774b1c798358bcc42acf8a398/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fb2826b738926150bfd7c91069005153a.png&time=17%3A00+31%2F08" group-title="🔴 VUA SÂN CỎ TV",17:00 31/08 FC Zorya Luhansk U21 vs FC Kharkiv U21 (Nhà Đài 1)
@@ -349,66 +332,66 @@ https://flv.lauthaitv.cc/live/remo-cortiba-brasa.flv
 https://hls.lauthaitv.cc/live/ucatolica-higgins-chiliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2F2ms8tv.top%2Fwp-json%2Fs8-image%2F0ef75dc3-4d83-400e-85b1-77968ee856d2&time=07%3A45+01%2F09" group-title="🔴 S8 TV",07:45 01/09 Univ Catolica vs O.Higgins (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/ucatolica-higgins-chiliga.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Fbasketball%2Fteam%2F6ypq3ktz5ypmd7o%2Fimage%2Fsmall&time=09%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",09:00 31/08 Gambusinos de Fresnillo vs Lobos de Puebla (STEP)
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.brenvoxedgenetwork.com/live/channel26.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Fbasketball%2Fteam%2F6ypq3ktz5ypmd7o%2Fimage%2Fsmall&time=09%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",09:00 31/08 Gambusinos de Fresnillo vs Lobos de Puebla (HD STEP) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.pro2cdnlive.com/live/channel-26.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fz318q66h9p6qo9j%2Fimage%2Fsmall&time=07%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:00 31/08 Toluca vs FC Juarez (RIO)
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.brenvoxedgenetwork.com/live/channel16.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fz318q66h9p6qo9j%2Fimage%2Fsmall&time=07%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:00 31/08 Toluca vs FC Juarez (HD RIO) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001788140773-0-0-f6feab6798ca6e8c8a38bdb1e0e7bbbc
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fn54qllh2np4qvy9%2Fimage%2Fsmall&time=07%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:30 31/08 Ind. Rivadavia vs Racing Club (FILIP)
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.brenvoxedgenetwork.com/live/channel19.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fn54qllh2np4qvy9%2Fimage%2Fsmall&time=07%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:30 31/08 Ind. Rivadavia vs Racing Club (HD FILIP) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001788140784-0-0-67b744ac369cfb721013547cd083e95b
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fdj2ryohkkoeq1zp%2Fimage%2Fsmall&time=08%3A20+31%2F08" group-title="🔴 XÔI LẠC Z TV",08:20 31/08 Deportivo Cali vs Atl. Bucaramanga (KEN)
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.brenvoxedgenetwork.com/live/channel18.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fdj2ryohkkoeq1zp%2Fimage%2Fsmall&time=08%3A20+31%2F08" group-title="🔴 XÔI LẠC Z TV",08:20 31/08 Deportivo Cali vs Atl. Bucaramanga (HD KEN) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001788140793-0-0-d3b017d32d92d52a5069b846d549c2c2
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Fbasketball%2Fteam%2Fjednm9ktljoryox%2Fimage%2Fsmall&time=07%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:30 31/08 Nữ Dallas Wings vs Nữ Connecticut Sun (TOMMY)
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.brenvoxedgenetwork.com/live/channel29.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Fbasketball%2Fteam%2Fjednm9ktljoryox%2Fimage%2Fsmall&time=07%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:30 31/08 Nữ Dallas Wings vs Nữ Connecticut Sun (HD TOMMY) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001788140799-0-0-c307ebd25bc983464a4c5b59b71b777a
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2Fdj2ry1fnd9xr1zp%2Fimage%2Fsmall&time=06%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",06:00 31/08 Mariano Navone vs Novak Djokovic (LUCAS)
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.brenvoxedgenetwork.com/live/channel31.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2Fdj2ry1fnd9xr1zp%2Fimage%2Fsmall&time=06%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",06:00 31/08 Mariano Navone vs Novak Djokovic (HD LUCAS) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.streamhaulcdn.com/livecdn/channel-31.flv?auth_key=3000001788140805-0-0-2091bd4f11cae5ae00b7e1116b92c88d
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F4jwq2pf1vo3m0ve%2Fimage%2Fsmall&time=07%3A10+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:10 31/08 Alexander Bublik vs Jeffrey John Wolf (VIC)
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.brenvoxedgenetwork.com/live/channel32.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F4jwq2pf1vo3m0ve%2Fimage%2Fsmall&time=07%3A10+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:10 31/08 Alexander Bublik vs Jeffrey John Wolf (HD VIC) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.streamhaulcdn.com/livecdn/channel-32.flv?auth_key=3000001788140812-0-0-1bbcc89898955d79d3dbf7751a173b75
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fgpxwrxlh60kryk0%2Fimage%2Fsmall&time=09%3A10+31%2F08" group-title="🔴 XÔI LẠC Z TV",09:10 31/08 Rayados de Monterrey vs Atl. San Luis (ROY)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.brenvoxedgenetwork.com/live/channel1.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fgpxwrxlh60kryk0%2Fimage%2Fsmall&time=09%3A10+31%2F08" group-title="🔴 XÔI LẠC Z TV",09:10 31/08 Rayados de Monterrey vs Atl. San Luis (HD ROY) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001788140817-0-0-bcd11c3f4c9f07bb139b0cd8d0e92a8d
+https://live2.pro2cdnlive.com/live/channel-1.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fz318q66h9p6qo9j%2Fimage%2Fsmall&time=07%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:00 31/08 Toluca vs FC Juarez (RIO)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.brenvoxedgenetwork.com/live/channel16.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fz318q66h9p6qo9j%2Fimage%2Fsmall&time=07%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:00 31/08 Toluca vs FC Juarez (HD RIO) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001788141681-0-0-c93f3a81c0e3633f1145cb8a87aba149
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fn54qllh2np4qvy9%2Fimage%2Fsmall&time=07%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:30 31/08 Ind. Rivadavia vs Racing Club (FILIP)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.brenvoxedgenetwork.com/live/channel19.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fn54qllh2np4qvy9%2Fimage%2Fsmall&time=07%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:30 31/08 Ind. Rivadavia vs Racing Club (HD FILIP) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001788141693-0-0-c04184cdb6a6638c95d5841825ec4067
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fdj2ryohkkoeq1zp%2Fimage%2Fsmall&time=08%3A20+31%2F08" group-title="🔴 XÔI LẠC Z TV",08:20 31/08 Deportivo Cali vs Atl. Bucaramanga (KEN)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.brenvoxedgenetwork.com/live/channel18.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fdj2ryohkkoeq1zp%2Fimage%2Fsmall&time=08%3A20+31%2F08" group-title="🔴 XÔI LẠC Z TV",08:20 31/08 Deportivo Cali vs Atl. Bucaramanga (HD KEN) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001788141700-0-0-75aae35dfbedbc1884e2746227e8cd0e
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Fbasketball%2Fteam%2Fjednm9ktljoryox%2Fimage%2Fsmall&time=07%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:30 31/08 Nữ Dallas Wings vs Nữ Connecticut Sun (TOMMY)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.brenvoxedgenetwork.com/live/channel29.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Fbasketball%2Fteam%2Fjednm9ktljoryox%2Fimage%2Fsmall&time=07%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:30 31/08 Nữ Dallas Wings vs Nữ Connecticut Sun (HD TOMMY) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001788141706-0-0-6e81290bb333553c625a141a8962a901
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Fbasketball%2Fteam%2F6ypq3ktz5ypmd7o%2Fimage%2Fsmall&time=09%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",09:00 31/08 Gambusinos de Fresnillo vs Lobos de Puebla (STEP)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.brenvoxedgenetwork.com/live/channel26.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Fbasketball%2Fteam%2F6ypq3ktz5ypmd7o%2Fimage%2Fsmall&time=09%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",09:00 31/08 Gambusinos de Fresnillo vs Lobos de Puebla (HD STEP) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.streamhaulcdn.com/livecdn/channel-26.flv?auth_key=3000001788141713-0-0-fb268f319f59c1724470671b339a909c
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2Fdj2ry1fnd9xr1zp%2Fimage%2Fsmall&time=06%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",06:00 31/08 Mariano Navone vs Novak Djokovic (LUCAS)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.brenvoxedgenetwork.com/live/channel31.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2Fdj2ry1fnd9xr1zp%2Fimage%2Fsmall&time=06%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",06:00 31/08 Mariano Navone vs Novak Djokovic (HD LUCAS) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.streamhaulcdn.com/livecdn/channel-31.flv?auth_key=3000001788141720-0-0-930cf6b01577b031ad92796c2098d798
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F4jwq2pf1vo3m0ve%2Fimage%2Fsmall&time=07%3A10+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:10 31/08 Alexander Bublik vs Jeffrey John Wolf (VIC)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.brenvoxedgenetwork.com/live/channel32.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F4jwq2pf1vo3m0ve%2Fimage%2Fsmall&time=07%3A10+31%2F08" group-title="🔴 XÔI LẠC Z TV",07:10 31/08 Alexander Bublik vs Jeffrey John Wolf (HD VIC) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.streamhaulcdn.com/livecdn/channel-32.flv?auth_key=3000001788141727-0-0-4530fe5085fe17f5ccd77508d34b56dd
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2F2y8m4zhz307ql07%2Fimage%2Fsmall&time=09%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",09:30 31/08 SJ Earthquakes (R) vs Los Angeles FC II (JOHAN)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.brenvoxedgenetwork.com/live/channel12.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2F2y8m4zhz307ql07%2Fimage%2Fsmall&time=09%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",09:30 31/08 SJ Earthquakes (R) vs Los Angeles FC II (HD JOHAN) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001788140825-0-0-341e9eca3d40c81c723fe87cb9c35d5b
+https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001788141734-0-0-69fc3f759d90618f3aca73f7edddbc0e
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fpxwrxlhzzweryk0%2Fimage%2Fsmall&time=12%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",12:00 31/08 Bắc Mariana U20 vs Mongolia U20 (FELIX)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.brenvoxedgenetwork.com/live/channel24.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fpxwrxlhzzweryk0%2Fimage%2Fsmall&time=12%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",12:00 31/08 Bắc Mariana U20 vs Mongolia U20 (HD FELIX) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001788140832-0-0-0717713dbfc30e687198b40d1d11e860
+https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001788141740-0-0-00c9533a13e1e5d78d44366d34d1b311
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fv2y8m4zhy1vql07%2Fimage%2Fsmall&time=15%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",15:30 31/08 Iraq U20 vs Turkmenistan U20 (TOM)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.pro2cdnlive.com/live/channel4.flv
@@ -439,6 +422,18 @@ https://live2.pro2cdnlive.com/live/channel12.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fpxwrxlhgpxdryk0%2Fimage%2Fsmall&time=16%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",16:00 31/08 Nhật Bản U20 vs Kuwait U20 (HD JOHAN) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.pro2cdnlive.com/live/channel-12.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fednm9whke8kryox%2Fimage%2Fsmall&time=16%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",16:30 31/08 Myanmar U20 vs Sri Lanka U20 (JEAN)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.pro2cdnlive.com/live/channel7.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fednm9whke8kryox%2Fimage%2Fsmall&time=16%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",16:30 31/08 Myanmar U20 vs Sri Lanka U20 (HD JEAN) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.pro2cdnlive.com/live/channel-7.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fzp5rzgh741xq82w%2Fimage%2Fsmall&time=17%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",17:00 31/08 Lebanon U20 vs Hàn Quốc U20 (KEN)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.pro2cdnlive.com/live/channel18.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fzp5rzgh741xq82w%2Fimage%2Fsmall&time=17%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",17:00 31/08 Lebanon U20 vs Hàn Quốc U20 (HD KEN) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.pro2cdnlive.com/live/channel-18.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F8yomojf0njgq0j6%2Fimage%2Fsmall&time=22%3A30+31%2F08" group-title="🔴 XÔI LẠC Z TV",22:30 31/08 Aryna Sabalenka vs Maria Camila Osorio Serrano (VIC)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.pro2cdnlive.com/live/channel32.flv
@@ -449,6 +444,12 @@ https://live2.pro2cdnlive.com/live/channel-32.flv
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.pro2cdnlive.com/live/channel32.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F1l4rjwfkz82m7vx%2Fimage%2Fsmall&time=23%3A40+31%2F08" group-title="🔴 XÔI LẠC Z TV",23:40 31/08 Roman Safiullin vs Carlos Alcaraz Garfia (HD VIC) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.pro2cdnlive.com/live/channel-32.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F4wyrnjfdyk1q86p%2Fimage%2Fsmall&time=07%3A40+01%2F09" group-title="🔴 XÔI LẠC Z TV",07:40 01/09 Naomi Osaka vs Anastasia Zakharova (VIC)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.pro2cdnlive.com/live/channel32.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F4wyrnjfdyk1q86p%2Fimage%2Fsmall&time=07%3A40+01%2F09" group-title="🔴 XÔI LẠC Z TV",07:40 01/09 Naomi Osaka vs Anastasia Zakharova (HD VIC) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.pro2cdnlive.com/live/channel-32.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Fvolleyball%2Fteam%2F8y39mpwh266qojx%2Fimage%2Fsmall&time=20%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",20:00 31/08 Nữ Hà Lan vs Nữ Slovenia (TYSON)
@@ -468,7 +469,7 @@ https://live2.pro2cdnlive.com/live/channel-33.flv
 https://live2.brenvoxedgenetwork.com/live/channel30.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Flol%2Fteam%2Fy0or59wbl2edmwz%2Fimage%2Fsmall&time=12%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",12:00 31/08 KT Rolster Challengers vs Kiwoom DRX Challengers (HD MARTY) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.streamhaulcdn.com/livecdn/channel-30.flv?auth_key=3000001788140853-0-0-911b159e705dc5e2402a6f0c9715a45f
+https://live2.streamhaulcdn.com/livecdn/channel-30.flv?auth_key=3000001788141769-0-0-5a37512dabf507fa35b76cbe4426ba50
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimgts.sportpulseapiz.com%2Flol%2Fteam%2Fjw2r08kuloxpqz8%2Fimage%2Fsmall&time=15%3A00+31%2F08" group-title="🔴 XÔI LẠC Z TV",15:00 31/08 Nongshim Esports Academy vs DN SOOPers Challengers (MARTY)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.pro2cdnlive.com/live/channel30.flv
@@ -483,12 +484,27 @@ https://cdnhls.xbdbotv.live/live/ZjE5NjM1Njc5c2hneXg3cGRhMDJkZTVhMWV2YTE4bzZ0Z2R
 https://cdnflv.xbdbotv.live/live/ZjE5NzEzNjAyc245bGgxZ3Npa2Q4c2Y2YWVuaGY5dnBvcWRwZnM3bjQ3bmExYzdmODRpYzgwa3gzMzQ.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fd1c0s7hi3ugzoc.cloudfront.net%2Fteams%2Flecce-7790&time=23%3A30+31%2F08" group-title="🔴 BIA ÔM TV",23:30 31/08 Lecce vs AS Roma (TRÚC BẠCH) [hls]
 https://cdnhls.xbdbotv.live/live/ZjE5NzEzNjAyc245bGgxZ3Npa2Q4c2Y2YWVuaGY5dnBvcWRwZnM3bjQ3bmExYzdmODRpYzgwa3gzMzQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Fbasketball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260829%2Fae4d407a146dc16e69013256a316af99.png&time=09%3A00+31%2F08" group-title="🔴 SOCOLIVE TV",09:00 31/08 Gambusinos vs Lobos Plateados (KING) [geo]
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (CR Bưởi) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/168964.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Fbasketball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260829%2Fae4d407a146dc16e69013256a316af99.png&time=09%3A00+31%2F08" group-title="🔴 SOCOLIVE TV",09:00 31/08 Gambusinos vs Lobos Plateados (HUNTER) [geo]
+https://live.inplyr.com/room/387694.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (BLV ZOWIE) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/558264.m3u8
+https://live.inplyr.com/room/434982.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (BLV Củ Cải) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/360663.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (BÁ PHÚ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/118206.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (THOMAS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/414317.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (A PÁO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/235232.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (ZIDANE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/168740.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F8adf954bc3f72a6287b83d3b946b7d0b.webp&time=06%3A00+31%2F08" group-title="🔴 SOCOLIVE TV",06:00 31/08 St. Louis City SC vs FC Dallas (LOGAN) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/552832.m3u8
@@ -558,27 +574,12 @@ https://live.inplyr.com/room/122591.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Fbasketball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260829%2F4bdbe734ff0e7c320d48a1ca4acf89d8.png&time=07%3A30+31%2F08" group-title="🔴 SOCOLIVE TV",07:30 31/08 Dallas Wings W vs Connecticut Sun W (BLV HENRY) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/428392.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (CR Bưởi) [geo]
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Fbasketball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260829%2Fae4d407a146dc16e69013256a316af99.png&time=09%3A00+31%2F08" group-title="🔴 SOCOLIVE TV",09:00 31/08 Gambusinos vs Lobos Plateados (KING) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/387694.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (BLV ZOWIE) [geo]
+https://live.inplyr.com/room/168964.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Fbasketball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260829%2Fae4d407a146dc16e69013256a316af99.png&time=09%3A00+31%2F08" group-title="🔴 SOCOLIVE TV",09:00 31/08 Gambusinos vs Lobos Plateados (HUNTER) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/434982.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (BLV Củ Cải) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/360663.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (BÁ PHÚ) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/118206.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (THOMAS) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/414317.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (A PÁO) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/235232.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2Fa34331ea4de2585fe395d2035b47453f.png&time=09%3A10+31%2F08" group-title="🔴 SOCOLIVE TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (ZIDANE) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/168740.m3u8
+https://live.inplyr.com/room/558264.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260827%2F69922e6dd539ea11407c4cb5522e1d15.png&time=09%3A30+31%2F08" group-title="🔴 SOCOLIVE TV",09:30 31/08 San Jose Earthquakes Reserve vs Los Angeles FC II (BLV ENZO) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/380460.m3u8
@@ -789,12 +790,12 @@ https://live.inplyr.com/room/168964.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Fbasketball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260829%2Fde4931cd4876d8d7b537e14a1f0ddfad.png&time=21%3A00+31%2F08" group-title="🔴 SOCOLIVE TV",21:00 31/08 Sri Lanka vs Kazakhstan (BLV HENRY) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/428392.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimages.keovip88.net%2Fimages%2Fteams%2Fmonterrey.png&time=09%3A00+31%2F08" group-title="🔴 GIỜ VÀNG TV",09:00 31/08 Monterrey vs Atletico San Luis (Trĩ) [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1788096625_hd/1788096625_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimages.keovip88.net%2Fimages%2Fteams%2Fdeportivo-cali.png&time=08%3A20+31%2F08" group-title="🔴 GIỜ VÀNG TV",08:20 31/08 Deportivo Cali vs Atletico Bucaramanga (Bón) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1788096589_hd/1788096589_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fcdn.keobongvip.digital%2Fimages%2Fbasketball-teams%2F17dcd412f5ecfaa1bc4b85e6e39bc0c4.png&time=07%3A30+31%2F08" group-title="🔴 GIỜ VÀNG TV",07:30 31/08 Dallas Wings vs Connecticut Sun (Vịt) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1788096553_hd/1788096553_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimages.keovip88.net%2Fimages%2Fteams%2Fmonterrey.png&time=09%3A00+31%2F08" group-title="🔴 GIỜ VÀNG TV",09:00 31/08 Monterrey vs Atletico San Luis (Trĩ) [hls]
+https://eqr2hdarxfliv.vcdn.cloud/1788096625_hd/1788096625_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F4OeoYeGG-tQeIEQGM.png&time=15%3A00+31%2F08" group-title="🔴 GIỜ VÀNG TV",15:00 31/08 Vietnam vs Fiji (blv-can) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F4lSeqKFG-AVYyKxPJ.png&time=17%3A00+31%2F08" group-title="🔴 GIỜ VÀNG TV",17:00 31/08 South Korea vs Saudi Arabia (blv-ngu) [hls]
@@ -807,10 +808,10 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fssl.gstatic.com%2Fonebox%2Fmedia%2Fsports%2Flogos%2Foptimized%2FjoYpsiaYi4GDCqhSRAq5Zg_96x96.png&time=21%3A00+31%2F08" group-title="🔴 GIỜ VÀNG TV",21:00 31/08 Ý vs Bulgaria (blv-sun) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2FFlag_of_Japan.svg.webp&time=16%3A00+31%2F08" group-title="🔴 PHÁO HOA TV",16:00 31/08 Japan U20 vs Kuwait U20 (Tày) [hls]
-https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fteam_30920.jpg&time=16%3A00+31%2F08" group-title="🔴 PHÁO HOA TV",16:00 31/08 Indonesia U20 vs Malaysia U20 (Văn Minh) [hls]
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2FFlag_of_Japan.svg.webp&time=16%3A00+31%2F08" group-title="🔴 PHÁO HOA TV",16:00 31/08 Japan U20 vs Kuwait U20 (Tày) [hls]
+https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fteam_9019.jpg&time=17%3A00+31%2F08" group-title="🔴 PHÁO HOA TV",17:00 31/08 South Korea U20 vs Lebanon U20 (Tiểu Mây) [hls]
 https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2FFlag_of_Vietnam.svg.webp&time=19%3A00+31%2F08" group-title="🔴 PHÁO HOA TV",19:00 31/08 Việt Nam U20 vs Triều Tiên U20 (Kevin) [hls]
@@ -843,9 +844,6 @@ https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fteam_97.jpg&time=02%3A30+01%2F09" group-title="🔴 PHÁO HOA TV",02:30 01/09 Barcelona vs Rayo Vallecano (Chim Nhỏ) [hls]
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6618.png&time=07%3A00+31%2F08" group-title="🔴 SAO KÊ TV",07:00 31/08 Toluca vs Juárez (Teppy) [hls]
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FUTCpmf86-hhXdwebJ.png&time=16%3A00+31%2F08" group-title="🔴 SAO KÊ TV",16:00 31/08 Japan U20 vs Kuwait U20 (Củ Cải) [hls]
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x3-hd-1111/playlist.m3u8
@@ -900,46 +898,6 @@ https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F980709.png&time=08%3A06+01%2F09" group-title="🔴 SAO KÊ TV",08:06 01/09 Santos Laguna (W) vs Atlante (W) (Cà Rốt) [hls]
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F725ccd5793be6b4f8dd917170dd17d04.png&time=07%3A00+31%2F08" group-title="🔴 GÀ VÀNG TV",07:00 31/08 Toluca vs FC Juarez (Meomeo) (FHD) [hls]
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F725ccd5793be6b4f8dd917170dd17d04.png&time=07%3A00+31%2F08" group-title="🔴 GÀ VÀNG TV",07:00 31/08 Toluca vs FC Juarez (Meomeo) (FHD) [flv]
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F725ccd5793be6b4f8dd917170dd17d04.png&time=07%3A00+31%2F08" group-title="🔴 GÀ VÀNG TV",07:00 31/08 Toluca vs FC Juarez (Meomeo) (HD) [hls]
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F725ccd5793be6b4f8dd917170dd17d04.png&time=07%3A00+31%2F08" group-title="🔴 GÀ VÀNG TV",07:00 31/08 Toluca vs FC Juarez (Meomeo) (HD) [flv]
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F5183f8cdb38f7cb0bb24f2c9a7eda619.png&time=07%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",07:30 31/08 Independiente Rivadavia vs Racing Club (Cố Tư Nghiêm) (FHD) [hls]
-https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F5183f8cdb38f7cb0bb24f2c9a7eda619.png&time=07%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",07:30 31/08 Independiente Rivadavia vs Racing Club (Cố Tư Nghiêm) (FHD) [flv]
-https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F5183f8cdb38f7cb0bb24f2c9a7eda619.png&time=07%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",07:30 31/08 Independiente Rivadavia vs Racing Club (Cố Tư Nghiêm) (HD) [hls]
-https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F5183f8cdb38f7cb0bb24f2c9a7eda619.png&time=07%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",07:30 31/08 Independiente Rivadavia vs Racing Club (Cố Tư Nghiêm) (HD) [flv]
-https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2F58709b9e7964e03c28ebe777ef823eca.png&time=07%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",07:30 31/08 Dallas Wings vs Connecticut Sun (Titan) (FHD) [hls]
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2F58709b9e7964e03c28ebe777ef823eca.png&time=07%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",07:30 31/08 Dallas Wings vs Connecticut Sun (Titan) (FHD) [flv]
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2F58709b9e7964e03c28ebe777ef823eca.png&time=07%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",07:30 31/08 Dallas Wings vs Connecticut Sun (Titan) (HD) [hls]
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2F58709b9e7964e03c28ebe777ef823eca.png&time=07%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",07:30 31/08 Dallas Wings vs Connecticut Sun (Titan) (HD) [flv]
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F5c3f819a35454f424d85df5757650f8b.png&time=09%3A10+31%2F08" group-title="🔴 GÀ VÀNG TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (Siêu Quậy) (FHD) [hls]
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F5c3f819a35454f424d85df5757650f8b.png&time=09%3A10+31%2F08" group-title="🔴 GÀ VÀNG TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (Siêu Quậy) (FHD) [flv]
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F5c3f819a35454f424d85df5757650f8b.png&time=09%3A10+31%2F08" group-title="🔴 GÀ VÀNG TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (Siêu Quậy) (HD) [hls]
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F5c3f819a35454f424d85df5757650f8b.png&time=09%3A10+31%2F08" group-title="🔴 GÀ VÀNG TV",09:10 31/08 Rayados de Monterrey vs Atletico San Luis (Siêu Quậy) (HD) [flv]
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F777d0840066313da8c0f85977e9178be.png&time=23%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",23:30 31/08 Lecce vs AS Roma (Saitama) (FHD) [hls]
-https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F777d0840066313da8c0f85977e9178be.png&time=23%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",23:30 31/08 Lecce vs AS Roma (Saitama) (FHD) [flv]
-https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F777d0840066313da8c0f85977e9178be.png&time=23%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",23:30 31/08 Lecce vs AS Roma (Saitama) (HD) [hls]
-https://playback.livetl001.com/live/69f42e961f739deff81510c0.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F777d0840066313da8c0f85977e9178be.png&time=23%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",23:30 31/08 Lecce vs AS Roma (Saitama) (HD) [flv]
-https://playback.livetl001.com/live/69f42e961f739deff81510c0.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2Fa10caeb4c8734e5288b38265c755c592.jpg&time=15%3A00+31%2F08" group-title="🔴 GÀ VÀNG TV",15:00 31/08 Vietnam vs Fiji (Naruto) (FHD) [hls]
 https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2Fa10caeb4c8734e5288b38265c755c592.jpg&time=15%3A00+31%2F08" group-title="🔴 GÀ VÀNG TV",15:00 31/08 Vietnam vs Fiji (Naruto) (FHD) [flv]
@@ -947,28 +905,4 @@ https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2Fa10caeb4c8734e5288b38265c755c592.jpg&time=15%3A00+31%2F08" group-title="🔴 GÀ VÀNG TV",15:00 31/08 Vietnam vs Fiji (Naruto) (HD) [hls]
 https://playback.livetl001.com/live/6a77144762ca98f0944094c0.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2Fa10caeb4c8734e5288b38265c755c592.jpg&time=15%3A00+31%2F08" group-title="🔴 GÀ VÀNG TV",15:00 31/08 Vietnam vs Fiji (Naruto) (HD) [flv]
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2F174ead45f85e0d25654016139877b60d.png&time=17%3A10+31%2F08" group-title="🔴 GÀ VÀNG TV",17:10 31/08 Japan vs Qatar (Titan) (FHD) [hls]
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2F174ead45f85e0d25654016139877b60d.png&time=17%3A10+31%2F08" group-title="🔴 GÀ VÀNG TV",17:10 31/08 Japan vs Qatar (Titan) (FHD) [flv]
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2F174ead45f85e0d25654016139877b60d.png&time=17%3A10+31%2F08" group-title="🔴 GÀ VÀNG TV",17:10 31/08 Japan vs Qatar (Titan) (HD) [hls]
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2F174ead45f85e0d25654016139877b60d.png&time=17%3A10+31%2F08" group-title="🔴 GÀ VÀNG TV",17:10 31/08 Japan vs Qatar (Titan) (HD) [flv]
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2F0a4ae4dca6f2751b6e0c664bb2606f80.png&time=18%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",18:30 31/08 China vs Lebanon (Naruto) (FHD) [hls]
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2F0a4ae4dca6f2751b6e0c664bb2606f80.png&time=18%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",18:30 31/08 China vs Lebanon (Naruto) (FHD) [flv]
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2F0a4ae4dca6f2751b6e0c664bb2606f80.png&time=18%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",18:30 31/08 China vs Lebanon (Naruto) (HD) [hls]
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2F0a4ae4dca6f2751b6e0c664bb2606f80.png&time=18%3A30+31%2F08" group-title="🔴 GÀ VÀNG TV",18:30 31/08 China vs Lebanon (Naruto) (HD) [flv]
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2Fb17842ce6fb723a04d8795d8adb195f7.png&time=23%3A00+31%2F08" group-title="🔴 GÀ VÀNG TV",23:00 31/08 Greece vs Spain (Naruto) (FHD) [hls]
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2Fb17842ce6fb723a04d8795d8adb195f7.png&time=23%3A00+31%2F08" group-title="🔴 GÀ VÀNG TV",23:00 31/08 Greece vs Spain (Naruto) (FHD) [flv]
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2Fb17842ce6fb723a04d8795d8adb195f7.png&time=23%3A00+31%2F08" group-title="🔴 GÀ VÀNG TV",23:00 31/08 Greece vs Spain (Naruto) (HD) [hls]
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fstatic.sportsfeed.pro%2Fbasketball%2Fteam%2Fb17842ce6fb723a04d8795d8adb195f7.png&time=23%3A00+31%2F08" group-title="🔴 GÀ VÀNG TV",23:00 31/08 Greece vs Spain (Naruto) (HD) [flv]
 https://playback.livetl001.com/live/6a77144762ca98f0944094c0.flv
