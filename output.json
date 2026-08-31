@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-80f43d984a",
-          "name": "Netherlands W vs Slovenia W | 20:00 31/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-80f43d984a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-80f43d984a",
-                  "name": "Netherlands W vs Slovenia W",
-                  "streams": [
-                    {
-                      "id": "st-80f43d984a",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0bd5e53133",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Netherlands W",
-            "team_b": "Slovenia W",
-            "time": "20:00",
-            "date": "31/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-141501844e_c893114c_20260831.png?v=57282e30",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-50213d2b18",
           "name": "Italy W vs Bulgaria W | 21:00 31/08",
           "type": "single",
@@ -159,6 +88,77 @@
           }
         },
         {
+          "id": "ch-80f43d984a",
+          "name": "Netherlands W vs Slovenia W | 20:00 31/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-80f43d984a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-80f43d984a",
+                  "name": "Netherlands W vs Slovenia W",
+                  "streams": [
+                    {
+                      "id": "st-80f43d984a",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0bd5e53133",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Netherlands W",
+            "team_b": "Slovenia W",
+            "time": "20:00",
+            "date": "31/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-141501844e_c893114c_20260831.png?v=57282e30",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-96379cafa6",
           "name": "Poland W vs Portugal W | 23:00 31/08",
           "type": "single",
@@ -220,6 +220,77 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "ch-798166d744",
+          "name": "Yelimay Semey vs Kairat Almaty | 21:00 31/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-798166d744",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-798166d744",
+                  "name": "Yelimay Semey vs Kairat Almaty",
+                  "streams": [
+                    {
+                      "id": "st-798166d744",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Yelimay Semey",
+            "team_b": "Kairat Almaty",
+            "time": "21:00",
+            "date": "31/08",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-03a2b6acec_81019b74_20260831.png?v=a6019437",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "ch-a527bc80ac",
           "name": "Vietnam U20 vs Triều Tiên U20 | 19:00 31/08",
@@ -358,77 +429,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-050255f1ab_63abcb01_20260831.png?v=4a4b581c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-798166d744",
-          "name": "Yelimay Semey vs Kairat Almaty | 21:00 31/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-798166d744",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-798166d744",
-                  "name": "Yelimay Semey vs Kairat Almaty",
-                  "streams": [
-                    {
-                      "id": "st-798166d744",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Yelimay Semey",
-            "team_b": "Kairat Almaty",
-            "time": "21:00",
-            "date": "31/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-03a2b6acec_81019b74_20260831.png?v=a6019437",
             "width": 1600,
             "height": 1200
           }
