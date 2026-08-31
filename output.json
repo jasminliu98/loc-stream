@@ -10,39 +10,57 @@
   },
   "groups": [
     {
-      "id": "cate_volleyball",
-      "name": null,
+      "id": "cate_football",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-96379cafa6",
-          "name": "Poland W vs Portugal W | 23:00 31/08",
+          "id": "ch-8c44bdcd7c",
+          "name": "Atalanta vs Bologna | 01:45 01/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": " Sắp",
+              "text": "● LIVE (1)",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-96379cafa6",
+              "id": "src-8c44bdcd7c",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-96379cafa6",
-                  "name": "Poland W vs Portugal W",
+                  "id": "ct-8c44bdcd7c",
+                  "name": "Atalanta vs Bologna",
                   "streams": [
                     {
-                      "id": "st-96379cafa6",
+                      "id": "st-8c44bdcd7c",
                       "name": "Streams",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -51,33 +69,24 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Poland W",
-            "team_b": "Portugal W",
-            "time": "23:00",
-            "date": "31/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
+            "team_a": "Atalanta",
+            "team_b": "Bologna",
+            "time": "01:45",
+            "date": "01/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-61f87ca352_e68bb9b1_20260901.png?v=6d9a8c85",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ce7ff599c6_3921bd84_20260901.png?v=e341c0b2",
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
           "id": "ch-9e4945a886",
           "name": "Lecce vs As Roma | 23:30 31/08",
@@ -216,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-04f3890ed8_9eb3c3a4_20260901.png?v=839b22b8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-8c44bdcd7c",
-          "name": "Atalanta vs Bologna | 01:45 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8c44bdcd7c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8c44bdcd7c",
-                  "name": "Atalanta vs Bologna",
-                  "streams": [
-                    {
-                      "id": "st-8c44bdcd7c",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ef28843d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Atalanta",
-            "team_b": "Bologna",
-            "time": "01:45",
-            "date": "01/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ce7ff599c6_3921bd84_20260901.png?v=e341c0b2",
             "width": 1600,
             "height": 1200
           }
