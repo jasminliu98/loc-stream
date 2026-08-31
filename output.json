@@ -185,59 +185,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-f9c3b83141",
-          "name": "St. Louis City vs Fc Dallas | 06:00 31/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f9c3b83141",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f9c3b83141",
-                  "name": "St. Louis City vs Fc Dallas",
-                  "streams": [
-                    {
-                      "id": "st-f9c3b83141",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "St. Louis City",
-            "team_b": "Fc Dallas",
-            "time": "06:00",
-            "date": "31/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1855d7b398_d0c44df6_20260831.png?v=746eaded",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-255eda0fbd",
           "name": "Toluca vs Fc Juarez | 07:00 31/08",
           "type": "single",
@@ -357,165 +304,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-294fc998aa_194d1ebb_20260831.png?v=520b719f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-a527bc80ac",
-          "name": "Vietnam U20 vs Triều Tiên U20 | 19:00 31/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a527bc80ac",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a527bc80ac",
-                  "name": "Vietnam U20 vs Triều Tiên U20",
-                  "streams": [
-                    {
-                      "id": "st-a527bc80ac",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Vietnam U20",
-            "team_b": "Triều Tiên U20",
-            "time": "19:00",
-            "date": "31/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cb8f6ae03a_ffe6ecf2_20260831.png?v=25030015",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-702f5a1cd0",
-          "name": "Aston Villa vs Arsenal | 02:00 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-702f5a1cd0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-702f5a1cd0",
-                  "name": "Aston Villa vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "st-702f5a1cd0",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Aston Villa",
-            "team_b": "Arsenal",
-            "time": "02:00",
-            "date": "01/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bdd49692ca_4da65cd6_20260831.png?v=568cd44a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-cf7c6826d1",
-          "name": "Barcelona vs Rayo Vallecano | 02:30 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cf7c6826d1",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-cf7c6826d1",
-                  "name": "Barcelona vs Rayo Vallecano",
-                  "streams": [
-                    {
-                      "id": "st-cf7c6826d1",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Barcelona",
-            "team_b": "Rayo Vallecano",
-            "time": "02:30",
-            "date": "01/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa72b18488_645e4854_20260831.png?v=550d05ab",
             "width": 1600,
             "height": 1200
           }
@@ -675,6 +463,165 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-91fda4a5f3_c764a5f9_20260831.png?v=11d87951",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a527bc80ac",
+          "name": "Vietnam U20 vs Triều Tiên U20 | 19:00 31/08",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a527bc80ac",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a527bc80ac",
+                  "name": "Vietnam U20 vs Triều Tiên U20",
+                  "streams": [
+                    {
+                      "id": "st-a527bc80ac",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Vietnam U20",
+            "team_b": "Triều Tiên U20",
+            "time": "19:00",
+            "date": "31/08",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cb8f6ae03a_ffe6ecf2_20260831.png?v=25030015",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-702f5a1cd0",
+          "name": "Aston Villa vs Arsenal | 02:00 01/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-702f5a1cd0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-702f5a1cd0",
+                  "name": "Aston Villa vs Arsenal",
+                  "streams": [
+                    {
+                      "id": "st-702f5a1cd0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Aston Villa",
+            "team_b": "Arsenal",
+            "time": "02:00",
+            "date": "01/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bdd49692ca_4da65cd6_20260831.png?v=568cd44a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-cf7c6826d1",
+          "name": "Barcelona vs Rayo Vallecano | 02:30 01/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cf7c6826d1",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-cf7c6826d1",
+                  "name": "Barcelona vs Rayo Vallecano",
+                  "streams": [
+                    {
+                      "id": "st-cf7c6826d1",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Barcelona",
+            "team_b": "Rayo Vallecano",
+            "time": "02:30",
+            "date": "01/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa72b18488_645e4854_20260831.png?v=550d05ab",
             "width": 1600,
             "height": 1200
           }
