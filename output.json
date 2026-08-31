@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_volleyball",
-      "name": "None (2 LIVE)",
+      "name": "None (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -86,211 +86,16 @@
             "width": 1600,
             "height": 1200
           }
-        },
-        {
-          "id": "ch-80f43d984a",
-          "name": "Netherlands W vs Slovenia W | 20:00 31/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-80f43d984a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-80f43d984a",
-                  "name": "Netherlands W vs Slovenia W",
-                  "streams": [
-                    {
-                      "id": "st-80f43d984a",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Netherlands W",
-            "team_b": "Slovenia W",
-            "time": "20:00",
-            "date": "31/08",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-141501844e_c893114c_20260831.png?v=57282e30",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-50213d2b18",
-          "name": "Italy W vs Bulgaria W | 21:00 31/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-50213d2b18",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-50213d2b18",
-                  "name": "Italy W vs Bulgaria W",
-                  "streams": [
-                    {
-                      "id": "st-50213d2b18",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Italy W",
-            "team_b": "Bulgaria W",
-            "time": "21:00",
-            "date": "31/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e4f1a8ad92_52fb8fe2_20260831.png?v=2d4cff27",
-            "width": 1600,
-            "height": 1200
-          }
         }
       ]
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-7f474cacd2",
-          "name": "Qatar U20 vs Oman U20 | 23:00 31/08",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7f474cacd2",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-7f474cacd2",
-                  "name": "Qatar U20 vs Oman U20",
-                  "streams": [
-                    {
-                      "id": "st-7f474cacd2",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ef28843d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Qatar U20",
-            "team_b": "Oman U20",
-            "time": "23:00",
-            "date": "31/08",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-33347fbda4_e7dd0f09_20260831.png?v=ea8751d0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-798166d744",
           "name": "Yelimay Semey vs Kairat Almaty | 21:00 31/08",
