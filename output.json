@@ -68,6 +68,59 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-80f092a0d1",
+          "name": "Turkey W vs Azerbaijan W | 23:00 01/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-80f092a0d1",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-80f092a0d1",
+                  "name": "Turkey W vs Azerbaijan W",
+                  "streams": [
+                    {
+                      "id": "st-80f092a0d1",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Turkey W",
+            "team_b": "Azerbaijan W",
+            "time": "23:00",
+            "date": "01/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8be2c5844b_8b1c2c17_20260901.png?v=68356c49",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
