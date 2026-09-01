@@ -132,77 +132,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-482c506c2c",
-          "name": "Remo vs Coritiba | 06:00 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-482c506c2c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-482c506c2c",
-                  "name": "Remo vs Coritiba",
-                  "streams": [
-                    {
-                      "id": "st-482c506c2c",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Remo",
-            "team_b": "Coritiba",
-            "time": "06:00",
-            "date": "01/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-772bb4e40a_30673702_20260901.png?v=820b618e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-6338ca146c",
           "name": "Santos Laguna W vs Atlante W | 08:06 01/09",
           "type": "single",
@@ -269,6 +198,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0bab77b5c6_3b8e1dee_20260901.png?v=d225fbf6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-482c506c2c",
+          "name": "Remo vs Coritiba | 06:00 01/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-482c506c2c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-482c506c2c",
+                  "name": "Remo vs Coritiba",
+                  "streams": [
+                    {
+                      "id": "st-482c506c2c",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Remo",
+            "team_b": "Coritiba",
+            "time": "06:00",
+            "date": "01/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-772bb4e40a_30673702_20260901.png?v=820b618e",
             "width": 1600,
             "height": 1200
           }
