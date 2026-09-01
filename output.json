@@ -10,216 +10,12 @@
   },
   "groups": [
     {
-      "id": "cate_volleyball",
-      "name": null,
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "ch-80f092a0d1",
-          "name": "Turkey W vs Azerbaijan W | 23:00 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-80f092a0d1",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-80f092a0d1",
-                  "name": "Turkey W vs Azerbaijan W",
-                  "streams": [
-                    {
-                      "id": "st-80f092a0d1",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Turkey W",
-            "team_b": "Azerbaijan W",
-            "time": "23:00",
-            "date": "01/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8be2c5844b_8b1c2c17_20260902.png?v=68356c49",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
       "id": "cate_football",
       "name": "⚽ Bóng Đá (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-9b9d99890f",
-          "name": "Birmingham vs Southampton | 02:00 02/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9b9d99890f",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-9b9d99890f",
-                  "name": "Birmingham vs Southampton",
-                  "streams": [
-                    {
-                      "id": "st-9b9d99890f",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Birmingham",
-            "team_b": "Southampton",
-            "time": "02:00",
-            "date": "02/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f2ab49ccb4_b70b2154_20260902.png?v=269cb914",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-fca13c9dcb",
-          "name": "Torino vs Monza | 02:00 02/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fca13c9dcb",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-fca13c9dcb",
-                  "name": "Torino vs Monza",
-                  "streams": [
-                    {
-                      "id": "st-fca13c9dcb",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ef28843d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Torino",
-            "team_b": "Monza",
-            "time": "02:00",
-            "date": "02/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8b7952a061_15ef2969_20260902.png?v=75ae464e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-449257bf06",
           "name": "Al Najma vs Al Jabalain | 00:40 02/09",
@@ -571,6 +367,148 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-d98eaad63a_f4cc6598_20260902.png?v=30cd36a6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9b9d99890f",
+          "name": "Birmingham vs Southampton | 02:00 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9b9d99890f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9b9d99890f",
+                  "name": "Birmingham vs Southampton",
+                  "streams": [
+                    {
+                      "id": "st-9b9d99890f",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Birmingham",
+            "team_b": "Southampton",
+            "time": "02:00",
+            "date": "02/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f2ab49ccb4_b70b2154_20260902.png?v=269cb914",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-fca13c9dcb",
+          "name": "Torino vs Monza | 02:00 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fca13c9dcb",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-fca13c9dcb",
+                  "name": "Torino vs Monza",
+                  "streams": [
+                    {
+                      "id": "st-fca13c9dcb",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25ef28843d",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Torino",
+            "team_b": "Monza",
+            "time": "02:00",
+            "date": "02/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8b7952a061_15ef2969_20260902.png?v=75ae464e",
             "width": 1600,
             "height": 1200
           }
