@@ -185,59 +185,6 @@
           }
         },
         {
-          "id": "ch-5785167348",
-          "name": "Perak vs Kuala Lumpur Fa | 20:00 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5785167348",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-5785167348",
-                  "name": "Perak vs Kuala Lumpur Fa",
-                  "streams": [
-                    {
-                      "id": "st-5785167348",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Perak",
-            "team_b": "Kuala Lumpur Fa",
-            "time": "20:00",
-            "date": "01/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fb66aa12f3_05ae7d45_20260901.png?v=6f7e87a9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-cd0e8a66a6",
           "name": "Ümraniyespor vs Muğlaspor | 21:00 01/09",
           "type": "single",
