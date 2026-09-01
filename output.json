@@ -150,77 +150,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-cd0e8a66a6",
-          "name": "Ümraniyespor vs Muğlaspor | 21:00 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cd0e8a66a6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-cd0e8a66a6",
-                  "name": "Ümraniyespor vs Muğlaspor",
-                  "streams": [
-                    {
-                      "id": "st-cd0e8a66a6",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Ümraniyespor",
-            "team_b": "Muğlaspor",
-            "time": "21:00",
-            "date": "01/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eebfe21954_049b77c8_20260901.png?v=3ceee382",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-58c029a308",
           "name": "Akron vs Lokomotiv | 20:15 01/09",
           "type": "single",
@@ -287,6 +216,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3306a0e773_5b25b606_20260901.png?v=6576a582",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-cd0e8a66a6",
+          "name": "Ümraniyespor vs Muğlaspor | 21:00 01/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cd0e8a66a6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-cd0e8a66a6",
+                  "name": "Ümraniyespor vs Muğlaspor",
+                  "streams": [
+                    {
+                      "id": "st-cd0e8a66a6",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959b9ee9a1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Ümraniyespor",
+            "team_b": "Muğlaspor",
+            "time": "21:00",
+            "date": "01/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eebfe21954_049b77c8_20260901.png?v=3ceee382",
             "width": 1600,
             "height": 1200
           }
