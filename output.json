@@ -91,14 +91,14 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-449257bf06",
-          "name": "Al Najma vs Al Jabalain | 00:40 02/09",
+          "id": "ch-390ef543ad",
+          "name": "Al-Hilal Saudi Fc vs Al-Ahli Jeddah | 01:00 02/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -112,23 +112,23 @@
           ],
           "sources": [
             {
-              "id": "src-449257bf06",
+              "id": "src-390ef543ad",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-449257bf06",
-                  "name": "Al Najma vs Al Jabalain",
+                  "id": "ct-390ef543ad",
+                  "name": "Al-Hilal Saudi Fc vs Al-Ahli Jeddah",
                   "streams": [
                     {
-                      "id": "st-449257bf06",
+                      "id": "st-390ef543ad",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-352d8625d5",
+                          "id": "lnk-0cd40431c5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -149,9 +149,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Al Najma",
-            "team_b": "Al Jabalain",
-            "time": "00:40",
+            "team_a": "Al-Hilal Saudi Fc",
+            "team_b": "Al-Ahli Jeddah",
+            "time": "01:00",
             "date": "02/09",
             "blv": "Stream",
             "is_live": true,
@@ -162,78 +162,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-105471d1be_df22da67_20260902.png?v=1fd7e673",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-d615ad6d4d",
-          "name": "Fakel vs Fc Krasnodar | 22:30 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d615ad6d4d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d615ad6d4d",
-                  "name": "Fakel vs Fc Krasnodar",
-                  "streams": [
-                    {
-                      "id": "st-d615ad6d4d",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fakel",
-            "team_b": "Fc Krasnodar",
-            "time": "22:30",
-            "date": "01/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0ae23bfcfa_3aa4b7a6_20260902.png?v=452c1d61",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-98f3658973_8c411f74_20260902.png?v=6342f41b",
             "width": 1600,
             "height": 1200
           }
@@ -310,8 +239,8 @@
           }
         },
         {
-          "id": "ch-390ef543ad",
-          "name": "Al-Hilal Saudi Fc vs Al-Ahli Jeddah | 01:00 02/09",
+          "id": "ch-449257bf06",
+          "name": "Al Najma vs Al Jabalain | 00:40 02/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -325,23 +254,23 @@
           ],
           "sources": [
             {
-              "id": "src-390ef543ad",
+              "id": "src-449257bf06",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-390ef543ad",
-                  "name": "Al-Hilal Saudi Fc vs Al-Ahli Jeddah",
+                  "id": "ct-449257bf06",
+                  "name": "Al Najma vs Al Jabalain",
                   "streams": [
                     {
-                      "id": "st-390ef543ad",
+                      "id": "st-449257bf06",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-0cd40431c5",
+                          "id": "lnk-352d8625d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -362,9 +291,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Al-Hilal Saudi Fc",
-            "team_b": "Al-Ahli Jeddah",
-            "time": "01:00",
+            "team_a": "Al Najma",
+            "team_b": "Al Jabalain",
+            "time": "00:40",
             "date": "02/09",
             "blv": "Stream",
             "is_live": true,
@@ -375,7 +304,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-98f3658973_8c411f74_20260902.png?v=6342f41b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-105471d1be_df22da67_20260902.png?v=1fd7e673",
             "width": 1600,
             "height": 1200
           }
