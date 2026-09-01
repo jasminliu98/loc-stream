@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c863417412",
-          "name": "Belgium vs Germany | 20:00 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c863417412",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c863417412",
-                  "name": "Belgium vs Germany",
-                  "streams": [
-                    {
-                      "id": "st-c863417412",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Belgium",
-            "team_b": "Germany",
-            "time": "20:00",
-            "date": "01/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3df2c250ae_c32a2e72_20260901.png?v=6c1674d1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-80f092a0d1",
           "name": "Turkey W vs Azerbaijan W | 23:00 01/09",
           "type": "single",
@@ -149,6 +96,77 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "ch-605c9a278d",
+          "name": "Parma vs Cremonese | 23:00 01/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-605c9a278d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-605c9a278d",
+                  "name": "Parma vs Cremonese",
+                  "streams": [
+                    {
+                      "id": "st-605c9a278d",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Parma",
+            "team_b": "Cremonese",
+            "time": "23:00",
+            "date": "01/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eff2857111_818f660a_20260901.png?v=85bf516c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "ch-cd0e8a66a6",
           "name": "Ümraniyespor vs Muğlaspor | 21:00 01/09",
@@ -287,77 +305,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0ae23bfcfa_3aa4b7a6_20260901.png?v=452c1d61",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-605c9a278d",
-          "name": "Parma vs Cremonese | 23:00 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-605c9a278d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-605c9a278d",
-                  "name": "Parma vs Cremonese",
-                  "streams": [
-                    {
-                      "id": "st-605c9a278d",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Parma",
-            "team_b": "Cremonese",
-            "time": "23:00",
-            "date": "01/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eff2857111_818f660a_20260901.png?v=85bf516c",
             "width": 1600,
             "height": 1200
           }
