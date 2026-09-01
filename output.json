@@ -11,82 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-390ef543ad",
-          "name": "Al-Hilal Saudi Fc vs Al-Ahli Jeddah | 01:00 02/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-390ef543ad",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-390ef543ad",
-                  "name": "Al-Hilal Saudi Fc vs Al-Ahli Jeddah",
-                  "streams": [
-                    {
-                      "id": "st-390ef543ad",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Hilal Saudi Fc",
-            "team_b": "Al-Ahli Jeddah",
-            "time": "01:00",
-            "date": "02/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-98f3658973_8c411f74_20260902.png?v=6342f41b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-87895be887",
           "name": "Sheffield Utd vs Bolton | 01:45 02/09",
