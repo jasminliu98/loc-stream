@@ -79,201 +79,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-605c9a278d",
-          "name": "Parma vs Cremonese | 23:00 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-605c9a278d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-605c9a278d",
-                  "name": "Parma vs Cremonese",
-                  "streams": [
-                    {
-                      "id": "st-605c9a278d",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Parma",
-            "team_b": "Cremonese",
-            "time": "23:00",
-            "date": "01/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eff2857111_818f660a_20260902.png?v=85bf516c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-449257bf06",
-          "name": "Al Najma vs Al Jabalain | 00:40 02/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-449257bf06",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-449257bf06",
-                  "name": "Al Najma vs Al Jabalain",
-                  "streams": [
-                    {
-                      "id": "st-449257bf06",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-352d8625d5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al Najma",
-            "team_b": "Al Jabalain",
-            "time": "00:40",
-            "date": "02/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-105471d1be_df22da67_20260902.png?v=1fd7e673",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-390ef543ad",
-          "name": "Al-Hilal Saudi Fc vs Al-Ahli Jeddah | 01:00 02/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-390ef543ad",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-390ef543ad",
-                  "name": "Al-Hilal Saudi Fc vs Al-Ahli Jeddah",
-                  "streams": [
-                    {
-                      "id": "st-390ef543ad",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Hilal Saudi Fc",
-            "team_b": "Al-Ahli Jeddah",
-            "time": "01:00",
-            "date": "02/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-98f3658973_8c411f74_20260902.png?v=6342f41b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-8dcaaf9711",
           "name": "Lincoln vs Blackburn | 01:45 02/09",
           "type": "single",
@@ -482,6 +287,201 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-569e20f151_c9d2dff5_20260902.png?v=2cc8b45b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-605c9a278d",
+          "name": "Parma vs Cremonese | 23:00 01/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-605c9a278d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-605c9a278d",
+                  "name": "Parma vs Cremonese",
+                  "streams": [
+                    {
+                      "id": "st-605c9a278d",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Parma",
+            "team_b": "Cremonese",
+            "time": "23:00",
+            "date": "01/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "finished",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eff2857111_818f660a_20260902.png?v=85bf516c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-449257bf06",
+          "name": "Al Najma vs Al Jabalain | 00:40 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-449257bf06",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-449257bf06",
+                  "name": "Al Najma vs Al Jabalain",
+                  "streams": [
+                    {
+                      "id": "st-449257bf06",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-352d8625d5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al Najma",
+            "team_b": "Al Jabalain",
+            "time": "00:40",
+            "date": "02/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-105471d1be_df22da67_20260902.png?v=1fd7e673",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-390ef543ad",
+          "name": "Al-Hilal Saudi Fc vs Al-Ahli Jeddah | 01:00 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-390ef543ad",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-390ef543ad",
+                  "name": "Al-Hilal Saudi Fc vs Al-Ahli Jeddah",
+                  "streams": [
+                    {
+                      "id": "st-390ef543ad",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Hilal Saudi Fc",
+            "team_b": "Al-Ahli Jeddah",
+            "time": "01:00",
+            "date": "02/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-98f3658973_8c411f74_20260902.png?v=6342f41b",
             "width": 1600,
             "height": 1200
           }
