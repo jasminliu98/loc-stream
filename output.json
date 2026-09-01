@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-449257bf06",
-          "name": "Al Najma vs Al Jabalain | 00:40 02/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-449257bf06",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-449257bf06",
-                  "name": "Al Najma vs Al Jabalain",
-                  "streams": [
-                    {
-                      "id": "st-449257bf06",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al Najma",
-            "team_b": "Al Jabalain",
-            "time": "00:40",
-            "date": "02/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-105471d1be_df22da67_20260902.png?v=1fd7e673",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-390ef543ad",
           "name": "Al-Hilal Saudi Fc vs Al-Ahli Jeddah | 01:00 02/09",
           "type": "single",
