@@ -126,85 +126,14 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-a52e04f232",
-          "name": "Dpmm Fc vs Terengganu | 19:15 01/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a52e04f232",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a52e04f232",
-                  "name": "Dpmm Fc vs Terengganu",
-                  "streams": [
-                    {
-                      "id": "st-a52e04f232",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ef28843d",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Dpmm Fc",
-            "team_b": "Terengganu",
-            "time": "19:15",
-            "date": "01/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dcfef0c466_6cebab58_20260901.png?v=0b1e9691",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-b7624c1b85",
-          "name": "Kelantan Red Warrior Fc vs Kuching Fa | 20:00 01/09",
+          "id": "ch-58c029a308",
+          "name": "Akron vs Lokomotiv | 20:15 01/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -218,15 +147,15 @@
           ],
           "sources": [
             {
-              "id": "src-b7624c1b85",
+              "id": "src-58c029a308",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-b7624c1b85",
-                  "name": "Kelantan Red Warrior Fc vs Kuching Fa",
+                  "id": "ct-58c029a308",
+                  "name": "Akron vs Lokomotiv",
                   "streams": [
                     {
-                      "id": "st-b7624c1b85",
+                      "id": "st-58c029a308",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -237,9 +166,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Kelantan Red Warrior Fc",
-            "team_b": "Kuching Fa",
-            "time": "20:00",
+            "team_a": "Akron",
+            "team_b": "Lokomotiv",
+            "time": "20:15",
             "date": "01/09",
             "blv": "Chưa có link",
             "is_live": false,
@@ -250,7 +179,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-94f4ad09ed_1de6d5f7_20260901.png?v=6483a082",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3306a0e773_5b25b606_20260901.png?v=6576a582",
             "width": 1600,
             "height": 1200
           }
