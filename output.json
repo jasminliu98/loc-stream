@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-9600d45beb",
-          "name": "Udinese vs Venezia | 23:00 02/09",
+          "id": "ch-1ec1eb2252",
+          "name": "Red Bull Salzburg vs Rapid Vienna | 01:30 03/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-9600d45beb",
+              "id": "src-1ec1eb2252",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-9600d45beb",
-                  "name": "Udinese vs Venezia",
+                  "id": "ct-1ec1eb2252",
+                  "name": "Red Bull Salzburg vs Rapid Vienna",
                   "streams": [
                     {
-                      "id": "st-9600d45beb",
+                      "id": "st-1ec1eb2252",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-959b9ee9a1",
+                          "id": "lnk-0bd5e53133",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,10 +69,10 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Udinese",
-            "team_b": "Venezia",
-            "time": "23:00",
-            "date": "02/09",
+            "team_a": "Red Bull Salzburg",
+            "team_b": "Rapid Vienna",
+            "time": "01:30",
+            "date": "03/09",
             "blv": "Stream",
             "is_live": true,
             "status": "live",
@@ -82,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e043006cd3_426bf096_20260903.png?v=8daf8539",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-39573dda86_d42dc60c_20260903.png?v=21f95bdf",
             "width": 1600,
             "height": 1200
           }
@@ -225,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-22a37a063c_e53e7bbd_20260903.png?v=c3d32f18",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-1ec1eb2252",
-          "name": "Red Bull Salzburg vs Rapid Vienna | 01:30 03/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1ec1eb2252",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-1ec1eb2252",
-                  "name": "Red Bull Salzburg vs Rapid Vienna",
-                  "streams": [
-                    {
-                      "id": "st-1ec1eb2252",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0bd5e53133",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Red Bull Salzburg",
-            "team_b": "Rapid Vienna",
-            "time": "01:30",
-            "date": "03/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-39573dda86_d42dc60c_20260903.png?v=21f95bdf",
             "width": 1600,
             "height": 1200
           }
