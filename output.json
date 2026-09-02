@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -83,130 +83,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3a056cc1fa_7d12712a_20260902.png?v=479bf080",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-e81d801609",
-          "name": "Sassuolo vs Frosinone | 20:00 02/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e81d801609",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-e81d801609",
-                  "name": "Sassuolo vs Frosinone",
-                  "streams": [
-                    {
-                      "id": "st-e81d801609",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sassuolo",
-            "team_b": "Frosinone",
-            "time": "20:00",
-            "date": "02/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-34b27b72a9_3249ac36_20260902.png?v=e3e6979b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-870f8e19c5",
-          "name": "Fc Orenburg vs Rubin | 20:15 02/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-870f8e19c5",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-870f8e19c5",
-                  "name": "Fc Orenburg vs Rubin",
-                  "streams": [
-                    {
-                      "id": "st-870f8e19c5",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fc Orenburg",
-            "team_b": "Rubin",
-            "time": "20:15",
-            "date": "02/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-caef2a26f0_60d6f8ee_20260902.png?v=75246587",
             "width": 1600,
             "height": 1200
           }
