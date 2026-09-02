@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-6a2a596e36",
-          "name": "Sagamihara vs Jubilo Iwata | 16:30 02/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6a2a596e36",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-6a2a596e36",
-                  "name": "Sagamihara vs Jubilo Iwata",
-                  "streams": [
-                    {
-                      "id": "st-6a2a596e36",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sagamihara",
-            "team_b": "Jubilo Iwata",
-            "time": "16:30",
-            "date": "02/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-569170ef41_17230155_20260902.png?v=a82301a9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-fdfa788de2",
           "name": "Avispa Fukuoka vs Urawa | 17:00 02/09",
           "type": "single",
@@ -225,6 +154,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6cac7b1175_d0d48e1f_20260902.png?v=8042a6dd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6a2a596e36",
+          "name": "Sagamihara vs Jubilo Iwata | 16:30 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6a2a596e36",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6a2a596e36",
+                  "name": "Sagamihara vs Jubilo Iwata",
+                  "streams": [
+                    {
+                      "id": "st-6a2a596e36",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959b9ee9a1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sagamihara",
+            "team_b": "Jubilo Iwata",
+            "time": "16:30",
+            "date": "02/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-569170ef41_17230155_20260902.png?v=a82301a9",
             "width": 1600,
             "height": 1200
           }
@@ -490,6 +490,536 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3a056cc1fa_7d12712a_20260902.png?v=479bf080",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-531a5351da",
+          "name": "Real Sociedad W vs Chelsea W | 00:00 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-531a5351da",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-531a5351da",
+                  "name": "Real Sociedad W vs Chelsea W",
+                  "streams": [
+                    {
+                      "id": "st-531a5351da",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Real Sociedad W",
+            "team_b": "Chelsea W",
+            "time": "00:00",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9c1d74877c_60043be2_20260902.png?v=c0898eb4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d53bdb4cc0",
+          "name": "Real Madrid W vs Ajax W | 01:00 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d53bdb4cc0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d53bdb4cc0",
+                  "name": "Real Madrid W vs Ajax W",
+                  "streams": [
+                    {
+                      "id": "st-d53bdb4cc0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Real Madrid W",
+            "team_b": "Ajax W",
+            "time": "01:00",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-22a37a063c_e53e7bbd_20260902.png?v=c3d32f18",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-1ec1eb2252",
+          "name": "Red Bull Salzburg vs Rapid Vienna | 01:30 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1ec1eb2252",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-1ec1eb2252",
+                  "name": "Red Bull Salzburg vs Rapid Vienna",
+                  "streams": [
+                    {
+                      "id": "st-1ec1eb2252",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Red Bull Salzburg",
+            "team_b": "Rapid Vienna",
+            "time": "01:30",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-39573dda86_d42dc60c_20260902.png?v=21f95bdf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-30d7fbf348",
+          "name": "Vfl Osnabrück vs Bayern München | 01:45 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-30d7fbf348",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-30d7fbf348",
+                  "name": "Vfl Osnabrück vs Bayern München",
+                  "streams": [
+                    {
+                      "id": "st-30d7fbf348",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Vfl Osnabrück",
+            "team_b": "Bayern München",
+            "time": "01:45",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-22495b79a2_d230ebe2_20260902.png?v=ced8681e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-dc5ee14f86",
+          "name": "Millwall vs Wrexham | 01:45 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dc5ee14f86",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-dc5ee14f86",
+                  "name": "Millwall vs Wrexham",
+                  "streams": [
+                    {
+                      "id": "st-dc5ee14f86",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Millwall",
+            "team_b": "Wrexham",
+            "time": "01:45",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-37fccecc5e_2bf4b283_20260902.png?v=ea11a8d7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e91670d30b",
+          "name": "Burnley vs Middlesbrough | 02:00 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e91670d30b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e91670d30b",
+                  "name": "Burnley vs Middlesbrough",
+                  "streams": [
+                    {
+                      "id": "st-e91670d30b",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Burnley",
+            "team_b": "Middlesbrough",
+            "time": "02:00",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-34f6ce8be6_7a180673_20260902.png?v=cf13b165",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b234e168a4",
+          "name": "Flamengo vs Mirassol | 05:30 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b234e168a4",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b234e168a4",
+                  "name": "Flamengo vs Mirassol",
+                  "streams": [
+                    {
+                      "id": "st-b234e168a4",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Flamengo",
+            "team_b": "Mirassol",
+            "time": "05:30",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-296eb227da_8938a1e9_20260902.png?v=da5aa53c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ff5af00f56",
+          "name": "Santos vs Palmeiras | 07:30 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ff5af00f56",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ff5af00f56",
+                  "name": "Santos vs Palmeiras",
+                  "streams": [
+                    {
+                      "id": "st-ff5af00f56",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Santos",
+            "team_b": "Palmeiras",
+            "time": "07:30",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-41685ac1f8_f4cc0d27_20260902.png?v=f3e3016c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-07166d3f14",
+          "name": "Toluca vs Leon | 08:00 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-07166d3f14",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-07166d3f14",
+                  "name": "Toluca vs Leon",
+                  "streams": [
+                    {
+                      "id": "st-07166d3f14",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Toluca",
+            "team_b": "Leon",
+            "time": "08:00",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c0fbcf6990_2ca57bbb_20260902.png?v=4fc15b2a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-86d55e5052",
+          "name": "Club America vs Monterrey | 10:30 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-86d55e5052",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-86d55e5052",
+                  "name": "Club America vs Monterrey",
+                  "streams": [
+                    {
+                      "id": "st-86d55e5052",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Club America",
+            "team_b": "Monterrey",
+            "time": "10:30",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a9e690b99f_64a1f40a_20260902.png?v=b3a6c59d",
             "width": 1600,
             "height": 1200
           }
