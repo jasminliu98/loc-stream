@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-e81d801609",
-          "name": "Sassuolo vs Frosinone | 20:00 02/09",
+          "id": "ch-870f8e19c5",
+          "name": "Fc Orenburg vs Rubin | 20:15 02/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-e81d801609",
+              "id": "src-870f8e19c5",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-e81d801609",
-                  "name": "Sassuolo vs Frosinone",
+                  "id": "ct-870f8e19c5",
+                  "name": "Fc Orenburg vs Rubin",
                   "streams": [
                     {
-                      "id": "st-e81d801609",
+                      "id": "st-870f8e19c5",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-352d8625d5",
+                          "id": "lnk-0cd40431c5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Sassuolo",
-            "team_b": "Frosinone",
-            "time": "20:00",
+            "team_a": "Fc Orenburg",
+            "team_b": "Rubin",
+            "time": "20:15",
             "date": "02/09",
             "blv": "Stream",
             "is_live": true,
@@ -82,7 +82,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-34b27b72a9_3249ac36_20260902.png?v=e3e6979b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-caef2a26f0_60d6f8ee_20260902.png?v=75246587",
             "width": 1600,
             "height": 1200
           }
@@ -230,8 +230,8 @@
           }
         },
         {
-          "id": "ch-870f8e19c5",
-          "name": "Fc Orenburg vs Rubin | 20:15 02/09",
+          "id": "ch-e81d801609",
+          "name": "Sassuolo vs Frosinone | 20:00 02/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -245,23 +245,23 @@
           ],
           "sources": [
             {
-              "id": "src-870f8e19c5",
+              "id": "src-e81d801609",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-870f8e19c5",
-                  "name": "Fc Orenburg vs Rubin",
+                  "id": "ct-e81d801609",
+                  "name": "Sassuolo vs Frosinone",
                   "streams": [
                     {
-                      "id": "st-870f8e19c5",
+                      "id": "st-e81d801609",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-0cd40431c5",
+                          "id": "lnk-352d8625d5",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -282,9 +282,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Fc Orenburg",
-            "team_b": "Rubin",
-            "time": "20:15",
+            "team_a": "Sassuolo",
+            "team_b": "Frosinone",
+            "time": "20:00",
             "date": "02/09",
             "blv": "Stream",
             "is_live": true,
@@ -295,7 +295,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-caef2a26f0_60d6f8ee_20260902.png?v=75246587",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-34b27b72a9_3249ac36_20260902.png?v=e3e6979b",
             "width": 1600,
             "height": 1200
           }
