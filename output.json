@@ -11,153 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-8d93f04393",
-          "name": "Sabah Fa vs Selangor | 18:30 02/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8d93f04393",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8d93f04393",
-                  "name": "Sabah Fa vs Selangor",
-                  "streams": [
-                    {
-                      "id": "st-8d93f04393",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0bd5e53133",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sabah Fa",
-            "team_b": "Selangor",
-            "time": "18:30",
-            "date": "02/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a9f022548e_865a2b09_20260902.png?v=6daf1d7d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-6a2a596e36",
-          "name": "Sagamihara vs Jubilo Iwata | 16:30 02/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6a2a596e36",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-6a2a596e36",
-                  "name": "Sagamihara vs Jubilo Iwata",
-                  "streams": [
-                    {
-                      "id": "st-6a2a596e36",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Sagamihara",
-            "team_b": "Jubilo Iwata",
-            "time": "16:30",
-            "date": "02/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-569170ef41_17230155_20260902.png?v=a82301a9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-fdfa788de2",
           "name": "Avispa Fukuoka vs Urawa | 17:00 02/09",
@@ -296,6 +154,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6cac7b1175_d0d48e1f_20260902.png?v=8042a6dd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8d93f04393",
+          "name": "Sabah Fa vs Selangor | 18:30 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8d93f04393",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8d93f04393",
+                  "name": "Sabah Fa vs Selangor",
+                  "streams": [
+                    {
+                      "id": "st-8d93f04393",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0bd5e53133",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sabah Fa",
+            "team_b": "Selangor",
+            "time": "18:30",
+            "date": "02/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a9f022548e_865a2b09_20260902.png?v=6daf1d7d",
             "width": 1600,
             "height": 1200
           }
