@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-2b60d0cd1b",
+          "name": "Slavia Sofia vs Levski Sofia | 00:00 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2b60d0cd1b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2b60d0cd1b",
+                  "name": "Slavia Sofia vs Levski Sofia",
+                  "streams": [
+                    {
+                      "id": "st-2b60d0cd1b",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Slavia Sofia",
+            "team_b": "Levski Sofia",
+            "time": "00:00",
+            "date": "03/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6c1f36c9e2_4780dd71_20260902.png?v=8bcd7a2f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-8acedb6746",
           "name": "Zenit vs Makhachkala | 22:30 02/09",
           "type": "single",
@@ -154,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e043006cd3_426bf096_20260902.png?v=8daf8539",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-531a5351da",
-          "name": "Real Sociedad W vs Chelsea W | 00:00 03/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-531a5351da",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-531a5351da",
-                  "name": "Real Sociedad W vs Chelsea W",
-                  "streams": [
-                    {
-                      "id": "st-531a5351da",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Real Sociedad W",
-            "team_b": "Chelsea W",
-            "time": "00:00",
-            "date": "03/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9c1d74877c_60043be2_20260902.png?v=c0898eb4",
             "width": 1600,
             "height": 1200
           }
