@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-d53bdb4cc0",
-          "name": "Real Madrid W vs Ajax W | 01:00 03/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d53bdb4cc0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-d53bdb4cc0",
-                  "name": "Real Madrid W vs Ajax W",
-                  "streams": [
-                    {
-                      "id": "st-d53bdb4cc0",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Real Madrid W",
-            "team_b": "Ajax W",
-            "time": "01:00",
-            "date": "03/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-22a37a063c_e53e7bbd_20260903.png?v=c3d32f18",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-9600d45beb",
           "name": "Udinese vs Venezia | 23:00 02/09",
           "type": "single",
@@ -225,6 +154,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6c1f36c9e2_4780dd71_20260903.png?v=8bcd7a2f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d53bdb4cc0",
+          "name": "Real Madrid W vs Ajax W | 01:00 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d53bdb4cc0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d53bdb4cc0",
+                  "name": "Real Madrid W vs Ajax W",
+                  "streams": [
+                    {
+                      "id": "st-d53bdb4cc0",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Real Madrid W",
+            "team_b": "Ajax W",
+            "time": "01:00",
+            "date": "03/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-22a37a063c_e53e7bbd_20260903.png?v=c3d32f18",
             "width": 1600,
             "height": 1200
           }
