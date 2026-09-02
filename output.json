@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-59f7e66ee8",
-          "name": "Atletico-Mg vs Cruzeiro | 07:00 02/09",
+          "id": "ch-6a2a596e36",
+          "name": "Sagamihara vs Jubilo Iwata | 16:30 02/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-59f7e66ee8",
+              "id": "src-6a2a596e36",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-59f7e66ee8",
-                  "name": "Atletico-Mg vs Cruzeiro",
+                  "id": "ct-6a2a596e36",
+                  "name": "Sagamihara vs Jubilo Iwata",
                   "streams": [
                     {
-                      "id": "st-59f7e66ee8",
+                      "id": "st-6a2a596e36",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-e03ccf6037",
+                          "id": "lnk-959b9ee9a1",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Atletico-Mg",
-            "team_b": "Cruzeiro",
-            "time": "07:00",
+            "team_a": "Sagamihara",
+            "team_b": "Jubilo Iwata",
+            "time": "16:30",
             "date": "02/09",
             "blv": "Stream",
             "is_live": true,
@@ -82,7 +82,378 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bbe08637c4_170742fa_20260902.png?v=017fe9a1",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-569170ef41_17230155_20260902.png?v=a82301a9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-fdfa788de2",
+          "name": "Avispa Fukuoka vs Urawa | 17:00 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fdfa788de2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-fdfa788de2",
+                  "name": "Avispa Fukuoka vs Urawa",
+                  "streams": [
+                    {
+                      "id": "st-fdfa788de2",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Avispa Fukuoka",
+            "team_b": "Urawa",
+            "time": "17:00",
+            "date": "02/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0608dae3f3_107b7383_20260902.png?v=5b2e9ca8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-941f1cfc8a",
+          "name": "Machida Zelvia vs Kawasaki Frontale | 17:00 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-941f1cfc8a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-941f1cfc8a",
+                  "name": "Machida Zelvia vs Kawasaki Frontale",
+                  "streams": [
+                    {
+                      "id": "st-941f1cfc8a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Machida Zelvia",
+            "team_b": "Kawasaki Frontale",
+            "time": "17:00",
+            "date": "02/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6cac7b1175_d0d48e1f_20260902.png?v=8042a6dd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8d93f04393",
+          "name": "Sabah Fa vs Selangor | 18:30 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8d93f04393",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8d93f04393",
+                  "name": "Sabah Fa vs Selangor",
+                  "streams": [
+                    {
+                      "id": "st-8d93f04393",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sabah Fa",
+            "team_b": "Selangor",
+            "time": "18:30",
+            "date": "02/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a9f022548e_865a2b09_20260902.png?v=6daf1d7d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-eec1804638",
+          "name": "Yunnan Yukun vs Chongqing Tongliang Long | 19:00 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-eec1804638",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-eec1804638",
+                  "name": "Yunnan Yukun vs Chongqing Tongliang Long",
+                  "streams": [
+                    {
+                      "id": "st-eec1804638",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Yunnan Yukun",
+            "team_b": "Chongqing Tongliang Long",
+            "time": "19:00",
+            "date": "02/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fd4e548aad_9087b6bd_20260902.png?v=b1f3bbf6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e81d801609",
+          "name": "Sassuolo vs Frosinone | 20:00 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e81d801609",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e81d801609",
+                  "name": "Sassuolo vs Frosinone",
+                  "streams": [
+                    {
+                      "id": "st-e81d801609",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sassuolo",
+            "team_b": "Frosinone",
+            "time": "20:00",
+            "date": "02/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-34b27b72a9_3249ac36_20260902.png?v=e3e6979b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-870f8e19c5",
+          "name": "Fc Orenburg vs Rubin | 20:15 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-870f8e19c5",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-870f8e19c5",
+                  "name": "Fc Orenburg vs Rubin",
+                  "streams": [
+                    {
+                      "id": "st-870f8e19c5",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fc Orenburg",
+            "team_b": "Rubin",
+            "time": "20:15",
+            "date": "02/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-caef2a26f0_60d6f8ee_20260902.png?v=75246587",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8acedb6746",
+          "name": "Zenit vs Makhachkala | 22:30 02/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8acedb6746",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8acedb6746",
+                  "name": "Zenit vs Makhachkala",
+                  "streams": [
+                    {
+                      "id": "st-8acedb6746",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Zenit",
+            "team_b": "Makhachkala",
+            "time": "22:30",
+            "date": "02/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3a056cc1fa_7d12712a_20260902.png?v=479bf080",
             "width": 1600,
             "height": 1200
           }
