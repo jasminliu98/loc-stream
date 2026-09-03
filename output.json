@@ -88,6 +88,112 @@
           }
         },
         {
+          "id": "ch-4831652fd0",
+          "name": "Malaysia U20 vs Australia U20 | 16:00 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4831652fd0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4831652fd0",
+                  "name": "Malaysia U20 vs Australia U20",
+                  "streams": [
+                    {
+                      "id": "st-4831652fd0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Malaysia U20",
+            "team_b": "Australia U20",
+            "time": "16:00",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e489b4fd0e_d715904c_20260903.png?v=ba312a45",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-fc89f93273",
+          "name": "Bangladesh U20 vs Syria U20 | 18:00 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fc89f93273",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-fc89f93273",
+                  "name": "Bangladesh U20 vs Syria U20",
+                  "streams": [
+                    {
+                      "id": "st-fc89f93273",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Bangladesh U20",
+            "team_b": "Syria U20",
+            "time": "18:00",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9985ee3ea3_f52e017b_20260903.png?v=5adc4f4b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-ddd83e0a96",
           "name": "Campuchia U20 vs Japan U20 | 19:00 03/09",
           "type": "single",
@@ -401,112 +507,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-01aff8a93c_8ecf8c16_20260903.png?v=3cfd7a09",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-4831652fd0",
-          "name": "Malaysia U20 vs Australia U20 | 16:00 03/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4831652fd0",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-4831652fd0",
-                  "name": "Malaysia U20 vs Australia U20",
-                  "streams": [
-                    {
-                      "id": "st-4831652fd0",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Malaysia U20",
-            "team_b": "Australia U20",
-            "time": "16:00",
-            "date": "03/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e489b4fd0e_d715904c_20260903.png?v=ba312a45",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-fc89f93273",
-          "name": "Bangladesh U20 vs Syria U20 | 18:00 03/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fc89f93273",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-fc89f93273",
-                  "name": "Bangladesh U20 vs Syria U20",
-                  "streams": [
-                    {
-                      "id": "st-fc89f93273",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Bangladesh U20",
-            "team_b": "Syria U20",
-            "time": "18:00",
-            "date": "03/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9985ee3ea3_f52e017b_20260903.png?v=5adc4f4b",
             "width": 1600,
             "height": 1200
           }
