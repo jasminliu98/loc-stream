@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-86d55e5052",
-          "name": "Club America vs Monterrey | 10:30 03/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-86d55e5052",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-86d55e5052",
-                  "name": "Club America vs Monterrey",
-                  "streams": [
-                    {
-                      "id": "st-86d55e5052",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Club America",
-            "team_b": "Monterrey",
-            "time": "10:30",
-            "date": "03/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a9e690b99f_64a1f40a_20260903.png?v=b3a6c59d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-4831652fd0",
           "name": "Malaysia U20 vs Australia U20 | 16:00 03/09",
           "type": "single",
