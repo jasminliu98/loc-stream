@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-db0df9a609",
-          "name": "Palermo vs Mantova | 23:00 03/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-db0df9a609",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-db0df9a609",
-                  "name": "Palermo vs Mantova",
-                  "streams": [
-                    {
-                      "id": "st-db0df9a609",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0bd5e53133",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Palermo",
-            "team_b": "Mantova",
-            "time": "23:00",
-            "date": "03/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f68b70be7f_f48c8355_20260903.png?v=8191692b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-0ea2844495",
           "name": "Mjallby vs Djurgardens If | 00:00 04/09",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8f8c4a2bbe_79e5e6cd_20260903.png?v=8a0ae727",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-db0df9a609",
+          "name": "Palermo vs Mantova | 23:00 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-db0df9a609",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-db0df9a609",
+                  "name": "Palermo vs Mantova",
+                  "streams": [
+                    {
+                      "id": "st-db0df9a609",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0bd5e53133",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Palermo",
+            "team_b": "Mantova",
+            "time": "23:00",
+            "date": "03/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f68b70be7f_f48c8355_20260903.png?v=8191692b",
             "width": 1600,
             "height": 1200
           }
