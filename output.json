@@ -300,8 +300,8 @@
           }
         },
         {
-          "id": "ch-19a89dcf06",
-          "name": "Al-Fayha vs Al Kholood | 22:55 03/09",
+          "id": "ch-db0df9a609",
+          "name": "Palermo vs Mantova | 23:00 03/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -315,15 +315,15 @@
           ],
           "sources": [
             {
-              "id": "src-19a89dcf06",
+              "id": "src-db0df9a609",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-19a89dcf06",
-                  "name": "Al-Fayha vs Al Kholood",
+                  "id": "ct-db0df9a609",
+                  "name": "Palermo vs Mantova",
                   "streams": [
                     {
-                      "id": "st-19a89dcf06",
+                      "id": "st-db0df9a609",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -334,9 +334,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Al-Fayha",
-            "team_b": "Al Kholood",
-            "time": "22:55",
+            "team_a": "Palermo",
+            "team_b": "Mantova",
+            "time": "23:00",
             "date": "03/09",
             "blv": "Chưa có link",
             "is_live": false,
@@ -347,7 +347,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1083e04ac9_fe490c3c_20260903.png?v=d9e3f3af",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f68b70be7f_f48c8355_20260903.png?v=8191692b",
             "width": 1600,
             "height": 1200
           }
@@ -560,59 +560,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-01aff8a93c_8ecf8c16_20260903.png?v=3cfd7a09",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-e3704f1e04",
-          "name": "Al Neom vs Al Khaleej Saihat | 23:30 03/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e3704f1e04",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-e3704f1e04",
-                  "name": "Al Neom vs Al Khaleej Saihat",
-                  "streams": [
-                    {
-                      "id": "st-e3704f1e04",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al Neom",
-            "team_b": "Al Khaleej Saihat",
-            "time": "23:30",
-            "date": "03/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c09acfa3bd_43f62a6c_20260903.png?v=ff328a1c",
             "width": 1600,
             "height": 1200
           }
