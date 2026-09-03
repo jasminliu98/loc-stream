@@ -194,165 +194,6 @@
           }
         },
         {
-          "id": "ch-420e9aee16",
-          "name": "Toulouse vs Lille | 01:45 04/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-420e9aee16",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-420e9aee16",
-                  "name": "Toulouse vs Lille",
-                  "streams": [
-                    {
-                      "id": "st-420e9aee16",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Toulouse",
-            "team_b": "Lille",
-            "time": "01:45",
-            "date": "04/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-83b055c723_b9124784_20260903.png?v=66d73a5c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-1ce7cedf74",
-          "name": "Real Sociedad vs Celta Vigo | 02:00 04/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1ce7cedf74",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-1ce7cedf74",
-                  "name": "Real Sociedad vs Celta Vigo",
-                  "streams": [
-                    {
-                      "id": "st-1ce7cedf74",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Real Sociedad",
-            "team_b": "Celta Vigo",
-            "time": "02:00",
-            "date": "04/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ff6814e2dd_0058175f_20260903.png?v=782246ea",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-93ce0994a2",
-          "name": "Cagliari vs Verona | 02:00 04/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-93ce0994a2",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-93ce0994a2",
-                  "name": "Cagliari vs Verona",
-                  "streams": [
-                    {
-                      "id": "st-93ce0994a2",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Cagliari",
-            "team_b": "Verona",
-            "time": "02:00",
-            "date": "04/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-01aff8a93c_8ecf8c16_20260903.png?v=3cfd7a09",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-b7cbda6180",
           "name": "Turkmenistan U20 vs Thailand U20 | 19:30 03/09",
           "type": "single",
@@ -512,59 +353,6 @@
           }
         },
         {
-          "id": "ch-e3704f1e04",
-          "name": "Al Neom vs Al Khaleej Saihat | 23:30 03/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e3704f1e04",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-e3704f1e04",
-                  "name": "Al Neom vs Al Khaleej Saihat",
-                  "streams": [
-                    {
-                      "id": "st-e3704f1e04",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al Neom",
-            "team_b": "Al Khaleej Saihat",
-            "time": "23:30",
-            "date": "03/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c09acfa3bd_43f62a6c_20260903.png?v=ff328a1c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-0ea2844495",
           "name": "Mjallby vs Djurgardens If | 00:00 04/09",
           "type": "single",
@@ -613,6 +401,218 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8f8c4a2bbe_79e5e6cd_20260903.png?v=8a0ae727",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-420e9aee16",
+          "name": "Toulouse vs Lille | 01:45 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-420e9aee16",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-420e9aee16",
+                  "name": "Toulouse vs Lille",
+                  "streams": [
+                    {
+                      "id": "st-420e9aee16",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Toulouse",
+            "team_b": "Lille",
+            "time": "01:45",
+            "date": "04/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-83b055c723_b9124784_20260903.png?v=66d73a5c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-1ce7cedf74",
+          "name": "Real Sociedad vs Celta Vigo | 02:00 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1ce7cedf74",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-1ce7cedf74",
+                  "name": "Real Sociedad vs Celta Vigo",
+                  "streams": [
+                    {
+                      "id": "st-1ce7cedf74",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Real Sociedad",
+            "team_b": "Celta Vigo",
+            "time": "02:00",
+            "date": "04/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ff6814e2dd_0058175f_20260903.png?v=782246ea",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-93ce0994a2",
+          "name": "Cagliari vs Verona | 02:00 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-93ce0994a2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-93ce0994a2",
+                  "name": "Cagliari vs Verona",
+                  "streams": [
+                    {
+                      "id": "st-93ce0994a2",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Cagliari",
+            "team_b": "Verona",
+            "time": "02:00",
+            "date": "04/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-01aff8a93c_8ecf8c16_20260903.png?v=3cfd7a09",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e3704f1e04",
+          "name": "Al Neom vs Al Khaleej Saihat | 23:30 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e3704f1e04",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e3704f1e04",
+                  "name": "Al Neom vs Al Khaleej Saihat",
+                  "streams": [
+                    {
+                      "id": "st-e3704f1e04",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al Neom",
+            "team_b": "Al Khaleej Saihat",
+            "time": "23:30",
+            "date": "03/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c09acfa3bd_43f62a6c_20260903.png?v=ff328a1c",
             "width": 1600,
             "height": 1200
           }
