@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-420e9aee16",
-          "name": "Toulouse vs Lille | 01:45 04/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-420e9aee16",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-420e9aee16",
-                  "name": "Toulouse vs Lille",
-                  "streams": [
-                    {
-                      "id": "st-420e9aee16",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Toulouse",
-            "team_b": "Lille",
-            "time": "01:45",
-            "date": "04/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-83b055c723_b9124784_20260904.png?v=66d73a5c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-1ce7cedf74",
           "name": "Real Sociedad vs Celta Vigo | 02:00 04/09",
           "type": "single",
@@ -225,6 +154,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-01aff8a93c_8ecf8c16_20260904.png?v=3cfd7a09",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-420e9aee16",
+          "name": "Toulouse vs Lille | 01:45 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-420e9aee16",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-420e9aee16",
+                  "name": "Toulouse vs Lille",
+                  "streams": [
+                    {
+                      "id": "st-420e9aee16",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Toulouse",
+            "team_b": "Lille",
+            "time": "01:45",
+            "date": "04/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-83b055c723_b9124784_20260904.png?v=66d73a5c",
             "width": 1600,
             "height": 1200
           }
