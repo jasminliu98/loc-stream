@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-0234ab15c1",
+          "name": "Al Ahli Doha vs Qatar Sc | 21:00 03/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0234ab15c1",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-0234ab15c1",
+                  "name": "Al Ahli Doha vs Qatar Sc",
+                  "streams": [
+                    {
+                      "id": "st-0234ab15c1",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al Ahli Doha",
+            "team_b": "Qatar Sc",
+            "time": "21:00",
+            "date": "03/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-099f398b65_4d05d96e_20260903.png?v=94771a3a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-ddd83e0a96",
           "name": "Campuchia U20 vs Japan U20 | 19:00 03/09",
           "type": "single",
@@ -242,77 +313,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1e27c4a0d9_115e47f7_20260903.png?v=541932d8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-0234ab15c1",
-          "name": "Al Ahli Doha vs Qatar Sc | 21:00 03/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0234ab15c1",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-0234ab15c1",
-                  "name": "Al Ahli Doha vs Qatar Sc",
-                  "streams": [
-                    {
-                      "id": "st-0234ab15c1",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al Ahli Doha",
-            "team_b": "Qatar Sc",
-            "time": "21:00",
-            "date": "03/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-099f398b65_4d05d96e_20260903.png?v=94771a3a",
             "width": 1600,
             "height": 1200
           }
