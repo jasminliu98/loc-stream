@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c5b1345e8e",
-          "name": "Bali United vs Pss Sleman | 19:00 04/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c5b1345e8e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-c5b1345e8e",
-                  "name": "Bali United vs Pss Sleman",
-                  "streams": [
-                    {
-                      "id": "st-c5b1345e8e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Bali United",
-            "team_b": "Pss Sleman",
-            "time": "19:00",
-            "date": "04/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7708c8c8e6_2b0c8f83_20260904.png?v=7c5e1e4f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-92d2de159b",
           "name": "Navbahor vs Lokomotiv | 21:00 04/09",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9f1be88d41_975403a1_20260904.png?v=092b9414",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c5b1345e8e",
+          "name": "Bali United vs Pss Sleman | 19:00 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c5b1345e8e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c5b1345e8e",
+                  "name": "Bali United vs Pss Sleman",
+                  "streams": [
+                    {
+                      "id": "st-c5b1345e8e",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959b9ee9a1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Bali United",
+            "team_b": "Pss Sleman",
+            "time": "19:00",
+            "date": "04/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7708c8c8e6_2b0c8f83_20260904.png?v=7c5e1e4f",
             "width": 1600,
             "height": 1200
           }
