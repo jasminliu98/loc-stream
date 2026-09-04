@@ -457,6 +457,536 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-92d2de159b",
+          "name": "Navbahor vs Lokomotiv | 21:00 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-92d2de159b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-92d2de159b",
+                  "name": "Navbahor vs Lokomotiv",
+                  "streams": [
+                    {
+                      "id": "st-92d2de159b",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Navbahor",
+            "team_b": "Lokomotiv",
+            "time": "21:00",
+            "date": "04/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9f1be88d41_975403a1_20260904.png?v=092b9414",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d09bde9bab",
+          "name": "Arminia Bielefeld vs Fc St. Pauli | 23:30 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d09bde9bab",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d09bde9bab",
+                  "name": "Arminia Bielefeld vs Fc St. Pauli",
+                  "streams": [
+                    {
+                      "id": "st-d09bde9bab",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Arminia Bielefeld",
+            "team_b": "Fc St. Pauli",
+            "time": "23:30",
+            "date": "04/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1e895258a2_fd6fbda0_20260904.png?v=b27b5073",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-5d12c89a3e",
+          "name": "Vfb Stuttgart vs 1.Fc Köln | 01:30 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5d12c89a3e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-5d12c89a3e",
+                  "name": "Vfb Stuttgart vs 1.Fc Köln",
+                  "streams": [
+                    {
+                      "id": "st-5d12c89a3e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Vfb Stuttgart",
+            "team_b": "1.Fc Köln",
+            "time": "01:30",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e3bbb3fe90_db64dc14_20260904.png?v=185c0e19",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d21a075485",
+          "name": "Ipswich vs Liverpool | 02:00 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d21a075485",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d21a075485",
+                  "name": "Ipswich vs Liverpool",
+                  "streams": [
+                    {
+                      "id": "st-d21a075485",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Ipswich",
+            "team_b": "Liverpool",
+            "time": "02:00",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b58c573104_aae07cae_20260904.png?v=e4f63bf6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2ac30dfa18",
+          "name": "Real Betis vs Real Madrid | 02:00 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2ac30dfa18",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2ac30dfa18",
+                  "name": "Real Betis vs Real Madrid",
+                  "streams": [
+                    {
+                      "id": "st-2ac30dfa18",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Real Betis",
+            "team_b": "Real Madrid",
+            "time": "02:00",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0ba6643b1c_8c741034_20260904.png?v=7c631724",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ae3f54a52f",
+          "name": "Paris Saint Germain vs Monaco | 02:05 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ae3f54a52f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ae3f54a52f",
+                  "name": "Paris Saint Germain vs Monaco",
+                  "streams": [
+                    {
+                      "id": "st-ae3f54a52f",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Paris Saint Germain",
+            "team_b": "Monaco",
+            "time": "02:05",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5bfdc3d5b7_3cbe5fbb_20260904.png?v=5de0a1c7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-0a1ecd5f1f",
+          "name": "Abb vs Universitario De Vinto | 04:15 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0a1ecd5f1f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-0a1ecd5f1f",
+                  "name": "Abb vs Universitario De Vinto",
+                  "streams": [
+                    {
+                      "id": "st-0a1ecd5f1f",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Abb",
+            "team_b": "Universitario De Vinto",
+            "time": "04:15",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c26e26e5b7_72daf207_20260904.png?v=3676321e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f93364f4de",
+          "name": "New York City Fc vs Nashville Sc | 06:30 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f93364f4de",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f93364f4de",
+                  "name": "New York City Fc vs Nashville Sc",
+                  "streams": [
+                    {
+                      "id": "st-f93364f4de",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "New York City Fc",
+            "team_b": "Nashville Sc",
+            "time": "06:30",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c23e2ebf68_b6f8d4dc_20260904.png?v=93e54f7b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-fe6a2c7be3",
+          "name": "Australia vs Bahrain | 08:00 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fe6a2c7be3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-fe6a2c7be3",
+                  "name": "Australia vs Bahrain",
+                  "streams": [
+                    {
+                      "id": "st-fe6a2c7be3",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Australia",
+            "team_b": "Bahrain",
+            "time": "08:00",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c9a80bf107_cadbdb2a_20260904.png?v=4442e4af",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-bf1f52f2b7",
+          "name": "China vs India | 11:30 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bf1f52f2b7",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-bf1f52f2b7",
+                  "name": "China vs India",
+                  "streams": [
+                    {
+                      "id": "st-bf1f52f2b7",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "China",
+            "team_b": "India",
+            "time": "11:30",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-21737775ba_970f843d_20260904.png?v=ae54a5c0",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
