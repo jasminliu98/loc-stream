@@ -88,8 +88,8 @@
           }
         },
         {
-          "id": "ch-5821e0d29c",
-          "name": "Chornomorets vs Livyi Bereh | 17:00 04/09",
+          "id": "ch-76936d0edf",
+          "name": "Cheongju vs Seoul E-Land Fc | 17:30 04/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -103,15 +103,15 @@
           ],
           "sources": [
             {
-              "id": "src-5821e0d29c",
+              "id": "src-76936d0edf",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-5821e0d29c",
-                  "name": "Chornomorets vs Livyi Bereh",
+                  "id": "ct-76936d0edf",
+                  "name": "Cheongju vs Seoul E-Land Fc",
                   "streams": [
                     {
-                      "id": "st-5821e0d29c",
+                      "id": "st-76936d0edf",
                       "name": "Streams",
                       "stream_links": [
                         {
@@ -140,9 +140,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Chornomorets",
-            "team_b": "Livyi Bereh",
-            "time": "17:00",
+            "team_a": "Cheongju",
+            "team_b": "Seoul E-Land Fc",
+            "time": "17:30",
             "date": "04/09",
             "blv": "Stream",
             "is_live": true,
@@ -153,7 +153,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f666a0e1c6_5007875a_20260904.png?v=05c2964b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f60e472128_9017afef_20260904.png?v=2a464807",
             "width": 1600,
             "height": 1200
           }
