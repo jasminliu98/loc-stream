@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -88,50 +88,32 @@
           }
         },
         {
-          "id": "ch-e887bebf47",
-          "name": "Gremio vs Internacional | 06:00 04/09",
+          "id": "ch-a850e8dc4d",
+          "name": "Iran vs New Zealand | 10:30 04/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (1)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-e887bebf47",
+              "id": "src-a850e8dc4d",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-e887bebf47",
-                  "name": "Gremio vs Internacional",
+                  "id": "ct-a850e8dc4d",
+                  "name": "Iran vs New Zealand",
                   "streams": [
                     {
-                      "id": "st-e887bebf47",
+                      "id": "st-a850e8dc4d",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0bd5e53133",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -140,20 +122,338 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Gremio",
-            "team_b": "Internacional",
-            "time": "06:00",
+            "team_a": "Iran",
+            "team_b": "New Zealand",
+            "time": "10:30",
             "date": "04/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-02fc485514_3c70f352_20260904.png?v=246def83",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bd91bcde8a_f36e9d8c_20260904.png?v=21fc6890",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-fbd5621d03",
+          "name": "South Korea vs Chinese Taipei | 14:00 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fbd5621d03",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-fbd5621d03",
+                  "name": "South Korea vs Chinese Taipei",
+                  "streams": [
+                    {
+                      "id": "st-fbd5621d03",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "South Korea",
+            "team_b": "Chinese Taipei",
+            "time": "14:00",
+            "date": "04/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aa88d25217_cccaa4d6_20260904.png?v=4d4803b0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-84d728972d",
+          "name": "Arema Fc vs Adhyaksa | 15:30 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-84d728972d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-84d728972d",
+                  "name": "Arema Fc vs Adhyaksa",
+                  "streams": [
+                    {
+                      "id": "st-84d728972d",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Arema Fc",
+            "team_b": "Adhyaksa",
+            "time": "15:30",
+            "date": "04/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-59eccb3984_2e2f7fad_20260904.png?v=3d54e559",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-5821e0d29c",
+          "name": "Chornomorets vs Livyi Bereh | 17:00 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5821e0d29c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-5821e0d29c",
+                  "name": "Chornomorets vs Livyi Bereh",
+                  "streams": [
+                    {
+                      "id": "st-5821e0d29c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Chornomorets",
+            "team_b": "Livyi Bereh",
+            "time": "17:00",
+            "date": "04/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f666a0e1c6_5007875a_20260904.png?v=05c2964b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-23996b0573",
+          "name": "Japan vs Oman | 17:30 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-23996b0573",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-23996b0573",
+                  "name": "Japan vs Oman",
+                  "streams": [
+                    {
+                      "id": "st-23996b0573",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Japan",
+            "team_b": "Oman",
+            "time": "17:30",
+            "date": "04/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2ba56b8da7_1a76e496_20260904.png?v=53a577bb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8e5c7701c7",
+          "name": "Trường Tươi Đồng Nai vs Viettel | 18:00 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8e5c7701c7",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8e5c7701c7",
+                  "name": "Trường Tươi Đồng Nai vs Viettel",
+                  "streams": [
+                    {
+                      "id": "st-8e5c7701c7",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Trường Tươi Đồng Nai",
+            "team_b": "Viettel",
+            "time": "18:00",
+            "date": "04/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aa004ca609_b1f71a0e_20260904.png?v=a7e743eb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-c5b1345e8e",
+          "name": "Bali United vs Pss Sleman | 19:00 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c5b1345e8e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-c5b1345e8e",
+                  "name": "Bali United vs Pss Sleman",
+                  "streams": [
+                    {
+                      "id": "st-c5b1345e8e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Bali United",
+            "team_b": "Pss Sleman",
+            "time": "19:00",
+            "date": "04/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7708c8c8e6_2b0c8f83_20260904.png?v=7c5e1e4f",
             "width": 1600,
             "height": 1200
           }

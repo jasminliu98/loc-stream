@@ -1,16 +1,12 @@
 #EXTM3U x-tvg-name="TINHLAGI.PRO" name="TINHLAGI.PRO"
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788483603" group-title="🌈 TINHLAGI.PRO",Cập Nhật
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788483903" group-title="🌈 TINHLAGI.PRO",Cập Nhật
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788483603" group-title="🌈 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788483903" group-title="🌈 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788483603" group-title="🌈 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788483903" group-title="🌈 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CLB%20Gremio&away_team=CLB%20Sport%20Club%20Internacional&time=06%3A00%2004%2F09&sig=365cc814c38d9bda2dab2aff392b03c6b1bd6b0c542022ca1ea5e7b520220dc9&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fe1f593199d4ee1d98b2db8a9522b605f.png%21w80&source_side=home" group-title="🔴 COLA TV",06:00 04/09 CLB Gremio vs CLB Sport Club Internacional (BLV SPRITE) [flv]
-https://live05.meung.app/live/75748097.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CLB%20Gremio&away_team=CLB%20Sport%20Club%20Internacional&time=06%3A00%2004%2F09&sig=365cc814c38d9bda2dab2aff392b03c6b1bd6b0c542022ca1ea5e7b520220dc9&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fe1f593199d4ee1d98b2db8a9522b605f.png%21w80&source_side=home" group-title="🔴 COLA TV",06:00 04/09 CLB Gremio vs CLB Sport Club Internacional (BLV SPRITE) [hls]
-https://live05.meung.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CLB%20Gremio&away_team=CLB%20Sport%20Club%20Internacional&time=06%3A00%2004%2F09&sig=365cc814c38d9bda2dab2aff392b03c6b1bd6b0c542022ca1ea5e7b520220dc9&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fe1f593199d4ee1d98b2db8a9522b605f.png%21w80&source_side=home" group-title="🔴 COLA TV",06:00 04/09 CLB Gremio vs CLB Sport Club Internacional (BLV SPRITE) [hls 2]
-https://live05.miekgo.app/live/75748097.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=telegram&t=1788483903" group-title="🌈 TINHLAGI.PRO",Telegram @TINHLAGI
+https://tinhlagi.pro/logo.jpg
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=FC%20Libertad&away_team=CLB%20Emelec&time=07%3A00%2004%2F09&sig=84367f52ba4c99a73c519993324be37945b0f0b6a903c2d4576737145d6b5cd3&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F7d6d40e3a8efd6078a295754093d2f19.png%21w80&source_side=home" group-title="🔴 COLA TV",07:00 04/09 FC Libertad vs CLB Emelec (BLV  KHÔNG ĐỘ) [flv]
 https://live05.meung.app/live/41943555.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=FC%20Libertad&away_team=CLB%20Emelec&time=07%3A00%2004%2F09&sig=84367f52ba4c99a73c519993324be37945b0f0b6a903c2d4576737145d6b5cd3&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F7d6d40e3a8efd6078a295754093d2f19.png%21w80&source_side=home" group-title="🔴 COLA TV",07:00 04/09 FC Libertad vs CLB Emelec (BLV  KHÔNG ĐỘ) [hls]
@@ -122,25 +118,29 @@ https://live05.miekgo.app/live/59444581.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Independiente%20Medellin&time=08%3A00%2004%2F09&sig=1f5d1e1ae9727ccc1e59a2fd1b692b928f439c16911160df649df61190675023&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_133538_0a9dbb3b.png&source_side=home" group-title="🔴 CHUỐI CHIÊN TV",08:00 04/09 Deportivo Pereira vs Independiente Medellin (Chuối Tây) [FHD] [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gremio&away_team=Internacional&time=06%3A00%2004%2F09&sig=5cfda5e88f48a834f33b25a434d621049e248bc049e5173fcd3260b3a67331b5&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_125537_d4d52169.png&source_side=home" group-title="🔴 CHUỐI CHIÊN TV",06:00 04/09 Gremio vs Internacional (Chuối Kem) [FHD] [FHD]
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_b96e660a.png" group-title="🔴 CHUỐI CHIÊN TV",10:30 04/09 Iran vs New Zealand (Chuối Kem) [FHD] [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="🔴 CHUỐI CHIÊN TV",14:00 04/09 South Korea vs Chinese Taipei (Chuối Tây) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Arema%20FC&away_team=Adhyaksa&time=15%3A30%2004%2F09&sig=9cef8f0477bbb311431331f4928b8234cde5f1711335e061f8c99b33591f72e2&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_134615_6b83f5fd.png&source_side=home" group-title="🔴 CHUỐI CHIÊN TV",15:30 04/09 Arema FC vs Adhyaksa (Chuối Lá) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Chornomorets&away_team=Livyi%20Bereh&time=17%3A00%2004%2F09&sig=b447956f33be5b0c3bec813acbb08c26a3674a0bedb170be00877e2680178dad&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_125750_932ebedb.png&source_side=home" group-title="🔴 CHUỐI CHIÊN TV",17:00 04/09 Chornomorets vs Livyi Bereh (Chuối Chao) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="🔴 CHUỐI CHIÊN TV",17:30 04/09 Japan vs Oman (Chuối Kem) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Tr%C6%B0%E1%BB%9Dng%20T%C6%B0%C6%A1i%20%C4%90%E1%BB%93ng%20Nai&away_team=Viettel&time=18%3A00%2004%2F09&sig=50d9dd2c9320c132e7cd3c04eb3131e9549c6a9276afb135a07f847287ab65fa&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2F20251121_155919_59876ece.png&source_side=home" group-title="🔴 CHUỐI CHIÊN TV",18:00 04/09 Trường Tươi Đồng Nai vs Viettel (A Ngao) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Bali%20United&away_team=PSS%20Sleman&time=19%3A00%2004%2F09&sig=88a8f52cd735df7fa9904d584b54256b2741aa369471ec8fdcb9538bead62e16&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_134617_73ab7535.png&source_side=home" group-title="🔴 CHUỐI CHIÊN TV",19:00 04/09 Bali United vs PSS Sleman (Chuối Nhỏ) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rentistas&away_team=Plaza%20Colonia&time=04%3A15%2004%2F09&sig=37568529313465a28613f88b9dfbe5efb0b058e56677dc8fd6a18ac040c7fd07&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fe1d32b3c549b753051a0add3fb8f8093.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",04:15 04/09 Rentistas vs Plaza Colonia (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/5df58ee3548801b9cb2654763ccb8b02/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gr%C3%AAmio%20_%20RS&away_team=Internacional%20_%20RS&time=06%3A00%2004%2F09&sig=ded6b25017b6b9249ee4de976697c4e2d9114658e872418c3f1f83f262443556&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fe1f593199d4ee1d98b2db8a9522b605f.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",06:00 04/09 Grêmio _ RS vs Internacional _ RS (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/d86d69a1fad618f1c48a5df3f868d5ef/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Inter%20Palmira&away_team=Real%20Soacha%20Cundinamarca&time=06%3A00%2004%2F09&sig=c3568a0d15bb71b940ef036923b8d9fab57426ac0e6107d6884298b2522c60d0&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fe362b02676ca21aa27e93bfa85f6e925.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",06:00 04/09 Inter Palmira vs Real Soacha Cundinamarca (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/a1a114f0f51ed8160ce7c62c13639e0f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Managua%20FC&away_team=Diriangen&time=06%3A00%2004%2F09&sig=6358cbc8ef5d040dec544a3ca3d1cb8e0dc5f9709355ce9bc7874d05416ce56b&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fe2ee59096dca5411532787f1c5b4cc8e.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",06:00 04/09 Managua FC vs Diriangen (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/1c6eb7743e3a937ff81ca3f8d680147d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Nautico%20%28PE%29&away_team=Botafogo%20SP&time=06%3A00%2004%2F09&sig=0a1b43b2194ae748000142308a3d7c723e4b6b0200ae5d3f1c01c6f2b5f722ba&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F1d8d54bfe19b8bfd6d064eda3556f812.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",06:00 04/09 Nautico (PE) vs Botafogo SP (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/efdbd5066d1e4fa0e96dbcf7b3f8b992/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Oriental&away_team=Racing%20Club%20Montevideo&time=06%3A00%2004%2F09&sig=fa2dc82d84667f4c7f6b7bc2f5304ab920069af3e17fd11122797f79bf0be277&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fbc514494c067636e83b9ecc7a36ec848.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",06:00 04/09 Oriental vs Racing Club Montevideo (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/4cdf5524983afd3c5a4ba84f5dc0ac4e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Academia%20Puerto%20Cabello&away_team=Deportivo%20La%20Guaira&time=06%3A00%2004%2F09&sig=e171aa38e10f7777216023fbcc71ecf1a36cfe887d586e6599a5cddc816710e2&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F358d4cc3b8103bbfb54f7edab8486ce5.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",06:00 04/09 Academia Puerto Cabello vs Deportivo La Guaira (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/64df8640f608588c25b2e8fa89bb25dd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Metropolitanos%20FC&away_team=Trujillanos&time=06%3A00%2004%2F09&sig=3578b2640acbad4ba57ae7e01c7d1d3f58eb9baac97703e2fe0a49fc65dd0767&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F6528d5852a5c4d3060d15c94f122b81d.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",06:00 04/09 Metropolitanos FC vs Trujillanos (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/1003fafb1acc4ff961d309cff28092ee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Libertad%20FC&away_team=Club%20Sport%20Emelec&time=07%3A00%2004%2F09&sig=49177b62985e605c63eb91059d48ccaa651bcf9ee7924712b80647dea7d51923&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F7d6d40e3a8efd6078a295754093d2f19.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",07:00 04/09 Libertad FC vs Club Sport Emelec (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/f67c059c4423fdd99087d22f1324f12a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Cavalier%20FC&away_team=Portmore%20United&time=07%3A00%2004%2F09&sig=8cd2b6d91d2ae9451c80c9988a11e6a063a05b208490de85a9f7731ca92ac8ab&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fed26c7fa635172508dbfd68b2f92daab.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",07:00 04/09 Cavalier FC vs Portmore United (Nhà Đài 1)
@@ -159,10 +159,10 @@ https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Al-Wasl%20SC&away_team=Khor%20Fakkan%20SSC&time=23%3A15%2004%2F09&sig=f0765b3da22968431085a7d461c9077bb51b2f8968781b9d6838d86fce1c8056&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F17b767b98695df2fb512e992dd8a7af4.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",23:15 04/09 Al-Wasl SC vs Khor Fakkan SSC (Tôn Quyền)
 https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Hannover%2096&away_team=Karlsruher%20SC&time=23%3A30%2004%2F09&sig=a381d8eedba9a2b9190b128a976120b4b6918371b9a33352ef813c6d3ae02199&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F1800be60204966114d63970b5d0873da.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",23:30 04/09 Hannover 96 vs Karlsruher SC (Nguyễn Huệ)
-https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Arminia%20Bielefeld&away_team=FC%20St.%20Pauli&time=23%3A30%2004%2F09&sig=d2888b23de381a388ce3ad450a5913d3bfb4b114b1549f7a9f582e9804c4a963&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F8739d9ef9a67d757cc8ef67d12c58f62.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",23:30 04/09 Arminia Bielefeld vs FC St. Pauli (Lê Lợi)
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Hannover%2096&away_team=Karlsruher%20SC&time=23%3A30%2004%2F09&sig=a381d8eedba9a2b9190b128a976120b4b6918371b9a33352ef813c6d3ae02199&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F1800be60204966114d63970b5d0873da.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",23:30 04/09 Hannover 96 vs Karlsruher SC (Nguyễn Huệ)
+https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gremio&away_team=Internacional&time=06%3A00%2004%2F09&sig=c8c73272b6c12848d4f758fc25af167a4c45ad8fcbcf62e6c186f08e9056a296&v=source-v2&source_logo=https%3A%2F%2F2ms8tv.top%2Fwp-json%2Fs8-image%2F19ead77a-f4b3-480b-bbf8-c1b1aa1a11d7&source_side=home" group-title="🔴 S8 TV",06:00 04/09 Gremio vs Internacional (NGƯỜI DÊ) [hls]
 https://hls.lauthaitv.cc/live/gremio-interna-copabra/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gremio&away_team=Internacional&time=06%3A00%2004%2F09&sig=c8c73272b6c12848d4f758fc25af167a4c45ad8fcbcf62e6c186f08e9056a296&v=source-v2&source_logo=https%3A%2F%2F2ms8tv.top%2Fwp-json%2Fs8-image%2F19ead77a-f4b3-480b-bbf8-c1b1aa1a11d7&source_side=home" group-title="🔴 S8 TV",06:00 04/09 Gremio vs Internacional (NGƯỜI DÊ) [flv]
@@ -255,66 +255,66 @@ https://flv.lauthaitv.cc/live/puebla-toluca-mexliga.flv
 https://hls.lauthaitv.cc/live/juarez-pachuca-mexliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=FC%20Juarez&away_team=Pachuca&time=10%3A00%2005%2F09&sig=a5353d6034679e89798cedbf0b41b8477f5f5e8a24dff44bfe7579b40aa3dbf1&v=source-v2&source_logo=https%3A%2F%2F2ms8tv.top%2Fwp-json%2Fs8-image%2F5357f177-6af2-4bc1-a070-5b2e5c29be28&source_side=home" group-title="🔴 S8 TV",10:00 05/09 FC Juarez vs Pachuca (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/juarez-pachuca-mexliga.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente&time=08%3A00%2004%2F09&sig=714ff14e3eae9deb7fbdac72b08861ac1d60fd6b6e711fee2a8690c3d7642dfe&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fl5ergphoog4r8k0%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente (HIRO)
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.domainkqt.cc/live/channel14.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente&time=08%3A00%2004%2F09&sig=714ff14e3eae9deb7fbdac72b08861ac1d60fd6b6e711fee2a8690c3d7642dfe&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fl5ergphoog4r8k0%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente (HD HIRO) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.pro2cdnlive.com/live/channel-14.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Tepatitlan%20FC&away_team=Dorados&time=08%3A00%2004%2F09&sig=1df97c027f175c60300fde60259252ea924a862b0f63687c9c93480ae798ca17&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fk82rekh94wwrepz%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",08:00 04/09 Tepatitlan FC vs Dorados (ASTRA)
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.domainkqt.cc/live/channel11.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Tepatitlan%20FC&away_team=Dorados&time=08%3A00%2004%2F09&sig=1df97c027f175c60300fde60259252ea924a862b0f63687c9c93480ae798ca17&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fk82rekh94wwrepz%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",08:00 04/09 Tepatitlan FC vs Dorados (HD ASTRA) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001788482775-0-0-3d447d9c3468654b1e1e1b18f6c6f92e
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gr%C3%AAmio%20RS&away_team=Internacional%20RS&time=06%3A00%2004%2F09&sig=a1a5e949c3277bbb78ea732303785f1be544ccddb7ed0b6eeef214bc862b517e&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fp4jwq2ghdd9m0ve%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",06:00 04/09 Grêmio RS vs Internacional RS (NEMO)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.domainkqt.cc/live/channel17.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gr%C3%AAmio%20RS&away_team=Internacional%20RS&time=06%3A00%2004%2F09&sig=a1a5e949c3277bbb78ea732303785f1be544ccddb7ed0b6eeef214bc862b517e&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fp4jwq2ghdd9m0ve%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",06:00 04/09 Grêmio RS vs Internacional RS (HD NEMO) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001788482784-0-0-322f835ed0113d72d25bca112b4523b9
+https://live2.pro2cdnlive.com/live/channel-17.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Nautico%20%28PE%29&away_team=Botafogo%20SP&time=06%3A00%2004%2F09&sig=fb736e921be6e59b29c0459b846424332baa4af46d1e74c614ef7b092f6febc0&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2F1l4rjnh66d0m7vx%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",06:00 04/09 Nautico (PE) vs Botafogo SP (SILVA)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.domainkqt.cc/live/channel20.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Nautico%20%28PE%29&away_team=Botafogo%20SP&time=06%3A00%2004%2F09&sig=fb736e921be6e59b29c0459b846424332baa4af46d1e74c614ef7b092f6febc0&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2F1l4rjnh66d0m7vx%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",06:00 04/09 Nautico (PE) vs Botafogo SP (HD SILVA) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001788482791-0-0-81f5e4878602e22c114d4bff56e629d8
+https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001788483724-0-0-0387ed29277f3a40383d5075d2fae95c
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Cavalier%20FC&away_team=Portmore%20United&time=07%3A00%2004%2F09&sig=6159f14f89adca58b0b4819ccdd7a50f3dbf897faa3443271b6ac7333e1f7c72&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fy39mp1h3j9gmojx%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:00 04/09 Cavalier FC vs Portmore United (RAVEN)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.domainkqt.cc/live/channel21.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Cavalier%20FC&away_team=Portmore%20United&time=07%3A00%2004%2F09&sig=6159f14f89adca58b0b4819ccdd7a50f3dbf897faa3443271b6ac7333e1f7c72&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fy39mp1h3j9gmojx%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:00 04/09 Cavalier FC vs Portmore United (HD RAVEN) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001788482796-0-0-1a1ce8a4992f1f489ec253c0e40b55c7
+https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001788483733-0-0-07a6535d81a3fd47727f661124cc2a7b
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Libertad%20Loja&away_team=Sport%20Emelec&time=07%3A00%2004%2F09&sig=33b7bd9fd5e546b32407ea826187f1a1a23ee4b44c50fcd6d25857cc3e70031f&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2F23xmvkhk6k5qg8n%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:00 04/09 Libertad Loja vs Sport Emelec (JEAN)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.domainkqt.cc/live/channel7.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Libertad%20Loja&away_team=Sport%20Emelec&time=07%3A00%2004%2F09&sig=33b7bd9fd5e546b32407ea826187f1a1a23ee4b44c50fcd6d25857cc3e70031f&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2F23xmvkhk6k5qg8n%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:00 04/09 Libertad Loja vs Sport Emelec (HD JEAN) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001788482804-0-0-b8a3f4780f7c1b109c382a15126a5daa
+https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001788483740-0-0-bbd429f6dd7d9bff4244f2974f9a7e0c
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente&time=08%3A00%2004%2F09&sig=714ff14e3eae9deb7fbdac72b08861ac1d60fd6b6e711fee2a8690c3d7642dfe&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fl5ergphoog4r8k0%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente (HIRO)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.domainkqt.cc/live/channel14.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente&time=08%3A00%2004%2F09&sig=714ff14e3eae9deb7fbdac72b08861ac1d60fd6b6e711fee2a8690c3d7642dfe&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fl5ergphoog4r8k0%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente (HD HIRO) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001788483748-0-0-53cb1a3df3cbb00d79013f525e122630
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Tepatitlan%20FC&away_team=Dorados&time=08%3A00%2004%2F09&sig=1df97c027f175c60300fde60259252ea924a862b0f63687c9c93480ae798ca17&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fk82rekh94wwrepz%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",08:00 04/09 Tepatitlan FC vs Dorados (ASTRA)
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.domainkqt.cc/live/channel11.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Tepatitlan%20FC&away_team=Dorados&time=08%3A00%2004%2F09&sig=1df97c027f175c60300fde60259252ea924a862b0f63687c9c93480ae798ca17&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fk82rekh94wwrepz%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",08:00 04/09 Tepatitlan FC vs Dorados (HD ASTRA) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
+https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001788483757-0-0-012af88e6d98044cbe18ea4e7bfc743f
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/zp5rzkt7gy9r82w/image/small" group-title="🔴 XÔI LẠC Z TV",07:30 04/09 Universidad Catolica vs CD Puerto Varas (ALAN)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.domainkqt.cc/live/channel25.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/zp5rzkt7gy9r82w/image/small" group-title="🔴 XÔI LẠC Z TV",07:30 04/09 Universidad Catolica vs CD Puerto Varas (HD ALAN) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001788482811-0-0-6a8b2164dcda9e0315eb1f252c5314af
+https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001788483764-0-0-e7dd8cef377578ded135ac8c21fbcb2d
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Paula%20Badosa&away_team=Coco%20Gauff&time=06%3A00%2004%2F09&sig=5c0af7765282d33b82ae7bd944846a3364387adce61b56ea24e47e84580607a1&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2Fdn1m12f872oqoep%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",06:00 04/09 Paula Badosa vs Coco Gauff (VIC)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.domainkqt.cc/live/channel32.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Paula%20Badosa&away_team=Coco%20Gauff&time=06%3A00%2004%2F09&sig=5c0af7765282d33b82ae7bd944846a3364387adce61b56ea24e47e84580607a1&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2Fdn1m12f872oqoep%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",06:00 04/09 Paula Badosa vs Coco Gauff (HD VIC) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001788482817-0-0-a0c60310aecdf2d499c6c83bda042597
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001788483772-0-0-b0095e59f9c04b651f3abeb44d6c9c06
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Alexander%20Zverev&away_team=Quentin%20Halys&time=07%3A10%2004%2F09&sig=5d4ca019f27f4b73250b09b2e77d1eb706f8f7e53b1c49edefc6014129865604&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F2y8m4vfgnooml07%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:10 04/09 Alexander Zverev vs Quentin Halys (VIC)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.domainkqt.cc/live/channel32.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Alexander%20Zverev&away_team=Quentin%20Halys&time=07%3A10%2004%2F09&sig=5d4ca019f27f4b73250b09b2e77d1eb706f8f7e53b1c49edefc6014129865604&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F2y8m4vfgnooml07%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:10 04/09 Alexander Zverev vs Quentin Halys (HD VIC) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001788482824-0-0-5516de179443e6a5cbca08b5d25ba11e
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001788483779-0-0-2253cb913f56ef983924ed2b57c34db2
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z8yomovtoynq0j6/image/small" group-title="🔴 XÔI LẠC Z TV",10:00 04/09 Shandong Hi-Speed vs Fujian Jinjiang Tourism (TOMMY)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.domainkqt.cc/live/channel29.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z8yomovtoynq0j6/image/small" group-title="🔴 XÔI LẠC Z TV",10:00 04/09 Shandong Hi-Speed vs Fujian Jinjiang Tourism (HD TOMMY) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001788482831-0-0-4cbe33aaefb405fd0d6dead84f7cd5e4
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001788483786-0-0-5092a1a25f5908983b0567387322ee75
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/gpxwrx5tongqyk0/image/small" group-title="🔴 XÔI LẠC Z TV",12:30 04/09 Guangsha Lions vs Tianjin Pioneers (ALAN)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.pro2cdnlive.com/live/channel25.flv
@@ -404,7 +404,7 @@ https://live2.pro2cdnlive.com/live/channel-32.flv
 https://live2.domainkqt.cc/live/channel33.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/p3glrwjhvzvqdyj/image/small" group-title="🔴 XÔI LẠC Z TV",10:30 04/09 Iran vs New Zealand (HD TYSON) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001788482858-0-0-c2ee70462d92f64df44279a780740e3d
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001788483816-0-0-3b188ba8458b5c13618d21c7a20e7723
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/gx7lm75h194q2wd/image/small" group-title="🔴 XÔI LẠC Z TV",14:00 04/09 Hàn Quốc vs Đài Loan (TYSON)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.pro2cdnlive.com/live/channel33.flv
@@ -423,22 +423,52 @@ https://live2.pro2cdnlive.com/live/channel30.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=KT%20Rolster&away_team=Dplus&time=15%3A00%2004%2F09&sig=a86fe0104630f24e90367489291acca5ab61ce60535326d9b4ef3d91f3c4f468&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Flol%2Fteam%2Fdn1m1eku4j7kqoe%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",15:00 04/09 KT Rolster vs Dplus (HD MARTY) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com/
 https://live2.pro2cdnlive.com/live/channel-30.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=0fbde8f6a41376114f707089beb151c2e9166e09260eaef3925bb2ffb80b4304&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F25734f9bdbb8e11a9cebf7637446b32a.png&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (BLV TOMIA) [geo]
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gr%C3%AAmio%20_%20RS&away_team=Internacional%20_%20RS&time=06%3A00%2004%2F09&sig=506bdde014675cd388db0767ae069cb272e71780302616b5813bc3be66744fa2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F616a1168fa37cc2d321d247b8778e74b.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Grêmio _ RS vs Internacional _ RS (CƠM NẾP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/618950.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gr%C3%AAmio%20_%20RS&away_team=Internacional%20_%20RS&time=06%3A00%2004%2F09&sig=506bdde014675cd388db0767ae069cb272e71780302616b5813bc3be66744fa2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F616a1168fa37cc2d321d247b8778e74b.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Grêmio _ RS vs Internacional _ RS (BLV KAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/283501.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gr%C3%AAmio%20_%20RS&away_team=Internacional%20_%20RS&time=06%3A00%2004%2F09&sig=506bdde014675cd388db0767ae069cb272e71780302616b5813bc3be66744fa2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F616a1168fa37cc2d321d247b8778e74b.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Grêmio _ RS vs Internacional _ RS (BLV CHIVAS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/485739.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gr%C3%AAmio%20_%20RS&away_team=Internacional%20_%20RS&time=06%3A00%2004%2F09&sig=506bdde014675cd388db0767ae069cb272e71780302616b5813bc3be66744fa2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F616a1168fa37cc2d321d247b8778e74b.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Grêmio _ RS vs Internacional _ RS (XUÂN TÓC ĐỎ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/610518.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Nautico%20%28PE%29&away_team=Botafogo%20SP&time=06%3A00%2004%2F09&sig=1ce512383e7fdc43e79aaafa6b20bd6d79cbb9f0f1125af7def277ae7823a047&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F1d8d54bfe19b8bfd6d064eda3556f812.webp&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Nautico (PE) vs Botafogo SP (BLV RYO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/602019.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Nautico%20%28PE%29&away_team=Botafogo%20SP&time=06%3A00%2004%2F09&sig=1ce512383e7fdc43e79aaafa6b20bd6d79cbb9f0f1125af7def277ae7823a047&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F1d8d54bfe19b8bfd6d064eda3556f812.webp&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Nautico (PE) vs Botafogo SP (BLV A TÚ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/557845.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Managua%20FC&away_team=Diriangen&time=06%3A00%2004%2F09&sig=7a1ac6b6a5f1158e4af83705c08d2b42ee449cfeaf673b35fc36aec1f25cf4b8&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F2985e2e3ad01d1ff7b3565126c494102.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Managua FC vs Diriangen (BLV VOI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/552716.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Managua%20FC&away_team=Diriangen&time=06%3A00%2004%2F09&sig=7a1ac6b6a5f1158e4af83705c08d2b42ee449cfeaf673b35fc36aec1f25cf4b8&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F2985e2e3ad01d1ff7b3565126c494102.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Managua FC vs Diriangen (BÚN ĐẬU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/619561.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Inter%20Palmira&away_team=Real%20Soacha%20Cundinamarca&time=06%3A00%2004%2F09&sig=99d5b575bcdb39f6acd739c7e7a02db1dbe51b158d9963d4524fdecf47239774&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260902%2Fc636d16bec54323fc661be63145911ef.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Inter Palmira vs Real Soacha Cundinamarca (BLV YONE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/372746.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Inter%20Palmira&away_team=Real%20Soacha%20Cundinamarca&time=06%3A00%2004%2F09&sig=99d5b575bcdb39f6acd739c7e7a02db1dbe51b158d9963d4524fdecf47239774&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260902%2Fc636d16bec54323fc661be63145911ef.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Inter Palmira vs Real Soacha Cundinamarca (BLV VIP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/491873.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=e6193418ac5c036bc80802891f5c815f6872f851207fd185a93858109ce5c9a4&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F2a016d670dd775e37ae908540843a444.webp&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (BLV TOMIA) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/187579.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=0fbde8f6a41376114f707089beb151c2e9166e09260eaef3925bb2ffb80b4304&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F25734f9bdbb8e11a9cebf7637446b32a.png&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (BLV ENZO) [geo]
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=e6193418ac5c036bc80802891f5c815f6872f851207fd185a93858109ce5c9a4&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F2a016d670dd775e37ae908540843a444.webp&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (BLV ENZO) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/380460.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=0fbde8f6a41376114f707089beb151c2e9166e09260eaef3925bb2ffb80b4304&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F25734f9bdbb8e11a9cebf7637446b32a.png&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (THOMAS) [geo]
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=e6193418ac5c036bc80802891f5c815f6872f851207fd185a93858109ce5c9a4&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F2a016d670dd775e37ae908540843a444.webp&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (THOMAS) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/414317.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=0fbde8f6a41376114f707089beb151c2e9166e09260eaef3925bb2ffb80b4304&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F25734f9bdbb8e11a9cebf7637446b32a.png&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (CR Bưởi) [geo]
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=e6193418ac5c036bc80802891f5c815f6872f851207fd185a93858109ce5c9a4&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F2a016d670dd775e37ae908540843a444.webp&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (CR Bưởi) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/387694.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=0fbde8f6a41376114f707089beb151c2e9166e09260eaef3925bb2ffb80b4304&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F25734f9bdbb8e11a9cebf7637446b32a.png&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (BLV MESSI) [geo]
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=e6193418ac5c036bc80802891f5c815f6872f851207fd185a93858109ce5c9a4&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F2a016d670dd775e37ae908540843a444.webp&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (BLV MESSI) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/494201.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=0fbde8f6a41376114f707089beb151c2e9166e09260eaef3925bb2ffb80b4304&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F25734f9bdbb8e11a9cebf7637446b32a.png&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (KENCHU) [geo]
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=e6193418ac5c036bc80802891f5c815f6872f851207fd185a93858109ce5c9a4&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F2a016d670dd775e37ae908540843a444.webp&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (KENCHU) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/622602.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Tepatitlan%20FC&away_team=Club%20Deportivo%20Dorados%20de%20Sinaloa&time=08%3A00%2004%2F09&sig=c693efd83692124a362fbac8406bb2339f2cc69e7409f6fff030434f6f4b218f&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F491cb513fa9b8a73d1462ac12be327bf.png&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Tepatitlan FC vs Club Deportivo Dorados de Sinaloa (BÁ PHÚ) [geo]
@@ -477,36 +507,6 @@ https://live.inplyr.com/room/485739.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Matagalpa%20FC&away_team=UNAN%20Managua&time=08%3A00%2004%2F09&sig=eec9c6a88ad7710a539c1e95ba3a4049fe61f7ebdbaf6b595b1b6ecf42025075&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2Ff086f70701ecb37900734141ff08272c.png&source_side=home" group-title="🔴 SOCOLIVE TV",08:00 04/09 Matagalpa FC vs UNAN Managua (CƠM NẾP) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/618950.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Nautico%20%28PE%29&away_team=Botafogo%20SP&time=06%3A00%2004%2F09&sig=8df1ccb45ae907a681c97833b2239a8ae924e771780cea677730a85a6bedd6ed&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F57911b69f0dd25805ba53ae6a8e845cd.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Nautico (PE) vs Botafogo SP (BLV RYO) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/602019.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Nautico%20%28PE%29&away_team=Botafogo%20SP&time=06%3A00%2004%2F09&sig=8df1ccb45ae907a681c97833b2239a8ae924e771780cea677730a85a6bedd6ed&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F57911b69f0dd25805ba53ae6a8e845cd.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Nautico (PE) vs Botafogo SP (BLV A TÚ) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/557845.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Managua%20FC&away_team=Diriangen&time=06%3A00%2004%2F09&sig=7a1ac6b6a5f1158e4af83705c08d2b42ee449cfeaf673b35fc36aec1f25cf4b8&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F2985e2e3ad01d1ff7b3565126c494102.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Managua FC vs Diriangen (BLV VOI) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/552716.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Managua%20FC&away_team=Diriangen&time=06%3A00%2004%2F09&sig=7a1ac6b6a5f1158e4af83705c08d2b42ee449cfeaf673b35fc36aec1f25cf4b8&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F2985e2e3ad01d1ff7b3565126c494102.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Managua FC vs Diriangen (BÚN ĐẬU) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/619561.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Inter%20Palmira&away_team=Real%20Soacha%20Cundinamarca&time=06%3A00%2004%2F09&sig=c445b8615e4ad531e67d0b09f4cb370924c1a084a14a85317efe41ada05698ad&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fe362b02676ca21aa27e93bfa85f6e925.webp&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Inter Palmira vs Real Soacha Cundinamarca (BLV YONE) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/372746.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Inter%20Palmira&away_team=Real%20Soacha%20Cundinamarca&time=06%3A00%2004%2F09&sig=c445b8615e4ad531e67d0b09f4cb370924c1a084a14a85317efe41ada05698ad&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fe362b02676ca21aa27e93bfa85f6e925.webp&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Inter Palmira vs Real Soacha Cundinamarca (BLV VIP) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/491873.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gr%C3%AAmio%20_%20RS&away_team=Internacional%20_%20RS&time=06%3A00%2004%2F09&sig=506bdde014675cd388db0767ae069cb272e71780302616b5813bc3be66744fa2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F616a1168fa37cc2d321d247b8778e74b.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Grêmio _ RS vs Internacional _ RS (CƠM NẾP) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/618950.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gr%C3%AAmio%20_%20RS&away_team=Internacional%20_%20RS&time=06%3A00%2004%2F09&sig=506bdde014675cd388db0767ae069cb272e71780302616b5813bc3be66744fa2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F616a1168fa37cc2d321d247b8778e74b.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Grêmio _ RS vs Internacional _ RS (BLV KAN) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/283501.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gr%C3%AAmio%20_%20RS&away_team=Internacional%20_%20RS&time=06%3A00%2004%2F09&sig=506bdde014675cd388db0767ae069cb272e71780302616b5813bc3be66744fa2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F616a1168fa37cc2d321d247b8778e74b.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Grêmio _ RS vs Internacional _ RS (BLV CHIVAS) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/485739.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gr%C3%AAmio%20_%20RS&away_team=Internacional%20_%20RS&time=06%3A00%2004%2F09&sig=506bdde014675cd388db0767ae069cb272e71780302616b5813bc3be66744fa2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F616a1168fa37cc2d321d247b8778e74b.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 04/09 Grêmio _ RS vs Internacional _ RS (XUÂN TÓC ĐỎ) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/610518.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Arema%20FC&away_team=Isenmulang%20Kalteng&time=15%3A30%2004%2F09&sig=03a43036e35321cc1607039561eca1557d6b7ac758e3cfc2fa879069b00026c8&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F93672c02306f6476cb01dc14f58a6286.png&source_side=home" group-title="🔴 SOCOLIVE TV",15:30 04/09 Arema FC vs Isenmulang Kalteng (THOMAS) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/414317.m3u8
@@ -525,12 +525,6 @@ https://live.inplyr.com/room/360663.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Arema%20FC&away_team=Isenmulang%20Kalteng&time=15%3A30%2004%2F09&sig=03a43036e35321cc1607039561eca1557d6b7ac758e3cfc2fa879069b00026c8&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F93672c02306f6476cb01dc14f58a6286.png&source_side=home" group-title="🔴 SOCOLIVE TV",15:30 04/09 Arema FC vs Isenmulang Kalteng (BÁ PHÚ) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/118206.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Yangon%20City&away_team=Yadanarbon%20FC&time=16%3A00%2004%2F09&sig=f757c6bbd5fa67ae14719e44b6b3e2223e86c3dade60d0786b163efdc53234f2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F6eba7a167d338d23511cea53b222f2ab.png&source_side=home" group-title="🔴 SOCOLIVE TV",16:00 04/09 Yangon City vs Yadanarbon FC (BLV VOI) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/552716.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Yangon%20City&away_team=Yadanarbon%20FC&time=16%3A00%2004%2F09&sig=f757c6bbd5fa67ae14719e44b6b3e2223e86c3dade60d0786b163efdc53234f2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F6eba7a167d338d23511cea53b222f2ab.png&source_side=home" group-title="🔴 SOCOLIVE TV",16:00 04/09 Yangon City vs Yadanarbon FC (BLV HEHE) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/622241.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Lecce%20U20&away_team=AS%20Roma%20U20&time=16%3A00%2004%2F09&sig=475e18ba12d2594a9e7ccea168e732159ca864250167ef2c2fc7f40a6294e52e&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2Fe4d496fdc38cfc7c696c7ffaf8fca46b.png&source_side=home" group-title="🔴 SOCOLIVE TV",16:00 04/09 Lecce U20 vs AS Roma U20 (BLV KAN) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/283501.m3u8
@@ -543,6 +537,12 @@ https://live.inplyr.com/room/603255.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Chinland%20FC&away_team=Yangon%20United&time=16%3A00%2004%2F09&sig=feec737e28c9ac5a578077dd96ae81aef6c1a01694fcfc5f5f3807cf05b618c3&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F3acdbc95ceb268fc05861381a09eac51.png&source_side=home" group-title="🔴 SOCOLIVE TV",16:00 04/09 Chinland FC vs Yangon United (BLV A TÚ) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/557845.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Yangon%20City&away_team=Yadanarbon%20FC&time=16%3A00%2004%2F09&sig=f757c6bbd5fa67ae14719e44b6b3e2223e86c3dade60d0786b163efdc53234f2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F6eba7a167d338d23511cea53b222f2ab.png&source_side=home" group-title="🔴 SOCOLIVE TV",16:00 04/09 Yangon City vs Yadanarbon FC (BLV VOI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/552716.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Yangon%20City&away_team=Yadanarbon%20FC&time=16%3A00%2004%2F09&sig=f757c6bbd5fa67ae14719e44b6b3e2223e86c3dade60d0786b163efdc53234f2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F6eba7a167d338d23511cea53b222f2ab.png&source_side=home" group-title="🔴 SOCOLIVE TV",16:00 04/09 Yangon City vs Yadanarbon FC (BLV HEHE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/622241.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Chungbuk%20Cheongju%20FC&away_team=Seoul%20E-Land%20FC&time=17%3A30%2004%2F09&sig=39bb6c13da5895aa66d315c0f50beb7e1c3f7b2a1e39d02d7fd40f279665acdd&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F521eb68c31d87b9a8c0c1a28c62e30d4.png&source_side=home" group-title="🔴 SOCOLIVE TV",17:30 04/09 Chungbuk Cheongju FC vs Seoul E-Land FC (BLV RAMBO) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/534055.m3u8
@@ -561,6 +561,12 @@ https://live.inplyr.com/room/459401.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Paju%20Frontier%20FC&away_team=Daegu%20FC&time=17%3A30%2004%2F09&sig=9bae750035f734986254c7393d40381fce24e1ba912c5beb061f7ce57dfcfa60&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F5a8ec0ec9447a6954c817b5b8e3291d4.png&source_side=home" group-title="🔴 SOCOLIVE TV",17:30 04/09 Paju Frontier FC vs Daegu FC (BÚN ĐẬU) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/619561.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Bayswater%20City&away_team=Olympic%20Kingsway%20SC&time=18%3A00%2004%2F09&sig=6d17856d733c3093ee1dd7079942c2704ead0040d7ae31370bcfae85aa546aac&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F1cc03cebbab95de034da7d542bd31f62.png&source_side=home" group-title="🔴 SOCOLIVE TV",18:00 04/09 Bayswater City vs Olympic Kingsway SC (PEANUT) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/620084.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Bayswater%20City&away_team=Olympic%20Kingsway%20SC&time=18%3A00%2004%2F09&sig=6d17856d733c3093ee1dd7079942c2704ead0040d7ae31370bcfae85aa546aac&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F1cc03cebbab95de034da7d542bd31f62.png&source_side=home" group-title="🔴 SOCOLIVE TV",18:00 04/09 Bayswater City vs Olympic Kingsway SC (BLV RÔSI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/139384.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Perth%20RedStar&away_team=Perth%20SC&time=18%3A00%2004%2F09&sig=205f9a5633cf33a6fda7aa08b4883063c4d55f11d3add527455b44d2c3b15ae2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F9c0744d0a3eb72904fb4df001aa0911b.png&source_side=home" group-title="🔴 SOCOLIVE TV",18:00 04/09 Perth RedStar vs Perth SC (BLV ANH TÀI) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/406865.m3u8
@@ -591,12 +597,6 @@ https://live.inplyr.com/room/321443.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Manila%20Digger%20FC&away_team=Kasuka%20FC&time=18%3A00%2004%2F09&sig=76d040b4ee60aab69db59631853983dd4dc3104d4a457449d6ed245495d892a6&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F3f74639ee5c9ee17e87a7a6572f15692.png&source_side=home" group-title="🔴 SOCOLIVE TV",18:00 04/09 Manila Digger FC vs Kasuka FC (RỒNG ĐẤT) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/620649.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Bayswater%20City&away_team=Olympic%20Kingsway%20SC&time=18%3A00%2004%2F09&sig=6d17856d733c3093ee1dd7079942c2704ead0040d7ae31370bcfae85aa546aac&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F1cc03cebbab95de034da7d542bd31f62.png&source_side=home" group-title="🔴 SOCOLIVE TV",18:00 04/09 Bayswater City vs Olympic Kingsway SC (PEANUT) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/620084.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Bayswater%20City&away_team=Olympic%20Kingsway%20SC&time=18%3A00%2004%2F09&sig=6d17856d733c3093ee1dd7079942c2704ead0040d7ae31370bcfae85aa546aac&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2F1cc03cebbab95de034da7d542bd31f62.png&source_side=home" group-title="🔴 SOCOLIVE TV",18:00 04/09 Bayswater City vs Olympic Kingsway SC (BLV RÔSI) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/139384.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Bali%20United&away_team=PSS%20Sleman&time=19%3A00%2004%2F09&sig=6f3a0e2171bad1bac70e07550144a241e745c7781f03bfc51cb851d20e4f7d92&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260901%2Fa2478bfe094eb1f9a51a9149a12e9a63.png&source_side=home" group-title="🔴 SOCOLIVE TV",19:00 04/09 Bali United vs PSS Sleman (BLV YONE) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/372746.m3u8
@@ -735,15 +735,19 @@ https://live.inplyr.com/room/168964.m3u8
 #EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260902/2800a51c1069ee444dd46986c4861ed5.png" group-title="🔴 SOCOLIVE TV",19:30 04/09 South Korea Women vs Nigeria Women (CHAN SENA) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/515530.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Tepatitl%C3%A1n&away_team=Dorados&time=08%3A00%2004%2F09&sig=46b5388ba23fb4b0146b89891607ad01039d6df02bac7ac3c23d58fe1a4be33c&v=source-v2&source_logo=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FdpxlFqCa-KhCTcBGA.png&source_side=home" group-title="🔴 GIỜ VÀNG TV",08:00 04/09 Tepatitlán vs Dorados (Hấu) [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1788449979_hd/1788449979_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Dep.Independiente%20Medellin&time=08%3A00%2004%2F09&sig=eaa5193a197c192ba710be878f5a0f826f69eccc33405c39aa648d8d0aa0fe91&v=source-v2&source_logo=https%3A%2F%2Fimages.keovip88.net%2Fimages%2Fteams%2Fdeportivo-pereira.png&source_side=home" group-title="🔴 GIỜ VÀNG TV",08:00 04/09 Deportivo Pereira vs Dep.Independiente Medellin (Bón) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1788450046_hd/1788450046_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Paula%20Badosa&away_team=Coco%20Gauf&time=06%3A00%2004%2F09&sig=83d8fcb2ed1db55e8538e26adb6479f52edb6c1b3da409c45a24d70001bfe57d&v=source-v2&source_logo=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FAPeTacFG-Imfa8Cul.png&source_side=home" group-title="🔴 GIỜ VÀNG TV",06:00 04/09 Paula Badosa vs Coco Gauf (Sún) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1788427542_hd/1788427542_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Tepatitl%C3%A1n&away_team=Dorados&time=08%3A00%2004%2F09&sig=46b5388ba23fb4b0146b89891607ad01039d6df02bac7ac3c23d58fe1a4be33c&v=source-v2&source_logo=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FdpxlFqCa-KhCTcBGA.png&source_side=home" group-title="🔴 GIỜ VÀNG TV",08:00 04/09 Tepatitlán vs Dorados (Hấu) [hls]
+https://eqr2hdarxfliv.vcdn.cloud/1788449979_hd/1788449979_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gael%20Monfils&away_team=Learner%20Tien&time=06%3A00%2004%2F09&sig=c2866c7199536055e261315a8f8662c3c454a417539b0e1d570e365e576efbef&v=source-v2&source_logo=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FS8ndY0FG-QqWcpfRh.png&source_side=home" group-title="🔴 GIỜ VÀNG TV",06:00 04/09 Gael Monfils vs Learner Tien (Mù) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1788447450_hd/1788447450_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Seattle%20Mariners&away_team=Athletics&time=08%3A40%2004%2F09&sig=30efa71e9ef21782216a8956b7e96384bb3a64fe9b537afcd2bb1a1e66d62aeb&v=source-v2&source_logo=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYPyyksFG-CrchK1NQ.png&source_side=home" group-title="🔴 GIỜ VÀNG TV",08:40 04/09 Seattle Mariners vs Athletics (blv-ngu) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/Iz9Vqto_Hm2EJSz5wvaSSgoEJwLNfI68wO6XhEOPjuA/rs:fit:716:402/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50LzQ2ZGIzYmRhLTJmZmYtNDRlMC05OGU2LTc2ZTllZGFhYmFhNS5qcGc=.jpg" group-title="🔴 GIỜ VÀNG TV",09:00 04/09 LI-NING China Masters 2026 vs Tứ Kết Sân 1 (blv-18) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/Iz9Vqto_Hm2EJSz5wvaSSgoEJwLNfI68wO6XhEOPjuA/rs:fit:716:402/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50LzQ2ZGIzYmRhLTJmZmYtNDRlMC05OGU2LTc2ZTllZGFhYmFhNS5qcGc=.jpg" group-title="🔴 GIỜ VÀNG TV",09:00 04/09 LI-NING China Masters 2026 vs Tứ Kết Sân 2 (blv-sun) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Los%20Angeles%20Dodgers&away_team=St.Louis%20Cardinals&time=09%3A10%2004%2F09&sig=ffb143110bb1405f3be01ffea5323c00c358c25f9c3e5be5062c76cdb78613f0&v=source-v2&source_logo=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYeWStKhl-xUjXmOIP.png&source_side=home" group-title="🔴 GIỜ VÀNG TV",09:10 04/09 Los Angeles Dodgers vs St.Louis Cardinals (blv-can) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
@@ -805,10 +809,10 @@ https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa2
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Avispa%20Fukuoka&away_team=Mito&time=17%3A00%2005%2F09&sig=fcbed64798198bf79cf15389deefaafd6bae23c9309c6d919f379c4e187a6e1a&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fteam_5048.jpg&source_side=home" group-title="🔴 PHÁO HOA TV",17:00 05/09 Avispa Fukuoka vs Mito (Lưu Bị) [hls]
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=C%C3%B4ng%20An%20HCM&away_team=H%C3%A0%20N%E1%BB%99i%20FC&time=18%3A00%2005%2F09&sig=f468ec336ae09bcde7641af6794e0c0530b2e3d94d766510816d57a9d285d45a&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fbb501c60-6694-4ae5-a3d2-5e0529827021.png&source_side=home" group-title="🔴 PHÁO HOA TV",18:00 05/09 Công An HCM vs Hà Nội FC (Tày) [hls]
-https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=H%E1%BA%A3i%20Ph%C3%B2ng&away_team=Ph%C3%B9%20%C4%90%E1%BB%95ng%20Ninh%20B%C3%ACnh&time=18%3A00%2005%2F09&sig=4497bf5d3ec418643a48a5ba10bbbb095b7b521679511ec078ecdbd20c496462&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Flogo-clb-bong-da-hai-phong.webp&source_side=home" group-title="🔴 PHÁO HOA TV",18:00 05/09 Hải Phòng vs Phù Đổng Ninh Bình (Pháo Thủ) [hls]
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=C%C3%B4ng%20An%20HCM&away_team=H%C3%A0%20N%E1%BB%99i%20FC&time=18%3A00%2005%2F09&sig=f468ec336ae09bcde7641af6794e0c0530b2e3d94d766510816d57a9d285d45a&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fbb501c60-6694-4ae5-a3d2-5e0529827021.png&source_side=home" group-title="🔴 PHÁO HOA TV",18:00 05/09 Công An HCM vs Hà Nội FC (Tày) [hls]
+https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Newcastle&away_team=Bournemouth&time=18%3A30%2005%2F09&sig=68217b7ffb3562a8d1164e7814854a4534eb4797e872b46bf2fa9e2454886184&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fteam_3100.jpg&source_side=home" group-title="🔴 PHÁO HOA TV",18:30 05/09 Newcastle vs Bournemouth (Chim Nhỏ) [hls]
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=C%C3%B4ng%20An%20H%C3%A0%20N%E1%BB%99i&away_team=H%E1%BB%93ng%20L%C4%A9nh%20H%C3%A0%20T%C4%A9nh&time=19%3A15%2005%2F09&sig=01016cdcb7d4b9cf65b487f875200df822dcd0d1a5836cbf3cd2b81a88ed8f5e&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fdde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png&source_side=home" group-title="🔴 PHÁO HOA TV",19:15 05/09 Công An Hà Nội vs Hồng Lĩnh Hà Tĩnh (Tiểu Mây) [hls]
@@ -823,12 +827,12 @@ https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Ath%20Bilbao&away_team=Atl.%20Madrid&time=21%3A15%2005%2F09&sig=89e35638e17f98d644e0839007268e4549ed363c94aedc8945147bc8b15d072b&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fteam_7258.jpg&source_side=home" group-title="🔴 PHÁO HOA TV",21:15 05/09 Ath Bilbao vs Atl. Madrid (Tiểu Mây) [hls]
 https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Hull%20City&away_team=Aston%20Villa&time=23%3A30%2005%2F09&sig=9a4d1fc4102d69d6d88dfb73f78d55150a891adde3e2757ea43a4f49cb65d965&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fteam_3119.jpg&source_side=home" group-title="🔴 PHÁO HOA TV",23:30 05/09 Hull City vs Aston Villa (Lưu Bị) [hls]
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rayo%20Vallecano&away_team=Racing%20Santander&time=23%3A30%2005%2F09&sig=b8d6343776330bc959ed508af8024c34b56005ef81308bcab9a6237337529790&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fteam_7264.jpg&source_side=home" group-title="🔴 PHÁO HOA TV",23:30 05/09 Rayo Vallecano vs Racing Santander (Kevin) [hls]
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Schalke&away_team=Bayern%20Munich&time=23%3A30%2005%2F09&sig=299507a2f8734419ea6218e20f108d71fbfd2539646e8c6907867f11fe6dd1c0&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fteam_3931.jpg&source_side=home" group-title="🔴 PHÁO HOA TV",23:30 05/09 Schalke vs Bayern Munich (Pháo Thủ) [hls]
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Hull%20City&away_team=Aston%20Villa&time=23%3A30%2005%2F09&sig=9a4d1fc4102d69d6d88dfb73f78d55150a891adde3e2757ea43a4f49cb65d965&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fteam_3119.jpg&source_side=home" group-title="🔴 PHÁO HOA TV",23:30 05/09 Hull City vs Aston Villa (Lưu Bị) [hls]
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Fenerbahce&away_team=Besiktas&time=00%3A00%2006%2F09&sig=c223861c6f12e122e99e2a8338054aae8297ab1bb2bb629cad5ff4018f464281&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fteam_7694.jpg&source_side=home" group-title="🔴 PHÁO HOA TV",00:00 06/09 Fenerbahce vs Besiktas (Chim Nhỏ) [hls]
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Maritimo&away_team=Benfica&time=00%3A00%2006%2F09&sig=c7a94adcd05db2c1b3bd1deb686072d7b21c00857531389cffa73cb36eb63940&v=source-v2&source_logo=https%3A%2F%2Fphaohoa1.live%2Fmedia%2Fteams%2Flogos%2Fteam_5995.jpg&source_side=home" group-title="🔴 PHÁO HOA TV",00:00 06/09 Maritimo vs Benfica (Văn Minh) [hls]
@@ -846,9 +850,66 @@ https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfc
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Independiente%20Medell%C3%ADn&time=08%3A00%2004%2F09&sig=ef239d65d17cf4e7db8852e4a32b0507a0ab7be2f8e2ff874af9969bd912b3ab&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F4404.png&source_side=home" group-title="🔴 SAO KÊ TV",08:00 04/09 Deportivo Pereira vs Independiente Medellín (Ba Rọi Béo) [hls]
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gr%C3%AAmio&away_team=Internacional&time=06%3A00%2004%2F09&sig=6b43b02b94702e5560face00cf6622ccef4f1f21fd16f5ce07708a1e78b82098&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F9769.png&source_side=home" group-title="🔴 SAO KÊ TV",06:00 04/09 Grêmio vs Internacional (Bút Chì) [hls]
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Iran&away_team=New%20Zealand&time=10%3A30%2004%2F09&sig=90c2bf18f63ec7d1ed4e0742d19471f7c7265a7e8feabd5171ab040443d16a39&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_134251_b96e660a.png&source_side=home" group-title="🔴 SAO KÊ TV",10:30 04/09 Iran vs New Zealand (Cà Rốt) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=South%20Korea&away_team=Chinese%20Taipei&time=14%3A00%2004%2F09&sig=33b6392699f63539cdb1f91d2b1dfd2dcc5092a0f60cd98db93b46e10ac645f5&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_134249_74d9edd1.png&source_side=home" group-title="🔴 SAO KÊ TV",14:00 04/09 South Korea vs Chinese Taipei (Teppy) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Arema&away_team=Isenmulang%20Kalteng&time=15%3A30%2004%2F09&sig=da7c05a6c9c774f291f5216b874917b4bd5a1029c45e83e22ca443115db873bb&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F165200.png&source_side=home" group-title="🔴 SAO KÊ TV",15:30 04/09 Arema vs Isenmulang Kalteng (Mơ) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x68-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Chornomorets%20Odesa&away_team=Liviy%20Bereh&time=17%3A00%2004%2F09&sig=a988e28cede8ae7873ad07ca66528c355dcc7cffc25f6d62badc513c4ec78bb8&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F8666.png&source_side=home" group-title="🔴 SAO KÊ TV",17:00 04/09 Chornomorets Odesa vs Liviy Bereh (Quang Huy) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Japan&away_team=Oman&time=17%3A30%2004%2F09&sig=bbf5450624fcd7e83a4c1154a5cba64c7485060b210283d7d71696126c46a8a8&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_134249_f7c8e720.png&source_side=home" group-title="🔴 SAO KÊ TV",17:30 04/09 Japan vs Oman (Ricky) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Tr%C6%B0%E1%BB%9Dng%20T%C6%B0%C6%A1i%20%C4%90%E1%BB%93ng%20Nai&away_team=Viettel&time=18%3A00%2004%2F09&sig=0e8001c789dc190287a58e3f9714219e03a620edc3a8787fcbc683a04f52091f&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F614353.png&source_side=home" group-title="🔴 SAO KÊ TV",18:00 04/09 Trường Tươi Đồng Nai vs Viettel (Ba Rọi Béo) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Kelantan%20Red%20Warrior&away_team=Kuala%20Lumpur%20City&time=20%3A00%2004%2F09&sig=d807e9ac688c9ef1cb755055e43b60d8df342829637e513179f8155951290cbc&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F2127190.png&source_side=home" group-title="🔴 SAO KÊ TV",20:00 04/09 Kelantan Red Warrior vs Kuala Lumpur City (Bút Chì) [hls]
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Navbahor%20Namangan&away_team=Lokomotiv%20Tashkent&time=21%3A00%2004%2F09&sig=729389766a468a76219f7027da2f394100ed7f139b1c841250f0c4c3bea05b75&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F102155.png&source_side=home" group-title="🔴 SAO KÊ TV",21:00 04/09 Navbahor Namangan vs Lokomotiv Tashkent (Củ Cải) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x3-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Polissya%20Zhytomyr&away_team=Kudrivka&time=22%3A00%2004%2F09&sig=60f5f0db9618ccde1f0cb10dfde4136ddc139bf7cd6d68c7216a194728b0cff4&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F1181312.png&source_side=home" group-title="🔴 SAO KÊ TV",22:00 04/09 Polissya Zhytomyr vs Kudrivka (Cà Rốt) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Hannover%2096&away_team=Karlsruher%20SC&time=23%3A30%2004%2F09&sig=b5352898ca9fec7004c46b0818b8737c8d719ba0a4b66466d9b0eafa8ad97860&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F9904.png&source_side=home" group-title="🔴 SAO KÊ TV",23:30 04/09 Hannover 96 vs Karlsruher SC (Mơ) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x68-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Lyon&away_team=Auxerre&time=00%3A00%2005%2F09&sig=821630fe7fccc349c8478b7dc6ee8cbd58c48526dfe49e6a996657de26a7bf6d&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F9748.png&source_side=home" group-title="🔴 SAO KÊ TV",00:00 05/09 Lyon vs Auxerre (Quang Huy) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=VfB%20Stuttgart&away_team=K%C3%B6ln&time=01%3A30%2005%2F09&sig=b3b2bcc833ede54787a5286fc05efa2adcfbde4ffad2ff4983604de98277e63a&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F10269.png&source_side=home" group-title="🔴 SAO KÊ TV",01:30 05/09 VfB Stuttgart vs Köln (Bút Chì) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Genoa&away_team=Como&time=01%3A45%2005%2F09&sig=a6cb638e23e649e7de66e2503ae55e214ca5f1f3aca9c79a4fc4b2281baeaea1&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F10233.png&source_side=home" group-title="🔴 SAO KÊ TV",01:45 05/09 Genoa vs Como (Củ Cải) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x3-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Ipswich&away_team=Liverpool&time=02%3A00%2005%2F09&sig=e52001920a8eb718dd5c6b7b93eadc003b1043da6681e2b43a4936868cc7cd11&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F9902.png&source_side=home" group-title="🔴 SAO KÊ TV",02:00 05/09 Ipswich vs Liverpool (Ricky) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Real%20Betis&away_team=Real%20Madrid&time=02%3A00%2005%2F09&sig=4bbc7c1af958555aa0eaf690a1902b03b7a31834e10ac496c73e8ad0f5fec7f4&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F8603.png&source_side=home" group-title="🔴 SAO KÊ TV",02:00 05/09 Real Betis vs Real Madrid (Cà Rốt) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=PSG&away_team=Monaco&time=02%3A05%2005%2F09&sig=c0ed2a1d2e33987c38623240916abb082e0e71263ab072163fdfe3d9292d0076&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F9847.png&source_side=home" group-title="🔴 SAO KÊ TV",02:05 05/09 PSG vs Monaco (Ba Rọi Béo) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=ABB&away_team=Universitario%20de%20Vinto&time=04%3A15%2005%2F09&sig=ccd23ec7c4015c38de74f2452284c8f0c6b51c05034f92bc567e0c8202dac07d&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F1297346.png&source_side=home" group-title="🔴 SAO KÊ TV",04:15 05/09 ABB vs Universitario de Vinto (Mơ) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x68-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=NYCFC&away_team=Nashville%20SC&time=06%3A30%2005%2F09&sig=c2ba643e996d14360be2ba12d4378766a20d70a7d35d59ef87f214c9b2152ef3&v=source-v2&source_logo=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F546238.png&source_side=home" group-title="🔴 SAO KÊ TV",06:30 05/09 NYCFC vs Nashville SC (Bút Chì) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Australia&away_team=Bahrain&time=08%3A00%2005%2F09&sig=38dd95b4d6e4571c82122a8d16db5b8124b4605c13fae14f8fa50a2040925cb0&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_134250_2a12c2b6.png&source_side=home" group-title="🔴 SAO KÊ TV",08:00 05/09 Australia vs Bahrain (Teppy) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=China&away_team=India&time=11%3A30%2005%2F09&sig=e009116a774697f90e4b2830b70e50a655dd94813436c7753718c5b99a2bd359&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_134316_d547f1b2.png&source_side=home" group-title="🔴 SAO KÊ TV",11:30 05/09 China vs India (Ricky) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Medellin%20Independiente%20%28Si%C3%AAu%20Qu%E1%BA%ADy%29&time=08%3A00%2004%2F09&sig=0f84d7e88480ba3fd05bb9aca40776cba18c19ce82801497a024fec074630eff&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Fd82c6b70b6fa098483e9afa0589bd7b1.png&source_side=home" group-title="🔴 GÀ VÀNG TV",08:00 04/09 Deportivo Pereira vs Medellin Independiente (Siêu Quậy) (FHD) [hls]
 https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Deportivo%20Pereira&away_team=Medellin%20Independiente%20%28Si%C3%AAu%20Qu%E1%BA%ADy%29&time=08%3A00%2004%2F09&sig=0f84d7e88480ba3fd05bb9aca40776cba18c19ce82801497a024fec074630eff&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Fd82c6b70b6fa098483e9afa0589bd7b1.png&source_side=home" group-title="🔴 GÀ VÀNG TV",08:00 04/09 Deportivo Pereira vs Medellin Independiente (Siêu Quậy) (FHD) [flv]
@@ -865,19 +926,3 @@ https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144_1080p.flv
 https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Tepatitlan&away_team=Dorados%20%28Kayti%29&time=08%3A00%2004%2F09&sig=54c6de081d2951875da05c7f476bfebcf979d77c8d825dc7e97f75ac566bbaee&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F918216791a55f9785f385c94c34cda51.png&source_side=home" group-title="🔴 GÀ VÀNG TV",08:00 04/09 Tepatitlan vs Dorados (Kayti) (HD) [flv]
 https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Nautico&away_team=Botafogo%20SP%20%28A%20Long%29&time=06%3A00%2004%2F09&sig=809f4fa44796b2500b4515940fd957f4b96d7c38d1702dd010ca27caf53edbe6&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F1d8d54bfe19b8bfd6d064eda3556f812.png&source_side=home" group-title="🔴 GÀ VÀNG TV",06:00 04/09 Nautico vs Botafogo SP (A Long) (FHD) [hls]
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Nautico&away_team=Botafogo%20SP%20%28A%20Long%29&time=06%3A00%2004%2F09&sig=809f4fa44796b2500b4515940fd957f4b96d7c38d1702dd010ca27caf53edbe6&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F1d8d54bfe19b8bfd6d064eda3556f812.png&source_side=home" group-title="🔴 GÀ VÀNG TV",06:00 04/09 Nautico vs Botafogo SP (A Long) (FHD) [flv]
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Nautico&away_team=Botafogo%20SP%20%28A%20Long%29&time=06%3A00%2004%2F09&sig=809f4fa44796b2500b4515940fd957f4b96d7c38d1702dd010ca27caf53edbe6&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F1d8d54bfe19b8bfd6d064eda3556f812.png&source_side=home" group-title="🔴 GÀ VÀNG TV",06:00 04/09 Nautico vs Botafogo SP (A Long) (HD) [hls]
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Nautico&away_team=Botafogo%20SP%20%28A%20Long%29&time=06%3A00%2004%2F09&sig=809f4fa44796b2500b4515940fd957f4b96d7c38d1702dd010ca27caf53edbe6&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2F1d8d54bfe19b8bfd6d064eda3556f812.png&source_side=home" group-title="🔴 GÀ VÀNG TV",06:00 04/09 Nautico vs Botafogo SP (A Long) (HD) [flv]
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gremio&away_team=Internacional%20RS%20%28M%C3%A1n%20N%C3%BAi%29&time=06%3A00%2004%2F09&sig=e3f98e0b75d8dffff13778d3cf3a43057de11923e492cdbc243a27b7d55fb97a&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Fe1f593199d4ee1d98b2db8a9522b605f.png&source_side=home" group-title="🔴 GÀ VÀNG TV",06:00 04/09 Gremio vs Internacional RS (Mán Núi) (FHD) [hls]
-https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gremio&away_team=Internacional%20RS%20%28M%C3%A1n%20N%C3%BAi%29&time=06%3A00%2004%2F09&sig=e3f98e0b75d8dffff13778d3cf3a43057de11923e492cdbc243a27b7d55fb97a&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Fe1f593199d4ee1d98b2db8a9522b605f.png&source_side=home" group-title="🔴 GÀ VÀNG TV",06:00 04/09 Gremio vs Internacional RS (Mán Núi) (FHD) [flv]
-https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gremio&away_team=Internacional%20RS%20%28M%C3%A1n%20N%C3%BAi%29&time=06%3A00%2004%2F09&sig=e3f98e0b75d8dffff13778d3cf3a43057de11923e492cdbc243a27b7d55fb97a&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Fe1f593199d4ee1d98b2db8a9522b605f.png&source_side=home" group-title="🔴 GÀ VÀNG TV",06:00 04/09 Gremio vs Internacional RS (Mán Núi) (HD) [hls]
-https://playback.livetl001.com/live/69cf6331585c5992182f4160.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Gremio&away_team=Internacional%20RS%20%28M%C3%A1n%20N%C3%BAi%29&time=06%3A00%2004%2F09&sig=e3f98e0b75d8dffff13778d3cf3a43057de11923e492cdbc243a27b7d55fb97a&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Fe1f593199d4ee1d98b2db8a9522b605f.png&source_side=home" group-title="🔴 GÀ VÀNG TV",06:00 04/09 Gremio vs Internacional RS (Mán Núi) (HD) [flv]
-https://playback.livetl001.com/live/69cf6331585c5992182f4160.flv
