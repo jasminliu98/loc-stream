@@ -300,8 +300,8 @@
           }
         },
         {
-          "id": "ch-0a1ecd5f1f",
-          "name": "Abb vs Universitario De Vinto | 04:15 05/09",
+          "id": "ch-4230df17fb",
+          "name": "Belgrano Cordoba vs Huracan | 05:00 05/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -315,15 +315,15 @@
           ],
           "sources": [
             {
-              "id": "src-0a1ecd5f1f",
+              "id": "src-4230df17fb",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-0a1ecd5f1f",
-                  "name": "Abb vs Universitario De Vinto",
+                  "id": "ct-4230df17fb",
+                  "name": "Belgrano Cordoba vs Huracan",
                   "streams": [
                     {
-                      "id": "st-0a1ecd5f1f",
+                      "id": "st-4230df17fb",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -334,9 +334,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Abb",
-            "team_b": "Universitario De Vinto",
-            "time": "04:15",
+            "team_a": "Belgrano Cordoba",
+            "team_b": "Huracan",
+            "time": "05:00",
             "date": "05/09",
             "blv": "Chưa có link",
             "is_live": false,
@@ -347,7 +347,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c26e26e5b7_72daf207_20260904.png?v=3676321e",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0388ea94ca_5ba9c82a_20260904.png?v=772870d7",
             "width": 1600,
             "height": 1200
           }
