@@ -70,59 +70,6 @@
           }
         },
         {
-          "id": "ch-84d728972d",
-          "name": "Arema Fc vs Adhyaksa | 15:30 04/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-84d728972d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-84d728972d",
-                  "name": "Arema Fc vs Adhyaksa",
-                  "streams": [
-                    {
-                      "id": "st-84d728972d",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Arema Fc",
-            "team_b": "Adhyaksa",
-            "time": "15:30",
-            "date": "04/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-59eccb3984_2e2f7fad_20260904.png?v=3d54e559",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-5821e0d29c",
           "name": "Chornomorets vs Livyi Bereh | 17:00 04/09",
           "type": "single",
