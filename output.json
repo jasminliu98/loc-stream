@@ -17,6 +17,77 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "ch-8e5c7701c7",
+          "name": "Trường Tươi Đồng Nai vs Viettel | 18:00 04/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8e5c7701c7",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8e5c7701c7",
+                  "name": "Trường Tươi Đồng Nai vs Viettel",
+                  "streams": [
+                    {
+                      "id": "st-8e5c7701c7",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Trường Tươi Đồng Nai",
+            "team_b": "Viettel",
+            "time": "18:00",
+            "date": "04/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aa004ca609_b1f71a0e_20260904.png?v=a7e743eb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-23996b0573",
           "name": "Japan vs Oman | 17:30 04/09",
           "type": "single",
@@ -154,77 +225,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f60e472128_9017afef_20260904.png?v=2a464807",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-8e5c7701c7",
-          "name": "Trường Tươi Đồng Nai vs Viettel | 18:00 04/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8e5c7701c7",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8e5c7701c7",
-                  "name": "Trường Tươi Đồng Nai vs Viettel",
-                  "streams": [
-                    {
-                      "id": "st-8e5c7701c7",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Trường Tươi Đồng Nai",
-            "team_b": "Viettel",
-            "time": "18:00",
-            "date": "04/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-aa004ca609_b1f71a0e_20260904.png?v=a7e743eb",
             "width": 1600,
             "height": 1200
           }
@@ -654,6 +654,59 @@
           }
         },
         {
+          "id": "ch-f93364f4de",
+          "name": "New York City Fc vs Nashville Sc | 06:30 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f93364f4de",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f93364f4de",
+                  "name": "New York City Fc vs Nashville Sc",
+                  "streams": [
+                    {
+                      "id": "st-f93364f4de",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "New York City Fc",
+            "team_b": "Nashville Sc",
+            "time": "06:30",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c23e2ebf68_b6f8d4dc_20260904.png?v=93e54f7b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-fe6a2c7be3",
           "name": "Australia vs Bahrain | 08:00 05/09",
           "type": "single",
@@ -755,59 +808,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-21737775ba_970f843d_20260904.png?v=ae54a5c0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-f93364f4de",
-          "name": "New York City Fc vs Nashville Sc | 06:30 05/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f93364f4de",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f93364f4de",
-                  "name": "New York City Fc vs Nashville Sc",
-                  "streams": [
-                    {
-                      "id": "st-f93364f4de",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "New York City Fc",
-            "team_b": "Nashville Sc",
-            "time": "06:30",
-            "date": "05/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c23e2ebf68_b6f8d4dc_20260904.png?v=93e54f7b",
             "width": 1600,
             "height": 1200
           }
