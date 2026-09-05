@@ -460,112 +460,6 @@
           }
         },
         {
-          "id": "ch-4fb06916dc",
-          "name": "Hull City vs Aston Villa | 23:30 05/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4fb06916dc",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-4fb06916dc",
-                  "name": "Hull City vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "st-4fb06916dc",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Hull City",
-            "team_b": "Aston Villa",
-            "time": "23:30",
-            "date": "05/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dcb9829ad7_db954a98_20260905.png?v=1ff84871",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-07bcd7d41c",
-          "name": "Al-Ittihad Fc vs Al-Nassr | 01:00 06/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-07bcd7d41c",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-07bcd7d41c",
-                  "name": "Al-Ittihad Fc vs Al-Nassr",
-                  "streams": [
-                    {
-                      "id": "st-07bcd7d41c",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Al-Ittihad Fc",
-            "team_b": "Al-Nassr",
-            "time": "01:00",
-            "date": "06/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-44974e73a9_21a576b9_20260905.png?v=e0af704c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-e9d94eee71",
           "name": "Inter vs Napoli | 23:00 05/09",
           "type": "single",
@@ -619,6 +513,59 @@
           }
         },
         {
+          "id": "ch-4fb06916dc",
+          "name": "Hull City vs Aston Villa | 23:30 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4fb06916dc",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4fb06916dc",
+                  "name": "Hull City vs Aston Villa",
+                  "streams": [
+                    {
+                      "id": "st-4fb06916dc",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Hull City",
+            "team_b": "Aston Villa",
+            "time": "23:30",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dcb9829ad7_db954a98_20260905.png?v=1ff84871",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-3302a981b6",
           "name": "Fc Schalke 04 vs Bayern München | 23:30 05/09",
           "type": "single",
@@ -667,6 +614,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1757188258_d01a6dad_20260905.png?v=84629394",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-07bcd7d41c",
+          "name": "Al-Ittihad Fc vs Al-Nassr | 01:00 06/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-07bcd7d41c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-07bcd7d41c",
+                  "name": "Al-Ittihad Fc vs Al-Nassr",
+                  "streams": [
+                    {
+                      "id": "st-07bcd7d41c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Ittihad Fc",
+            "team_b": "Al-Nassr",
+            "time": "01:00",
+            "date": "06/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-44974e73a9_21a576b9_20260905.png?v=e0af704c",
             "width": 1600,
             "height": 1200
           }
