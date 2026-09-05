@@ -88,59 +88,6 @@
           }
         },
         {
-          "id": "ch-bf1f52f2b7",
-          "name": "China vs India | 11:30 05/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bf1f52f2b7",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-bf1f52f2b7",
-                  "name": "China vs India",
-                  "streams": [
-                    {
-                      "id": "st-bf1f52f2b7",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "China",
-            "team_b": "India",
-            "time": "11:30",
-            "date": "05/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-21737775ba_970f843d_20260905.png?v=ae54a5c0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-a5614bb06d",
           "name": "Hai Phong vs Ninh Bình Fc | 18:00 05/09",
           "type": "single",
