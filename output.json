@@ -194,59 +194,6 @@
           }
         },
         {
-          "id": "ch-bbcf9d3c8a",
-          "name": "Adelaide City vs Playford City Patriots | 16:30 05/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bbcf9d3c8a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-bbcf9d3c8a",
-                  "name": "Adelaide City vs Playford City Patriots",
-                  "streams": [
-                    {
-                      "id": "st-bbcf9d3c8a",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Adelaide City",
-            "team_b": "Playford City Patriots",
-            "time": "16:30",
-            "date": "05/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a86e6cc4aa_01a9a227_20260905.png?v=c92a1da0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-a5614bb06d",
           "name": "Hai Phong vs Ninh Bình Fc | 18:00 05/09",
           "type": "single",
@@ -618,59 +565,6 @@
           }
         },
         {
-          "id": "ch-e9d94eee71",
-          "name": "Inter vs Napoli | 23:00 05/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e9d94eee71",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-e9d94eee71",
-                  "name": "Inter vs Napoli",
-                  "streams": [
-                    {
-                      "id": "st-e9d94eee71",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Inter",
-            "team_b": "Napoli",
-            "time": "23:00",
-            "date": "05/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-53a51745af_85c8bcdc_20260905.png?v=db41658a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-4fb06916dc",
           "name": "Hull City vs Aston Villa | 23:30 05/09",
           "type": "single",
@@ -724,59 +618,6 @@
           }
         },
         {
-          "id": "ch-3302a981b6",
-          "name": "Fc Schalke 04 vs Bayern München | 23:30 05/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3302a981b6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-3302a981b6",
-                  "name": "Fc Schalke 04 vs Bayern München",
-                  "streams": [
-                    {
-                      "id": "st-3302a981b6",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Fc Schalke 04",
-            "team_b": "Bayern München",
-            "time": "23:30",
-            "date": "05/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1757188258_d01a6dad_20260905.png?v=84629394",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-07bcd7d41c",
           "name": "Al-Ittihad Fc vs Al-Nassr | 01:00 06/09",
           "type": "single",
@@ -825,6 +666,165 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-44974e73a9_21a576b9_20260905.png?v=e0af704c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-bbcf9d3c8a",
+          "name": "Adelaide City vs Playford City Patriots | 16:30 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bbcf9d3c8a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-bbcf9d3c8a",
+                  "name": "Adelaide City vs Playford City Patriots",
+                  "streams": [
+                    {
+                      "id": "st-bbcf9d3c8a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Adelaide City",
+            "team_b": "Playford City Patriots",
+            "time": "16:30",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a86e6cc4aa_01a9a227_20260905.png?v=c92a1da0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e9d94eee71",
+          "name": "Inter vs Napoli | 23:00 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e9d94eee71",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e9d94eee71",
+                  "name": "Inter vs Napoli",
+                  "streams": [
+                    {
+                      "id": "st-e9d94eee71",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Inter",
+            "team_b": "Napoli",
+            "time": "23:00",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-53a51745af_85c8bcdc_20260905.png?v=db41658a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3302a981b6",
+          "name": "Fc Schalke 04 vs Bayern München | 23:30 05/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3302a981b6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3302a981b6",
+                  "name": "Fc Schalke 04 vs Bayern München",
+                  "streams": [
+                    {
+                      "id": "st-3302a981b6",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fc Schalke 04",
+            "team_b": "Bayern München",
+            "time": "23:30",
+            "date": "05/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1757188258_d01a6dad_20260905.png?v=84629394",
             "width": 1600,
             "height": 1200
           }
