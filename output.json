@@ -404,6 +404,324 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-213e5bb379",
+          "name": "Valencia vs Barcelona | 21:15 06/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-213e5bb379",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-213e5bb379",
+                  "name": "Valencia vs Barcelona",
+                  "streams": [
+                    {
+                      "id": "st-213e5bb379",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Valencia",
+            "team_b": "Barcelona",
+            "time": "21:15",
+            "date": "06/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-604844a400_e45ff6ea_20260906.png?v=bddfcdfa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-5e4594407c",
+          "name": "Arsenal vs Chelsea | 22:30 06/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5e4594407c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-5e4594407c",
+                  "name": "Arsenal vs Chelsea",
+                  "streams": [
+                    {
+                      "id": "st-5e4594407c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Arsenal",
+            "team_b": "Chelsea",
+            "time": "22:30",
+            "date": "06/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7bd40453d5_98551d38_20260906.png?v=4fc9baf2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-5f80bfffa3",
+          "name": "Alaves vs Osasuna | 23:30 06/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5f80bfffa3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-5f80bfffa3",
+                  "name": "Alaves vs Osasuna",
+                  "streams": [
+                    {
+                      "id": "st-5f80bfffa3",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Alaves",
+            "team_b": "Osasuna",
+            "time": "23:30",
+            "date": "06/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-67f8a1c6fa_d6216422_20260906.png?v=e2233180",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2fc83748ca",
+          "name": "Juventus vs Ac Milan | 01:45 07/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2fc83748ca",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2fc83748ca",
+                  "name": "Juventus vs Ac Milan",
+                  "streams": [
+                    {
+                      "id": "st-2fc83748ca",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Juventus",
+            "team_b": "Ac Milan",
+            "time": "01:45",
+            "date": "07/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-a148b1aa34_4525e1a5_20260906.png?v=fdb4b66d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-cc95385a1f",
+          "name": "Marseille vs Paris Fc | 01:45 07/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cc95385a1f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-cc95385a1f",
+                  "name": "Marseille vs Paris Fc",
+                  "streams": [
+                    {
+                      "id": "st-cc95385a1f",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Marseille",
+            "team_b": "Paris Fc",
+            "time": "01:45",
+            "date": "07/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bb12665b11_776470b1_20260906.png?v=8377de0f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-7c4a15f6bf",
+          "name": "Espanyol vs Sevilla | 02:00 07/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7c4a15f6bf",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-7c4a15f6bf",
+                  "name": "Espanyol vs Sevilla",
+                  "streams": [
+                    {
+                      "id": "st-7c4a15f6bf",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Espanyol",
+            "team_b": "Sevilla",
+            "time": "02:00",
+            "date": "07/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-07ae40777e_1c0be873_20260906.png?v=d069e7f8",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
