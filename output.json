@@ -221,77 +221,6 @@
           }
         },
         {
-          "id": "ch-de2e5b4245",
-          "name": "Iran U20 vs Vietnam U20 | 19:00 06/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-de2e5b4245",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-de2e5b4245",
-                  "name": "Iran U20 vs Vietnam U20",
-                  "streams": [
-                    {
-                      "id": "st-de2e5b4245",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Iran U20",
-            "team_b": "Vietnam U20",
-            "time": "19:00",
-            "date": "06/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-00b8c7e05d_49da662e_20260906.png?v=2647e060",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-7a3e148a30",
           "name": "Japan vs Bahrain | 17:30 06/09",
           "type": "single",
@@ -358,6 +287,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7914c15697_ecd307e9_20260906.png?v=53a577bb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-de2e5b4245",
+          "name": "Iran U20 vs Vietnam U20 | 19:00 06/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-de2e5b4245",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-de2e5b4245",
+                  "name": "Iran U20 vs Vietnam U20",
+                  "streams": [
+                    {
+                      "id": "st-de2e5b4245",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Iran U20",
+            "team_b": "Vietnam U20",
+            "time": "19:00",
+            "date": "06/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-00b8c7e05d_49da662e_20260906.png?v=2647e060",
             "width": 1600,
             "height": 1200
           }
