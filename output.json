@@ -73,82 +73,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-7d6836ab7a",
-          "name": "Thanh Hóa vs Da Nang | 17:00 06/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7d6836ab7a",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-7d6836ab7a",
-                  "name": "Thanh Hóa vs Da Nang",
-                  "streams": [
-                    {
-                      "id": "st-7d6836ab7a",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Thanh Hóa",
-            "team_b": "Da Nang",
-            "time": "17:00",
-            "date": "06/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-973857392c_e59c96ae_20260906.png?v=52d874de",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-844247297e",
           "name": "Song Lam Nghe An vs Bắc Ninh | 18:00 06/09",
