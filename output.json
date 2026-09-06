@@ -221,59 +221,6 @@
           }
         },
         {
-          "id": "ch-844247297e",
-          "name": "Song Lam Nghe An vs Bắc Ninh | 18:00 06/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-844247297e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-844247297e",
-                  "name": "Song Lam Nghe An vs Bắc Ninh",
-                  "streams": [
-                    {
-                      "id": "st-844247297e",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Song Lam Nghe An",
-            "team_b": "Bắc Ninh",
-            "time": "18:00",
-            "date": "06/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-de612a71b7_b9b902a0_20260906.png?v=1a5c0bba",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-7a3e148a30",
           "name": "Japan vs Bahrain | 17:30 06/09",
           "type": "single",
@@ -340,6 +287,59 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7914c15697_ecd307e9_20260906.png?v=53a577bb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-844247297e",
+          "name": "Song Lam Nghe An vs Bắc Ninh | 18:00 06/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-844247297e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-844247297e",
+                  "name": "Song Lam Nghe An vs Bắc Ninh",
+                  "streams": [
+                    {
+                      "id": "st-844247297e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Song Lam Nghe An",
+            "team_b": "Bắc Ninh",
+            "time": "18:00",
+            "date": "06/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-de612a71b7_b9b902a0_20260906.png?v=1a5c0bba",
             "width": 1600,
             "height": 1200
           }
