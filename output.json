@@ -300,6 +300,59 @@
           }
         },
         {
+          "id": "ch-844247297e",
+          "name": "Song Lam Nghe An vs Bắc Ninh | 18:00 06/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-844247297e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-844247297e",
+                  "name": "Song Lam Nghe An vs Bắc Ninh",
+                  "streams": [
+                    {
+                      "id": "st-844247297e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Song Lam Nghe An",
+            "team_b": "Bắc Ninh",
+            "time": "18:00",
+            "date": "06/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-de612a71b7_b9b902a0_20260906.png?v=1a5c0bba",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-7a3e148a30",
           "name": "Japan vs Bahrain | 17:30 06/09",
           "type": "single",
@@ -353,8 +406,8 @@
           }
         },
         {
-          "id": "ch-844247297e",
-          "name": "Song Lam Nghe An vs Bắc Ninh | 18:00 06/09",
+          "id": "ch-de2e5b4245",
+          "name": "Iran U20 vs Vietnam U20 | 19:00 06/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -368,15 +421,15 @@
           ],
           "sources": [
             {
-              "id": "src-844247297e",
+              "id": "src-de2e5b4245",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-844247297e",
-                  "name": "Song Lam Nghe An vs Bắc Ninh",
+                  "id": "ct-de2e5b4245",
+                  "name": "Iran U20 vs Vietnam U20",
                   "streams": [
                     {
-                      "id": "st-844247297e",
+                      "id": "st-de2e5b4245",
                       "name": "Streams",
                       "stream_links": []
                     }
@@ -387,9 +440,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Song Lam Nghe An",
-            "team_b": "Bắc Ninh",
-            "time": "18:00",
+            "team_a": "Iran U20",
+            "team_b": "Vietnam U20",
+            "time": "19:00",
             "date": "06/09",
             "blv": "Chưa có link",
             "is_live": false,
@@ -400,7 +453,60 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-de612a71b7_b9b902a0_20260906.png?v=1a5c0bba",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-00b8c7e05d_49da662e_20260906.png?v=2647e060",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2ac7df797b",
+          "name": "Everton vs Manchester United | 20:00 06/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2ac7df797b",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2ac7df797b",
+                  "name": "Everton vs Manchester United",
+                  "streams": [
+                    {
+                      "id": "st-2ac7df797b",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Everton",
+            "team_b": "Manchester United",
+            "time": "20:00",
+            "date": "06/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7bdd82322a_e0125099_20260906.png?v=6414a61d",
             "width": 1600,
             "height": 1200
           }
