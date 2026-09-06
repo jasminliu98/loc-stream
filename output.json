@@ -73,14 +73,14 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-de2e5b4245",
-          "name": "Iran U20 vs Vietnam U20 | 19:00 06/09",
+          "id": "ch-213e5bb379",
+          "name": "Valencia vs Barcelona | 21:15 06/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -94,15 +94,15 @@
           ],
           "sources": [
             {
-              "id": "src-de2e5b4245",
+              "id": "src-213e5bb379",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-de2e5b4245",
-                  "name": "Iran U20 vs Vietnam U20",
+                  "id": "ct-213e5bb379",
+                  "name": "Valencia vs Barcelona",
                   "streams": [
                     {
-                      "id": "st-de2e5b4245",
+                      "id": "st-213e5bb379",
                       "name": "Streams",
                       "stream_links": [
                         {
@@ -131,9 +131,9 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Iran U20",
-            "team_b": "Vietnam U20",
-            "time": "19:00",
+            "team_a": "Valencia",
+            "team_b": "Barcelona",
+            "time": "21:15",
             "date": "06/09",
             "blv": "Stream",
             "is_live": true,
@@ -144,7 +144,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-00b8c7e05d_49da662e_20260906.png?v=2647e060",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-604844a400_e45ff6ea_20260906.png?v=bddfcdfa",
             "width": 1600,
             "height": 1200
           }
@@ -233,77 +233,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7bdd82322a_e0125099_20260906.png?v=6414a61d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-213e5bb379",
-          "name": "Valencia vs Barcelona | 21:15 06/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-213e5bb379",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-213e5bb379",
-                  "name": "Valencia vs Barcelona",
-                  "streams": [
-                    {
-                      "id": "st-213e5bb379",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Valencia",
-            "team_b": "Barcelona",
-            "time": "21:15",
-            "date": "06/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-604844a400_e45ff6ea_20260906.png?v=bddfcdfa",
             "width": 1600,
             "height": 1200
           }
