@@ -73,82 +73,11 @@
     },
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "ch-7c4a15f6bf",
-          "name": "Espanyol vs Sevilla | 02:00 07/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7c4a15f6bf",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-7c4a15f6bf",
-                  "name": "Espanyol vs Sevilla",
-                  "streams": [
-                    {
-                      "id": "st-7c4a15f6bf",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Espanyol",
-            "team_b": "Sevilla",
-            "time": "02:00",
-            "date": "07/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-07ae40777e_1c0be873_20260907.png?v=d069e7f8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "ch-ab280fac5d",
           "name": "Deportivo Pereira vs Millonarios | 06:10 07/09",
