@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-b3b8caafe1",
-          "name": "Italy W vs Turkey W | 23:00 06/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b3b8caafe1",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b3b8caafe1",
-                  "name": "Italy W vs Turkey W",
-                  "streams": [
-                    {
-                      "id": "st-b3b8caafe1",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Italy W",
-            "team_b": "Turkey W",
-            "time": "23:00",
-            "date": "06/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b6a2994c0a_6876196d_20260907.png?v=2d4cff27",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-1b5c9d5299",
           "name": "Thailand vs South Korea | 15:00 07/09",
           "type": "single",
