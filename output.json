@@ -68,6 +68,59 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-1b5c9d5299",
+          "name": "Thailand vs South Korea | 15:00 07/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1b5c9d5299",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-1b5c9d5299",
+                  "name": "Thailand vs South Korea",
+                  "streams": [
+                    {
+                      "id": "st-1b5c9d5299",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Thailand",
+            "team_b": "South Korea",
+            "time": "15:00",
+            "date": "07/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9e0a4bd598_061dba00_20260906.png?v=103357e3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -657,6 +710,642 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4c7b68c220_082c6140_20260906.png?v=c51ed580",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6d84f1df0d",
+          "name": "Fardu vs Aral | 18:00 07/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6d84f1df0d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6d84f1df0d",
+                  "name": "Fardu vs Aral",
+                  "streams": [
+                    {
+                      "id": "st-6d84f1df0d",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fardu",
+            "team_b": "Aral",
+            "time": "18:00",
+            "date": "07/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f1dff20956_47919ade_20260906.png?v=365b6284",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-54e8cb9676",
+          "name": "Korea Dpr U20 vs Portugal U20 W | 20:00 07/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-54e8cb9676",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-54e8cb9676",
+                  "name": "Korea Dpr U20 vs Portugal U20 W",
+                  "streams": [
+                    {
+                      "id": "st-54e8cb9676",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Korea Dpr U20",
+            "team_b": "Portugal U20 W",
+            "time": "20:00",
+            "date": "07/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-5f96eeeba4_b4160d02_20260906.png?v=333a1262",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-69055699c3",
+          "name": "İstanbulspor vs 76 Iğdır Belediyespor | 21:00 07/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-69055699c3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-69055699c3",
+                  "name": "İstanbulspor vs 76 Iğdır Belediyespor",
+                  "streams": [
+                    {
+                      "id": "st-69055699c3",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "İstanbulspor",
+            "team_b": "76 Iğdır Belediyespor",
+            "time": "21:00",
+            "date": "07/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ff8c72a823_2ac5799d_20260906.png?v=ea0161d7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-4dc6f0adf8",
+          "name": "Al Khaleej Saihat vs Al Riyadh | 22:30 07/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4dc6f0adf8",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4dc6f0adf8",
+                  "name": "Al Khaleej Saihat vs Al Riyadh",
+                  "streams": [
+                    {
+                      "id": "st-4dc6f0adf8",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al Khaleej Saihat",
+            "team_b": "Al Riyadh",
+            "time": "22:30",
+            "date": "07/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8629dec4cc_770ced82_20260906.png?v=d61a8dc7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-da9302b23a",
+          "name": "Getafe vs Celta Vigo | 00:00 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-da9302b23a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-da9302b23a",
+                  "name": "Getafe vs Celta Vigo",
+                  "streams": [
+                    {
+                      "id": "st-da9302b23a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Getafe",
+            "team_b": "Celta Vigo",
+            "time": "00:00",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6d5f4f2c60_068bf7c6_20260906.png?v=7273a887",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-f324b69262",
+          "name": "Al-Hilal Saudi Fc vs Al Neom | 01:00 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f324b69262",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f324b69262",
+                  "name": "Al-Hilal Saudi Fc vs Al Neom",
+                  "streams": [
+                    {
+                      "id": "st-f324b69262",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Hilal Saudi Fc",
+            "team_b": "Al Neom",
+            "time": "01:00",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-52c67d5098_055b6a8e_20260906.png?v=6342f41b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-50e1c408cd",
+          "name": "Udinese vs Lazio | 01:45 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-50e1c408cd",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-50e1c408cd",
+                  "name": "Udinese vs Lazio",
+                  "streams": [
+                    {
+                      "id": "st-50e1c408cd",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Udinese",
+            "team_b": "Lazio",
+            "time": "01:45",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ebe600cd01_22c1b68b_20260906.png?v=8daf8539",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-3512362d2c",
+          "name": "Elche vs Real Sociedad | 02:30 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3512362d2c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-3512362d2c",
+                  "name": "Elche vs Real Sociedad",
+                  "streams": [
+                    {
+                      "id": "st-3512362d2c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Elche",
+            "team_b": "Real Sociedad",
+            "time": "02:30",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-dcd4d6e3e8_78fe26e5_20260906.png?v=a4ec0f45",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-822c9dfe75",
+          "name": "Atlante W vs Juárez W | 04:45 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-822c9dfe75",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-822c9dfe75",
+                  "name": "Atlante W vs Juárez W",
+                  "streams": [
+                    {
+                      "id": "st-822c9dfe75",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Atlante W",
+            "team_b": "Juárez W",
+            "time": "04:45",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-703d079e15_49fd8869_20260906.png?v=3d46f53c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d0638d7824",
+          "name": "Vitoria vs Gremio | 06:00 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d0638d7824",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d0638d7824",
+                  "name": "Vitoria vs Gremio",
+                  "streams": [
+                    {
+                      "id": "st-d0638d7824",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Vitoria",
+            "team_b": "Gremio",
+            "time": "06:00",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-76e82248a1_09184e91_20260906.png?v=abd7a6ff",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-417169cc0c",
+          "name": "India vs New Zealand | 08:00 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-417169cc0c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-417169cc0c",
+                  "name": "India vs New Zealand",
+                  "streams": [
+                    {
+                      "id": "st-417169cc0c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "India",
+            "team_b": "New Zealand",
+            "time": "08:00",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-fa518ffe5a_8c7d4ded_20260906.png?v=7d31e0da",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-817e03334f",
+          "name": "Qatar vs South Korea | 11:30 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-817e03334f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-817e03334f",
+                  "name": "Qatar vs South Korea",
+                  "streams": [
+                    {
+                      "id": "st-817e03334f",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Qatar",
+            "team_b": "South Korea",
+            "time": "11:30",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ea878667ad_e7bbeec9_20260906.png?v=7cc7ef17",
             "width": 1600,
             "height": 1200
           }
