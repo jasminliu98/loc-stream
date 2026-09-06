@@ -10,57 +10,39 @@
   },
   "groups": [
     {
-      "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "id": "cate_volleyball",
+      "name": null,
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-b1a178fd25",
-          "name": "Qatar vs Chinese Taipei | 11:30 06/09",
+          "id": "ch-b3b8caafe1",
+          "name": "Italy W vs Turkey W | 23:00 06/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE (1)",
+              "text": " Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-b1a178fd25",
+              "id": "src-b3b8caafe1",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-b1a178fd25",
-                  "name": "Qatar vs Chinese Taipei",
+                  "id": "ct-b3b8caafe1",
+                  "name": "Italy W vs Turkey W",
                   "streams": [
                     {
-                      "id": "st-b1a178fd25",
+                      "id": "st-b3b8caafe1",
                       "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -69,24 +51,33 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Qatar",
-            "team_b": "Chinese Taipei",
-            "time": "11:30",
+            "team_a": "Italy W",
+            "team_b": "Turkey W",
+            "time": "23:00",
             "date": "06/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-7652adece4_85e5a7f6_20260906.png?v=7cc7ef17",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b6a2994c0a_6876196d_20260906.png?v=2d4cff27",
             "width": 1600,
             "height": 1200
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "cate_football",
+      "name": "⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "ch-91dbb1433c",
           "name": "Nagoya Grampus vs Machida Zelvia | 16:00 06/09",
@@ -719,6 +710,165 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-07ae40777e_1c0be873_20260906.png?v=d069e7f8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ab280fac5d",
+          "name": "Deportivo Pereira vs Millonarios | 06:10 07/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ab280fac5d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ab280fac5d",
+                  "name": "Deportivo Pereira vs Millonarios",
+                  "streams": [
+                    {
+                      "id": "st-ab280fac5d",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Deportivo Pereira",
+            "team_b": "Millonarios",
+            "time": "06:10",
+            "date": "07/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bcfdf33319_c46f0dbf_20260906.png?v=a80d858e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9bc71bcbaf",
+          "name": "Oman vs Australia | 08:00 07/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9bc71bcbaf",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9bc71bcbaf",
+                  "name": "Oman vs Australia",
+                  "streams": [
+                    {
+                      "id": "st-9bc71bcbaf",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Oman",
+            "team_b": "Australia",
+            "time": "08:00",
+            "date": "07/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-50e1d7ec17_74768609_20260906.png?v=1c77b973",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d76c585c5e",
+          "name": "New Zealand vs China | 11:30 07/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d76c585c5e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d76c585c5e",
+                  "name": "New Zealand vs China",
+                  "streams": [
+                    {
+                      "id": "st-d76c585c5e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "New Zealand",
+            "team_b": "China",
+            "time": "11:30",
+            "date": "07/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4c7b68c220_082c6140_20260906.png?v=c51ed580",
             "width": 1600,
             "height": 1200
           }
