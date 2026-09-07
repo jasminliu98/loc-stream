@@ -79,77 +79,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-ab280fac5d",
-          "name": "Deportivo Pereira vs Millonarios | 06:10 07/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ab280fac5d",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ab280fac5d",
-                  "name": "Deportivo Pereira vs Millonarios",
-                  "streams": [
-                    {
-                      "id": "st-ab280fac5d",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Deportivo Pereira",
-            "team_b": "Millonarios",
-            "time": "06:10",
-            "date": "07/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bcfdf33319_c46f0dbf_20260907.png?v=a80d858e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-9bc71bcbaf",
           "name": "Oman vs Australia | 08:00 07/09",
           "type": "single",
@@ -216,6 +145,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-50e1d7ec17_74768609_20260907.png?v=1c77b973",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ab280fac5d",
+          "name": "Deportivo Pereira vs Millonarios | 06:10 07/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ab280fac5d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ab280fac5d",
+                  "name": "Deportivo Pereira vs Millonarios",
+                  "streams": [
+                    {
+                      "id": "st-ab280fac5d",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Deportivo Pereira",
+            "team_b": "Millonarios",
+            "time": "06:10",
+            "date": "07/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bcfdf33319_c46f0dbf_20260907.png?v=a80d858e",
             "width": 1600,
             "height": 1200
           }
