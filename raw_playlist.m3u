@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-name="TINHLAGI.PRO" name="TINHLAGI.PRO"
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788754503" group-title="🌈 TINHLAGI.PRO",Cập Nhật
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788754803" group-title="🌈 TINHLAGI.PRO",Cập Nhật
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788754503" group-title="🌈 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788754803" group-title="🌈 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788754503" group-title="🌈 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788754803" group-title="🌈 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=telegram&t=1788754503" group-title="🌈 TINHLAGI.PRO",Telegram @TINHLAGI
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=telegram&t=1788754803" group-title="🌈 TINHLAGI.PRO",Telegram @TINHLAGI
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=randomqr&t=1788754503" group-title="🌈 TINHLAGI.PRO",ỦNG HỘ TÁC GIẢ
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=randomqr&t=1788754803" group-title="🌈 TINHLAGI.PRO",ỦNG HỘ TÁC GIẢ
 https://tinhlagi.pro/logo.jpg
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Ispe%20FC&away_team=Sagaing&time=16%3A00%2007%2F09&sig=72a93054241347c577a46c77bbbfcc8833d56d5daa3d867f3076bc0de75fd47e&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F47751f681935a504ad45c35e813c6baf.png%21w80&source_side=home" group-title="🔴 COLA TV",16:00 07/09 Ispe FC vs Sagaing (BLV  KHÔNG ĐỘ) [flv]
 https://live05.meung.app/live/41943555.flv
@@ -111,12 +111,30 @@ https://live05.meung.app/live/75915087.flv
 https://live05.meung.app/live/75915087.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=KS%20Wieczysta%20Krak%C3%B3w&away_team=Zaglebie%20Lubin&time=23%3A00%2007%2F09&sig=bd3c36a02a043eecbdd54dd13137fa86cc623003ce2165253dade0a3f3c2532b&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F958847e6fef63efb5913d460746ba5b7.png%21w80&source_side=home" group-title="🔴 COLA TV",23:00 07/09 KS Wieczysta Kraków vs Zaglebie Lubin (BLV MONSTER) [hls 2]
 https://live05.miekgo.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_d27d52bf.png" group-title="🔴 CHUỐI CHIÊN TV",08:00 07/09 Oman vs Australia (Chuối Tây) [FHD] [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CLB%20Cagliari&away_team=U.S.%20Lecce&time=23%3A30%2007%2F09&sig=08a32ac7596a455077af14153ca2bb35c535587884fd2f94db9bde35f60b15c4&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fdba65c184e03c860ed919ce192b86c5e.png%21w80&source_side=home" group-title="🔴 COLA TV",23:30 07/09 CLB Cagliari vs U.S. Lecce (BLV C2) [flv]
+https://live05.meung.app/live/08552895.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CLB%20Cagliari&away_team=U.S.%20Lecce&time=23%3A30%2007%2F09&sig=08a32ac7596a455077af14153ca2bb35c535587884fd2f94db9bde35f60b15c4&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fdba65c184e03c860ed919ce192b86c5e.png%21w80&source_side=home" group-title="🔴 COLA TV",23:30 07/09 CLB Cagliari vs U.S. Lecce (BLV C2) [hls]
+https://live05.meung.app/live/08552895.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CLB%20Cagliari&away_team=U.S.%20Lecce&time=23%3A30%2007%2F09&sig=08a32ac7596a455077af14153ca2bb35c535587884fd2f94db9bde35f60b15c4&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fdba65c184e03c860ed919ce192b86c5e.png%21w80&source_side=home" group-title="🔴 COLA TV",23:30 07/09 CLB Cagliari vs U.S. Lecce (BLV C2) [hls 2]
+https://live05.miekgo.app/live/08552895.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CLB%20Cagliari&away_team=U.S.%20Lecce&time=23%3A30%2007%2F09&sig=08a32ac7596a455077af14153ca2bb35c535587884fd2f94db9bde35f60b15c4&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fdba65c184e03c860ed919ce192b86c5e.png%21w80&source_side=home" group-title="🔴 COLA TV",23:30 07/09 CLB Cagliari vs U.S. Lecce (BLV REVIVE) [flv]
+https://live05.meung.app/live/33982309.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CLB%20Cagliari&away_team=U.S.%20Lecce&time=23%3A30%2007%2F09&sig=08a32ac7596a455077af14153ca2bb35c535587884fd2f94db9bde35f60b15c4&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fdba65c184e03c860ed919ce192b86c5e.png%21w80&source_side=home" group-title="🔴 COLA TV",23:30 07/09 CLB Cagliari vs U.S. Lecce (BLV REVIVE) [hls]
+https://live05.meung.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CLB%20Cagliari&away_team=U.S.%20Lecce&time=23%3A30%2007%2F09&sig=08a32ac7596a455077af14153ca2bb35c535587884fd2f94db9bde35f60b15c4&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fdba65c184e03c860ed919ce192b86c5e.png%21w80&source_side=home" group-title="🔴 COLA TV",23:30 07/09 CLB Cagliari vs U.S. Lecce (BLV REVIVE) [hls 2]
+https://live05.miekgo.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rubin%20Kazan&away_team=Akhmat%20Grozny&time=23%3A30%2007%2F09&sig=79c1d01564669eb00044fc1d2f326b9fb42629c45d2611200ffd52bf20d5ceaf&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fdb58fdf26d9c934236772a9721fa750b.png%21w80&source_side=home" group-title="🔴 COLA TV",23:30 07/09 Rubin Kazan vs Akhmat Grozny (BLV 7UP) [flv]
+https://live05.meung.app/live/78905744.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rubin%20Kazan&away_team=Akhmat%20Grozny&time=23%3A30%2007%2F09&sig=79c1d01564669eb00044fc1d2f326b9fb42629c45d2611200ffd52bf20d5ceaf&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fdb58fdf26d9c934236772a9721fa750b.png%21w80&source_side=home" group-title="🔴 COLA TV",23:30 07/09 Rubin Kazan vs Akhmat Grozny (BLV 7UP) [hls]
+https://live05.meung.app/live/78905744.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rubin%20Kazan&away_team=Akhmat%20Grozny&time=23%3A30%2007%2F09&sig=79c1d01564669eb00044fc1d2f326b9fb42629c45d2611200ffd52bf20d5ceaf&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fdb58fdf26d9c934236772a9721fa750b.png%21w80&source_side=home" group-title="🔴 COLA TV",23:30 07/09 Rubin Kazan vs Akhmat Grozny (BLV 7UP) [hls 2]
+https://live05.miekgo.app/live/78905744.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134204_ca5486e7.png" group-title="🔴 CHUỐI CHIÊN TV",11:30 07/09 New Zealand vs China (Chuối Kem) [FHD] [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_d27d52bf.png" group-title="🔴 CHUỐI CHIÊN TV",08:00 07/09 Oman vs Australia (Chuối Tây) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" group-title="🔴 CHUỐI CHIÊN TV",15:00 07/09 Thailand vs South Korea (Chuối Tây) [FHD] [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
@@ -172,16 +190,16 @@ https://station1-global.ebaclofen.org/live/517b89f04bc1ad7302b4f7aed364046d/play
 https://station1-global.ebaclofen.org/live/10e6cd43a4208c41c1c169de23ea7ac2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Zvezda%20Sint%20Petersburg&away_team=FC%20Murom&time=18%3A00%2007%2F09&sig=9dd3203734be45be38fd9de8b71bc3fd8ff69145fded619edd1ec71e330fa7fb&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fd530ec0f1f65c168a42f71758ff8ee50.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",18:00 07/09 Zvezda Sint Petersburg vs FC Murom (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/737de145e20f86adcf527d70fd303b49/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=New%20Caledonia%20U20%28w%29&away_team=China%20U20%20Women&time=20%3A00%2007%2F09&sig=eff3dc8d507c2213bf6de37b36de7c0ade2806a508aae233dd19075cd22d5404&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F0cb656f78993ef2542ab838079ec9426.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",20:00 07/09 New Caledonia U20(w) vs China U20 Women (Huyền Diệp)
-https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=North%20Korea%20Women%20U20&away_team=Portugal%20U20%20Women&time=20%3A00%2007%2F09&sig=847b637950465f77ad2bb2f5ec2e1b4df45fdeb373afdf457fb0c83f9a88bfbd&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F81bef8ac44ea05ab6bec8a2249381ff1.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",20:00 07/09 North Korea Women U20 vs Portugal U20 Women (Triệu Hằng)
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=New%20Caledonia%20U20%28w%29&away_team=China%20U20%20Women&time=20%3A00%2007%2F09&sig=eff3dc8d507c2213bf6de37b36de7c0ade2806a508aae233dd19075cd22d5404&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F0cb656f78993ef2542ab838079ec9426.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",20:00 07/09 New Caledonia U20(w) vs China U20 Women (Huyền Diệp)
+https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Al%20Khaleej%20Club&away_team=Al%20Riyadh&time=22%3A30%2007%2F09&sig=a0d05225252dd617a0cdd1399f8cbb456fcdc9ffbe52d3cddf9638c858d00663&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F6d48cbd483dee74ed9aef387bb082d64.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",22:30 07/09 Al Khaleej Club vs Al Riyadh (Nguyễn Nhạc)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rubin%20Kazan&away_team=Akhmat%20Grozny&time=23%3A30%2007%2F09&sig=48debaf5771ce73860fbe7734a6df381c29f596c403fffcc78f9861e46f22c69&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fdb58fdf26d9c934236772a9721fa750b.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",23:30 07/09 Rubin Kazan vs Akhmat Grozny (Tào Phi)
-https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Cagliari&away_team=Lecce&time=23%3A30%2007%2F09&sig=2f5239a42f14d85275d9142c8ae941589443796529bf2dd5488612519ac048d1&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fdba65c184e03c860ed919ce192b86c5e.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",23:30 07/09 Cagliari vs Lecce (Ngô Quyền)
 https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rubin%20Kazan&away_team=Akhmat%20Grozny&time=23%3A30%2007%2F09&sig=48debaf5771ce73860fbe7734a6df381c29f596c403fffcc78f9861e46f22c69&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fdb58fdf26d9c934236772a9721fa750b.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",23:30 07/09 Rubin Kazan vs Akhmat Grozny (Tào Phi)
+https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Yanapuma%20%28W%29&away_team=Universitario%20de%20Deportes%20Women&time=03%3A15%2006%2F09&sig=dca5bf83c05226b9ed049d93a8ea1a773128232b4a608a851475b82f9520db67&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F361889a87fc9ba11c461fd2c4ce8ae02.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",03:15 06/09 Yanapuma (W) vs Universitario de Deportes Women (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/6b3d15e039464bedd967fe84f67409db/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Yanapuma%20%28W%29&away_team=Universitario%20de%20Deportes%20Women&time=03%3A15%2006%2F09&sig=dca5bf83c05226b9ed049d93a8ea1a773128232b4a608a851475b82f9520db67&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F361889a87fc9ba11c461fd2c4ce8ae02.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",03:15 06/09 Yanapuma (W) vs Universitario de Deportes Women (Nhà Đài 1)
@@ -273,13 +291,19 @@ https://live2.pro2cdnlive.com/live/channel-33.flv
 https://live2.felnorastreamvault.com/live/channel28.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Shaanxi%20Union%20U20&away_team=Beijing%20Guoan%20U20&time=15%3A00%2007%2F09&sig=41059dd661bd34954813ed02cae6ad4594bdd742cb526f799662182c39b3d460&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fl5ergphp600r8k0%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",15:00 07/09 Shaanxi Union U20 vs Beijing Guoan U20 (HD OLER) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001788753688-0-0-e06e9d71b6570685985f2a5902067a76
+https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001788754577-0-0-d40d757b63b567a15604411758a76f4a
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=ISPE%20FC&away_team=Sagaing%20United&time=16%3A00%2007%2F09&sig=f2274bba73b6b389d56b6936570acd59f0f68d4bdaaa4c5f0ba0acd20e346dd1&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fdj2ryohj71lq1zp%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",16:00 07/09 ISPE FC vs Sagaing United (XMEN)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.pro2cdnlive.com/live/channel13.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=ISPE%20FC&away_team=Sagaing%20United&time=16%3A00%2007%2F09&sig=f2274bba73b6b389d56b6936570acd59f0f68d4bdaaa4c5f0ba0acd20e346dd1&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fdj2ryohj71lq1zp%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",16:00 07/09 ISPE FC vs Sagaing United (HD XMEN) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.pro2cdnlive.com/live/channel-13.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=FK%20Orenburg-2&away_team=FC%20Izhevsk&time=18%3A00%2007%2F09&sig=1e17dbef7db40c346fbeb1f4ee5d3c3e5d51ad2a99ef35da4dfa83466f8239a8&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fvjxm8ghjvxnr6od%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",18:00 07/09 FK Orenburg-2 vs FC Izhevsk (LOGAN)
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.pro2cdnlive.com/live/channel23.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=FK%20Orenburg-2&away_team=FC%20Izhevsk&time=18%3A00%2007%2F09&sig=1e17dbef7db40c346fbeb1f4ee5d3c3e5d51ad2a99ef35da4dfa83466f8239a8&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fvjxm8ghjvxnr6od%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",18:00 07/09 FK Orenburg-2 vs FC Izhevsk (HD LOGAN) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.pro2cdnlive.com/live/channel-23.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/3glrwyt1o72qdyj/image/small" group-title="🔴 XÔI LẠC Z TV",16:00 07/09 Rizal Xentro Golden vs Imus Agimat (STEP)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.pro2cdnlive.com/live/channel26.flv
@@ -381,7 +405,7 @@ https://live2.pro2cdnlive.com/live/channel-32.flv
 https://live2.felnorastreamvault.com/live/channel33.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/8y39mpwh29pqojx/image/small" group-title="🔴 XÔI LẠC Z TV",15:00 07/09 Thái Lan vs Hàn Quốc (HD TYSON) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001788753724-0-0-3c83f6029f2f3b2cb8b5b4df14d22bcd
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001788754620-0-0-50548f7c54e39282c5ae706a791b72df
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/4zp5rzdhl1zq82w/image/small" group-title="🔴 XÔI LẠC Z TV",08:00 08/09 Ấn Độ vs New Zealand (TYSON)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.pro2cdnlive.com/live/channel33.flv
@@ -635,6 +659,36 @@ https://live.inplyr.com/room/321443.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rigas%20Futbola%20Skola&away_team=FK%20Liepaja&time=23%3A00%2007%2F09&sig=8ec7735dd6d5018bb3e6c27228596ba660f0fa68ba176102ec5ebbece8e35327&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260904%2F5969a83284462d9ebc07663eb133c66f.png&source_side=home" group-title="🔴 SOCOLIVE TV",23:00 07/09 Rigas Futbola Skola vs FK Liepaja (BLV BÉO) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/459401.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Cagliari&away_team=Lecce&time=23%3A30%2007%2F09&sig=dc78f927f477c69ff110c87fe3fef4108bf706b7282b6aa2c94ed02e3d640a45&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260904%2F690df5f4ddab8dc8740a474e0f52e110.png&source_side=home" group-title="🔴 SOCOLIVE TV",23:30 07/09 Cagliari vs Lecce (A BỆU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/484845.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Cagliari&away_team=Lecce&time=23%3A30%2007%2F09&sig=dc78f927f477c69ff110c87fe3fef4108bf706b7282b6aa2c94ed02e3d640a45&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260904%2F690df5f4ddab8dc8740a474e0f52e110.png&source_side=home" group-title="🔴 SOCOLIVE TV",23:30 07/09 Cagliari vs Lecce (QUỐC KHÁNH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/602153.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Cagliari&away_team=Lecce&time=23%3A30%2007%2F09&sig=dc78f927f477c69ff110c87fe3fef4108bf706b7282b6aa2c94ed02e3d640a45&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260904%2F690df5f4ddab8dc8740a474e0f52e110.png&source_side=home" group-title="🔴 SOCOLIVE TV",23:30 07/09 Cagliari vs Lecce (TẠ BIÊN GIỚI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/118206.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Cagliari&away_team=Lecce&time=23%3A30%2007%2F09&sig=dc78f927f477c69ff110c87fe3fef4108bf706b7282b6aa2c94ed02e3d640a45&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260904%2F690df5f4ddab8dc8740a474e0f52e110.png&source_side=home" group-title="🔴 SOCOLIVE TV",23:30 07/09 Cagliari vs Lecce (CACAO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/620661.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Cagliari&away_team=Lecce&time=23%3A30%2007%2F09&sig=dc78f927f477c69ff110c87fe3fef4108bf706b7282b6aa2c94ed02e3d640a45&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260904%2F690df5f4ddab8dc8740a474e0f52e110.png&source_side=home" group-title="🔴 SOCOLIVE TV",23:30 07/09 Cagliari vs Lecce (CR Bưởi) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/387694.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Cagliari&away_team=Lecce&time=23%3A30%2007%2F09&sig=dc78f927f477c69ff110c87fe3fef4108bf706b7282b6aa2c94ed02e3d640a45&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260904%2F690df5f4ddab8dc8740a474e0f52e110.png&source_side=home" group-title="🔴 SOCOLIVE TV",23:30 07/09 Cagliari vs Lecce (LÃO LÂM) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/527384.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rubin%20Kazan&away_team=Akhmat%20Grozny&time=23%3A30%2007%2F09&sig=fccf5a331324ced3dbca2c02ef7ec8cb7aabebac893e35259b1672241cd55df6&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260904%2F19eba6fad52924d152bed6e69661a212.png&source_side=home" group-title="🔴 SOCOLIVE TV",23:30 07/09 Rubin Kazan vs Akhmat Grozny (LOKA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/589848.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rubin%20Kazan&away_team=Akhmat%20Grozny&time=23%3A30%2007%2F09&sig=fccf5a331324ced3dbca2c02ef7ec8cb7aabebac893e35259b1672241cd55df6&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260904%2F19eba6fad52924d152bed6e69661a212.png&source_side=home" group-title="🔴 SOCOLIVE TV",23:30 07/09 Rubin Kazan vs Akhmat Grozny (BLV ROBBEN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/527383.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rubin%20Kazan&away_team=Akhmat%20Grozny&time=23%3A30%2007%2F09&sig=fccf5a331324ced3dbca2c02ef7ec8cb7aabebac893e35259b1672241cd55df6&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260904%2F19eba6fad52924d152bed6e69661a212.png&source_side=home" group-title="🔴 SOCOLIVE TV",23:30 07/09 Rubin Kazan vs Akhmat Grozny (BLV ALEX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/532081.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rubin%20Kazan&away_team=Akhmat%20Grozny&time=23%3A30%2007%2F09&sig=fccf5a331324ced3dbca2c02ef7ec8cb7aabebac893e35259b1672241cd55df6&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260904%2F19eba6fad52924d152bed6e69661a212.png&source_side=home" group-title="🔴 SOCOLIVE TV",23:30 07/09 Rubin Kazan vs Akhmat Grozny (BLV WUKONG) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/511367.m3u8
 #EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png" group-title="🔴 SOCOLIVE TV",14:00 07/09 Quezon City vs Sarangani Marlins (KING) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/168964.m3u8
@@ -683,6 +737,8 @@ https://live.inplyr.com/room/558264.m3u8
 #EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260905/346e8706ba518204a26b483c271e9343.png" group-title="🔴 SOCOLIVE TV",22:50 07/09 Japan W vs Spain W (BLV HENRY) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/428392.m3u8
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/KK1x5AHG-8MYQEA6Q.png" group-title="🔴 GIỜ VÀNG TV",11:30 07/09 New Zealand vs Trung Quốc (Sún) [hls]
+https://eqr2hdarxfliv.vcdn.cloud/1788709043_hd/1788709043_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Los%20Angeles%20Dodgers&away_team=Washington%20Nationals&time=09%3A10%2007%2F09&sig=60424a90e229eda520a2af256a20bc739726288d852c3c70c512f778cc08abe4&v=source-v2&source_logo=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYeWStKhl-xUjXmOIP.png&source_side=home" group-title="🔴 GIỜ VÀNG TV",09:10 07/09 Los Angeles Dodgers vs Washington Nationals (Cận) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1788709191_hd/1788709191_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Th%C3%A1i%20Lan&away_team=H%C3%A0n%20Qu%E1%BB%91c&time=15%3A00%2007%2F09&sig=3fa7433a90658409f951c7d7b703f327722d3fb6d586d9b5f1c20c7f5c00a51f&v=source-v2&source_logo=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FjH8flBZA-UknO2XLh.png&source_side=home" group-title="🔴 GIỜ VÀNG TV",15:00 07/09 Thái Lan vs Hàn Quốc (blv-can) [hls]
@@ -710,8 +766,6 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/zP226aXg-fB4vYUZp.png" group-title="🔴 GIỜ VÀNG TV",22:50 07/09 Germany W vs Mali W (blv-vit) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/by4OltvtZz7taxuQtkiP3A_96x96.png" group-title="🔴 GIỜ VÀNG TV",22:50 07/09 Japan W vs Spain W (blv-cay) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/KK1x5AHG-8MYQEA6Q.png" group-title="🔴 GIỜ VÀNG TV",11:30 07/09 New Zealand vs Trung Quốc (blv-sun) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=New%20Zealand&away_team=China&time=11%3A30%2007%2F09&sig=68f0e999e00f3dd7354066894a1ef91246ceda090278d9ec27e77c951d664103&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_134204_ca5486e7.png&source_side=home" group-title="🔴 SAO KÊ TV",11:30 07/09 New Zealand vs China (Cà Rốt) [hls]
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
