@@ -10,68 +10,6 @@
   },
   "groups": [
     {
-      "id": "cate_volleyball",
-      "name": null,
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "ch-1b5c9d5299",
-          "name": "Thailand vs South Korea | 15:00 07/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1b5c9d5299",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-1b5c9d5299",
-                  "name": "Thailand vs South Korea",
-                  "streams": [
-                    {
-                      "id": "st-1b5c9d5299",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Thailand",
-            "team_b": "South Korea",
-            "time": "15:00",
-            "date": "07/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9e0a4bd598_061dba00_20260907.png?v=103357e3",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
       "id": "cate_football",
       "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
