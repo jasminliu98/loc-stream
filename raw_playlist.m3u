@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-name="TINHLAGI.PRO" name="TINHLAGI.PRO"
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788817576" group-title="🌈 TINHLAGI.PRO",Cập Nhật
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788817872" group-title="🌈 TINHLAGI.PRO",Cập Nhật
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788817576" group-title="🌈 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788817872" group-title="🌈 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788817576" group-title="🌈 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788817872" group-title="🌈 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=telegram&t=1788817576" group-title="🌈 TINHLAGI.PRO",Telegram @TINHLAGI
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=telegram&t=1788817872" group-title="🌈 TINHLAGI.PRO",Telegram @TINHLAGI
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=randomqr&t=1788817576" group-title="🌈 TINHLAGI.PRO",ỦNG HỘ TÁC GIẢ
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=randomqr&t=1788817872" group-title="🌈 TINHLAGI.PRO",ỦNG HỘ TÁC GIẢ
 https://tinhlagi.pro/logo.jpg
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Barracas%20Central&away_team=Argentinos%20Jrs&time=05%3A00%2008%2F09&sig=e7f03674c936301efbd498417ab2564e0385d9f7c3fd94d7725e74091b738c96&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fb8ff3b78b8ff52dbca3b7eb27fb1c1fb.png%21w80&source_side=home" group-title="🔴 COLA TV",05:00 08/09 Barracas Central vs Argentinos Jrs (BLV MOUNTAIN DEW) [flv]
 https://live05.meung.app/live/87547578.flv
@@ -51,6 +51,12 @@ https://live05.meung.app/live/33982309.flv
 https://live05.meung.app/live/33982309.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Yangon%20Utd&away_team=Ezra&time=16%3A30%2008%2F09&sig=6504b550cf91477afe6633b103f2bba9bc8d49e1184776e6a497d3996f36211c&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F545790121cf7b80b0f02caec40a31ea6.png%21w80&source_side=home" group-title="🔴 COLA TV",16:30 08/09 Yangon Utd vs Ezra (BLV REVIVE) [hls 2]
 https://live05.miekgo.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CLB%20U23%20Portimonense&away_team=Felgueiras%20U23&time=17%3A00%2008%2F09&sig=d734747fda33e8496fef4f763e90050c07c15ff7e604d8035f6e7cedfcc7509f&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F2204e8ba30d8257e51c73945acb01dff.png%21w80&source_side=home" group-title="🔴 COLA TV",17:00 08/09 CLB U23 Portimonense vs Felgueiras U23 (BLV  KHÔNG ĐỘ) [flv]
+https://live05.meung.app/live/41943555.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CLB%20U23%20Portimonense&away_team=Felgueiras%20U23&time=17%3A00%2008%2F09&sig=d734747fda33e8496fef4f763e90050c07c15ff7e604d8035f6e7cedfcc7509f&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F2204e8ba30d8257e51c73945acb01dff.png%21w80&source_side=home" group-title="🔴 COLA TV",17:00 08/09 CLB U23 Portimonense vs Felgueiras U23 (BLV  KHÔNG ĐỘ) [hls]
+https://live05.meung.app/live/41943555.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CLB%20U23%20Portimonense&away_team=Felgueiras%20U23&time=17%3A00%2008%2F09&sig=d734747fda33e8496fef4f763e90050c07c15ff7e604d8035f6e7cedfcc7509f&v=source-v2&source_logo=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F2204e8ba30d8257e51c73945acb01dff.png%21w80&source_side=home" group-title="🔴 COLA TV",17:00 08/09 CLB U23 Portimonense vs Felgueiras U23 (BLV  KHÔNG ĐỘ) [hls 2]
+https://live05.miekgo.app/live/41943555.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Atlante%20W&away_team=Ju%C3%A1rez%20W&time=04%3A45%2008%2F09&sig=03bfa0775dd684ad2476cf23fd696e03c8fbb8ba854d1cf91eb9475274726fd9&v=source-v2&source_logo=https%3A%2F%2Fmedia.api-sports.io%2Ffootball%2Fteams%2F28036.png&source_side=home" group-title="🔴 CHUỐI CHIÊN TV",04:45 08/09 Atlante W vs Juárez W (Chuối Nhỏ) [FHD] [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
@@ -63,6 +69,10 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" group-title="🔴 CHUỐI CHIÊN TV",11:30 08/09 Qatar vs South Korea (Chuối Kem) [FHD] [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=059eb82bcba6bc1a1a523c42f90c7eca8abe6a09d1b572a8d412a7d4ecbf352d&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fb8ff3b78b8ff52dbca3b7eb27fb1c1fb.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/c388e79fd47ee8dab447e10f6aa75f9e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Tahiti%20U19&away_team=Fiji%20U19&time=05%3A00%2008%2F09&sig=3aede2ce3db730a5b4e780dce2396fb49017314ca79a0dae0a1faa31493a2850&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F4c52a410af216c7d5f150c01dfd459a8.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",05:00 08/09 Tahiti U19 vs Fiji U19 (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/d2b62605be5cd73e19e25bd0b4780700/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Nueva%20Chicago&away_team=Quilmes&time=03%3A00%2008%2F09&sig=2ef551e348e0b96a8e14fb564069cf35778847c9eeb57be073a601e7ade0a864&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F6b4a5eb452bf0ce6bcbeed86685ca363.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",03:00 08/09 Nueva Chicago vs Quilmes (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/6cc42f1fc170d2765ada52ee3d06ca15/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=AD%20Carmelita&away_team=Pitbulls&time=03%3A30%2008%2F09&sig=72a0fdad8567a54286df1e20ab9ec015584d664ae1e2192f152d42020d95947a&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F8052a3f96ae76069389e32296e4607d9.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",03:30 08/09 AD Carmelita vs Pitbulls (Nhà Đài 1)
@@ -71,10 +81,6 @@ https://station1-global.ebaclofen.org/live/cc513db75c97626082186a72c8e6a05b/play
 https://station1-global.ebaclofen.org/live/23df6b5232443632a3dfa07e5daa01f4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Cerro%20Porteno&away_team=FC%20Nacional%20Asuncion&time=04%3A30%2008%2F09&sig=0ab46c3b27f5b218287e8c99b5a81e5e8ecff2c15ef1fc753d2e3b6101945957&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fc210e6c1fadf9e292797da2cdf685555.jpg&source_side=home" group-title="🔴 VUA SÂN CỎ TV",04:30 08/09 Cerro Porteno vs FC Nacional Asuncion (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/46450705dc39974f6c9a2f8f076b64a9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=059eb82bcba6bc1a1a523c42f90c7eca8abe6a09d1b572a8d412a7d4ecbf352d&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fb8ff3b78b8ff52dbca3b7eb27fb1c1fb.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/c388e79fd47ee8dab447e10f6aa75f9e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Tahiti%20U19&away_team=Fiji%20U19&time=05%3A00%2008%2F09&sig=3aede2ce3db730a5b4e780dce2396fb49017314ca79a0dae0a1faa31493a2850&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2F4c52a410af216c7d5f150c01dfd459a8.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",05:00 08/09 Tahiti U19 vs Fiji U19 (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/d2b62605be5cd73e19e25bd0b4780700/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Vit%C3%B3ria%20_%20BA&away_team=Gr%C3%AAmio%20_%20RS&time=06%3A00%2008%2F09&sig=c2bb7f323ec2c9fbfd118f7381c020ed4cfb0c8402043cb76389a947d0a8bed4&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fb44aef0db79a96caff676333b2e5ff7b.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",06:00 08/09 Vitória _ BA vs Grêmio _ RS (Doanh Chính)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Club%20Atl%C3%A9tico%20Uni%C3%B3n&away_team=Instituto%20de%20C%C3%B3rdoba&time=07%3A15%2008%2F09&sig=a68be07a971efb91a0d54b3805eb09cdf829e9c53f44328ccd0a2489c8a08b5d&v=source-v2&source_logo=https%3A%2F%2Fglobal-cdn.cdnx.tech%2Ffootball%2Fteam%2Fc5d75265caa6875d9ea84f36027312d5.png&source_side=home" group-title="🔴 VUA SÂN CỎ TV",07:15 08/09 Club Atlético Unión vs Instituto de Córdoba (Nguyễn Huệ)
@@ -121,10 +127,6 @@ https://station1-global.ebaclofen.org/live/737de145e20f86adcf527d70fd303b49/play
 https://hls.lauthaitv.cc/live/estorilarouca-porliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Estoril&away_team=FC%20Arouca&time=02%3A15%2008%2F09&sig=a037257d6e3932bebc1d6263f31cb0c42b32fcff967e946f9650de413dedd00f&v=source-v2&source_logo=https%3A%2F%2F2ms8tv.top%2Fwp-json%2Fs8-image%2F1ea0748f-6001-474c-8202-be72cd9e1aec&source_side=home" group-title="🔴 S8 TV",02:15 08/09 Estoril vs FC Arouca (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/estorilarouca-porliga.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Elche&away_team=Real%20Sociedad&time=02%3A30%2008%2F09&sig=583f439c8cf53e07f94e2e7e4332f79a8609e20503eb45027ffa02a8312c422d&v=source-v2&source_logo=https%3A%2F%2F2ms8tv.top%2Fwp-json%2Fs8-image%2F6d34affe-5c18-4288-9c5f-3a88f8a294b7&source_side=home" group-title="🔴 S8 TV",02:30 08/09 Elche vs Real Sociedad (NGƯỜI CHÈ) [hls]
-https://hls.lauthaitv.cc/live/elche-sociedad-laliga/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Elche&away_team=Real%20Sociedad&time=02%3A30%2008%2F09&sig=583f439c8cf53e07f94e2e7e4332f79a8609e20503eb45027ffa02a8312c422d&v=source-v2&source_logo=https%3A%2F%2F2ms8tv.top%2Fwp-json%2Fs8-image%2F6d34affe-5c18-4288-9c5f-3a88f8a294b7&source_side=home" group-title="🔴 S8 TV",02:30 08/09 Elche vs Real Sociedad (NGƯỜI CHÈ) [flv]
-https://flv.lauthaitv.cc/live/elche-sociedad-laliga.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=6c669043da800a92132eeee9465910ac1e85d7d21d6f32ac14504c89a969277c&v=source-v2&source_logo=https%3A%2F%2F2ms8tv.top%2Fwp-json%2Fs8-image%2F81786327-deca-476b-8926-8d02551fa6b6&source_side=home" group-title="🔴 S8 TV",05:00 08/09 Barracas Central vs Argentinos Juniors (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/barracas-argjunior-argdiv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=6c669043da800a92132eeee9465910ac1e85d7d21d6f32ac14504c89a969277c&v=source-v2&source_logo=https%3A%2F%2F2ms8tv.top%2Fwp-json%2Fs8-image%2F81786327-deca-476b-8926-8d02551fa6b6&source_side=home" group-title="🔴 S8 TV",05:00 08/09 Barracas Central vs Argentinos Juniors (NGƯỜI NẶN) [flv]
@@ -209,72 +211,60 @@ https://flv.lauthaitv.cc/live/flu-cap-copalibe.flv
 https://hls.lauthaitv.cc/live/boca-saopaulo-copasuda/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Boca%20Juniors&away_team=Sao%20Paulo&time=07%3A30%2009%2F09&sig=4eb0034ac908bb29839472381eeac6d873aa485e51b08c49c81b102cdbe1af2f&v=source-v2&source_logo=https%3A%2F%2F2ms8tv.top%2Fwp-json%2Fs8-image%2F83b9e8c0-3e4f-447d-a259-589c6becaad7&source_side=home" group-title="🔴 S8 TV",07:30 09/09 Boca Juniors vs Sao Paulo (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/boca-saopaulo-copasuda.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=N%E1%BB%AF%20Atlante&away_team=N%E1%BB%AF%20Juarez&time=04%3A45%2008%2F09&sig=47744774de97b1341eb651769584b4a251c9880ccfe13bf32eec9739fcda182c&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2F2y8m4zh1o74ql07%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",04:45 08/09 Nữ Atlante vs Nữ Juarez (RAVEN)
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel21.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=N%E1%BB%AF%20Atlante&away_team=N%E1%BB%AF%20Juarez&time=04%3A45%2008%2F09&sig=47744774de97b1341eb651769584b4a251c9880ccfe13bf32eec9739fcda182c&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2F2y8m4zh1o74ql07%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",04:45 08/09 Nữ Atlante vs Nữ Juarez (HD RAVEN) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.pro2cdnlive.com/live/channel-21.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Elche%20CF&away_team=Real%20Sociedad&time=02%3A30%2008%2F09&sig=3bba1777946d40916f7933d89487423c60b388a9ae5e6a4bf77b4c36eae40b03&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fgy0or5jhd2gqwzv%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",02:30 08/09 Elche CF vs Real Sociedad (BRADY)
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel15.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Elche%20CF&away_team=Real%20Sociedad&time=02%3A30%2008%2F09&sig=3bba1777946d40916f7933d89487423c60b388a9ae5e6a4bf77b4c36eae40b03&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fgy0or5jhd2gqwzv%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",02:30 08/09 Elche CF vs Real Sociedad (TOM)
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001788816678-0-0-4def8f76376dfdeeadf6014f4726e3f2
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Elche%20CF&away_team=Real%20Sociedad&time=02%3A30%2008%2F09&sig=3bba1777946d40916f7933d89487423c60b388a9ae5e6a4bf77b4c36eae40b03&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fgy0or5jhd2gqwzv%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",02:30 08/09 Elche CF vs Real Sociedad (TOM)
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel4.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Elche%20CF&away_team=Real%20Sociedad&time=02%3A30%2008%2F09&sig=3bba1777946d40916f7933d89487423c60b388a9ae5e6a4bf77b4c36eae40b03&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fgy0or5jhd2gqwzv%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",02:30 08/09 Elche CF vs Real Sociedad (FULL HD BRADY) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001788816688-0-0-e2772e78aca83049ade056452b3ad720
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Portland%20Timbers%20%28R%29&away_team=Vancouver%20Whitecaps%20II&time=02%3A00%2008%2F09&sig=0db77a36ca991e3a7a38e23e4a092c7c174e0c1057d35e57abb929b9abcd33ec&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fx7lm7phogkgm2wd%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",02:00 08/09 Portland Timbers (R) vs Vancouver Whitecaps II (XMEN)
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel13.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Portland%20Timbers%20%28R%29&away_team=Vancouver%20Whitecaps%20II&time=02%3A00%2008%2F09&sig=0db77a36ca991e3a7a38e23e4a092c7c174e0c1057d35e57abb929b9abcd33ec&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fx7lm7phogkgm2wd%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",02:00 08/09 Portland Timbers (R) vs Vancouver Whitecaps II (HD XMEN) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001788816694-0-0-24e81d20ecd748edf170be3bdf295495
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Karen%20Khachanov&away_team=Learner%20Tien&time=03%3A00%2008%2F09&sig=6a5ac32ac08b0324e5d1d869f62794f89880f1ff82ea7de1169f79417beae1a0&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2Fy39mpyfy9dkmojx%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",03:00 08/09 Karen Khachanov vs Learner Tien (LUCAS)
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.felnorastreamvault.com/live/channel31.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Karen%20Khachanov&away_team=Learner%20Tien&time=03%3A00%2008%2F09&sig=6a5ac32ac08b0324e5d1d869f62794f89880f1ff82ea7de1169f79417beae1a0&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2Fy39mpyfy9dkmojx%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",03:00 08/09 Karen Khachanov vs Learner Tien (HD LUCAS) [HD]
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-31.flv?auth_key=3000001788816700-0-0-fbae3f14cf0dbd4f60c03e2d11f5688c
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=5915e0fec95dd8ba8031c0c1fdcef66eb576aaa11f514ded28e8130f2b394a68&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fvjxm8ghgj2nr6od%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (RIO)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel16.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=5915e0fec95dd8ba8031c0c1fdcef66eb576aaa11f514ded28e8130f2b394a68&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fvjxm8ghgj2nr6od%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (HD RIO) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001788816707-0-0-697b33c2ab6bb17cc1438c941f2cc355
+https://live2.pro2cdnlive.com/live/channel-16.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Portland%20Timbers%20%28R%29&away_team=Vancouver%20Whitecaps%20II&time=02%3A00%2008%2F09&sig=0db77a36ca991e3a7a38e23e4a092c7c174e0c1057d35e57abb929b9abcd33ec&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fx7lm7phogkgm2wd%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",02:00 08/09 Portland Timbers (R) vs Vancouver Whitecaps II (XMEN)
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.felnorastreamvault.com/live/channel13.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Portland%20Timbers%20%28R%29&away_team=Vancouver%20Whitecaps%20II&time=02%3A00%2008%2F09&sig=0db77a36ca991e3a7a38e23e4a092c7c174e0c1057d35e57abb929b9abcd33ec&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fx7lm7phogkgm2wd%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",02:00 08/09 Portland Timbers (R) vs Vancouver Whitecaps II (HD XMEN) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001788817578-0-0-36a11cade3b18d20f1aa3eb2b6abca73
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=N%E1%BB%AF%20Atlante&away_team=N%E1%BB%AF%20Juarez&time=04%3A45%2008%2F09&sig=47744774de97b1341eb651769584b4a251c9880ccfe13bf32eec9739fcda182c&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2F2y8m4zh1o74ql07%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",04:45 08/09 Nữ Atlante vs Nữ Juarez (RAVEN)
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.felnorastreamvault.com/live/channel21.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=N%E1%BB%AF%20Atlante&away_team=N%E1%BB%AF%20Juarez&time=04%3A45%2008%2F09&sig=47744774de97b1341eb651769584b4a251c9880ccfe13bf32eec9739fcda182c&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2F2y8m4zh1o74ql07%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",04:45 08/09 Nữ Atlante vs Nữ Juarez (HD RAVEN) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001788817589-0-0-04e85c88698d7c0301d1f86d7f742973
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Karen%20Khachanov&away_team=Learner%20Tien&time=03%3A00%2008%2F09&sig=6a5ac32ac08b0324e5d1d869f62794f89880f1ff82ea7de1169f79417beae1a0&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2Fy39mpyfy9dkmojx%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",03:00 08/09 Karen Khachanov vs Learner Tien (LUCAS)
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.felnorastreamvault.com/live/channel31.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Karen%20Khachanov&away_team=Learner%20Tien&time=03%3A00%2008%2F09&sig=6a5ac32ac08b0324e5d1d869f62794f89880f1ff82ea7de1169f79417beae1a0&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2Fy39mpyfy9dkmojx%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",03:00 08/09 Karen Khachanov vs Learner Tien (HD LUCAS) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.domaincdn.cc/livecdn/channel-31.flv?auth_key=3000001788817598-0-0-507c99acdb1a9e75d6958b12cd11fdaf
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Vit%C3%B3ria%20BA&away_team=Gr%C3%AAmio%20RS&time=06%3A00%2008%2F09&sig=413eb51a32b0b468cdb2fcd6f09f90fcb7bd5c35ab08d998655459305b3a33de&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fgy0or5jhddgqwzv%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",06:00 08/09 Vitória BA vs Grêmio RS (TONI)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel9.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Vit%C3%B3ria%20BA&away_team=Gr%C3%AAmio%20RS&time=06%3A00%2008%2F09&sig=413eb51a32b0b468cdb2fcd6f09f90fcb7bd5c35ab08d998655459305b3a33de&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fgy0or5jhddgqwzv%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",06:00 08/09 Vitória BA vs Grêmio RS (HD TONI) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001788816714-0-0-76b115b48097922abd502064a8c743fb
+https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001788817604-0-0-7fb02cc9c01a045712d85b8d021ca1e8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Llaneros%20FC&away_team=Deportes%20Tolima&time=06%3A00%2008%2F09&sig=e4e09e3eb4943d81f0b91021e5c98c700d3dc590f1e0077734965cf25e172fc8&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fn54qllhe8p7qvy9%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",06:00 08/09 Llaneros FC vs Deportes Tolima (BEE)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel8.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Llaneros%20FC&away_team=Deportes%20Tolima&time=06%3A00%2008%2F09&sig=e4e09e3eb4943d81f0b91021e5c98c700d3dc590f1e0077734965cf25e172fc8&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fn54qllhe8p7qvy9%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",06:00 08/09 Llaneros FC vs Deportes Tolima (HD BEE) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001788816722-0-0-906a3f02ebf1830281532b25d4586d84
+https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001788817614-0-0-8784f41ac53aaf2b4df05fc13ba92c83
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Orense%20SC&away_team=Guayaquil%20City&time=07%3A00%2008%2F09&sig=64b32a9f46eb9ad4480399b49fddca3472393ee1b961165bbd1aca8ff0a24faf&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fy0or5jhe1n0qwzv%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:00 08/09 Orense SC vs Guayaquil City (POLO)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel10.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Orense%20SC&away_team=Guayaquil%20City&time=07%3A00%2008%2F09&sig=64b32a9f46eb9ad4480399b49fddca3472393ee1b961165bbd1aca8ff0a24faf&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fy0or5jhe1n0qwzv%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:00 08/09 Orense SC vs Guayaquil City (HD POLO) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001788816730-0-0-6a647ed0a5844fbdcea0947803b1a3c6
+https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001788817621-0-0-3404fd233d70d46c0e5749a805b1642b
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Mushuc%20Runa&away_team=Leones%20del%20Norte&time=07%3A00%2008%2F09&sig=4dadfbbb6cdffd5cf4f00ef07fdd8082e3f1da892038a178402a775aab65e042&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2F23xmvkho9z1qg8n%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:00 08/09 Mushuc Runa vs Leones del Norte (SILVA)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel20.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Mushuc%20Runa&away_team=Leones%20del%20Norte&time=07%3A00%2008%2F09&sig=4dadfbbb6cdffd5cf4f00ef07fdd8082e3f1da892038a178402a775aab65e042&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2F23xmvkho9z1qg8n%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:00 08/09 Mushuc Runa vs Leones del Norte (HD SILVA) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001788816736-0-0-14731aadebf977cf623128b5cb0fb19b
+https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001788817628-0-0-edd6310afca18d342b4c54a2e81f87dd
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Union%20Santa%20Fe&away_team=Instituto&time=07%3A15%2008%2F09&sig=07ef55491da7ce28d44535305a10f1b9b60b2ac8dd6e5c41acdb90305719c67d&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fk82rekhvojwrepz%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:15 08/09 Union Santa Fe vs Instituto (FILIP)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel19.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Union%20Santa%20Fe&away_team=Instituto&time=07%3A15%2008%2F09&sig=07ef55491da7ce28d44535305a10f1b9b60b2ac8dd6e5c41acdb90305719c67d&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ffootball%2Fteam%2Fk82rekhvojwrepz%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:15 08/09 Union Santa Fe vs Instituto (HD FILIP) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001788816741-0-0-fff17bded7f6bab361c146355293f225
+https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001788817635-0-0-a5798060a8f7e78e5ec97fb992982c66
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/1l4rjzt177vm7vx/image/small" group-title="🔴 XÔI LẠC Z TV",14:00 08/09 Quezon Huskers vs Negros Muscovados (TOMMY)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.pro2cdnlive.com/live/channel29.flv
@@ -304,19 +294,19 @@ https://live2.pro2cdnlive.com/live/channel-26.flv
 https://live2.felnorastreamvault.com/live/channel32.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Iva%20Jovic&away_team=Coco%20Gauff&time=06%3A00%2008%2F09&sig=18c55e89668e0a80f73b9964ae1ad0c5a6bb9a0481b0e217df24a305b0daa0dc&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F3glrw2f5ovzrdyj%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",06:00 08/09 Iva Jovic vs Coco Gauff (HD VIC) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001788816753-0-0-8feafaa36f7c350e0a64a9814863da5b
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001788817650-0-0-a666cb0c1b3fc54d9d5e2e1c40d83420
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Alexander%20Zverev&away_team=Luciano%20Darderi&time=07%3A10%2008%2F09&sig=43107daa51f9ff36f83316376d6410ba0fbd6fbda515fc4d2d3c23d3113e2f24&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F2y8m4vfgnooml07%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:10 08/09 Alexander Zverev vs Luciano Darderi (VIC)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel32.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Alexander%20Zverev&away_team=Luciano%20Darderi&time=07%3A10%2008%2F09&sig=43107daa51f9ff36f83316376d6410ba0fbd6fbda515fc4d2d3c23d3113e2f24&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Ftennis%2Fteam%2F2y8m4vfgnooml07%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",07:10 08/09 Alexander Zverev vs Luciano Darderi (HD VIC) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001788816760-0-0-3343131bf4aa47d14347ef7b6c20a65a
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001788817658-0-0-bb8c57e3576de4a7b8b9993b73d43366
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/4zp5rzdhl1zq82w/image/small" group-title="🔴 XÔI LẠC Z TV",08:00 08/09 Ấn Độ vs New Zealand (TYSON)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel33.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/4zp5rzdhl1zq82w/image/small" group-title="🔴 XÔI LẠC Z TV",08:00 08/09 Ấn Độ vs New Zealand (HD TYSON) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001788816767-0-0-9771db5939206d982d84e7e44837b173
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001788817664-0-0-35067f1e1dfdd39c31e7177d22dacf41
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/p4jwq23h317r0ve/image/small" group-title="🔴 XÔI LẠC Z TV",11:30 08/09 Qatar vs Hàn Quốc (TYSON)
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.pro2cdnlive.com/live/channel33.flv
@@ -341,10 +331,6 @@ https://live2.pro2cdnlive.com/live/channel30.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Dplus%20Challengers&away_team=Nongshim%20Esports%20Academy&time=15%3A00%2008%2F09&sig=b6b83fb9babcccb237d7e16bbdd1a2fe1e68bc414e5f1c7c846ae43c6b1773b5&v=source-v2&source_logo=https%3A%2F%2Fimgts.sportpulseapiz.com%2Flol%2Fteam%2Fjw2r08kuloyxqz8%2Fimage%2Fsmall&source_side=home" group-title="🔴 XÔI LẠC Z TV",15:00 08/09 Dplus Challengers vs Nongshim Esports Academy (HD MARTY) [HD]
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.pro2cdnlive.com/live/channel-30.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Udinese&away_team=Lazio&time=01%3A45%2008%2F09&sig=3190bc61319a3f0c987b40dfb01b3588128cbb5b61f4bb02ccac94f6db8fc4da&v=source-v2&source_logo=https%3A%2F%2Fd1c0s7hi3ugzoc.cloudfront.net%2Fteams%2Fudinese-346&source_side=home" group-title="🔴 BIA ÔM TV",01:45 08/09 Udinese vs Lazio (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1ODg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om03OHN0ZzVkMHpyOHUzdjg3eXd4cWtleA.flv
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Udinese&away_team=Lazio&time=01%3A45%2008%2F09&sig=3190bc61319a3f0c987b40dfb01b3588128cbb5b61f4bb02ccac94f6db8fc4da&v=source-v2&source_logo=https%3A%2F%2Fd1c0s7hi3ugzoc.cloudfront.net%2Fteams%2Fudinese-346&source_side=home" group-title="🔴 BIA ÔM TV",01:45 08/09 Udinese vs Lazio (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1ODg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om03OHN0ZzVkMHpyOHUzdjg3eXd4cWtleA/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Elche&away_team=Real%20Sociedad&time=02%3A30%2008%2F09&sig=f9577b08dfa97a91166088789aa6d21f16d475567e70608f2abf73555ce7df4f&v=source-v2&source_logo=https%3A%2F%2Fd1c0s7hi3ugzoc.cloudfront.net%2Fteams%2Felche-1099&source_side=home" group-title="🔴 BIA ÔM TV",02:30 08/09 Elche vs Real Sociedad (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MzI3MDk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm43cm8zaXRyemdiZm5zY2h2YTQ4aG16MA.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Elche&away_team=Real%20Sociedad&time=02%3A30%2008%2F09&sig=f9577b08dfa97a91166088789aa6d21f16d475567e70608f2abf73555ce7df4f&v=source-v2&source_logo=https%3A%2F%2Fd1c0s7hi3ugzoc.cloudfront.net%2Fteams%2Felche-1099&source_side=home" group-title="🔴 BIA ÔM TV",02:30 08/09 Elche vs Real Sociedad (Lẩu Ếch) [hls]
@@ -409,12 +395,18 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MTY6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om1
 https://cdnflv.xbdbotv.live/live/MTk4NzMyMzc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om82ZmkydGVxcTZqaXlqNTR6bXpsdjRkeA.flv
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Borussia%20Dortmund&away_team=Villarreal&time=02%3A00%2009%2F09&sig=e34465feb62576c249c06b2c783e3302d580846a76c75604ec609f812c542d8c&v=source-v2&source_logo=https%3A%2F%2Fd1c0s7hi3ugzoc.cloudfront.net%2Fteams%2Fborussia-dortmund-68&source_side=home" group-title="🔴 BIA ÔM TV",02:00 09/09 Borussia Dortmund vs Villarreal (NEM NƯỚNG) [hls]
 https://cdnhls.xbdbotv.live/live/MTk4NzMyMzc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om82ZmkydGVxcTZqaXlqNTR6bXpsdjRkeA/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Atlante%20Women&away_team=Juarez%20FC%20Women&time=04%3A45%2008%2F09&sig=61a9b15e835f4fc78c19b4860ece9f92b2476ef1f76524a77a80901d4bfec0d5&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F5a7ed2bfb89cf4308956c0ccc1098011.png&source_side=home" group-title="🔴 SOCOLIVE TV",04:45 08/09 Atlante Women vs Juarez FC Women (BLV CHIVAS) [geo]
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=880b7acdfff998aff36dab32491ce37c22d59ead2ab7a3d16b268987702d320f&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F173c42a1ee7ea448740701ceeeb501be.png&source_side=home" group-title="🔴 SOCOLIVE TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (CHAN ĐÊ) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/485739.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Atlante%20Women&away_team=Juarez%20FC%20Women&time=04%3A45%2008%2F09&sig=61a9b15e835f4fc78c19b4860ece9f92b2476ef1f76524a77a80901d4bfec0d5&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F5a7ed2bfb89cf4308956c0ccc1098011.png&source_side=home" group-title="🔴 SOCOLIVE TV",04:45 08/09 Atlante Women vs Juarez FC Women (BLV GIÓ) [geo]
+https://live.inplyr.com/room/621887.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=880b7acdfff998aff36dab32491ce37c22d59ead2ab7a3d16b268987702d320f&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F173c42a1ee7ea448740701ceeeb501be.png&source_side=home" group-title="🔴 SOCOLIVE TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (HÀ DUY KIÊN) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/321443.m3u8
+https://live.inplyr.com/room/607400.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=880b7acdfff998aff36dab32491ce37c22d59ead2ab7a3d16b268987702d320f&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F173c42a1ee7ea448740701ceeeb501be.png&source_side=home" group-title="🔴 SOCOLIVE TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (BLV YONE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/372746.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=880b7acdfff998aff36dab32491ce37c22d59ead2ab7a3d16b268987702d320f&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F173c42a1ee7ea448740701ceeeb501be.png&source_side=home" group-title="🔴 SOCOLIVE TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (BLV VIP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/491873.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Elche%20CF&away_team=Real%20Sociedad&time=02%3A30%2008%2F09&sig=1b4d3bdeb12a7c32a75ecd58014dd82ea6113b0bb0c9eff0af6b004139481212&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fe5ecd0553885f1a3af731758dddce2ec.webp&source_side=home" group-title="🔴 SOCOLIVE TV",02:30 08/09 Elche CF vs Real Sociedad (ĐỖ TÚ TÀI) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/607552.m3u8
@@ -430,18 +422,12 @@ https://live.inplyr.com/room/321443.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Elche%20CF&away_team=Real%20Sociedad&time=02%3A30%2008%2F09&sig=1b4d3bdeb12a7c32a75ecd58014dd82ea6113b0bb0c9eff0af6b004139481212&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fe5ecd0553885f1a3af731758dddce2ec.webp&source_side=home" group-title="🔴 SOCOLIVE TV",02:30 08/09 Elche CF vs Real Sociedad (CACAO) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/620661.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=880b7acdfff998aff36dab32491ce37c22d59ead2ab7a3d16b268987702d320f&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F173c42a1ee7ea448740701ceeeb501be.png&source_side=home" group-title="🔴 SOCOLIVE TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (CHAN ĐÊ) [geo]
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Atlante%20Women&away_team=Juarez%20FC%20Women&time=04%3A45%2008%2F09&sig=61a9b15e835f4fc78c19b4860ece9f92b2476ef1f76524a77a80901d4bfec0d5&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F5a7ed2bfb89cf4308956c0ccc1098011.png&source_side=home" group-title="🔴 SOCOLIVE TV",04:45 08/09 Atlante Women vs Juarez FC Women (BLV CHIVAS) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/621887.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=880b7acdfff998aff36dab32491ce37c22d59ead2ab7a3d16b268987702d320f&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F173c42a1ee7ea448740701ceeeb501be.png&source_side=home" group-title="🔴 SOCOLIVE TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (HÀ DUY KIÊN) [geo]
+https://live.inplyr.com/room/485739.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Atlante%20Women&away_team=Juarez%20FC%20Women&time=04%3A45%2008%2F09&sig=61a9b15e835f4fc78c19b4860ece9f92b2476ef1f76524a77a80901d4bfec0d5&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F5a7ed2bfb89cf4308956c0ccc1098011.png&source_side=home" group-title="🔴 SOCOLIVE TV",04:45 08/09 Atlante Women vs Juarez FC Women (BLV GIÓ) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/607400.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=880b7acdfff998aff36dab32491ce37c22d59ead2ab7a3d16b268987702d320f&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F173c42a1ee7ea448740701ceeeb501be.png&source_side=home" group-title="🔴 SOCOLIVE TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (BLV YONE) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/372746.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors&time=05%3A00%2008%2F09&sig=880b7acdfff998aff36dab32491ce37c22d59ead2ab7a3d16b268987702d320f&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F173c42a1ee7ea448740701ceeeb501be.png&source_side=home" group-title="🔴 SOCOLIVE TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (BLV VIP) [geo]
-#EXTVLCOPT:http-referrer=https://socolivep.cv/
-https://live.inplyr.com/room/491873.m3u8
+https://live.inplyr.com/room/321443.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Llaneros%20FC&away_team=Deportes%20Tolima&time=06%3A00%2008%2F09&sig=cf4ee20eb8bae69cb5ec125cbd0847b90e26f7d7e0a527f1163f3d52d857afd2&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260811%2F65c17004cd2f5f21fca0282d160bd68e.png&source_side=home" group-title="🔴 SOCOLIVE TV",06:00 08/09 Llaneros FC vs Deportes Tolima (BLV RAMBO) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/534055.m3u8
@@ -556,6 +542,24 @@ https://live.inplyr.com/room/597929.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Yangon%20United&away_team=Ezra%20FC&time=16%3A30%2008%2F09&sig=64458d6d4a9143037b3f0b13fa01ce0a230c11147029a5064afb3c69f51d2795&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F2c68314e03a180278e73764b4d5373c9.png&source_side=home" group-title="🔴 SOCOLIVE TV",16:30 08/09 Yangon United vs Ezra FC (A MÂN) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/627718.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Estoril%20U23&away_team=Famalicao%20U23&time=17%3A00%2008%2F09&sig=d6c6ba30b8abe8c778f8ff69c3ad823ad68a2b1590794b0f825b5ac9b5592f80&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2Fc0b33f90e10d1e5ece91b79af804431c.png&source_side=home" group-title="🔴 SOCOLIVE TV",17:00 08/09 Estoril U23 vs Famalicao U23 (BLV RYO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/602019.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Estoril%20U23&away_team=Famalicao%20U23&time=17%3A00%2008%2F09&sig=d6c6ba30b8abe8c778f8ff69c3ad823ad68a2b1590794b0f825b5ac9b5592f80&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2Fc0b33f90e10d1e5ece91b79af804431c.png&source_side=home" group-title="🔴 SOCOLIVE TV",17:00 08/09 Estoril U23 vs Famalicao U23 (T REX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/619672.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Portimonense%20U23&away_team=Felgueiras%20U23&time=17%3A00%2008%2F09&sig=ab6a3b556884ee17b3da9aedbae405e0ec2d6e0f2efdfefacd512a01a0aceff9&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F365884de5d5e84a7c63a530cfdbd0845.png&source_side=home" group-title="🔴 SOCOLIVE TV",17:00 08/09 Portimonense U23 vs Felgueiras U23 (BLV RAMBO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/534055.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Portimonense%20U23&away_team=Felgueiras%20U23&time=17%3A00%2008%2F09&sig=ab6a3b556884ee17b3da9aedbae405e0ec2d6e0f2efdfefacd512a01a0aceff9&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F365884de5d5e84a7c63a530cfdbd0845.png&source_side=home" group-title="🔴 SOCOLIVE TV",17:00 08/09 Portimonense U23 vs Felgueiras U23 (BLV KAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/283501.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rio%20Ave%20U23&away_team=Torreense%20U23&time=17%3A00%2008%2F09&sig=802543fb1364352ffa19c0caab3f9fe04790990ab945676d8c008bdeb4d3aeff&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F4635075fc767b372c6cdc1070a0af6c0.png&source_side=home" group-title="🔴 SOCOLIVE TV",17:00 08/09 Rio Ave U23 vs Torreense U23 (BLV BÉO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/459401.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Rio%20Ave%20U23&away_team=Torreense%20U23&time=17%3A00%2008%2F09&sig=802543fb1364352ffa19c0caab3f9fe04790990ab945676d8c008bdeb4d3aeff&v=source-v2&source_logo=https%3A%2F%2Fsocolivep.cv%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fhttps%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260905%2F4635075fc767b372c6cdc1070a0af6c0.png&source_side=home" group-title="🔴 SOCOLIVE TV",17:00 08/09 Rio Ave U23 vs Torreense U23 (BÚN ĐẬU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+https://live.inplyr.com/room/619561.m3u8
 #EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260906/3e2ff9b65ed97e6c9ff4b730a04ee850.png" group-title="🔴 SOCOLIVE TV",06:30 08/09 Capiata Bulls vs Deportivo Campoalto (KING) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/168964.m3u8
@@ -645,3 +649,19 @@ https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Qatar&away_team=South%20Korea&time=11%3A30%2008%2F09&sig=db9e76e98ecde5e347d65992c101908452807150849ece5f4fcac7d20c332c00&v=source-v2&source_logo=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_133416_04ec5812.png&source_side=home" group-title="🔴 SAO KÊ TV",11:30 08/09 Qatar vs South Korea (Teppy) [hls]
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors%20%28Si%C3%AAu%20Qu%E1%BA%ADy%29&time=05%3A00%2008%2F09&sig=03b2c4f59316d8337857692a709ade3009904904cd6d9e66166efb32cc6bc0eb&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Fb8ff3b78b8ff52dbca3b7eb27fb1c1fb.png&source_side=home" group-title="🔴 GÀ VÀNG TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (Siêu Quậy) (FHD) [hls]
+https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors%20%28Si%C3%AAu%20Qu%E1%BA%ADy%29&time=05%3A00%2008%2F09&sig=03b2c4f59316d8337857692a709ade3009904904cd6d9e66166efb32cc6bc0eb&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Fb8ff3b78b8ff52dbca3b7eb27fb1c1fb.png&source_side=home" group-title="🔴 GÀ VÀNG TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (Siêu Quậy) (FHD) [flv]
+https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors%20%28Si%C3%AAu%20Qu%E1%BA%ADy%29&time=05%3A00%2008%2F09&sig=03b2c4f59316d8337857692a709ade3009904904cd6d9e66166efb32cc6bc0eb&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Fb8ff3b78b8ff52dbca3b7eb27fb1c1fb.png&source_side=home" group-title="🔴 GÀ VÀNG TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (Siêu Quậy) (HD) [hls]
+https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=CA%20Barracas%20Central&away_team=Argentinos%20Juniors%20%28Si%C3%AAu%20Qu%E1%BA%ADy%29&time=05%3A00%2008%2F09&sig=03b2c4f59316d8337857692a709ade3009904904cd6d9e66166efb32cc6bc0eb&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Fb8ff3b78b8ff52dbca3b7eb27fb1c1fb.png&source_side=home" group-title="🔴 GÀ VÀNG TV",05:00 08/09 CA Barracas Central vs Argentinos Juniors (Siêu Quậy) (HD) [flv]
+https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Llaneros%20FC&away_team=Deportes%20Tolima%20%28C%E1%BB%91%20T%C6%B0%20Nghi%C3%AAm%29&time=06%3A00%2008%2F09&sig=7f72c81a0e079dfe938c39f0d11e3c63048eeaad818e12ce9514295ad3e94ce9&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Ff83a93401d7a60595338bae0337d344c.png&source_side=home" group-title="🔴 GÀ VÀNG TV",06:00 08/09 Llaneros FC vs Deportes Tolima (Cố Tư Nghiêm) (FHD) [hls]
+https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Llaneros%20FC&away_team=Deportes%20Tolima%20%28C%E1%BB%91%20T%C6%B0%20Nghi%C3%AAm%29&time=06%3A00%2008%2F09&sig=7f72c81a0e079dfe938c39f0d11e3c63048eeaad818e12ce9514295ad3e94ce9&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Ff83a93401d7a60595338bae0337d344c.png&source_side=home" group-title="🔴 GÀ VÀNG TV",06:00 08/09 Llaneros FC vs Deportes Tolima (Cố Tư Nghiêm) (FHD) [flv]
+https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.flv
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Llaneros%20FC&away_team=Deportes%20Tolima%20%28C%E1%BB%91%20T%C6%B0%20Nghi%C3%AAm%29&time=06%3A00%2008%2F09&sig=7f72c81a0e079dfe938c39f0d11e3c63048eeaad818e12ce9514295ad3e94ce9&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Ff83a93401d7a60595338bae0337d344c.png&source_side=home" group-title="🔴 GÀ VÀNG TV",06:00 08/09 Llaneros FC vs Deportes Tolima (Cố Tư Nghiêm) (HD) [hls]
+https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home_team=Llaneros%20FC&away_team=Deportes%20Tolima%20%28C%E1%BB%91%20T%C6%B0%20Nghi%C3%AAm%29&time=06%3A00%2008%2F09&sig=7f72c81a0e079dfe938c39f0d11e3c63048eeaad818e12ce9514295ad3e94ce9&v=source-v2&source_logo=https%3A%2F%2Fstatic.sportsfeed.pro%2Ffootball%2Fteam%2Ff83a93401d7a60595338bae0337d344c.png&source_side=home" group-title="🔴 GÀ VÀNG TV",06:00 08/09 Llaneros FC vs Deportes Tolima (Cố Tư Nghiêm) (HD) [flv]
+https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1.flv
