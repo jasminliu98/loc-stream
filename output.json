@@ -10,15 +10,15 @@
   },
   "groups": [
     {
-      "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "id": "cate_volleyball",
+      "name": "None (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c1438ace89",
-          "name": "Japan vs Australia | 17:30 08/09",
+          "id": "ch-77e6f96739",
+          "name": "Brazil U20 W vs Canada U20 W | 20:00 08/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-c1438ace89",
+              "id": "src-77e6f96739",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-c1438ace89",
-                  "name": "Japan vs Australia",
+                  "id": "ct-77e6f96739",
+                  "name": "Brazil U20 W vs Canada U20 W",
                   "streams": [
                     {
-                      "id": "st-c1438ace89",
+                      "id": "st-77e6f96739",
                       "name": "Streams",
                       "stream_links": [
                         {
-                          "id": "lnk-e03ccf6037",
+                          "id": "lnk-a6ace71bea",
                           "name": "Stream",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "User-Agent",
@@ -69,24 +69,33 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Japan",
-            "team_b": "Australia",
-            "time": "17:30",
+            "team_a": "Brazil U20 W",
+            "team_b": "Canada U20 W",
+            "time": "20:00",
             "date": "08/09",
             "blv": "Stream",
             "is_live": true,
             "status": "live",
-            "cate_type": "football"
+            "cate_type": "volleyball"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2ef89db267_a802587f_20260908.png?v=53a577bb",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f17b7a0303_0b93f4bd_20260908.png?v=6814d100",
             "width": 1600,
             "height": 1200
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "cate_football",
+      "name": "⚽ Bóng Đá (1 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "ch-bb46ed7b6d",
           "name": "Kuching Fa vs Kelantan Red Warrior Fc | 19:15 08/09",
@@ -154,77 +163,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-caa8fae16e_f93005d7_20260908.png?v=33b03bfa",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-f62123b92e",
-          "name": "Imigresen vs Kedah | 20:00 08/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f62123b92e",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-f62123b92e",
-                  "name": "Imigresen vs Kedah",
-                  "streams": [
-                    {
-                      "id": "st-f62123b92e",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Imigresen",
-            "team_b": "Kedah",
-            "time": "20:00",
-            "date": "08/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-76f378685a_b3646966_20260908.png?v=32753843",
             "width": 1600,
             "height": 1200
           }
