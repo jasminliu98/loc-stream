@@ -245,6 +245,642 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-f62123b92e",
+          "name": "Imigresen vs Kedah | 20:00 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f62123b92e",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-f62123b92e",
+                  "name": "Imigresen vs Kedah",
+                  "streams": [
+                    {
+                      "id": "st-f62123b92e",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Imigresen",
+            "team_b": "Kedah",
+            "time": "20:00",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-76f378685a_b3646966_20260908.png?v=32753843",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-4fdd10ccc2",
+          "name": "Real Madrid U19 vs Internazionale U19 | 21:00 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4fdd10ccc2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-4fdd10ccc2",
+                  "name": "Real Madrid U19 vs Internazionale U19",
+                  "streams": [
+                    {
+                      "id": "st-4fdd10ccc2",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Real Madrid U19",
+            "team_b": "Internazionale U19",
+            "time": "21:00",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-37f51f327f_f0241f59_20260908.png?v=3513793a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b52a146877",
+          "name": "Al-Ettifaq vs Al-Faisaly Fc | 22:30 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b52a146877",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b52a146877",
+                  "name": "Al-Ettifaq vs Al-Faisaly Fc",
+                  "streams": [
+                    {
+                      "id": "st-b52a146877",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Ettifaq",
+            "team_b": "Al-Faisaly Fc",
+            "time": "22:30",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b5128a4a51_054c7fac_20260908.png?v=76274ac9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-73d8277734",
+          "name": "Aek Athens Fc vs Lask Linz | 23:45 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-73d8277734",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-73d8277734",
+                  "name": "Aek Athens Fc vs Lask Linz",
+                  "streams": [
+                    {
+                      "id": "st-73d8277734",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Aek Athens Fc",
+            "team_b": "Lask Linz",
+            "time": "23:45",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-bcd3ffac97_60af25a6_20260908.png?v=aad265ae",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-bbb8c60d81",
+          "name": "Club Brugge Kv vs Aston Villa | 23:45 08/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bbb8c60d81",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-bbb8c60d81",
+                  "name": "Club Brugge Kv vs Aston Villa",
+                  "streams": [
+                    {
+                      "id": "st-bbb8c60d81",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Club Brugge Kv",
+            "team_b": "Aston Villa",
+            "time": "23:45",
+            "date": "08/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-804ffed7ca_6707db5a_20260908.png?v=3d73247b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-fb760d3663",
+          "name": "Borussia Dortmund vs Villarreal | 02:00 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fb760d3663",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-fb760d3663",
+                  "name": "Borussia Dortmund vs Villarreal",
+                  "streams": [
+                    {
+                      "id": "st-fb760d3663",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Borussia Dortmund",
+            "team_b": "Villarreal",
+            "time": "02:00",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-82a5532bea_01d9ea93_20260908.png?v=9457f1ba",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-73ccf51c8d",
+          "name": "Fc Porto vs Manchester City | 02:00 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-73ccf51c8d",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-73ccf51c8d",
+                  "name": "Fc Porto vs Manchester City",
+                  "streams": [
+                    {
+                      "id": "st-73ccf51c8d",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fc Porto",
+            "team_b": "Manchester City",
+            "time": "02:00",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-373159fac1_264de5bd_20260908.png?v=7e1afd3e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-585c9f164c",
+          "name": "Lille vs Real Betis | 02:00 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-585c9f164c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-585c9f164c",
+                  "name": "Lille vs Real Betis",
+                  "streams": [
+                    {
+                      "id": "st-585c9f164c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Lille",
+            "team_b": "Real Betis",
+            "time": "02:00",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4b64d44d7f_c23065df_20260908.png?v=c56e94a9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-0ae46cf0d2",
+          "name": "Real Madrid vs Inter | 02:00 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0ae46cf0d2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-0ae46cf0d2",
+                  "name": "Real Madrid vs Inter",
+                  "streams": [
+                    {
+                      "id": "st-0ae46cf0d2",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Real Madrid",
+            "team_b": "Inter",
+            "time": "02:00",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-352e900072_5d0f5641_20260908.png?v=93330b41",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e371f93f50",
+          "name": "Hartford Athletic vs Colorado Springs | 06:00 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e371f93f50",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e371f93f50",
+                  "name": "Hartford Athletic vs Colorado Springs",
+                  "streams": [
+                    {
+                      "id": "st-e371f93f50",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Hartford Athletic",
+            "team_b": "Colorado Springs",
+            "time": "06:00",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3b47e56f18_4e9a7ae0_20260908.png?v=ee774868",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ea29006f26",
+          "name": "Bahrain vs Oman | 08:00 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ea29006f26",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ea29006f26",
+                  "name": "Bahrain vs Oman",
+                  "streams": [
+                    {
+                      "id": "st-ea29006f26",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Bahrain",
+            "team_b": "Oman",
+            "time": "08:00",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-34b845d75b_ca7adbfc_20260908.png?v=6ddecd8c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-43a7981bed",
+          "name": "Chinese Taipei vs Thailand | 11:30 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-43a7981bed",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-43a7981bed",
+                  "name": "Chinese Taipei vs Thailand",
+                  "streams": [
+                    {
+                      "id": "st-43a7981bed",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Chinese Taipei",
+            "team_b": "Thailand",
+            "time": "11:30",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e57c17b65e_8527bc90_20260908.png?v=82a30c58",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
