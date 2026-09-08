@@ -88,59 +88,6 @@
           }
         },
         {
-          "id": "ch-817e03334f",
-          "name": "Qatar vs South Korea | 11:30 08/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-817e03334f",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-817e03334f",
-                  "name": "Qatar vs South Korea",
-                  "streams": [
-                    {
-                      "id": "st-817e03334f",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Qatar",
-            "team_b": "South Korea",
-            "time": "11:30",
-            "date": "08/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ea878667ad_e7bbeec9_20260908.png?v=7cc7ef17",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-48d62f9a7e",
           "name": "Yangon United vs Ezra | 16:30 08/09",
           "type": "single",
