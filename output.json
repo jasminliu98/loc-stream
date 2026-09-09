@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-b02672f4c3",
-          "name": "Iran vs China | 15:00 09/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b02672f4c3",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b02672f4c3",
-                  "name": "Iran vs China",
-                  "streams": [
-                    {
-                      "id": "st-b02672f4c3",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Iran",
-            "team_b": "China",
-            "time": "15:00",
-            "date": "09/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9913c730f4_af6be7ad_20260909.png?v=21fc6890",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-1b3726d8f0",
           "name": "Sydney vs Melbourne Victory | 16:30 09/09",
           "type": "single",
