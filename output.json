@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-e371f93f50",
-          "name": "Hartford Athletic vs Colorado Springs | 06:00 09/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e371f93f50",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-e371f93f50",
-                  "name": "Hartford Athletic vs Colorado Springs",
-                  "streams": [
-                    {
-                      "id": "st-e371f93f50",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Hartford Athletic",
-            "team_b": "Colorado Springs",
-            "time": "06:00",
-            "date": "09/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3b47e56f18_4e9a7ae0_20260909.png?v=ee774868",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-ea29006f26",
           "name": "Bahrain vs Oman | 08:00 09/09",
           "type": "single",
