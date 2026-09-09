@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-ae1c700ecf",
-          "name": "Pohang Steelers vs Gimcheon Sangmu Fc | 17:30 09/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ae1c700ecf",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ae1c700ecf",
-                  "name": "Pohang Steelers vs Gimcheon Sangmu Fc",
-                  "streams": [
-                    {
-                      "id": "st-ae1c700ecf",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d880a8c66a",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Pohang Steelers",
-            "team_b": "Gimcheon Sangmu Fc",
-            "time": "17:30",
-            "date": "09/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-632b3456ba_ce5abddd_20260909.png?v=e42d116f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-b02672f4c3",
           "name": "Iran vs China | 15:00 09/09",
           "type": "single",
@@ -207,6 +136,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3b86a7c9f6_0025ff1e_20260909.png?v=1fc91e86",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ae1c700ecf",
+          "name": "Pohang Steelers vs Gimcheon Sangmu Fc | 17:30 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ae1c700ecf",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ae1c700ecf",
+                  "name": "Pohang Steelers vs Gimcheon Sangmu Fc",
+                  "streams": [
+                    {
+                      "id": "st-ae1c700ecf",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d880a8c66a",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Pohang Steelers",
+            "team_b": "Gimcheon Sangmu Fc",
+            "time": "17:30",
+            "date": "09/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-632b3456ba_ce5abddd_20260909.png?v=e42d116f",
             "width": 1600,
             "height": 1200
           }
