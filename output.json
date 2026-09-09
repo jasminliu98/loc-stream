@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-6b155c69b5",
-          "name": "Liverpool U19 vs Atlético Madrid U19 | 21:00 09/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6b155c69b5",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-6b155c69b5",
-                  "name": "Liverpool U19 vs Atlético Madrid U19",
-                  "streams": [
-                    {
-                      "id": "st-6b155c69b5",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0bd5e53133",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Liverpool U19",
-            "team_b": "Atlético Madrid U19",
-            "time": "21:00",
-            "date": "09/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4d7630b8a5_0b4b2634_20260909.png?v=d139e71e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-416f0dbf0c",
           "name": "Kuala Lumpur Fa vs Perak | 19:15 09/09",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1bf2d9c621_ac01ea15_20260909.png?v=4cdaef5c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6b155c69b5",
+          "name": "Liverpool U19 vs Atlético Madrid U19 | 21:00 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6b155c69b5",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6b155c69b5",
+                  "name": "Liverpool U19 vs Atlético Madrid U19",
+                  "streams": [
+                    {
+                      "id": "st-6b155c69b5",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0bd5e53133",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Liverpool U19",
+            "team_b": "Atlético Madrid U19",
+            "time": "21:00",
+            "date": "09/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4d7630b8a5_0b4b2634_20260909.png?v=d139e71e",
             "width": 1600,
             "height": 1200
           }
