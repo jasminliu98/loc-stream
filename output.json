@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-ea29006f26",
-          "name": "Bahrain vs Oman | 08:00 09/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ea29006f26",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ea29006f26",
-                  "name": "Bahrain vs Oman",
-                  "streams": [
-                    {
-                      "id": "st-ea29006f26",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Bahrain",
-            "team_b": "Oman",
-            "time": "08:00",
-            "date": "09/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-34b845d75b_ca7adbfc_20260909.png?v=6ddecd8c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-e371f93f50",
           "name": "Hartford Athletic vs Colorado Springs | 06:00 09/09",
           "type": "single",
@@ -159,6 +88,77 @@
           }
         },
         {
+          "id": "ch-ea29006f26",
+          "name": "Bahrain vs Oman | 08:00 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ea29006f26",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ea29006f26",
+                  "name": "Bahrain vs Oman",
+                  "streams": [
+                    {
+                      "id": "st-ea29006f26",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Bahrain",
+            "team_b": "Oman",
+            "time": "08:00",
+            "date": "09/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-34b845d75b_ca7adbfc_20260909.png?v=6ddecd8c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "ch-43a7981bed",
           "name": "Chinese Taipei vs Thailand | 11:30 09/09",
           "type": "single",
@@ -207,6 +207,642 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-e57c17b65e_8527bc90_20260909.png?v=82a30c58",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b02672f4c3",
+          "name": "Iran vs China | 15:00 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b02672f4c3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b02672f4c3",
+                  "name": "Iran vs China",
+                  "streams": [
+                    {
+                      "id": "st-b02672f4c3",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Iran",
+            "team_b": "China",
+            "time": "15:00",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9913c730f4_af6be7ad_20260909.png?v=21fc6890",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-1b3726d8f0",
+          "name": "Sydney vs Melbourne Victory | 16:30 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1b3726d8f0",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-1b3726d8f0",
+                  "name": "Sydney vs Melbourne Victory",
+                  "streams": [
+                    {
+                      "id": "st-1b3726d8f0",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Sydney",
+            "team_b": "Melbourne Victory",
+            "time": "16:30",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3b86a7c9f6_0025ff1e_20260909.png?v=1fc91e86",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-ae1c700ecf",
+          "name": "Pohang Steelers vs Gimcheon Sangmu Fc | 17:30 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ae1c700ecf",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-ae1c700ecf",
+                  "name": "Pohang Steelers vs Gimcheon Sangmu Fc",
+                  "streams": [
+                    {
+                      "id": "st-ae1c700ecf",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Pohang Steelers",
+            "team_b": "Gimcheon Sangmu Fc",
+            "time": "17:30",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-632b3456ba_ce5abddd_20260909.png?v=e42d116f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-416f0dbf0c",
+          "name": "Kuala Lumpur Fa vs Perak | 19:15 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-416f0dbf0c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-416f0dbf0c",
+                  "name": "Kuala Lumpur Fa vs Perak",
+                  "streams": [
+                    {
+                      "id": "st-416f0dbf0c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Kuala Lumpur Fa",
+            "team_b": "Perak",
+            "time": "19:15",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1bf2d9c621_ac01ea15_20260909.png?v=4cdaef5c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-6b155c69b5",
+          "name": "Liverpool U19 vs Atlético Madrid U19 | 21:00 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6b155c69b5",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-6b155c69b5",
+                  "name": "Liverpool U19 vs Atlético Madrid U19",
+                  "streams": [
+                    {
+                      "id": "st-6b155c69b5",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Liverpool U19",
+            "team_b": "Atlético Madrid U19",
+            "time": "21:00",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4d7630b8a5_0b4b2634_20260909.png?v=d139e71e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-915492f5f2",
+          "name": "Volgar Astrakhan vs Volga Ulyanovsk | 22:00 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-915492f5f2",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-915492f5f2",
+                  "name": "Volgar Astrakhan vs Volga Ulyanovsk",
+                  "streams": [
+                    {
+                      "id": "st-915492f5f2",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Volgar Astrakhan",
+            "team_b": "Volga Ulyanovsk",
+            "time": "22:00",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eca1c03fc8_f7a261b9_20260909.png?v=7f3e9d06",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2aa7dc08e4",
+          "name": "Barcelona vs Feyenoord | 23:45 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2aa7dc08e4",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2aa7dc08e4",
+                  "name": "Barcelona vs Feyenoord",
+                  "streams": [
+                    {
+                      "id": "st-2aa7dc08e4",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Barcelona",
+            "team_b": "Feyenoord",
+            "time": "23:45",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-56dd50e0d8_d1df76f6_20260909.png?v=550d05ab",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-afdae1672c",
+          "name": "Vfb Stuttgart vs Viking | 23:45 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-afdae1672c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-afdae1672c",
+                  "name": "Vfb Stuttgart vs Viking",
+                  "streams": [
+                    {
+                      "id": "st-afdae1672c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Vfb Stuttgart",
+            "team_b": "Viking",
+            "time": "23:45",
+            "date": "09/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-42c63c7dc6_16459615_20260909.png?v=185c0e19",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-407f2a0d26",
+          "name": "Al-Nassr vs Abha | 01:00 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-407f2a0d26",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-407f2a0d26",
+                  "name": "Al-Nassr vs Abha",
+                  "streams": [
+                    {
+                      "id": "st-407f2a0d26",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Al-Nassr",
+            "team_b": "Abha",
+            "time": "01:00",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6980e413fc_cf09965e_20260909.png?v=f5381781",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-a204a52502",
+          "name": "Liverpool vs Atletico Madrid | 02:00 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a204a52502",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-a204a52502",
+                  "name": "Liverpool vs Atletico Madrid",
+                  "streams": [
+                    {
+                      "id": "st-a204a52502",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Liverpool",
+            "team_b": "Atletico Madrid",
+            "time": "02:00",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cc6995de21_7f26af70_20260909.png?v=afce84ff",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-21c32da1cc",
+          "name": "Napoli vs Arsenal | 02:00 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-21c32da1cc",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-21c32da1cc",
+                  "name": "Napoli vs Arsenal",
+                  "streams": [
+                    {
+                      "id": "st-21c32da1cc",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Napoli",
+            "team_b": "Arsenal",
+            "time": "02:00",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-cc8e2dd236_4b642a24_20260909.png?v=c600c031",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-82b5a63170",
+          "name": "Paris Saint Germain vs Slovan Bratislava | 02:00 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-82b5a63170",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-82b5a63170",
+                  "name": "Paris Saint Germain vs Slovan Bratislava",
+                  "streams": [
+                    {
+                      "id": "st-82b5a63170",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Paris Saint Germain",
+            "team_b": "Slovan Bratislava",
+            "time": "02:00",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-8764bc820e_145afc4b_20260909.png?v=5de0a1c7",
             "width": 1600,
             "height": 1200
           }
