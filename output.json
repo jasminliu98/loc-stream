@@ -17,77 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-b02672f4c3",
-          "name": "Iran vs China | 15:00 09/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b02672f4c3",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-b02672f4c3",
-                  "name": "Iran vs China",
-                  "streams": [
-                    {
-                      "id": "st-b02672f4c3",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e03ccf6037",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Iran",
-            "team_b": "China",
-            "time": "15:00",
-            "date": "09/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9913c730f4_af6be7ad_20260909.png?v=21fc6890",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-1b3726d8f0",
           "name": "Sydney vs Melbourne Victory | 16:30 09/09",
           "type": "single",
@@ -154,6 +83,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3b86a7c9f6_0025ff1e_20260909.png?v=1fc91e86",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-b02672f4c3",
+          "name": "Iran vs China | 15:00 09/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b02672f4c3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b02672f4c3",
+                  "name": "Iran vs China",
+                  "streams": [
+                    {
+                      "id": "st-b02672f4c3",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e03ccf6037",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Iran",
+            "team_b": "China",
+            "time": "15:00",
+            "date": "09/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-9913c730f4_af6be7ad_20260909.png?v=21fc6890",
             "width": 1600,
             "height": 1200
           }
