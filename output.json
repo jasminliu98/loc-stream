@@ -88,8 +88,8 @@
           }
         },
         {
-          "id": "ch-915492f5f2",
-          "name": "Volgar Astrakhan vs Volga Ulyanovsk | 22:00 09/09",
+          "id": "ch-89d54c50d9",
+          "name": "Hjk Helsinki vs Inter Turku | 22:00 09/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -103,15 +103,15 @@
           ],
           "sources": [
             {
-              "id": "src-915492f5f2",
+              "id": "src-89d54c50d9",
               "name": "Chuối Chiên TV",
               "contents": [
                 {
-                  "id": "ct-915492f5f2",
-                  "name": "Volgar Astrakhan vs Volga Ulyanovsk",
+                  "id": "ct-89d54c50d9",
+                  "name": "Hjk Helsinki vs Inter Turku",
                   "streams": [
                     {
-                      "id": "st-915492f5f2",
+                      "id": "st-89d54c50d9",
                       "name": "Streams",
                       "stream_links": [
                         {
@@ -140,8 +140,8 @@
           ],
           "org_metadata": {
             "league": "Trực Tiếp",
-            "team_a": "Volgar Astrakhan",
-            "team_b": "Volga Ulyanovsk",
+            "team_a": "Hjk Helsinki",
+            "team_b": "Inter Turku",
             "time": "22:00",
             "date": "09/09",
             "blv": "Stream",
@@ -153,7 +153,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eca1c03fc8_f7a261b9_20260909.png?v=7f3e9d06",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c7a350162b_b2d8b811_20260909.png?v=d67bedd0",
             "width": 1600,
             "height": 1200
           }
