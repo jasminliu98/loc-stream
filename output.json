@@ -17,59 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-ea29006f26",
-          "name": "Bahrain vs Oman | 08:00 09/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ea29006f26",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-ea29006f26",
-                  "name": "Bahrain vs Oman",
-                  "streams": [
-                    {
-                      "id": "st-ea29006f26",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Bahrain",
-            "team_b": "Oman",
-            "time": "08:00",
-            "date": "09/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-34b845d75b_ca7adbfc_20260909.png?v=6ddecd8c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-43a7981bed",
           "name": "Chinese Taipei vs Thailand | 11:30 09/09",
           "type": "single",
