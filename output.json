@@ -17,183 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-65ccb54055",
-          "name": "Poland vs Portugal | 20:00 10/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-65ccb54055",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-65ccb54055",
-                  "name": "Poland vs Portugal",
-                  "streams": [
-                    {
-                      "id": "st-65ccb54055",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Poland",
-            "team_b": "Portugal",
-            "time": "20:00",
-            "date": "10/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ca029b7d2f_b41cb06f_20260910.png?v=94880bda",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-e057ef4908",
-          "name": "France vs Switzerland | 21:00 10/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e057ef4908",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-e057ef4908",
-                  "name": "France vs Switzerland",
-                  "streams": [
-                    {
-                      "id": "st-e057ef4908",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "France",
-            "team_b": "Switzerland",
-            "time": "21:00",
-            "date": "10/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6c361bc707_bce99ac7_20260910.png?v=0309a6c6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-870546930f",
-          "name": "Xorazm vs Sogdiana | 22:00 10/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-870546930f",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-870546930f",
-                  "name": "Xorazm vs Sogdiana",
-                  "streams": [
-                    {
-                      "id": "st-870546930f",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6ace71bea",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Xorazm",
-            "team_b": "Sogdiana",
-            "time": "22:00",
-            "date": "10/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-467c42e62e_11eb4d72_20260910.png?v=f23c9fd2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-2ebba25c05",
           "name": "Fenerbahce vs As Roma | 23:45 10/09",
           "type": "single",
@@ -331,6 +154,77 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c0978aa630_ceca29b4_20260910.png?v=e930aaf7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-870546930f",
+          "name": "Xorazm vs Sogdiana | 22:00 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-870546930f",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-870546930f",
+                  "name": "Xorazm vs Sogdiana",
+                  "streams": [
+                    {
+                      "id": "st-870546930f",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6ace71bea",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Xorazm",
+            "team_b": "Sogdiana",
+            "time": "22:00",
+            "date": "10/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-467c42e62e_11eb4d72_20260910.png?v=f23c9fd2",
             "width": 1600,
             "height": 1200
           }
