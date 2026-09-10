@@ -10,6 +10,68 @@
   },
   "groups": [
     {
+      "id": "cate_volleyball",
+      "name": null,
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "ch-b970fb86c1",
+          "name": "South Korea vs China | 17:30 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b970fb86c1",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-b970fb86c1",
+                  "name": "South Korea vs China",
+                  "streams": [
+                    {
+                      "id": "st-b970fb86c1",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "South Korea",
+            "team_b": "China",
+            "time": "17:30",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-661f0221c2_347f54a0_20260910.png?v=4d4803b0",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_football",
       "name": "⚽ Bóng Đá",
       "display": "vertical",
@@ -65,59 +127,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eb311ecad6_f6d4bc74_20260910.png?v=103357e3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-8933df5ae3",
-          "name": "Iran vs Chinese Taipei | 17:30 10/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8933df5ae3",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-8933df5ae3",
-                  "name": "Iran vs Chinese Taipei",
-                  "streams": [
-                    {
-                      "id": "st-8933df5ae3",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Iran",
-            "team_b": "Chinese Taipei",
-            "time": "17:30",
-            "date": "10/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1119289820_71afadb0_20260910.png?v=21fc6890",
             "width": 1600,
             "height": 1200
           }
