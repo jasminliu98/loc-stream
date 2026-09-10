@@ -79,59 +79,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-61a7af1252",
-          "name": "Thailand vs Australia | 13:30 10/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-61a7af1252",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-61a7af1252",
-                  "name": "Thailand vs Australia",
-                  "streams": [
-                    {
-                      "id": "st-61a7af1252",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Thailand",
-            "team_b": "Australia",
-            "time": "13:30",
-            "date": "10/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "finished",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eb311ecad6_f6d4bc74_20260910.png?v=103357e3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-25fd65d0fb",
           "name": "Viettel vs Công An Hà Nội | 19:15 10/09",
           "type": "single",
