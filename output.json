@@ -97,148 +97,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-25fd65d0fb",
-          "name": "Viettel vs Công An Hà Nội | 19:15 10/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-25fd65d0fb",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-25fd65d0fb",
-                  "name": "Viettel vs Công An Hà Nội",
-                  "streams": [
-                    {
-                      "id": "st-25fd65d0fb",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0cd40431c5",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Viettel",
-            "team_b": "Công An Hà Nội",
-            "time": "19:15",
-            "date": "10/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b734a098d1_532496f0_20260910.png?v=32ccdb9b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "ch-06c9f6b8c6",
-          "name": "Manchester United U19 vs Sabah U19 | 20:00 10/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE (1)",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-06c9f6b8c6",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-06c9f6b8c6",
-                  "name": "Manchester United U19 vs Sabah U19",
-                  "streams": [
-                    {
-                      "id": "st-06c9f6b8c6",
-                      "name": "Streams",
-                      "stream_links": [
-                        {
-                          "id": "lnk-959b9ee9a1",
-                          "name": "Stream",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            },
-                            {
-                              "key": "Referer",
-                              "value": "https://live.chuoichien.tv/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Manchester United U19",
-            "team_b": "Sabah U19",
-            "time": "20:00",
-            "date": "10/09",
-            "blv": "Stream",
-            "is_live": true,
-            "status": "live",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f70de1ac1d_c79d5a94_20260910.png?v=149a441b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "ch-65ccb54055",
           "name": "Poland vs Portugal | 20:00 10/09",
           "type": "single",
@@ -305,6 +163,148 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ca029b7d2f_b41cb06f_20260910.png?v=94880bda",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-205a4dd8ba",
+          "name": "Spain U20 vs New Caledonia U20 W | 20:00 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-205a4dd8ba",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-205a4dd8ba",
+                  "name": "Spain U20 vs New Caledonia U20 W",
+                  "streams": [
+                    {
+                      "id": "st-205a4dd8ba",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-959b9ee9a1",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Spain U20",
+            "team_b": "New Caledonia U20 W",
+            "time": "20:00",
+            "date": "10/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-60a779cd3e_70a3a537_20260910.png?v=bd46f2ca",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-25fd65d0fb",
+          "name": "Viettel vs Công An Hà Nội | 19:15 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE (1)",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-25fd65d0fb",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-25fd65d0fb",
+                  "name": "Viettel vs Công An Hà Nội",
+                  "streams": [
+                    {
+                      "id": "st-25fd65d0fb",
+                      "name": "Streams",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0cd40431c5",
+                          "name": "Stream",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            },
+                            {
+                              "key": "Referer",
+                              "value": "https://live.chuoichien.tv/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Viettel",
+            "team_b": "Công An Hà Nội",
+            "time": "19:15",
+            "date": "10/09",
+            "blv": "Stream",
+            "is_live": true,
+            "status": "live",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b734a098d1_532496f0_20260910.png?v=32ccdb9b",
             "width": 1600,
             "height": 1200
           }
