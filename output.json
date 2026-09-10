@@ -86,6 +86,748 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "ch-61a7af1252",
+          "name": "Thailand vs Australia | 13:30 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-61a7af1252",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-61a7af1252",
+                  "name": "Thailand vs Australia",
+                  "streams": [
+                    {
+                      "id": "st-61a7af1252",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Thailand",
+            "team_b": "Australia",
+            "time": "13:30",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-eb311ecad6_f6d4bc74_20260910.png?v=103357e3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8933df5ae3",
+          "name": "Iran vs Chinese Taipei | 17:30 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8933df5ae3",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8933df5ae3",
+                  "name": "Iran vs Chinese Taipei",
+                  "streams": [
+                    {
+                      "id": "st-8933df5ae3",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Iran",
+            "team_b": "Chinese Taipei",
+            "time": "17:30",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-1119289820_71afadb0_20260910.png?v=21fc6890",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-25fd65d0fb",
+          "name": "Viettel vs Công An Hà Nội | 19:15 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-25fd65d0fb",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-25fd65d0fb",
+                  "name": "Viettel vs Công An Hà Nội",
+                  "streams": [
+                    {
+                      "id": "st-25fd65d0fb",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Viettel",
+            "team_b": "Công An Hà Nội",
+            "time": "19:15",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-b734a098d1_532496f0_20260910.png?v=32ccdb9b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-06c9f6b8c6",
+          "name": "Manchester United U19 vs Sabah U19 | 20:00 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-06c9f6b8c6",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-06c9f6b8c6",
+                  "name": "Manchester United U19 vs Sabah U19",
+                  "streams": [
+                    {
+                      "id": "st-06c9f6b8c6",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Manchester United U19",
+            "team_b": "Sabah U19",
+            "time": "20:00",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-f70de1ac1d_c79d5a94_20260910.png?v=149a441b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-65ccb54055",
+          "name": "Poland vs Portugal | 20:00 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-65ccb54055",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-65ccb54055",
+                  "name": "Poland vs Portugal",
+                  "streams": [
+                    {
+                      "id": "st-65ccb54055",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Poland",
+            "team_b": "Portugal",
+            "time": "20:00",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-ca029b7d2f_b41cb06f_20260910.png?v=94880bda",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e057ef4908",
+          "name": "France vs Switzerland | 21:00 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e057ef4908",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e057ef4908",
+                  "name": "France vs Switzerland",
+                  "streams": [
+                    {
+                      "id": "st-e057ef4908",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "France",
+            "team_b": "Switzerland",
+            "time": "21:00",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6c361bc707_bce99ac7_20260910.png?v=0309a6c6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-8388578834",
+          "name": "Foresters vs Wiliete | 22:00 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8388578834",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-8388578834",
+                  "name": "Foresters vs Wiliete",
+                  "streams": [
+                    {
+                      "id": "st-8388578834",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Foresters",
+            "team_b": "Wiliete",
+            "time": "22:00",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-0bf940a687_b2b74133_20260910.png?v=ef5648bb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-2ebba25c05",
+          "name": "Fenerbahce vs As Roma | 23:45 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2ebba25c05",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-2ebba25c05",
+                  "name": "Fenerbahce vs As Roma",
+                  "streams": [
+                    {
+                      "id": "st-2ebba25c05",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Fenerbahce",
+            "team_b": "As Roma",
+            "time": "23:45",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-4a068b2daa_6e43bbf5_20260910.png?v=f7f7d85c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-e312ed1998",
+          "name": "Psv Eindhoven vs Shakhtar Donetsk | 23:45 10/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e312ed1998",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-e312ed1998",
+                  "name": "Psv Eindhoven vs Shakhtar Donetsk",
+                  "streams": [
+                    {
+                      "id": "st-e312ed1998",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Psv Eindhoven",
+            "team_b": "Shakhtar Donetsk",
+            "time": "23:45",
+            "date": "10/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-c0978aa630_ceca29b4_20260910.png?v=e930aaf7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-5a0bc57347",
+          "name": "Bayern München vs Bodo/Glimt | 02:00 11/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5a0bc57347",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-5a0bc57347",
+                  "name": "Bayern München vs Bodo/Glimt",
+                  "streams": [
+                    {
+                      "id": "st-5a0bc57347",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Bayern München",
+            "team_b": "Bodo/Glimt",
+            "time": "02:00",
+            "date": "11/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-2eef2347d8_0dc484c7_20260910.png?v=d150a650",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-9c6e04f013",
+          "name": "Como vs Rb Leipzig | 02:00 11/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9c6e04f013",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-9c6e04f013",
+                  "name": "Como vs Rb Leipzig",
+                  "streams": [
+                    {
+                      "id": "st-9c6e04f013",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Como",
+            "team_b": "Rb Leipzig",
+            "time": "02:00",
+            "date": "11/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-6d2fbd139e_1c204953_20260910.png?v=b2114cc0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-402a2759f8",
+          "name": "Manchester United vs Sabah Fa | 02:00 11/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-402a2759f8",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-402a2759f8",
+                  "name": "Manchester United vs Sabah Fa",
+                  "streams": [
+                    {
+                      "id": "st-402a2759f8",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Manchester United",
+            "team_b": "Sabah Fa",
+            "time": "02:00",
+            "date": "11/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-17afde7582_f621a8ea_20260910.png?v=9ff48521",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-d8cd7b9b8a",
+          "name": "Slavia Praha vs Lens | 02:00 11/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d8cd7b9b8a",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-d8cd7b9b8a",
+                  "name": "Slavia Praha vs Lens",
+                  "streams": [
+                    {
+                      "id": "st-d8cd7b9b8a",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "Slavia Praha",
+            "team_b": "Lens",
+            "time": "02:00",
+            "date": "11/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-95febbf495_3ca7ade4_20260910.png?v=cc41ad14",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "ch-73c947372c",
+          "name": "São Bernardo vs Londrina | 05:30 11/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": " Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-73c947372c",
+              "name": "Chuối Chiên TV",
+              "contents": [
+                {
+                  "id": "ct-73c947372c",
+                  "name": "São Bernardo vs Londrina",
+                  "streams": [
+                    {
+                      "id": "st-73c947372c",
+                      "name": "Streams",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Trực Tiếp",
+            "team_a": "São Bernardo",
+            "team_b": "Londrina",
+            "time": "05:30",
+            "date": "11/09",
+            "blv": "Chưa có link",
+            "is_live": false,
+            "status": "upcoming",
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-64b9734c85_9ee19c78_20260910.png?v=251d68b9",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
