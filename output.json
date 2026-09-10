@@ -86,59 +86,6 @@
             "width": 1600,
             "height": 1200
           }
-        },
-        {
-          "id": "ch-a7b08fff2f",
-          "name": "Los Angeles Fc vs New York Red Bulls | 09:30 10/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": " Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a7b08fff2f",
-              "name": "Chuối Chiên TV",
-              "contents": [
-                {
-                  "id": "ct-a7b08fff2f",
-                  "name": "Los Angeles Fc vs New York Red Bulls",
-                  "streams": [
-                    {
-                      "id": "st-a7b08fff2f",
-                      "name": "Streams",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Trực Tiếp",
-            "team_a": "Los Angeles Fc",
-            "team_b": "New York Red Bulls",
-            "time": "09:30",
-            "date": "10/09",
-            "blv": "Chưa có link",
-            "is_live": false,
-            "status": "upcoming",
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/main/thumbs/match-3f60c8e28b_34580705_20260910.png?v=a1a3df09",
-            "width": 1600,
-            "height": 1200
-          }
         }
       ]
     }
